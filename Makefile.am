@@ -83,27 +83,28 @@ install-data-local:
 pkgconfigdir = $(datadir)/pkgconfig
 pkgconfig_DATA = mate-icon-theme.pc
 
-EXTRA_DIST =			\
-	mate-icon-theme.pc.in  \
-	mate			\
+EXTRA_DIST = \
+	mate-icon-theme.pc.in \
+	mate \
 	$(theme_in_files)
 
-CLEANFILES = 			\
+CLEANFILES = \
 	$(theme_DATA)
 
-MAINTAINERCLEANFILES =			\
-	Makefile.in			\
-	aclocal.m4			\
-	config.guess			\
-	config.h.in			\
-	config.sub			\
-	configure			\
-	depcomp				\
-	install-sh			\
-	intltool-*.in			\
-	libtool				\
-	ltmain.sh			\
-	missing				\
-	mkinstalldirs			\
-	po/Makefile.in.in		\
+MAINTAINERCLEANFILES = \
+	Makefile.in \
+	aclocal.m4 \
+	config.guess \
+	config.h.in \
+	config.sub \
+	configure \
+	depcomp \
+	install-sh \
+	intltool-*.in \
+	libtool \
+	ltmain.sh \
+	missing \
+	mkinstalldirs \
+	po/Makefile.in.in \
 	po/$(GETTEXT_PACKAGE).pot
+
