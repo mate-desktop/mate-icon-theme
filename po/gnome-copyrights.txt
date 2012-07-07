@@ -1,0 +1,1061 @@
+========== af.po ==========
+# Afrikaans translation of mate-icon-theme.
+# This file is distributed under the same license as the mate-icons package.
+# F Wolff <friedel@translate.org.za>, 2008
+
+
+
+
+========== am.po ==========
+# Translations into the Amharic Language.
+# Copyright (C) 2002 Free Software Foundation, Inc.
+# This file is distributed under the same license as the mate-icon-theme package.
+# Ge'ez Frontier Foundation <locales@geez.org>, 2002.
+#
+#
+
+
+
+
+========== ar.po ==========
+# translation of mate-icon-theme.mate-2-16.ar.po to Arabic
+# Arabic translation of mate-icon-theme.
+# Copyright (C) 2003 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Arafat Medini <lumina@silverpen.de>, 2003.
+# Abdulaziz Al-Arfaj <alarfaj0@yahoo.com>, 2004.
+# Djihed Afifi <djihed@gmail.com>, 2006.
+# Khaled Hosny <khaledhosny@eglug.org>, 2006.
+
+
+
+
+========== as.po ==========
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Amitakhya Phukan <aphukan@fedoraproject.org>, 2009.
+
+
+
+
+========== ast.po ==========
+# Asturian translation for mate-icon-theme
+# Copyright (c) 2008 Rosetta Contributors and Canonical Ltd 2008
+# This file is distributed under the same license as the mate-icon-theme package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2008.
+#
+
+
+
+
+========== az.po ==========
+# translation of mate-icon-theme.HEAD.az.po to Azerbaijani
+# Translation of mate-icon-theme.HEAD.az.po to Azerbaijani Turkish
+# Copyright (C) 2003 Mətin Əmirov
+# This file is distributed under the same license as the mate-icon-theme package.
+# Mətin Əmirov <metin@karegen.com>, 2003, 2004.
+#
+
+
+
+
+========== be.po ==========
+# Беларускі пераклад mate-icon-theme.HEAD.
+# This file is distributed under the same license as the mate-icon-themes package.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER.
+# Ales Nyakhaychyk <nab@mail.by>, 2003, 2004, 2008.
+#
+
+
+
+
+========== be@latin.po ==========
+
+
+
+
+========== bg.po ==========
+# Bulgarian translation of MATE icon theme.
+# Copyright (C) 2004, 2005, 2007, 2008 Free Software Foundation, Inc.
+# This file is distributed under the same license as the mate icon theme package.
+# Alexander Shopov <ash@contact.bg>, 2004, 2005, 2007, 2008.
+# Vladimir Petkov <vpetkov@i-space.org>, 2004.
+#
+
+
+
+
+========== bn.po ==========
+# Bangla translation of mate-icon-theme.
+# Copyright (C) 2002 Free Software Foundation, Inc.
+# This file is distributed under the same license as the mate-icon-theme package.
+# Taneem Ahmed <taneem@eyetap.org>, 2003.
+# Mahay Alam Khan <makl10n@yahoo.com>, 2005.
+# Samia Niamatullah <mailsamia2001@yahoo.com>, 2005.
+# Loba Yeasmeen <loba@ankur.org.bd>, 2010.
+#
+
+
+
+
+========== bn_IN.po ==========
+# Bengali India translation of mate-icon-theme.
+# Copyright (C) 2002, 2006, 2007 Free Software Foundation, Inc.
+# This file is distributed under the same license as the mate-icon-theme package.
+#
+# Taneem Ahmed <taneem@eyetap.org>, 2003.
+# Mahay Alam Khan <makl10n@yahoo.com>, 2005.
+# Samia Niamatullah <mailsamia2001@yahoo.com>, 2005.
+
+
+
+
+========== br.po ==========
+# Breton translation for mate-icon-theme
+# Copyright (c) (c) 2006 Canonical Ltd, and Rosetta Contributors 2006
+# This file is distributed under the same license as the mate-icon-theme package.
+# Giulia , 2006.
+#
+
+
+
+
+========== bs.po ==========
+# translation of mate-icon-theme.HEAD.po to Bosnian
+# This file is distributed under the same license as the mate-icon-theme package.
+# Copyright (C) 2004 Free Software Foundation, Inc.
+# Kemal Šanjta <gomez@lugzdk.ba>, 2004.
+#
+
+
+
+
+========== ca.po ==========
+# Catalan translation of mate-icon-theme.
+# Copyright © 2002, 2003, 2004, 2005, 2006 Free Software Foundation, Inc.
+# This file is distributed under the same license as mate-icon-theme.
+# Jordi Mallach <jordi@sindominio.net>, 2002, 2003, 2004, 2005, 2006, 2007.
+#
+
+
+
+
+========== ca@valencia.po ==========
+# Valencian (southern Catalan) translation of mate-icon-theme.
+# Copyright © 2002, 2003, 2004, 2005, 2006 Free Software Foundation, Inc.
+# This file is distributed under the same license as mate-icon-theme.
+# Jordi Mallach <jordi@sindominio.net>, 2002, 2003, 2004, 2005, 2006, 2007.
+#
+
+
+
+
+========== crh.po ==========
+# Qırımtatarca translation of mate-icon-theme.
+# This file is distributed under the same license as the mate-icon-theme package.
+#
+# Reşat SABIQ <tilde.birlik@gmail.com>, 2009.
+
+
+
+
+========== cs.po ==========
+# Czech translation of mate-icon-theme.
+# Copyright (C) 2002, 2008 Free Software Foundation.
+# Copyright (C) 2008 Pavel Šefránek <ps@pjoul.cz>.
+# This file is distributed under the same license as the mate-icon-theme package.
+# Michal Bukovjan <bukm@centrum.cz>, 2002.
+# Miloslav Trmac <mitr@volny.cz>, 2003, 2005.
+# Pavel Šefránek <ps@pjoul.cz>, 2008.
+# Petr Kovar <pknbe@volny.cz>, 2008.
+#
+
+
+
+
+========== cy.po ==========
+# mate-icon-theme yn Gymraeg.
+# Copyright (C) 2003 Free Software Foundation, Inc.
+# www.gyfieithu.co.uk <kyfieithu@dotmon.com>, 2003.
+# and contributors.
+#
+
+
+
+
+========== da.po ==========
+# Danish translation of mate-icon-theme.
+# Copyright (C) 2002, 03, 04 Free Software Foundation, Inc.
+# This file is distributed under the same license as the mate-icon-theme package.
+# Ole Laursen <olau@hardworking.dk>, 2002, 03, 04.
+# Martin Willemoes Hansen <mwh@sysrq.dk>, 2005.
+#
+
+
+
+
+========== de.po ==========
+# German mate-icon-theme translation.
+# Copyright (C) 2002-2004 Free Software Foundation, Inc.
+# Christian Neumair <chris@mate-de.org>, 2002-2004.
+# Hendrik Richter <hendrikr@gnome.org>, 2005, 2007.
+# Christian Kintner <mail@christian-kintner.de>, 2006.
+#
+
+
+
+
+========== dz.po ==========
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+
+
+
+
+========== el.po ==========
+# translation of el.po to 
+# translation of el.po to Greek
+# mate-icon-theme Greek translation.
+# Copyright (C) 2003 Free Software Foundation
+# This file is distributed under the same license as the PACKAGE package.
+#
+# kostas:25 messages, 05Jan2003, updated and finished translation.
+# kostas:29 messages,15Aug2003,updated translation
+# kostas: 33 messages, 30Oct2003
+# Kostas Papadimas <pkst@gmx.net>, 2003.
+# Kostas Papadimas <pkst@gnome.org>, 2003, 2004.
+#
+
+
+
+
+========== en@shaw.po ==========
+# Shavian translation for mate-icon-theme.
+# Copyright (C) 2009 The Mate Foundation.
+# Thomas Thurman <tthurman@gnome.org>, 2009.
+
+
+
+
+========== en_CA.po ==========
+# English/Canada translation of mate-icon-theme.
+# Copyright (C) 2004-2005 Adam Weinberger and the MATE Foundation
+# This file is distributed under the same licence as the mate-icon-theme package.
+# Adam Weinberger <adamw@gnome.org>, 2004, 2005.
+# 
+# 
+
+
+
+
+========== en_GB.po ==========
+# English (British) translation.
+# Copyright (C) 2004 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the mate-icon-theme package.
+# Gareth Owen <gowen72@yahoo.com>, 2004.
+# 
+# 
+
+
+
+
+========== eo.po ==========
+# Esperanto translation for mate-icon-theme
+# Copyright (c) 2009 Rosetta Contributors and Canonical Ltd 2009
+# This file is distributed under the same license as the mate-icon-theme package.
+# Michael MORONI <haikara90@gmail.com>, 2009.
+# Kristjan SCHMIDT <kristjan.schmidt@googlemail.com>, 2010.
+#
+
+
+
+
+========== es.po ==========
+# traducción de es.po al Spanish
+# translation of es.po to Spanish
+# translation of mate-icon-theme.HEAD.po to Spanish
+# Mate Icon Theme Spanish Translation
+# Copyright (C) 2002 Mate Software Foundation
+# This file is distributed under the same license as the Mate-Icon-Theme package.
+#
+# Pablo Gonzalo del Campo <pablodc@bigfoot.com>, 2002.
+# Francisco Javier F. Serrador <serrador@arrakis.es>, 2003.
+# Francisco Javier F. Serrador <serrador@cvs.gnome.org>, 2004.
+# Jorge González <jorgegonz@svn.gnome.org>, 200, 2009.
+
+
+
+
+========== et.po ==========
+# MATE ikooniteema eesti keele tõlge.
+# Estonian translation of MATE icon theme.
+#
+# Copyright (C) 2003, 2005 Free Software Foundation, Inc.
+# Copyright (C) 2007 The MATE Project
+# This file is distributed under the same license as the mate-icon-theme
+# package.
+#
+# Tõivo Leedjärv <toivo@linux.ee>, 2003.
+# Allan Sims <allsi@eau.ee>, 2003.
+# Ivar Smolin <okul@linux.ee>, 2005, 2007.
+#
+
+
+
+
+========== eu.po ==========
+# translation of eu.po to Basque
+# This file is distributed under the same license as the PACKAGE package.
+# Copyright (C) 2004 THE PACKAGE'S COPYRIGHT HOLDER.
+#
+# Iñaki Larrañaga Murgoitio <dooteo@euskalgnu.org>, 2003, 2004, 2005.
+# Iñaki Larrañaga Murgoitio <dooteo@zundan.com>, 2007.
+
+
+
+
+========== fa.po ==========
+# Persian translation of mate-icon-theme.
+# Copyright (C) 2003, 2005 Sharif FarsiWeb, Inc.
+# Roozbeh Pournader <roozbeh@farsiweb.info>, 2003.
+# Elnaz Sarbar <elnaz@farsiweb.info>, 2005.
+#
+
+
+
+
+========== fi.po ==========
+# mate-icon-theme Finnish Translation.
+# Suomennos: http://mate-fi.sourceforge.net/
+#
+# Copyright (C) 2003  The Free Software Foundation, Inc.
+# This file is distributed under the same license as mate-icon-theme package.
+# Jarkko Ranta <jjranta@cc.joensuu.fi>, 2003.
+# Pauli Virtanen <pauli.virtanen@hut.fi>, 2003.
+#
+
+
+
+
+========== fr.po ==========
+# French Tranlation of mate-icon-theme.
+# Copyright (C) 2002-2006 Free Software Foundation, Inc.
+# This file is distributed under the same license as the mate-icon-theme package.
+#
+# Baptiste Mille-Mathias <bmm80@free.fr>, 2002-2004.
+# Christophe Merlet <redfox@redfoxcenter.org>, 2003-2006.
+# Stéphane Raimbault <stephane.raimbault@gmail.com>, 2007.
+#
+
+
+
+
+========== fur.po ==========
+# Friulian translation of Mate-icon-theme.
+# Copyright (C) 2007 Free Software Foundation, Inc.
+# Massimo Furlani <massimo.furlani@libero.it>, 2007.
+#
+
+
+
+
+========== fy.po ==========
+# Frisian translation for mate-icon-theme
+#
+# This file is distributed under the same license as the mate-icon-theme package.
+# Sense Hofstede <sense@ubuntu.com>, 2010.
+#
+
+
+
+
+========== ga.po ==========
+# Irish translations for mate-icon-theme package.
+# Copyright (C) 2003-2008 Free Software Foundation Inc.
+# This file is distributed under the same license as the mate-icon-theme package.
+# Paul Duffy <dubhthach@frink.nuigalway.ie>, 2003.
+# Seán de Búrca <leftmostcat@gmail.com>, 2008.
+#
+
+
+
+
+========== gl.po ==========
+# translation of gl.po to Galego
+# Galician translation of mate-icon-theme
+# Copyright (C) 2004 Ignacion Casal Quinteiro.
+#
+# Ignacio Casal Quinteiro <adorador_del_heavy@hotmail.com>, 2004.
+# Ignacio Casal Quinteiro <nacho.resa@gmail.com>, 2005.
+# Ignacio Casal Quinteiro <icq@cvs.gnome.org>, 2007.
+# Fran Diéguez <frandieguez@ubuntu.com>, 2010.
+#
+
+
+
+
+========== gu.po ==========
+# translation of mate-icon-theme.HEAD.gu.po to Gujarati
+# MagNet <magnet@magnet-i.com>, 2004.
+# Ankit Patel <ankit@redhat.com>, 2004, 2005, 2007.
+# Copyright (C) 2004, 2005, 2007 Free Software Foundation, Inc.
+
+
+
+
+========== he.po ==========
+# translation of mate-icon-theme.mate-2-6.he.po to Hebrew
+# translation of mate-icon-theme.HEAD.he.po to Hebrew
+# translation of mate-icon-theme.HEAD.po to Hebrew
+# This file is distributed under the same license as the PACKAGE package.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER.
+# Gil 'Dolfin' Osher <dolfin@rpg.org.il>, 2002,2003.
+# Gil Osher <dolfin@rpg.org.il>, 2004.
+#
+
+
+
+
+========== hi.po ==========
+# translation of hi.po to Hindi
+# Mate icon themes Hindi translation.
+# Copyright (C) 2003 G Karunakar
+# This file is distributed under the same license as the mate-icon-theme package.
+#
+# G Karunakar <karunakar@freedomink.org>, 2003.
+# Ravishankar Shrivastava <raviratlami@yahoo.com>, 2004.
+# Rajesh Ranjan <rranjan@redhat.com>, 2005.
+# Rajesh Ranjan <rajesh672@gmail.com>, 2009.
+
+
+
+
+========== hr.po ==========
+# Translation of mate-icon-theme to Croatiann
+# Copyright (C) Croatiann team
+# Translators: Automatski Prijevod <>,Denis Lackovic <delacko@fly.srk.fer.hr>,Robert Sedak <robert.sedak@sk.t-com.hr>,
+
+
+
+
+========== hu.po ==========
+# Hungarian translation of mate-icon-theme.
+# Copyright (C) 2002, 2003, 2004, 2005, 2007, 2008 Free Software Foundation, Inc.
+# This file is distributed under the same license as the mate-icon-theme package.
+#
+# Andras Timar <timar@mate.hu>, 2002, 2003, 2004.
+# Laszlo Dvornik <dvornik@invitel.hu>, 2004.
+# Gabor Kelemen <kelemeng@mate.hu>, 2005, 2007, 2008.
+
+
+
+
+========== id.po ==========
+# Indonesia translation of mate-icon-theme.
+# Copyright (C) 2005 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Mohammad DAMT <mdamt@bisnisweb.com>, 2005.
+#
+
+
+
+
+========== is.po ==========
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# Samúel Jón Gunnarsson <sammi@techattack.nu>
+
+
+
+
+========== it.po ==========
+# Italian translation of mate-icon-theme
+# Copyright (C) 2002 Free Software Foundation, Inc.
+# This file is distributed under the same license as the package.
+# Luca Ferretti <elle.uca@libero.it>, 2002-2007
+
+
+
+
+========== ja.po ==========
+# mate-icon-theme ja.po.
+# Copyright (C) 2003-2005,2007 Free Software Foundation, Inc.
+# This file is distributed under the same license as 
+# the mate-icon-theme package.
+# Takeshi AIHANA <takeshi.aihana@gmail.com>, 2003-2005,2007.
+# KAMAGASAKO Masatoshi <emerald@gnome.gr.jp>, 2003.
+#
+
+
+
+
+========== ka.po ==========
+# translation of mate-icon-theme.mate-2-14.po to Georgian
+# Copyright (C) 2006 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Vladimer Sichinava <alinux@siena.linux.it>, 2006.
+#
+
+
+
+
+========== kk.po ==========
+# translation of mate-icon-theme.HEAD.po to Kazakh
+# Copyright (C) 2003, 2005 Free Software Foundation, Inc.
+# This file is distributed under the same license as the mate-icon-theme package.
+# Moldabekov Margulan <moldabekov@gmail.com>, 2008
+# Erzhan Shaniev <erzhan.jktl@gmail.com>, 2008
+
+
+
+
+========== kn.po ==========
+# translation of kn.po to Kannada
+# Shankar Prasad <svenkate@redhat.com>, 2008.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Renuka Prasad <rennie606@yahoo.co.in
+
+
+
+
+========== ko.po ==========
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+
+
+
+
+========== li.po ==========
+# Limburgish translation of mate-icon-theme.
+# Copyright (C) 2002 THE mate-icon-theme'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the mate-icon-theme package.
+# Mathieu van Woerkom <mathieu@brabants.org>, 2003.
+# 
+
+
+
+
+========== lt.po ==========
+# translation of lt.po to Lithuanian
+# Lithuanian translation of mate-icon-theme.
+# Copyright (C) 2003-2005, 2007 Free Software Foundation, Inc.
+# This file is distributed under the same license as the mate-icon-theme package.
+#
+#
+# Tomas Kuliavas <tokul@users.sourceforge.net>, 2003-2004.
+# Žygimantas Beručka <uid0@akl.lt>, 2004-2005.
+# Gintautas Miliauskas <gintas@akl.lt>, 2007.
+
+
+
+
+========== lv.po ==========
+# translation of lv.po to Latvian
+# mate-icon-theme for Latvian.
+# Copyright (C) 2002 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the mate-icon-theme package.
+#
+# Artis Trops <hornet@navigator.lv>, 2002.
+# Maris ZInbergs <maris.z@apollo.lv>, 2006.
+# Raivis Dejus <orvils@gmail.com>, 2009.
+
+
+
+
+========== mai.po ==========
+# translation of mate-icon-theme.master.po to Maithili
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Sangeeta Kumari <sangeeta09@gmail.com>, 2009.
+
+
+
+
+========== mg.po ==========
+# MALAGASY TRANSLATION OF MATE-ICON-THEME.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Thierry Randrianiriana <thierry@isvtec.com>, 2006.
+
+
+
+
+========== mk.po ==========
+# translation of mk.po to Macedonian
+# translation of mate-icon-theme.HEAD.mk.po to
+# This file is distributed under the same license as the PACKAGE package.
+# Copyright (C) 2005 THE PACKAGE'S COPYRIGHT HOLDER.
+#
+# Igor Petreski <dierektor@pcinfo.com.mk>, 2002,2003.
+# Arangel Angov <ufo@linux.net.mk>, 2004, 2008.
+
+
+
+
+========== ml.po ==========
+# translation of mate-icon-theme.HEAD.ml.po to Malayalam
+# This file is distributed under the same license as the mate-icon-theme package.
+# Copyright (C) 2003-2008 mate-icon-theme'S COPYRIGHT HOLDER.
+# FSF-India <locale@gnu.org.in>, 2003.
+# Ani Peter <apeter@redhat.com>, 2006.
+# Santhosh Thottingal <santhosh.thottingal@gmail.com>, 2008.
+# Reviewed by Praveen|പ്രവീണ്‍ A|എ <pravi.a@gmail.com>, 2008.
+
+
+
+
+========== mn.po ==========
+# translation of mate-icon-theme.HEAD.mn.po to Mongolian
+# translation of mate-icon-theme.HEAD.po to mongolian
+# This file is distributed under the same license as the PACKAGE package.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER.
+# Sanlig Badral <badral@chinggis.com>, 2003.
+# Sanlig Badral <badral@users.sf.net>, 2003.
+#
+
+
+
+
+========== mr.po ==========
+# translation of mate-icon-theme.HEAD.mr.po to marathi
+# This file is distributed under the same license as the PACKAGE package.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER.
+#
+# Rahul Bhalerao <b.rahul.pm@gmail.com>, 2006.
+# Sandeep Shedmake <sandeep.shedmake@gmail.com>, 2008.
+
+
+
+
+========== ms.po ==========
+# mate-icon-themes
+# Jika takut risiko, Jangan bicara tentang Perjuangan
+# Hasbullah Bin Pit (sebol) <sebol@ikhlas.com>, 2002
+#
+
+
+
+
+========== nb.po ==========
+# Norwegian (bokmål) translation of mate-icon-theme.
+# Copyright (C) 2003 Free Software Foundation, Inc.
+# Kjartan Maraas <kmaraas@gnome.org>, 2003.
+#
+
+
+
+
+========== nds.po ==========
+# Low German translation for mate-icon-theme.
+# Copyright (C) 2009 mate-icon-theme's COPYRIGHT HOLDER
+# This file is distributed under the same license as the mate-icon-theme package.
+# Nils-Christoph Fiedler <linux@medienkompanie.de>, 2009.
+#
+
+
+
+
+========== ne.po ==========
+# translation of mate-icon-theme.mate-2-20.ne.po to Nepali
+# Nabin Gautam <nabin@mpp.org.np>, 2007.
+
+
+
+
+========== nl.po ==========
+# Dutch translation of mate-icon-theme.
+#
+# This file is distributed under the same license as the mate-icon-theme package.
+#
+# Jeroen van der Vegt <A.J.vanderVegt@ITS.TUDelft.nl>, 2002.
+# Tino Meinen <a.t.meinen@chello.nl>, 2003, 2004
+# Wouter Bolsterlee <wbolster@gnome.org>, 2007
+#
+
+
+
+
+========== nn.po ==========
+# translation of nn.po to Norwegian Nynorsk
+# This file is distributed under the same license as the PACKAGE package.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER.
+#
+# Åsmund Skjæveland <aasmunds@fys.uio.no>, 2004.
+# Torstein Adolf Winterseth <kvikende@yahoo.no>, 2010.
+
+
+
+
+========== oc.po ==========
+# Occitan tranlation of mate-icon-theme.
+# Copyright (C) 2007 Free Software Foundation, Inc.
+# This file is distributed under the same license as the mate-icon-theme package.
+#
+# Yannig Marchegay (Kokoyaya) <yannig@marchegay.org>, 2007.
+
+
+
+
+========== or.po ==========
+# translation of mate-icon-theme.master.or.po to Oriya
+# This file is distributed under the same license as the PACKAGE package.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER.
+#
+# Subhransu Behera <arya_subhransu@yahoo.co.in>, 2006.
+# Manoj Kumar Giri <mgiri@redhat.com>, 2009, 2010.
+
+
+
+
+========== pa.po ==========
+# translation of pa.po to Punjabi
+# translation of mate-icon-theme.HEAD.pa.po to Punjabi
+# This file is distributed under the same license as the PACKAGE package.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER.
+# Amanpreet Singh Alam <aalam@redhat.com>, 2004.
+# Amanpreet Singh Alam <amanpreetalam@yahoo.com>, 2005.
+# A S Alam <aalam@users.sf.net>, 2009.
+
+
+
+
+========== pl.po ==========
+# Copyright (C) 2003-2008 Free Software Foundation, Inc.
+# -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+# Aviary.pl
+# Jeśli masz jakiekolwiek uwagi odnoszące się do tłumaczenia lub chcesz
+# pomóc w jego rozwijaniu i pielęgnowaniu, napisz do nas:
+# matepl@aviary.pl
+# -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+
+
+
+========== ps.po ==========
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+
+
+
+
+========== pt.po ==========
+# mate-icon-theme's Portuguese translation.
+# Copyright © 2003, 2004, 2005, 2007 mate-icon-theme
+# This file is distributed under the same license as the mate-icon-theme package.
+# Duarte Loreto <happyguy_pt@hotmail.com>, 2003, 2004, 2005, 2007.
+#
+
+
+
+
+========== pt_BR.po ==========
+# Brazilian Portuguese translation of mate-icon-theme.
+# Copyright (C) 2002-2005 Free Software Foundation, Inc.
+# This file is distributed under the same license as the mate-icon-theme
+# package.
+# Evandro Fernandes Giovanini <evandrofg@ig.com.br>, 2002, 2003.
+# Tiago Cardoso Menezes <zion@via-rs.net>, 2003.
+# Raphael Higino <In Memoriam>, 2004-2005.
+# Djavan Fagundes <dnoway@gmail.com>, 2007
+#
+
+
+
+
+========== ro.po ==========
+# Romanian translation for mate-icon-theme
+# Copyright (C) 2003, 2004 Free Software Foundation, Inc.
+# Mișu Moldovan <dumol@go.ro>, 2003, 2004.
+# Adi Roiban https://launchpad.net/~adiroiban, 2009
+#
+
+
+
+
+========== ru.po ==========
+# translation of mate-icon-theme.HEAD.po to Russian
+# Copyright (C) 2003, 2005 Free Software Foundation, Inc.
+# This file is distributed under the same license as the mate-icon-theme package.
+#
+# Dmitry G. Mastrukov <dmitry@taurussoft.org>, 2003-2004.
+# Leonid Kanter <leon@asplinux.ru>, 2005.
+
+
+
+
+========== rw.po ==========
+# translation of mate-icon-theme to Kinyarwanda.
+# Copyright (C) 2005 Free Software Foundation, Inc.
+# This file is distributed under the same license as the mate-icon-theme package.
+# Steve Murphy <murf@e-tools.com>, 2005
+# Steve performed initial rough translation from compendium built from translations provided by the following translators:
+# Philibert Ndandali  <ndandali@yahoo.fr>, 2005.
+# Viateur MUGENZI <muvia1@yahoo.fr>, 2005.
+# Noëlla Mupole <s24211045@tuks.co.za>, 2005.
+# Carole Karema <karemacarole@hotmail.com>, 2005.
+# JEAN BAPTISTE NGENDAHAYO <ngenda_denis@yahoo.co.uk>, 2005.
+# Augustin KIBERWA  <akiberwa@yahoo.co.uk>, 2005.
+# Donatien NSENGIYUMVA <ndonatienuk@yahoo.co.uk>, 2005..
+#
+
+
+
+
+========== si.po ==========
+# translation of mate-icon-theme.si.po to Sinhala
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Danishka Navin <snavin@redhat.com>, 2007.
+
+
+
+
+========== sk.po ==========
+# translation of mate-icon-theme.HEAD.po to Slovak
+# This file is distributed under the same license as the mate-icon-theme package.
+# Copyright (C) 2004, 2008 Free Software Foundation, Inc.
+# Stanislav Visnovsky <visnovsky@kde.org>, 2003.
+# Stanislav Visnovsky <visnovsky@nenya.ms.mff.cuni.cz>, 2004.
+# Ivan Noris <vix@vazka.sk>, 2004
+# Ivan Noris <vix@vazka.sk>, 2005
+# Marcel Telka <marcel@telka.sk>, 2008.
+# 
+# 
+
+
+
+
+========== sl.po ==========
+# Slovenian translation file for mate-icon-theme.
+# Copyright (C) 2002 Free Software Foundation, Inc.
+# This file is distributed under the same license as the mate-icon-theme package.
+#
+# Andraž Tori <andraz.tori1@guest.arnes.si>, 2002.
+# Matej Urbančič <mateju@svn.gnome.org>, 2007 - 2010.
+#
+
+
+
+
+========== sq.po ==========
+# Përkthimi i mesazheve të mate-icon-theme në shqip
+# Copyright (C) 2003, 2004, 2005, 2008 Free Software Foundation, Inc.
+# This file is distributed under the same license as the mate-icon-theme package.
+#
+# Deep_Dark <epidamus@netscape.net>, 2003.
+# Laurent Dhima <laurenti@alblinux.net>, 2003, 2004, 2005, 2008.
+
+
+
+
+========== sr.po ==========
+# Serbian translation of mate-icon-theme
+# Courtesy of Prevod.org team (http://prevod.org/) -- 2003, 2004.
+#
+# This file is distributed under the same license as the mate-icon-theme package.
+#
+# Maintainer: Бранко Ивановић <popeye@one.ekof.bg.ac.yu>
+# Reviewed on 2004-02-14 by Александар Урошевић <urke@users.sourceforge.net>
+# Игор Несторовић <igor@prevod.org>, 2005
+#
+
+
+
+
+========== sr@latin.po ==========
+# Serbian translation of mate-icon-theme
+# Courtesy of Prevod.org team (http://prevod.org/) -- 2003, 2004.
+#
+# This file is distributed under the same license as the mate-icon-theme package.
+#
+# Maintainer: Branko Ivanović <popeye@one.ekof.bg.ac.yu>
+# Reviewed on 2004-02-14 by Aleksandar Urošević <urke@users.sourceforge.net>
+# Igor Nestorović <igor@prevod.org>, 2005
+#
+
+
+
+
+========== sv.po ==========
+# translation of mate-icon-theme.HEAD.po to Swedish
+# Swedish messages for mate-icon-theme.
+# Copyright (C) 2002, 2003, 2004, 2005, 2007 Free Software Foundation, Inc.
+# This file is distributed under the same license as the mate-icon-theme
+# package.
+# Daniel Nylander <po@danielnylander.se>, 2007.
+# Christian Rose <menthos@menthos.com>, 2002, 2003, 2004, 2005.
+#
+# $Id: sv.po,v 1.19 2005/02/11 11:51:56 menthos Exp $
+#
+
+
+
+
+========== ta.po ==========
+# translation of mate-icon-theme.HEAD.po to TAMIL
+# Copyright (C) 2030 mate-icon-theme's copyright holder
+# This file is distributed under the same license as the mate-icon-theme package.
+#
+# Dinesh Nadarajah <n_dinesh@yahoo.com>, 2003.
+# Dr.T.Vasudevan <agnihot3@gmail.com>, 2007.
+
+
+
+
+========== te.po ==========
+# Translation on mate-icon-theme to Telugu.
+# Copyright (C) 2005, Vijay Kiran Kamuju
+# Copyright (C) 2007, Swecha Telugu Localisation Team <localistion@swecha.org>
+# This file is distributed under the same license as the mate-icon-theme package.
+# Vijay Kiran Kamuju <infyquest@gmail.com>, 2005.
+# Y.Kiran Chandra <kiran@swecha.net>, 2007
+# 
+
+
+
+
+========== th.po ==========
+# Thai translation for mate-icon-theme.
+# Copyright (C) 2004-2007 Free Software Foundation, Inc.
+# This file is distributed under the same license as the mate-icon-theme package.
+# Paisa Seeluangsawat <paisa@users.sf.net>, 2004.
+# Theppitak Karoonboonyanan <thep@linux.thai.net>, 2007.
+
+
+
+
+========== tk.po ==========
+# Turkmen translation of mate-icon-theme
+# Copyright (C) 2004 Free Software Foundation
+# Copyright (C) 2004 Gurban Mühemmet Tewekgeli and
+#                                Kakilik - Turkmen free software developers community
+# This file is distributed under the terms of GNU General Public License (GPL)
+# Gurban Mühemmet Tewekgeli <gmtavakkoli@yahoo.com>, 2004.
+#
+#
+
+
+
+
+========== tr.po ==========
+# Turkish translation of mate-icon-theme.
+# Copyright (C) 2003 mate-icon-theme's copyright holder
+# This file is distributed under the same license as the mate-icon-theme
+#  package.
+# Görkem Çetin <gorkem@kde.org>, 2004.
+#
+# Baris Cicek <baris@teamforce.name.tr>, 2008.
+
+
+
+
+========== uk.po ==========
+# Ukrainian translation for mate-icon-theme.
+# Copyright (C) 2003 Free Software Foundation, Inc.
+# This file is distributed under the same license as the mate-icon-theme package.
+# Yuriy Syrota <yuri@renome.rovno.ua>
+# Maxim Dzumanenko <dziumanenko@gmail.com>, 2004-2007
+#
+
+
+
+
+========== uz.po ==========
+# translation of mate-icon-theme to Uzbek
+# Copyright (C) 2009 Free Software Foundation, Inc.
+# This file is distributed under the same license as the mate-icon-theme package.
+#
+# Nurali Abdurahmonov <mavnur@gmail.com>, 2009.
+
+
+
+
+========== uz@cyrillic.po ==========
+# translation of mate-icon-theme to Uzbek
+# Copyright (C) 2009 Free Software Foundation, Inc.
+# This file is distributed under the same license as the mate-icon-theme package.
+#
+# Nurali Abdurahmonov <mavnur@gmail.com>, 2009.
+
+
+
+
+========== vi.po ==========
+# Vietnamese translation for mate-icon-theme.
+# Copyright © 2007 Mate i18n Project for Vietnamese.
+# T.M.Thanh <tmthanh@yahoo.com>, 2002.
+# Nguyễn Thái Ngọc Duy <pclouds@gmail.com>, 2007.
+# Clytie Siddall <clytie@riverland.net.au>, 2005-2007.
+# 
+
+
+
+
+========== wa.po ==========
+# SOME DESCRIPTIVE TITLE.
+# This file is distributed under the same license as the PACKAGE package.
+# Copyright (C) 2003 the MATE team.
+# Pablo Saratxaga <pablo@walon.org>, 2003.
+#
+
+
+
+
+========== xh.po ==========
+# Xhosa translation of mate-icon-theme
+# Copyright (C) 2005 Canonical Ltd.
+# This file is distributed under the same license as the mate-icon-theme package.
+# Translation by Canonical Ltd <translations@canonical.com> with thanks to
+# Translation World CC in South Africa, 2005.
+#
+
+
+
+
+========== zh_CN.po ==========
+# Simplified Chinese translation for mate-icon-theme.
+# Copyright (C) 2003 Free Software Foundation, Inc.
+# Abel Cheung <maddog@linux.org.hk>, 2003.
+# He Qiangqiang <carton@linux.net.cn>, 2003.
+# Funda Wang <fundawang@linux.net.cn>, 2003,2004.
+#
+
+
+
+
+========== zh_HK.po ==========
+# Chinese (Hong Kong) translation of mate-icon-theme.
+# Copyright (C) 2003, 2004, 2006 Free Software Foundation, Inc.
+# Roy Chan <roy.chan@linux.org.hk>, 2004.
+# Abel Cheung <abel@oaka.org>, 2003-2004, 2006.
+#
+
+
+
+
+========== zh_TW.po ==========
+# traditional Chinese translation of mate-icon-theme.
+# Copyright (C) 2003, 2004, 2006 Free Software Foundation, Inc.
+# Roy Chan <roy.chan@linux.org.hk>, 2004.
+# Abel Cheung <abel@oaka.org>, 2003-2004, 2006.
+#
+
+
+
+
