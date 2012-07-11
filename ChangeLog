@@ -1,3 +1,24 @@
+commit f41bab7e51b5e267dee567e59f20af921404f530
+Author: Stefano Karapetsas <stefano@karapetsas.com>
+Date:   Sat Jul 7 12:10:31 2012 +0200
+
+    add po gnome copyrights file
+
+ po/gnome-copyrights.txt | 1061 +++++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 1061 insertions(+)
+
+commit 1632efe04d57ee2b53e18ce753c388cf56015064
+Author: Steve Zesch <stevezesch2@gmail.com>
+Date:   Wed Feb 22 21:03:17 2012 -0500
+
+    Preparing for 1.2 release
+
+ AUTHORS      |   29 +-
+ ChangeLog    | 2272 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ autogen.sh   |    4 +-
+ configure.ac |    2 +-
+ 4 files changed, 2292 insertions(+), 15 deletions(-)
+
 commit c0e7770d10295a80108d35b325d812395ff11946
 Author: Stefano Karapetsas <stefano@karapetsas.com>
 Date:   Thu Jan 26 10:03:56 2012 +0100
@@ -39,7 +60,7 @@ Date:   Wed Jan 25 00:20:56 2012 -0300
     emptydirs is not a package
 
  distro/archlinux/PKGBUILD |    2 +-
- 1 files changed, 1 insertions(+), 1 deletions(-)
+ 1 file changed, 1 insertion(+), 1 deletion(-)
 
 commit bd045de03a7979f5ab16699e4c888b1e9259f858
 Author: Perberos <perberos@gmail.com>
@@ -61,7 +82,7 @@ Date:   Wed Jan 25 00:18:33 2012 -0300
     changing pkgbuild source method
 
  distro/archlinux/PKGBUILD |   12 ++++++------
- 1 files changed, 6 insertions(+), 6 deletions(-)
+ 1 file changed, 6 insertions(+), 6 deletions(-)
 
 commit 6bcd3f86ff2091b0c232cba181c93dc7e7b0c2f3
 Author: Steve Zesch <stevezesch2@gmail.com>
@@ -81,7 +102,7 @@ Date:   Fri Dec 9 16:33:45 2011 +0100
 
  AUTHORS      |    1 +
  configure.ac |    2 +-
- 2 files changed, 2 insertions(+), 1 deletions(-)
+ 2 files changed, 2 insertions(+), 1 deletion(-)
 
 commit 5f30c1dc0dbec76602513549f68d4d4ca8e2d16b
 Author: Steve Zesch <stevezesch2@gmail.com>
@@ -101,7 +122,7 @@ Date:   Mon Dec 5 05:47:38 2011 -0300
     using autogen.sh instead of configure
 
  distro/archlinux/PKGBUILD |    2 +-
- 1 files changed, 1 insertions(+), 1 deletions(-)
+ 1 file changed, 1 insertion(+), 1 deletion(-)
 
 commit f3cc786dfbe6f904587df81f4a76b58f5929d06c
 Author: Perberos <perberos@gmail.com>
@@ -130,7 +151,7 @@ Date:   Mon Dec 5 05:32:46 2011 -0300
  missing                                            |  376 ------
  po/Makefile.in.in                                  |  217 ----
  src/Makefile.in                                    |  373 ------
- 11 files changed, 0 insertions(+), 3693 deletions(-)
+ 11 files changed, 3693 deletions(-)
 
 commit 12b658ab32b972ce3023302573fd7b095f658490
 Author: Steve Zesch <stevezesch2@gmail.com>
@@ -2269,4 +2290,4 @@ Date:   Thu Dec 1 22:26:22 2011 -0300
  src/x-office-calendar.svg                          | 1686 +
  src/x-office-presentation.svg                      | 6756 ++++
  src/zoom.svg                                       | 3693 ++
- 2120 files changed, 586807 insertions(+), 0 deletions(-)
+ 2120 files changed, 586807 insertions(+)
