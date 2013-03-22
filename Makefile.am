@@ -1,6 +1,8 @@
 DISTCHECK_CONFIGURE_FLAGS = --disable-icon-mapping
 
-SUBDIRS = po $(SVGSRCDIR)
+SUBDIRS = \
+	po $(SVGSRCDIR) \
+	menta
 
 theme_in_files = index.theme.in.in
 theme_DATA = $(theme_in_files:.theme.in.in=.theme)
@@ -86,6 +88,7 @@ pkgconfig_DATA = mate-icon-theme.pc
 EXTRA_DIST = \
 	mate-icon-theme.pc.in \
 	mate \
+	menta \
 	$(theme_in_files)
 
 CLEANFILES = \

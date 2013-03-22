@@ -61,6 +61,7 @@ Makefile
 mate-icon-theme.pc
 po/Makefile.in
 src/Makefile
+menta/Makefile
 ])
 
 AC_OUTPUT
