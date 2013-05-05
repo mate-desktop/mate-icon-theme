@@ -8,6 +8,9 @@ install-data-local:
 	for file in `cd $(top_srcdir)/menta && find . -name "*.png" | sed s@./@/@`; do \
 		$(install_sh_DATA) $(top_srcdir)/menta/$$file $(DESTDIR)$(themedir)/$$file; \
 	done; \
+	for file in `cd $(top_srcdir)/menta && find . -name "*.svg" | sed s@./@/@`; do \
+		$(install_sh_DATA) $(top_srcdir)/menta/$$file $(DESTDIR)$(themedir)/$$file; \
+	done; \
 	$(install_sh_DATA) $(top_srcdir)/menta/index.theme $(DESTDIR)$(themedir)/index.theme; \
 	if [ $(ICONMAP) != "false" ]; then \
 		cd $(DESTDIR)$(themedir); \
