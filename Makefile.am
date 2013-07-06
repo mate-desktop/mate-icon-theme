@@ -82,7 +82,7 @@ install-data-local:
 		touch $(DESTDIR)$(themedir); \
 	fi
 
-pkgconfigdir = $(datadir)/pkgconfig
+pkgconfigdir = $(libdir)/pkgconfig
 pkgconfig_DATA = mate-icon-theme.pc
 
 EXTRA_DIST = \
