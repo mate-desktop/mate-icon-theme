@@ -62,6 +62,7 @@ mate-icon-theme.pc
 po/Makefile.in
 src/Makefile
 menta/Makefile
+mate/Makefile
 mate/scalable/Makefile
 ])
 
