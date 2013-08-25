@@ -3,7 +3,7 @@ DISTCHECK_CONFIGURE_FLAGS = --disable-icon-mapping
 SUBDIRS = \
 	po $(SVGSRCDIR) \
 	menta \
-	mate/scalable
+	mate
 
 theme_in_files = index.theme.in.in
 theme_DATA = $(theme_in_files:.theme.in.in=.theme)
