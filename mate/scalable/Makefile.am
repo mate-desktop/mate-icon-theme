@@ -29,7 +29,7 @@ uninstall-local:
 		cd $(DESTDIR)$(themedir); \
 		for file in `find . -name *.svg | sed s@./@/@`; do \
 			rm -f $(DESTDIR)$(themedir)$$file; \
-		done;
+		done; \
 	fi
 
 MAINTAINERCLEANFILES = \
