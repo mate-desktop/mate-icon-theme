@@ -8,9 +8,6 @@ install-data-local:
 	for file in `cd $(top_srcdir)/menta && find . -name "*.png" | sed s@./@/@`; do \
 		$(install_sh_DATA) $(top_srcdir)/menta/$$file $(DESTDIR)$(themedir)/$$file; \
 	done; \
-	for file in `cd $(top_srcdir)/menta && find . -name "*.svg" | sed s@./@/@`; do \
-		$(install_sh_DATA) $(top_srcdir)/menta/$$file $(DESTDIR)$(themedir)/$$file; \
-	done; \
 	$(install_sh_DATA) $(top_srcdir)/menta/index.theme $(DESTDIR)$(themedir)/index.theme; \
 	if [ $(ICONMAP) != "false" ]; then \
 		cd $(DESTDIR)$(themedir); \
@@ -34,10 +31,6 @@ uninstall-local:
 		for file in `find . -name *.png | sed s@./@/@`; do \
 			rm -f $(DESTDIR)$(themedir)$$file; \
 		done; \
-		for file in `find . -name *.svg | sed s@./@/@`; do \
-			rm -f $(DESTDIR)$(themedir)$$file; \
-		done; \
-		rm -f $(DESTDIR)$(themedir)/index.theme; \
 	fi
 
 MAINTAINERCLEANFILES = \
