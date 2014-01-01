@@ -31,6 +31,7 @@ uninstall-local:
 		for file in `find . -name *.png | sed s@./@/@`; do \
 			rm -f $(DESTDIR)$(themedir)$$file; \
 		done; \
+		rm -f $(DESTDIR)$(themedir)/index.theme; \
 	fi
 
 MAINTAINERCLEANFILES = \
