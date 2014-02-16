@@ -4,7 +4,7 @@ AC_PREREQ(2.53)
 AC_INIT([mate-icon-theme], [1.7.90], [http://www.mate-desktop.org])
 AC_CONFIG_SRCDIR([index.theme.in.in])
 
-AM_INIT_AUTOMAKE([1.9 tar-ustar dist-xz foreign check-news])
+AM_INIT_AUTOMAKE([1.9 tar-ustar dist-xz no-dist-gzip foreign check-news])
 
 PKG_PROG_PKG_CONFIG([0.19])
 IT_PROG_INTLTOOL([0.40.0])
