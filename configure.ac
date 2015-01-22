@@ -11,7 +11,7 @@ IT_PROG_INTLTOOL([0.40.0])
 
 GETTEXT_PACKAGE="${PACKAGE}"
 AC_SUBST(GETTEXT_PACKAGE)
-localedir='$(prefix)/$(DATADIRNAME)/locale'
+localedir='$(datadir)/locale'
 AC_SUBST(localedir)
 
 # Workaround to make aclocal get the right flags
