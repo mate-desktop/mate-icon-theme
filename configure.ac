@@ -64,6 +64,7 @@ src/Makefile
 menta/Makefile
 mate/Makefile
 mate/scalable/Makefile
+mate/scalable-up-to-32/Makefile
 ])
 
 AC_OUTPUT
