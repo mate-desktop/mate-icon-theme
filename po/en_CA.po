@@ -1,5 +1,5 @@
 # English/Canada translation of mate-icon-theme.
-# Copyright (C) 2004-2005 Adam Weinberger and the MATE Foundation
+# Copyright (C) 2004-2005 Adam Weinberger and the GNOME Foundation
 # This file is distributed under the same licence as the mate-icon-theme package.
 # Adam Weinberger <adamw@gnome.org>, 2004, 2005.
 # 
