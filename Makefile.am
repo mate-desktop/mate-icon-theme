@@ -89,12 +89,8 @@ install-data-local:
 		touch $(DESTDIR)$(themedir); \
 	fi
 
-pkgconfigdir = $(datadir)/pkgconfig
-pkgconfig_DATA = mate-icon-theme.pc
-
 EXTRA_DIST = \
 	autogen.sh \
-	mate-icon-theme.pc.in \
 	mate \
 	menta \
 	$(theme_in_files)
