@@ -1,80 +1,27 @@
-# Breton translation for mate-icon-theme
-# Copyright (c) (c) 2006 Canonical Ltd, and Rosetta Contributors 2006
-# This file is distributed under the same license as the mate-icon-theme package.
-# Giulia , 2006.
-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# Giulia , 2006
 msgid ""
 msgstr ""
-"Project-Id-Version: mate-icon-theme\n"
-"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=mate-icon-theme&component=general\n"
-"POT-Creation-Date: 2009-09-16 16:31+0000\n"
-"PO-Revision-Date: 2009-09-17 14:54+0100\n"
-"Last-Translator: Denis\n"
-"Language-Team: Brenux <brenux@free.fr>\n"
+"Project-Id-Version: MATE Desktop Environment\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-07-07 12:08+0200\n"
+"PO-Revision-Date: 2012-07-07 10:15+0000\n"
+"Last-Translator: Stefano Karapetsas <stefano@karapetsas.com>\n"
+"Language-Team: Breton (http://www.transifex.com/mate/MATE/language/br/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: br\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
-#: ../index.theme.in.h:1
-msgid "Default MATE Theme"
-msgstr "Neuz MATE dre-ziouer"
-
-#: ../index.theme.in.h:2
+#: ../index.theme.in.in.h:1
 msgid "MATE"
 msgstr "MATE"
 
-#: ../scalable/emblems/emblem-desktop.icon.in.h:1
-msgid "Desktop"
-msgstr "Burev"
-
-#: ../scalable/emblems/emblem-documents.icon.in.h:1
-msgid "Documents"
-msgstr "Teulioù"
-
-#: ../scalable/emblems/emblem-downloads.icon.in.h:1
-msgid "Downloads"
-msgstr "Pellgargadurioù"
-
-#: ../scalable/emblems/emblem-favorite.icon.in.h:1
-msgid "Favorite"
-msgstr "Karetañ"
-
-#: ../scalable/emblems/emblem-generic.icon.in.h:1
-msgid "Generic"
-msgstr "Rumm"
-
-#: ../scalable/emblems/emblem-important.icon.in.h:1
-msgid "Important"
-msgstr "Pouezus"
-
-#: ../scalable/emblems/emblem-mail.icon.in.h:1
-msgid "Mail"
-msgstr "Postel"
-
-#: ../scalable/emblems/emblem-new.icon.in.h:1
-msgid "New"
-msgstr "Nevez"
-
-#: ../scalable/emblems/emblem-package.icon.in.h:1
-msgid "Package"
-msgstr "Pakad"
-
-#: ../scalable/emblems/emblem-photos.icon.in.h:1
-msgid "Photos"
-msgstr "Luc'hskeudennoù"
-
-#: ../scalable/emblems/emblem-readonly.icon.in.h:1
-msgid "No write"
-msgstr "Na skrivañ ket"
-
-#: ../scalable/emblems/emblem-unreadable.icon.in.h:1
-msgid "No read"
-msgstr "Na lenn ket"
-
-#: ../scalable/emblems/emblem-urgent.icon.in.h:1
-msgid "Urgent"
-msgstr "Mallus"
-
-#: ../scalable/emblems/emblem-web.icon.in.h:1
-msgid "Web"
-msgstr "Web"
+#: ../index.theme.in.in.h:2
+msgid "Default MATE Theme"
+msgstr "Neuz MATE dre-ziouer"
