@@ -3,20 +3,19 @@
 # This file is distributed under the same license as the PACKAGE package.
 # 
 # Translators:
-# Jordi Mallach <jordi@sindominio.net>, 2002, 2003, 2004, 2005, 2006, 2007
-# Robert Antoni Buj Gelonch <rbuj@fedoraproject.org>, 2015-2016
+# Rasti K5 <rasti.khdhr@gmail.com>, 2016
 msgid ""
 msgstr ""
 "Project-Id-Version: MATE Desktop Environment\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-07-07 12:08+0200\n"
-"PO-Revision-Date: 2016-06-17 11:25+0000\n"
-"Last-Translator: Robert Antoni Buj Gelonch <rbuj@fedoraproject.org>\n"
-"Language-Team: Catalan (http://www.transifex.com/mate/MATE/language/ca/)\n"
+"PO-Revision-Date: 2016-09-12 15:13+0000\n"
+"Last-Translator: Rasti K5 <rasti.khdhr@gmail.com>\n"
+"Language-Team: Kurdish (Iraq) (http://www.transifex.com/mate/MATE/language/ku_IQ/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: ca\n"
+"Language: ku_IQ\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: ../index.theme.in.in.h:1
@@ -25,4 +24,4 @@ msgstr "MATE"
 
 #: ../index.theme.in.in.h:2
 msgid "Default MATE Theme"
-msgstr "Tema predeterminat de MATE"
+msgstr ""
