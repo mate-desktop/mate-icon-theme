@@ -1,7 +1,7 @@
 dnl Process this file with autoconf to produce a configure script.
 AC_PREREQ(2.53)
 
-AC_INIT([mate-icon-theme], [1.16.1], [http://www.mate-desktop.org])
+AC_INIT([mate-icon-theme], [1.16.2], [http://www.mate-desktop.org])
 AC_CONFIG_SRCDIR([index.theme.in.in])
 
 AM_INIT_AUTOMAKE([1.9 tar-ustar dist-xz no-dist-gzip foreign check-news])
