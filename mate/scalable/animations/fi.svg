@@ -1,31 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Sodipodi ("http://www.sodipodi.com/") -->
 
-<!-- /Creative Commons Public Domain -->
-
-<!--
-<rdf:RDF xmlns="http://web.resource.org/cc/"
-     xmlns:dc="http://purl.org/dc/elements/1.1/"
-     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-<Work rdf:about="">
-    <dc:title>New Zealand, Australia, United Kingdom, United States, 
-Bosnia and Herzegovina, Azerbaijan, Armenia, Bahamas, Belgium, Benin, 
-Bulgaria, Estonia, Finland, Gabon, Gambia, Germany, Greece, Greenland, 
-Guinea, Honduras, Israel, Jamaica, Jordan, and Romania Flags</dc:title>
-    <dc:rights><Agent>
-       <dc:title>Daniel McRae</dc:title>
-    </Agent></dc:rights>
-    <license rdf:resource="http://web.resource.org/cc/PublicDomain" />
-</Work>
-
-<License rdf:about="http://web.resource.org/cc/PublicDomain">
-    <permits rdf:resource="http://web.resource.org/cc/Reproduction" />
-    <permits rdf:resource="http://web.resource.org/cc/Distribution" />
-    <permits rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
-</License>
-</rdf:RDF>
--->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -34,14 +9,50 @@ Guinea, Honduras, Israel, Jamaica, Jordan, and Romania Flags</dc:title>
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.0"
-   x="0"
-   y="0"
-   width="640"
+   id="svg378"
    height="480"
-   id="svg555"
-   inkscape:version="0.48.1 r9760"
-   sodipodi:docname="fi.svg">
+   width="640"
+   version="1"
+   y="0"
+   x="0"
+   sodipodi:docname="fi.svg"
+   inkscape:version="0.92.0 r">
+  <defs
+     id="defs10">
+    <clipPath
+       id="clipPath3133"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         style="fill-opacity:0.67000002"
+         id="rect3135"
+         height="512"
+         width="682.66998"
+         y="7.1053998e-15"
+         x="-85.333" />
+    </clipPath>
+    <clipPath
+       id="clipPath3688"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         style="fill-opacity:0.67000002"
+         id="rect3690"
+         height="480"
+         width="640"
+         y="32"
+         x="-78.014999" />
+    </clipPath>
+    <clipPath
+       id="clipPath3605"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         style="fill-opacity:0.67000002"
+         id="rect3607"
+         height="512"
+         width="682.66998"
+         y="-1.9137999e-06"
+         x="-19.451" />
+    </clipPath>
+  </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -51,134 +62,110 @@ Guinea, Honduras, Israel, Jamaica, Jordan, and Romania Flags</dc:title>
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1280"
-     inkscape:window-height="746"
-     id="namedview3011"
+     inkscape:window-width="1020"
+     inkscape:window-height="1035"
+     id="namedview8"
      showgrid="false"
-     inkscape:zoom="1.0958333"
-     inkscape:cx="320"
-     inkscape:cy="240"
-     inkscape:window-x="0"
-     inkscape:window-y="24"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg555" />
+     inkscape:zoom="0.69532167"
+     inkscape:cx="298.73468"
+     inkscape:cy="217.17176"
+     inkscape:window-x="848"
+     inkscape:window-y="34"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg378" />
   <metadata
-     id="metadata3013">
+     id="metadata4346">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <defs
-     id="defs557">
-    <clipPath
-       id="clipPath3830"
-       clipPathUnits="userSpaceOnUse">
-      <rect
-         y="9.5200092e-05"
-         width="606.29523"
-         style="fill:#000000;fill-opacity:0.67000002;stroke:none"
-         x="125.06963"
-         height="606.29523"
-         id="rect3832" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath3605">
-      <rect
-         id="rect3607"
-         height="512"
-         x="-19.450514"
-         style="fill:#000000;fill-opacity:0.67000002;stroke:none"
-         width="682.66669"
-         y="-1.9137992e-06" />
-    </clipPath>
-  </defs>
   <g
+     style="fill-rule:evenodd;stroke-width:1.00000003pt"
      id="flag"
-     transform="matrix(0.93749997,0,0,0.93749997,18.234857,1.7941868e-6)"
      clip-path="url(#clipPath3605)"
-     inkscape:label="#g3514">
+     transform="matrix(0.9375,0,0,0.9375,18.235,1.7941874e-6)">
     <rect
+       style="fill:#ffffff"
        id="rect565"
-       style="font-size:12px;fill:#ffffff;fill-rule:evenodd;stroke-width:1pt"
-       y="325.66226"
-       x="-105.61794"
-       height="186.3362"
-       width="249.35228" />
+       height="186.34"
+       width="249.35001"
+       y="325.66"
+       x="-105.62" />
     <rect
+       style="fill:#0062da"
        id="rect566"
-       style="font-size:12px;fill:#0062da;fill-rule:evenodd;stroke-width:1pt"
-       y="-2.7023871e-06"
-       x="143.56807"
-       height="511.99786"
-       width="149.94385" />
+       height="512"
+       width="149.94"
+       y="-2.7024e-06"
+       x="143.57001" />
     <rect
+       style="fill:#0062da"
        id="rect567"
-       style="font-size:12px;fill:#0062da;fill-rule:evenodd;stroke-width:1pt"
-       y="186.18193"
-       x="-105.61794"
-       height="139.63579"
-       width="897.66821" />
+       height="139.64"
+       width="897.66998"
+       y="186.17999"
+       x="-105.62" />
     <rect
+       style="fill:#ffffff"
        id="rect568"
-       style="font-size:12px;fill:#ffffff;fill-rule:evenodd;stroke-width:1pt"
-       y="0.0030247339"
-       x="-105.61794"
-       height="186.33623"
-       width="249.35228" />
+       height="186.34"
+       width="249.35001"
+       y="0.0030247001"
+       x="-105.62" />
     <rect
+       style="fill:#ffffff"
        id="rect570"
-       style="font-size:12px;fill:#ffffff;fill-rule:evenodd;stroke-width:1pt"
-       y="325.66382"
-       x="293.3457"
-       height="186.3362"
-       width="498.7045" />
+       height="186.34"
+       width="498.70001"
+       y="325.66"
+       x="293.35001" />
     <rect
+       style="fill:#ffffff"
        id="rect574"
-       style="font-size:12px;fill:#ffffff;fill-rule:evenodd;stroke-width:1pt"
-       y="0.0015173492"
-       x="293.3457"
-       height="186.3362"
-       width="498.7045" />
+       height="186.34"
+       width="498.70001"
+       y="0.0015173"
+       x="293.35001" />
     <rect
+       style="fill:#ffffff"
        id="rect564"
-       style="font-size:12px;fill:#ffffff;fill-rule:evenodd;stroke-width:1pt"
-       y="325.66226"
-       x="-105.61794"
-       height="186.3362"
-       width="249.35228" />
+       height="186.34"
+       width="249.35001"
+       y="325.66"
+       x="-105.62" />
     <rect
+       style="fill:#0062da"
        id="rect569"
-       style="font-size:12px;fill:#0062da;fill-rule:evenodd;stroke-width:1pt"
-       y="-2.7023871e-06"
-       x="143.56807"
-       height="511.99786"
-       width="149.94385" />
+       height="512"
+       width="149.94"
+       y="-2.7024e-06"
+       x="143.57001" />
     <rect
+       style="fill:#ffffff"
        id="rect572"
-       style="font-size:12px;fill:#ffffff;fill-rule:evenodd;stroke-width:1pt"
-       y="0.0030247339"
-       x="-105.61794"
-       height="186.33623"
-       width="249.35228" />
+       height="186.34"
+       width="249.35001"
+       y="0.0030247001"
+       x="-105.62" />
     <rect
+       style="fill:#ffffff"
        id="rect573"
-       style="font-size:12px;fill:#ffffff;fill-rule:evenodd;stroke-width:1pt"
-       y="325.66382"
-       x="293.3457"
-       height="186.3362"
-       width="498.7045" />
+       height="186.34"
+       width="498.70001"
+       y="325.66"
+       x="293.35001" />
     <rect
+       style="fill:#ffffff"
        id="rect575"
-       style="font-size:12px;fill:#ffffff;fill-rule:evenodd;stroke-width:1pt"
-       y="0.0015173492"
-       x="293.3457"
-       height="186.3362"
-       width="498.7045" />
+       height="186.34"
+       width="498.70001"
+       y="0.0015173"
+       x="293.35001" />
   </g>
 </svg>

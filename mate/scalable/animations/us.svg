@@ -1,31 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Sodipodi ("http://www.sodipodi.com/") -->
 
-<!-- /Creative Commons Public Domain -->
-
-<!--
-<rdf:RDF xmlns="http://web.resource.org/cc/"
-     xmlns:dc="http://purl.org/dc/elements/1.1/"
-     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-<Work rdf:about="">
-    <dc:title>New Zealand, Australia, United Kingdom, United States, 
-Bosnia and Herzegovina, Azerbaijan, Armenia, Bahamas, Belgium, Benin, 
-Bulgaria, Estonia, Finland, Gabon, Gambia, Germany, Greece, Greenland, 
-Guinea, Honduras, Israel, Jamaica, Jordan, and Romania Flags</dc:title>
-    <dc:rights><Agent>
-       <dc:title>Daniel McRae</dc:title>
-    </Agent></dc:rights>
-    <license rdf:resource="http://web.resource.org/cc/PublicDomain" />
-</Work>
-
-<License rdf:about="http://web.resource.org/cc/PublicDomain">
-    <permits rdf:resource="http://web.resource.org/cc/Reproduction" />
-    <permits rdf:resource="http://web.resource.org/cc/Distribution" />
-    <permits rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
-</License>
-</rdf:RDF>
--->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -34,377 +9,229 @@ Guinea, Honduras, Israel, Jamaica, Jordan, and Romania Flags</dc:title>
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg153"
-   sodipodi:version="0.29win"
-   width="640"
+   id="svg378"
    height="480"
+   width="640"
+   version="1"
+   y="0"
+   x="0"
    sodipodi:docname="us.svg"
-   version="1.1"
-   inkscape:version="0.48.1 r9760">
+   inkscape:version="0.92.0 r">
+  <defs
+     id="defs10">
+    <clipPath
+       id="clipPath4293"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         style="fill-opacity:0.67000002"
+         id="rect4295"
+         height="512"
+         width="682.66998"
+         y="5.2307e-06"
+         x="0" />
+    </clipPath>
+  </defs>
   <sodipodi:namedview
-     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview8"
      showgrid="false"
-     inkscape:zoom="0.56263982"
-     inkscape:cx="260.67833"
-     inkscape:cy="447"
-     inkscape:window-width="1280"
-     inkscape:window-height="746"
-     inkscape:window-x="0"
-     inkscape:window-y="24"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg153" />
+     inkscape:zoom="2.7812867"
+     inkscape:cx="89.29823"
+     inkscape:cy="470.10933"
+     inkscape:window-x="949"
+     inkscape:window-y="110"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg378" />
   <metadata
-     id="metadata3151">
+     id="metadata4346">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <desc
-     id="desc3066">
-    The United States of America flag, produced by Daniel McRae
-  </desc>
-  <defs
-     id="defs155">
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath6304">
-      <rect
-         id="rect6306"
-         height="130"
-         x="0"
-         style="fill:#000000;fill-opacity:0.67000002;stroke:none"
-         width="130"
-         y="-1.2695313e-06" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath4293">
-      <rect
-         id="rect4295"
-         height="512"
-         x="0"
-         style="fill:#000000;fill-opacity:0.67000002;stroke:none"
-         width="682.66669"
-         y="5.2306668e-06" />
-    </clipPath>
-  </defs>
   <g
-     transform="matrix(0.93750001,0,0,0.93750001,0,-4.90375e-6)"
+     style="fill-rule:evenodd"
      id="flag"
      clip-path="url(#clipPath4293)"
-     inkscape:label="#g3852">
+     transform="matrix(0.9375,0,0,0.9375,0,-4.9037813e-6)">
     <g
-       transform="matrix(3.9384615,0,0,3.9384615,0,5e-6)"
-       id="g390">
+       style="stroke-width:1.00000003pt"
+       id="g390"
+       transform="matrix(3.9385,0,0,3.9385,0,5e-6)">
       <g
-         id="g169"
-         style="font-size:12px;fill:#bd3d44;fill-opacity:1">
+         style="fill:#bd3d44"
+         id="g169">
         <rect
-           style="font-size:12px;fill:#bd3d44;fill-opacity:1;fill-rule:evenodd;stroke-width:1pt"
            id="rect156"
-           width="247"
            height="10"
-           x="0"
-           y="0" />
+           width="247"
+           y="0"
+           x="0" />
         <rect
-           style="font-size:12px;fill:#bd3d44;fill-opacity:1;fill-rule:evenodd;stroke-width:1pt"
            id="rect158"
-           width="247"
            height="10"
-           x="0"
-           y="20" />
+           width="247"
+           y="20"
+           x="0" />
         <rect
-           style="font-size:12px;fill:#bd3d44;fill-opacity:1;fill-rule:evenodd;stroke-width:1pt"
            id="rect160"
-           width="247"
            height="10"
-           x="0"
-           y="40" />
+           width="247"
+           y="40"
+           x="0" />
         <rect
-           style="font-size:12px;fill:#bd3d44;fill-opacity:1;fill-rule:evenodd;stroke-width:1pt"
            id="rect162"
-           width="247"
            height="10"
-           x="0"
-           y="60" />
+           width="247"
+           y="60"
+           x="0" />
         <rect
-           style="font-size:12px;fill:#bd3d44;fill-opacity:1;fill-rule:evenodd;stroke-width:1pt"
            id="rect164"
-           width="247"
            height="10"
-           x="0"
-           y="80" />
+           width="247"
+           y="80"
+           x="0" />
         <rect
-           style="font-size:12px;fill:#bd3d44;fill-opacity:1;fill-rule:evenodd;stroke-width:1pt"
            id="rect166"
-           width="247"
            height="10"
-           x="0"
-           y="100" />
+           width="247"
+           y="100"
+           x="0" />
         <rect
-           style="font-size:12px;fill:#bd3d44;fill-opacity:1;fill-rule:evenodd;stroke-width:1pt"
            id="rect168"
-           width="247"
            height="10"
-           x="0"
-           y="120" />
+           width="247"
+           y="120"
+           x="0" />
       </g>
       <g
-         id="g177"
-         style="font-size:12px;fill:#ffffff">
+         style="fill:#ffffff"
+         id="g177">
         <rect
-           style="font-size:12px;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:1pt"
            id="rect157"
-           width="247"
            height="10"
-           x="0"
-           y="10" />
+           width="247"
+           y="10"
+           x="0" />
         <rect
-           style="font-size:12px;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:1pt"
            id="rect159"
-           width="247"
            height="10"
-           x="0"
-           y="30" />
+           width="247"
+           y="30"
+           x="0" />
         <rect
-           style="font-size:12px;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:1pt"
            id="rect161"
-           width="247"
            height="10"
-           x="0"
-           y="50" />
+           width="247"
+           y="50"
+           x="0" />
         <rect
-           style="font-size:12px;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:1pt"
            id="rect163"
-           width="247"
            height="10"
-           x="0"
-           y="70" />
+           width="247"
+           y="70"
+           x="0" />
         <rect
-           style="font-size:12px;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:1pt"
            id="rect165"
-           width="247"
            height="10"
-           x="0"
-           y="90" />
+           width="247"
+           y="90"
+           x="0" />
         <rect
-           style="font-size:12px;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:1pt"
            id="rect167"
-           width="247"
            height="10"
-           x="0"
-           y="110" />
+           width="247"
+           y="110"
+           x="0" />
       </g>
     </g>
     <rect
-       style="font-size:12px;fill:#192f5d;fill-rule:evenodd;stroke-width:1pt"
+       style="fill:#192f5d;stroke-width:1.00000003pt"
        id="rect200"
+       height="275.69"
        width="389.12"
-       height="275.69229"
-       x="0"
-       y="4.9999999e-06" />
+       y="4.9999999e-06"
+       x="0" />
     <g
-       transform="matrix(3.9384615,0,0,3.9384615,0,5e-6)"
-       id="g274">
+       style="fill:#ffffff"
+       id="g274"
+       transform="matrix(3.9385,0,0,3.9385,0,5e-6)">
       <g
          id="g218">
         <g
            id="g194">
           <polygon
-             d="M 1.3084868e-6,-4.0040002 0.89895399,-1.237304 3.8080309,-1.2373029 1.4545381,0.47260808 2.3534912,3.239305 0,1.5293919 l -2.3534933,1.7099115 0.8989552,-2.76669531 -2.353492,-1.70991339 2.9090761,1.3e-6 z"
-             inkscape:randomized="0"
-             inkscape:rounded="0"
-             inkscape:flatsided="false"
-             sodipodi:type="star"
-             style="font-size:12px;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
              id="polygon207"
-             sodipodi:sides="5"
-             points="0,-4.004 0.898954009,-1.2373040455 3.808030291,-1.2373040455 1.454538141067,0.4726080910 2.35349215,3.2393040455 0,1.529391909 -2.35349215,3.2393040455 -1.454538141067,0.472608091 -3.808030291,-1.2373040455 -0.898954009,-1.2373040455 0,-4.004 "
-             sodipodi:arg1="-1.570796"
-             sodipodi:arg2="-0.9424778"
-             sodipodi:r1="4.0040002"
-             sodipodi:cx="0"
-             sodipodi:cy="0"
-             sodipodi:r2="1.5293919"
-             transform="translate(8.2333333,7)" />
-          <polygon
+             transform="translate(8.2333,7)"
              d="M 1.3084868e-6,-4.0040002 0.89895399,-1.237304 3.8080309,-1.2373029 1.4545381,0.47260808 2.3534912,3.239305 0,1.5293919 l -2.3534933,1.7099115 0.8989552,-2.76669531 -2.353492,-1.70991339 2.9090761,1.3e-6 z"
-             inkscape:randomized="0"
-             inkscape:rounded="0"
-             inkscape:flatsided="false"
-             sodipodi:type="star"
-             style="font-size:12px;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
+             points="2.3535,3.2393 0,1.5294 -2.3535,3.2393 -1.4545,0.47261 -3.808,-1.2373 -0.89895,-1.2373 0,-4.004 0.89895,-1.2373 3.808,-1.2373 1.4545,0.47261 " />
+          <polygon
              id="polygon188"
-             sodipodi:sides="5"
-             points="0,-4.004 0.898954009,-1.2373040455 3.808030291,-1.2373040455 1.454538141067,0.4726080910 2.35349215,3.2393040455 0,1.529391909 -2.35349215,3.2393040455 -1.454538141067,0.472608091 -3.808030291,-1.2373040455 -0.898954009,-1.2373040455 0,-4.004 "
-             sodipodi:arg1="-1.570796"
-             sodipodi:arg2="-0.9424778"
-             sodipodi:r1="4.0040002"
-             sodipodi:cx="0"
-             sodipodi:cy="0"
-             sodipodi:r2="1.5293919"
-             transform="translate(24.7,7)" />
-          <polygon
+             transform="translate(24.7,7)"
              d="M 1.3084868e-6,-4.0040002 0.89895399,-1.237304 3.8080309,-1.2373029 1.4545381,0.47260808 2.3534912,3.239305 0,1.5293919 l -2.3534933,1.7099115 0.8989552,-2.76669531 -2.353492,-1.70991339 2.9090761,1.3e-6 z"
-             inkscape:randomized="0"
-             inkscape:rounded="0"
-             inkscape:flatsided="false"
-             sodipodi:type="star"
-             style="font-size:12px;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
+             points="2.3535,3.2393 0,1.5294 -2.3535,3.2393 -1.4545,0.47261 -3.808,-1.2373 -0.89895,-1.2373 0,-4.004 0.89895,-1.2373 3.808,-1.2373 1.4545,0.47261 " />
+          <polygon
              id="polygon189"
-             sodipodi:sides="5"
-             points="0,-4.004 0.898954009,-1.2373040455 3.808030291,-1.2373040455 1.454538141067,0.4726080910 2.35349215,3.2393040455 0,1.529391909 -2.35349215,3.2393040455 -1.454538141067,0.472608091 -3.808030291,-1.2373040455 -0.898954009,-1.2373040455 0,-4.004 "
-             sodipodi:arg1="-1.570796"
-             sodipodi:arg2="-0.9424778"
-             sodipodi:r1="4.0040002"
-             sodipodi:cx="0"
-             sodipodi:cy="0"
-             sodipodi:r2="1.5293919"
-             transform="translate(41.166667,7)" />
-          <polygon
+             transform="translate(41.167,7)"
              d="M 1.3084868e-6,-4.0040002 0.89895399,-1.237304 3.8080309,-1.2373029 1.4545381,0.47260808 2.3534912,3.239305 0,1.5293919 l -2.3534933,1.7099115 0.8989552,-2.76669531 -2.353492,-1.70991339 2.9090761,1.3e-6 z"
-             inkscape:randomized="0"
-             inkscape:rounded="0"
-             inkscape:flatsided="false"
-             sodipodi:type="star"
-             style="font-size:12px;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
+             points="2.3535,3.2393 0,1.5294 -2.3535,3.2393 -1.4545,0.47261 -3.808,-1.2373 -0.89895,-1.2373 0,-4.004 0.89895,-1.2373 3.808,-1.2373 1.4545,0.47261 " />
+          <polygon
              id="polygon190"
-             sodipodi:sides="5"
-             points="0,-4.004 0.898954009,-1.2373040455 3.808030291,-1.2373040455 1.454538141067,0.4726080910 2.35349215,3.2393040455 0,1.529391909 -2.35349215,3.2393040455 -1.454538141067,0.472608091 -3.808030291,-1.2373040455 -0.898954009,-1.2373040455 0,-4.004 "
-             sodipodi:arg1="-1.570796"
-             sodipodi:arg2="-0.9424778"
-             sodipodi:r1="4.0040002"
-             sodipodi:cx="0"
-             sodipodi:cy="0"
-             sodipodi:r2="1.5293919"
-             transform="translate(57.633333,7)" />
-          <polygon
+             transform="translate(57.633,7)"
              d="M 1.3084868e-6,-4.0040002 0.89895399,-1.237304 3.8080309,-1.2373029 1.4545381,0.47260808 2.3534912,3.239305 0,1.5293919 l -2.3534933,1.7099115 0.8989552,-2.76669531 -2.353492,-1.70991339 2.9090761,1.3e-6 z"
-             inkscape:randomized="0"
-             inkscape:rounded="0"
-             inkscape:flatsided="false"
-             sodipodi:type="star"
-             style="font-size:12px;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
+             points="2.3535,3.2393 0,1.5294 -2.3535,3.2393 -1.4545,0.47261 -3.808,-1.2373 -0.89895,-1.2373 0,-4.004 0.89895,-1.2373 3.808,-1.2373 1.4545,0.47261 " />
+          <polygon
              id="polygon191"
-             sodipodi:sides="5"
-             points="0,-4.004 0.898954009,-1.2373040455 3.808030291,-1.2373040455 1.454538141067,0.4726080910 2.35349215,3.2393040455 0,1.529391909 -2.35349215,3.2393040455 -1.454538141067,0.472608091 -3.808030291,-1.2373040455 -0.898954009,-1.2373040455 0,-4.004 "
-             sodipodi:arg1="-1.570796"
-             sodipodi:arg2="-0.9424778"
-             sodipodi:r1="4.0040002"
-             sodipodi:cx="0"
-             sodipodi:cy="0"
-             sodipodi:r2="1.5293919"
-             transform="translate(74.1,7)" />
-          <polygon
+             transform="translate(74.1,7)"
              d="M 1.3084868e-6,-4.0040002 0.89895399,-1.237304 3.8080309,-1.2373029 1.4545381,0.47260808 2.3534912,3.239305 0,1.5293919 l -2.3534933,1.7099115 0.8989552,-2.76669531 -2.353492,-1.70991339 2.9090761,1.3e-6 z"
-             inkscape:randomized="0"
-             inkscape:rounded="0"
-             inkscape:flatsided="false"
-             sodipodi:type="star"
-             style="font-size:12px;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
+             points="2.3535,3.2393 0,1.5294 -2.3535,3.2393 -1.4545,0.47261 -3.808,-1.2373 -0.89895,-1.2373 0,-4.004 0.89895,-1.2373 3.808,-1.2373 1.4545,0.47261 " />
+          <polygon
              id="polygon192"
-             sodipodi:sides="5"
-             points="0,-4.004 0.898954009,-1.2373040455 3.808030291,-1.2373040455 1.454538141067,0.4726080910 2.35349215,3.2393040455 0,1.529391909 -2.35349215,3.2393040455 -1.454538141067,0.472608091 -3.808030291,-1.2373040455 -0.898954009,-1.2373040455 0,-4.004 "
-             sodipodi:arg1="-1.570796"
-             sodipodi:arg2="-0.9424778"
-             sodipodi:r1="4.0040002"
-             sodipodi:cx="0"
-             sodipodi:cy="0"
-             sodipodi:r2="1.5293919"
-             transform="translate(90.566667,7)" />
+             transform="translate(90.567,7)"
+             d="M 1.3084868e-6,-4.0040002 0.89895399,-1.237304 3.8080309,-1.2373029 1.4545381,0.47260808 2.3534912,3.239305 0,1.5293919 l -2.3534933,1.7099115 0.8989552,-2.76669531 -2.353492,-1.70991339 2.9090761,1.3e-6 z"
+             points="2.3535,3.2393 0,1.5294 -2.3535,3.2393 -1.4545,0.47261 -3.808,-1.2373 -0.89895,-1.2373 0,-4.004 0.89895,-1.2373 3.808,-1.2373 1.4545,0.47261 " />
         </g>
         <g
            id="g205">
           <polygon
-             d="M 1.3084868e-6,-4.0040002 0.89895399,-1.237304 3.8080309,-1.2373029 1.4545381,0.47260808 2.3534912,3.239305 0,1.5293919 l -2.3534933,1.7099115 0.8989552,-2.76669531 -2.353492,-1.70991339 2.9090761,1.3e-6 z"
-             inkscape:randomized="0"
-             inkscape:rounded="0"
-             inkscape:flatsided="false"
-             sodipodi:type="star"
-             style="font-size:12px;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
              id="polygon193"
-             sodipodi:sides="5"
-             points="0,-4.004 0.898954009,-1.2373040455 3.808030291,-1.2373040455 1.454538141067,0.4726080910 2.35349215,3.2393040455 0,1.529391909 -2.35349215,3.2393040455 -1.454538141067,0.472608091 -3.808030291,-1.2373040455 -0.898954009,-1.2373040455 0,-4.004 "
-             sodipodi:arg1="-1.570796"
-             sodipodi:arg2="-0.9424778"
-             sodipodi:r1="4.0040002"
-             sodipodi:cx="0"
-             sodipodi:cy="0"
-             sodipodi:r2="1.5293919"
-             transform="translate(16.466667,14)" />
-          <polygon
+             transform="translate(16.467,14)"
              d="M 1.3084868e-6,-4.0040002 0.89895399,-1.237304 3.8080309,-1.2373029 1.4545381,0.47260808 2.3534912,3.239305 0,1.5293919 l -2.3534933,1.7099115 0.8989552,-2.76669531 -2.353492,-1.70991339 2.9090761,1.3e-6 z"
-             inkscape:randomized="0"
-             inkscape:rounded="0"
-             inkscape:flatsided="false"
-             sodipodi:type="star"
-             style="font-size:12px;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
+             points="2.3535,3.2393 0,1.5294 -2.3535,3.2393 -1.4545,0.47261 -3.808,-1.2373 -0.89895,-1.2373 0,-4.004 0.89895,-1.2373 3.808,-1.2373 1.4545,0.47261 " />
+          <polygon
              id="polygon201"
-             sodipodi:sides="5"
-             points="0,-4.004 0.898954009,-1.2373040455 3.808030291,-1.2373040455 1.454538141067,0.4726080910 2.35349215,3.2393040455 0,1.529391909 -2.35349215,3.2393040455 -1.454538141067,0.472608091 -3.808030291,-1.2373040455 -0.898954009,-1.2373040455 0,-4.004 "
-             sodipodi:arg1="-1.570796"
-             sodipodi:arg2="-0.9424778"
-             sodipodi:r1="4.0040002"
-             sodipodi:cx="0"
-             sodipodi:cy="0"
-             sodipodi:r2="1.5293919"
-             transform="translate(32.933333,14)" />
-          <polygon
+             transform="translate(32.933,14)"
              d="M 1.3084868e-6,-4.0040002 0.89895399,-1.237304 3.8080309,-1.2373029 1.4545381,0.47260808 2.3534912,3.239305 0,1.5293919 l -2.3534933,1.7099115 0.8989552,-2.76669531 -2.353492,-1.70991339 2.9090761,1.3e-6 z"
-             inkscape:randomized="0"
-             inkscape:rounded="0"
-             inkscape:flatsided="false"
-             sodipodi:type="star"
-             style="font-size:12px;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
+             points="2.3535,3.2393 0,1.5294 -2.3535,3.2393 -1.4545,0.47261 -3.808,-1.2373 -0.89895,-1.2373 0,-4.004 0.89895,-1.2373 3.808,-1.2373 1.4545,0.47261 " />
+          <polygon
              id="polygon202"
-             sodipodi:sides="5"
-             points="0,-4.004 0.898954009,-1.2373040455 3.808030291,-1.2373040455 1.454538141067,0.4726080910 2.35349215,3.2393040455 0,1.529391909 -2.35349215,3.2393040455 -1.454538141067,0.472608091 -3.808030291,-1.2373040455 -0.898954009,-1.2373040455 0,-4.004 "
-             sodipodi:arg1="-1.570796"
-             sodipodi:arg2="-0.9424778"
-             sodipodi:r1="4.0040002"
-             sodipodi:cx="0"
-             sodipodi:cy="0"
-             sodipodi:r2="1.5293919"
-             transform="translate(49.4,14)" />
-          <polygon
+             transform="translate(49.4,14)"
              d="M 1.3084868e-6,-4.0040002 0.89895399,-1.237304 3.8080309,-1.2373029 1.4545381,0.47260808 2.3534912,3.239305 0,1.5293919 l -2.3534933,1.7099115 0.8989552,-2.76669531 -2.353492,-1.70991339 2.9090761,1.3e-6 z"
-             inkscape:randomized="0"
-             inkscape:rounded="0"
-             inkscape:flatsided="false"
-             sodipodi:type="star"
-             style="font-size:12px;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
+             points="2.3535,3.2393 0,1.5294 -2.3535,3.2393 -1.4545,0.47261 -3.808,-1.2373 -0.89895,-1.2373 0,-4.004 0.89895,-1.2373 3.808,-1.2373 1.4545,0.47261 " />
+          <polygon
              id="polygon203"
-             sodipodi:sides="5"
-             points="0,-4.004 0.898954009,-1.2373040455 3.808030291,-1.2373040455 1.454538141067,0.4726080910 2.35349215,3.2393040455 0,1.529391909 -2.35349215,3.2393040455 -1.454538141067,0.472608091 -3.808030291,-1.2373040455 -0.898954009,-1.2373040455 0,-4.004 "
-             sodipodi:arg1="-1.570796"
-             sodipodi:arg2="-0.9424778"
-             sodipodi:r1="4.0040002"
-             sodipodi:cx="0"
-             sodipodi:cy="0"
-             sodipodi:r2="1.5293919"
-             transform="translate(65.866667,14)" />
-          <polygon
+             transform="translate(65.867,14)"
              d="M 1.3084868e-6,-4.0040002 0.89895399,-1.237304 3.8080309,-1.2373029 1.4545381,0.47260808 2.3534912,3.239305 0,1.5293919 l -2.3534933,1.7099115 0.8989552,-2.76669531 -2.353492,-1.70991339 2.9090761,1.3e-6 z"
-             inkscape:randomized="0"
-             inkscape:rounded="0"
-             inkscape:flatsided="false"
-             sodipodi:type="star"
-             style="font-size:12px;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
+             points="2.3535,3.2393 0,1.5294 -2.3535,3.2393 -1.4545,0.47261 -3.808,-1.2373 -0.89895,-1.2373 0,-4.004 0.89895,-1.2373 3.808,-1.2373 1.4545,0.47261 " />
+          <polygon
              id="polygon204"
-             sodipodi:sides="5"
-             points="0,-4.004 0.898954009,-1.2373040455 3.808030291,-1.2373040455 1.454538141067,0.4726080910 2.35349215,3.2393040455 0,1.529391909 -2.35349215,3.2393040455 -1.454538141067,0.472608091 -3.808030291,-1.2373040455 -0.898954009,-1.2373040455 0,-4.004 "
-             sodipodi:arg1="-1.570796"
-             sodipodi:arg2="-0.9424778"
-             sodipodi:r1="4.0040002"
-             sodipodi:cx="0"
-             sodipodi:cy="0"
-             sodipodi:r2="1.5293919"
-             transform="translate(82.333333,14)" />
+             transform="translate(82.333,14)"
+             d="M 1.3084868e-6,-4.0040002 0.89895399,-1.237304 3.8080309,-1.2373029 1.4545381,0.47260808 2.3534912,3.239305 0,1.5293919 l -2.3534933,1.7099115 0.8989552,-2.76669531 -2.353492,-1.70991339 2.9090761,1.3e-6 z"
+             points="2.3535,3.2393 0,1.5294 -2.3535,3.2393 -1.4545,0.47261 -3.808,-1.2373 -0.89895,-1.2373 0,-4.004 0.89895,-1.2373 3.808,-1.2373 1.4545,0.47261 " />
         </g>
       </g>
       <g
@@ -413,195 +240,63 @@ Guinea, Honduras, Israel, Jamaica, Jordan, and Romania Flags</dc:title>
         <g
            id="g233">
           <polygon
-             inkscape:randomized="0"
-             inkscape:rounded="0"
-             inkscape:flatsided="false"
-             sodipodi:type="star"
-             style="font-size:12px;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
              id="polygon234"
-             sodipodi:sides="5"
-             points="0,-4.004 0.898954009,-1.2373040455 3.808030291,-1.2373040455 1.454538141067,0.4726080910 2.35349215,3.2393040455 0,1.529391909 -2.35349215,3.2393040455 -1.454538141067,0.472608091 -3.808030291,-1.2373040455 -0.898954009,-1.2373040455 0,-4.004 "
-             sodipodi:arg1="-1.570796"
-             sodipodi:arg2="-0.9424778"
-             sodipodi:r1="4.0040002"
-             sodipodi:cx="0"
-             sodipodi:cy="0"
-             sodipodi:r2="1.5293919"
-             transform="translate(8.2333333,7)"
-             d="M 1.3084868e-6,-4.0040002 0.89895399,-1.237304 3.8080309,-1.2373029 1.4545381,0.47260808 2.3534912,3.239305 0,1.5293919 l -2.3534933,1.7099115 0.8989552,-2.76669531 -2.353492,-1.70991339 2.9090761,1.3e-6 z" />
+             transform="translate(8.2333,7)"
+             d="M 1.3084868e-6,-4.0040002 0.89895399,-1.237304 3.8080309,-1.2373029 1.4545381,0.47260808 2.3534912,3.239305 0,1.5293919 l -2.3534933,1.7099115 0.8989552,-2.76669531 -2.353492,-1.70991339 2.9090761,1.3e-6 z"
+             points="2.3535,3.2393 0,1.5294 -2.3535,3.2393 -1.4545,0.47261 -3.808,-1.2373 -0.89895,-1.2373 0,-4.004 0.89895,-1.2373 3.808,-1.2373 1.4545,0.47261 " />
           <polygon
-             inkscape:randomized="0"
-             inkscape:rounded="0"
-             inkscape:flatsided="false"
-             sodipodi:type="star"
-             style="font-size:12px;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
              id="polygon235"
-             sodipodi:sides="5"
-             points="0,-4.004 0.898954009,-1.2373040455 3.808030291,-1.2373040455 1.454538141067,0.4726080910 2.35349215,3.2393040455 0,1.529391909 -2.35349215,3.2393040455 -1.454538141067,0.472608091 -3.808030291,-1.2373040455 -0.898954009,-1.2373040455 0,-4.004 "
-             sodipodi:arg1="-1.570796"
-             sodipodi:arg2="-0.9424778"
-             sodipodi:r1="4.0040002"
-             sodipodi:cx="0"
-             sodipodi:cy="0"
-             sodipodi:r2="1.5293919"
              transform="translate(24.7,7)"
-             d="M 1.3084868e-6,-4.0040002 0.89895399,-1.237304 3.8080309,-1.2373029 1.4545381,0.47260808 2.3534912,3.239305 0,1.5293919 l -2.3534933,1.7099115 0.8989552,-2.76669531 -2.353492,-1.70991339 2.9090761,1.3e-6 z" />
+             d="M 1.3084868e-6,-4.0040002 0.89895399,-1.237304 3.8080309,-1.2373029 1.4545381,0.47260808 2.3534912,3.239305 0,1.5293919 l -2.3534933,1.7099115 0.8989552,-2.76669531 -2.353492,-1.70991339 2.9090761,1.3e-6 z"
+             points="2.3535,3.2393 0,1.5294 -2.3535,3.2393 -1.4545,0.47261 -3.808,-1.2373 -0.89895,-1.2373 0,-4.004 0.89895,-1.2373 3.808,-1.2373 1.4545,0.47261 " />
           <polygon
-             inkscape:randomized="0"
-             inkscape:rounded="0"
-             inkscape:flatsided="false"
-             sodipodi:type="star"
-             style="font-size:12px;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
              id="polygon236"
-             sodipodi:sides="5"
-             points="0,-4.004 0.898954009,-1.2373040455 3.808030291,-1.2373040455 1.454538141067,0.4726080910 2.35349215,3.2393040455 0,1.529391909 -2.35349215,3.2393040455 -1.454538141067,0.472608091 -3.808030291,-1.2373040455 -0.898954009,-1.2373040455 0,-4.004 "
-             sodipodi:arg1="-1.570796"
-             sodipodi:arg2="-0.9424778"
-             sodipodi:r1="4.0040002"
-             sodipodi:cx="0"
-             sodipodi:cy="0"
-             sodipodi:r2="1.5293919"
-             transform="translate(41.166667,7)"
-             d="M 1.3084868e-6,-4.0040002 0.89895399,-1.237304 3.8080309,-1.2373029 1.4545381,0.47260808 2.3534912,3.239305 0,1.5293919 l -2.3534933,1.7099115 0.8989552,-2.76669531 -2.353492,-1.70991339 2.9090761,1.3e-6 z" />
+             transform="translate(41.167,7)"
+             d="M 1.3084868e-6,-4.0040002 0.89895399,-1.237304 3.8080309,-1.2373029 1.4545381,0.47260808 2.3534912,3.239305 0,1.5293919 l -2.3534933,1.7099115 0.8989552,-2.76669531 -2.353492,-1.70991339 2.9090761,1.3e-6 z"
+             points="2.3535,3.2393 0,1.5294 -2.3535,3.2393 -1.4545,0.47261 -3.808,-1.2373 -0.89895,-1.2373 0,-4.004 0.89895,-1.2373 3.808,-1.2373 1.4545,0.47261 " />
           <polygon
-             inkscape:randomized="0"
-             inkscape:rounded="0"
-             inkscape:flatsided="false"
-             sodipodi:type="star"
-             style="font-size:12px;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
              id="polygon237"
-             sodipodi:sides="5"
-             points="0,-4.004 0.898954009,-1.2373040455 3.808030291,-1.2373040455 1.454538141067,0.4726080910 2.35349215,3.2393040455 0,1.529391909 -2.35349215,3.2393040455 -1.454538141067,0.472608091 -3.808030291,-1.2373040455 -0.898954009,-1.2373040455 0,-4.004 "
-             sodipodi:arg1="-1.570796"
-             sodipodi:arg2="-0.9424778"
-             sodipodi:r1="4.0040002"
-             sodipodi:cx="0"
-             sodipodi:cy="0"
-             sodipodi:r2="1.5293919"
-             transform="translate(57.633333,7)"
-             d="M 1.3084868e-6,-4.0040002 0.89895399,-1.237304 3.8080309,-1.2373029 1.4545381,0.47260808 2.3534912,3.239305 0,1.5293919 l -2.3534933,1.7099115 0.8989552,-2.76669531 -2.353492,-1.70991339 2.9090761,1.3e-6 z" />
+             transform="translate(57.633,7)"
+             d="M 1.3084868e-6,-4.0040002 0.89895399,-1.237304 3.8080309,-1.2373029 1.4545381,0.47260808 2.3534912,3.239305 0,1.5293919 l -2.3534933,1.7099115 0.8989552,-2.76669531 -2.353492,-1.70991339 2.9090761,1.3e-6 z"
+             points="2.3535,3.2393 0,1.5294 -2.3535,3.2393 -1.4545,0.47261 -3.808,-1.2373 -0.89895,-1.2373 0,-4.004 0.89895,-1.2373 3.808,-1.2373 1.4545,0.47261 " />
           <polygon
-             inkscape:randomized="0"
-             inkscape:rounded="0"
-             inkscape:flatsided="false"
-             sodipodi:type="star"
-             style="font-size:12px;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
              id="polygon238"
-             sodipodi:sides="5"
-             points="0,-4.004 0.898954009,-1.2373040455 3.808030291,-1.2373040455 1.454538141067,0.4726080910 2.35349215,3.2393040455 0,1.529391909 -2.35349215,3.2393040455 -1.454538141067,0.472608091 -3.808030291,-1.2373040455 -0.898954009,-1.2373040455 0,-4.004 "
-             sodipodi:arg1="-1.570796"
-             sodipodi:arg2="-0.9424778"
-             sodipodi:r1="4.0040002"
-             sodipodi:cx="0"
-             sodipodi:cy="0"
-             sodipodi:r2="1.5293919"
              transform="translate(74.1,7)"
-             d="M 1.3084868e-6,-4.0040002 0.89895399,-1.237304 3.8080309,-1.2373029 1.4545381,0.47260808 2.3534912,3.239305 0,1.5293919 l -2.3534933,1.7099115 0.8989552,-2.76669531 -2.353492,-1.70991339 2.9090761,1.3e-6 z" />
+             d="M 1.3084868e-6,-4.0040002 0.89895399,-1.237304 3.8080309,-1.2373029 1.4545381,0.47260808 2.3534912,3.239305 0,1.5293919 l -2.3534933,1.7099115 0.8989552,-2.76669531 -2.353492,-1.70991339 2.9090761,1.3e-6 z"
+             points="2.3535,3.2393 0,1.5294 -2.3535,3.2393 -1.4545,0.47261 -3.808,-1.2373 -0.89895,-1.2373 0,-4.004 0.89895,-1.2373 3.808,-1.2373 1.4545,0.47261 " />
           <polygon
-             inkscape:randomized="0"
-             inkscape:rounded="0"
-             inkscape:flatsided="false"
-             sodipodi:type="star"
-             style="font-size:12px;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
              id="polygon239"
-             sodipodi:sides="5"
-             points="0,-4.004 0.898954009,-1.2373040455 3.808030291,-1.2373040455 1.454538141067,0.4726080910 2.35349215,3.2393040455 0,1.529391909 -2.35349215,3.2393040455 -1.454538141067,0.472608091 -3.808030291,-1.2373040455 -0.898954009,-1.2373040455 0,-4.004 "
-             sodipodi:arg1="-1.570796"
-             sodipodi:arg2="-0.9424778"
-             sodipodi:r1="4.0040002"
-             sodipodi:cx="0"
-             sodipodi:cy="0"
-             sodipodi:r2="1.5293919"
-             transform="translate(90.566667,7)"
-             d="M 1.3084868e-6,-4.0040002 0.89895399,-1.237304 3.8080309,-1.2373029 1.4545381,0.47260808 2.3534912,3.239305 0,1.5293919 l -2.3534933,1.7099115 0.8989552,-2.76669531 -2.353492,-1.70991339 2.9090761,1.3e-6 z" />
+             transform="translate(90.567,7)"
+             d="M 1.3084868e-6,-4.0040002 0.89895399,-1.237304 3.8080309,-1.2373029 1.4545381,0.47260808 2.3534912,3.239305 0,1.5293919 l -2.3534933,1.7099115 0.8989552,-2.76669531 -2.353492,-1.70991339 2.9090761,1.3e-6 z"
+             points="2.3535,3.2393 0,1.5294 -2.3535,3.2393 -1.4545,0.47261 -3.808,-1.2373 -0.89895,-1.2373 0,-4.004 0.89895,-1.2373 3.808,-1.2373 1.4545,0.47261 " />
         </g>
         <g
            id="g240">
           <polygon
-             inkscape:randomized="0"
-             inkscape:rounded="0"
-             inkscape:flatsided="false"
-             sodipodi:type="star"
-             style="font-size:12px;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
              id="polygon241"
-             sodipodi:sides="5"
-             points="0,-4.004 0.898954009,-1.2373040455 3.808030291,-1.2373040455 1.454538141067,0.4726080910 2.35349215,3.2393040455 0,1.529391909 -2.35349215,3.2393040455 -1.454538141067,0.472608091 -3.808030291,-1.2373040455 -0.898954009,-1.2373040455 0,-4.004 "
-             sodipodi:arg1="-1.570796"
-             sodipodi:arg2="-0.9424778"
-             sodipodi:r1="4.0040002"
-             sodipodi:cx="0"
-             sodipodi:cy="0"
-             sodipodi:r2="1.5293919"
-             transform="translate(16.466667,14)"
-             d="M 1.3084868e-6,-4.0040002 0.89895399,-1.237304 3.8080309,-1.2373029 1.4545381,0.47260808 2.3534912,3.239305 0,1.5293919 l -2.3534933,1.7099115 0.8989552,-2.76669531 -2.353492,-1.70991339 2.9090761,1.3e-6 z" />
+             transform="translate(16.467,14)"
+             d="M 1.3084868e-6,-4.0040002 0.89895399,-1.237304 3.8080309,-1.2373029 1.4545381,0.47260808 2.3534912,3.239305 0,1.5293919 l -2.3534933,1.7099115 0.8989552,-2.76669531 -2.353492,-1.70991339 2.9090761,1.3e-6 z"
+             points="2.3535,3.2393 0,1.5294 -2.3535,3.2393 -1.4545,0.47261 -3.808,-1.2373 -0.89895,-1.2373 0,-4.004 0.89895,-1.2373 3.808,-1.2373 1.4545,0.47261 " />
           <polygon
-             inkscape:randomized="0"
-             inkscape:rounded="0"
-             inkscape:flatsided="false"
-             sodipodi:type="star"
-             style="font-size:12px;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
              id="polygon242"
-             sodipodi:sides="5"
-             points="0,-4.004 0.898954009,-1.2373040455 3.808030291,-1.2373040455 1.454538141067,0.4726080910 2.35349215,3.2393040455 0,1.529391909 -2.35349215,3.2393040455 -1.454538141067,0.472608091 -3.808030291,-1.2373040455 -0.898954009,-1.2373040455 0,-4.004 "
-             sodipodi:arg1="-1.570796"
-             sodipodi:arg2="-0.9424778"
-             sodipodi:r1="4.0040002"
-             sodipodi:cx="0"
-             sodipodi:cy="0"
-             sodipodi:r2="1.5293919"
-             transform="translate(32.933333,14)"
-             d="M 1.3084868e-6,-4.0040002 0.89895399,-1.237304 3.8080309,-1.2373029 1.4545381,0.47260808 2.3534912,3.239305 0,1.5293919 l -2.3534933,1.7099115 0.8989552,-2.76669531 -2.353492,-1.70991339 2.9090761,1.3e-6 z" />
+             transform="translate(32.933,14)"
+             d="M 1.3084868e-6,-4.0040002 0.89895399,-1.237304 3.8080309,-1.2373029 1.4545381,0.47260808 2.3534912,3.239305 0,1.5293919 l -2.3534933,1.7099115 0.8989552,-2.76669531 -2.353492,-1.70991339 2.9090761,1.3e-6 z"
+             points="2.3535,3.2393 0,1.5294 -2.3535,3.2393 -1.4545,0.47261 -3.808,-1.2373 -0.89895,-1.2373 0,-4.004 0.89895,-1.2373 3.808,-1.2373 1.4545,0.47261 " />
           <polygon
-             inkscape:randomized="0"
-             inkscape:rounded="0"
-             inkscape:flatsided="false"
-             sodipodi:type="star"
-             style="font-size:12px;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
              id="polygon243"
-             sodipodi:sides="5"
-             points="0,-4.004 0.898954009,-1.2373040455 3.808030291,-1.2373040455 1.454538141067,0.4726080910 2.35349215,3.2393040455 0,1.529391909 -2.35349215,3.2393040455 -1.454538141067,0.472608091 -3.808030291,-1.2373040455 -0.898954009,-1.2373040455 0,-4.004 "
-             sodipodi:arg1="-1.570796"
-             sodipodi:arg2="-0.9424778"
-             sodipodi:r1="4.0040002"
-             sodipodi:cx="0"
-             sodipodi:cy="0"
-             sodipodi:r2="1.5293919"
              transform="translate(49.4,14)"
-             d="M 1.3084868e-6,-4.0040002 0.89895399,-1.237304 3.8080309,-1.2373029 1.4545381,0.47260808 2.3534912,3.239305 0,1.5293919 l -2.3534933,1.7099115 0.8989552,-2.76669531 -2.353492,-1.70991339 2.9090761,1.3e-6 z" />
+             d="M 1.3084868e-6,-4.0040002 0.89895399,-1.237304 3.8080309,-1.2373029 1.4545381,0.47260808 2.3534912,3.239305 0,1.5293919 l -2.3534933,1.7099115 0.8989552,-2.76669531 -2.353492,-1.70991339 2.9090761,1.3e-6 z"
+             points="2.3535,3.2393 0,1.5294 -2.3535,3.2393 -1.4545,0.47261 -3.808,-1.2373 -0.89895,-1.2373 0,-4.004 0.89895,-1.2373 3.808,-1.2373 1.4545,0.47261 " />
           <polygon
-             inkscape:randomized="0"
-             inkscape:rounded="0"
-             inkscape:flatsided="false"
-             sodipodi:type="star"
-             style="font-size:12px;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
              id="polygon244"
-             sodipodi:sides="5"
-             points="0,-4.004 0.898954009,-1.2373040455 3.808030291,-1.2373040455 1.454538141067,0.4726080910 2.35349215,3.2393040455 0,1.529391909 -2.35349215,3.2393040455 -1.454538141067,0.472608091 -3.808030291,-1.2373040455 -0.898954009,-1.2373040455 0,-4.004 "
-             sodipodi:arg1="-1.570796"
-             sodipodi:arg2="-0.9424778"
-             sodipodi:r1="4.0040002"
-             sodipodi:cx="0"
-             sodipodi:cy="0"
-             sodipodi:r2="1.5293919"
-             transform="translate(65.866667,14)"
-             d="M 1.3084868e-6,-4.0040002 0.89895399,-1.237304 3.8080309,-1.2373029 1.4545381,0.47260808 2.3534912,3.239305 0,1.5293919 l -2.3534933,1.7099115 0.8989552,-2.76669531 -2.353492,-1.70991339 2.9090761,1.3e-6 z" />
+             transform="translate(65.867,14)"
+             d="M 1.3084868e-6,-4.0040002 0.89895399,-1.237304 3.8080309,-1.2373029 1.4545381,0.47260808 2.3534912,3.239305 0,1.5293919 l -2.3534933,1.7099115 0.8989552,-2.76669531 -2.353492,-1.70991339 2.9090761,1.3e-6 z"
+             points="2.3535,3.2393 0,1.5294 -2.3535,3.2393 -1.4545,0.47261 -3.808,-1.2373 -0.89895,-1.2373 0,-4.004 0.89895,-1.2373 3.808,-1.2373 1.4545,0.47261 " />
           <polygon
-             inkscape:randomized="0"
-             inkscape:rounded="0"
-             inkscape:flatsided="false"
-             sodipodi:type="star"
-             style="font-size:12px;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
              id="polygon245"
-             sodipodi:sides="5"
-             points="0,-4.004 0.898954009,-1.2373040455 3.808030291,-1.2373040455 1.454538141067,0.4726080910 2.35349215,3.2393040455 0,1.529391909 -2.35349215,3.2393040455 -1.454538141067,0.472608091 -3.808030291,-1.2373040455 -0.898954009,-1.2373040455 0,-4.004 "
-             sodipodi:arg1="-1.570796"
-             sodipodi:arg2="-0.9424778"
-             sodipodi:r1="4.0040002"
-             sodipodi:cx="0"
-             sodipodi:cy="0"
-             sodipodi:r2="1.5293919"
-             transform="translate(82.333333,14)"
-             d="M 1.3084868e-6,-4.0040002 0.89895399,-1.237304 3.8080309,-1.2373029 1.4545381,0.47260808 2.3534912,3.239305 0,1.5293919 l -2.3534933,1.7099115 0.8989552,-2.76669531 -2.353492,-1.70991339 2.9090761,1.3e-6 z" />
+             transform="translate(82.333,14)"
+             d="M 1.3084868e-6,-4.0040002 0.89895399,-1.237304 3.8080309,-1.2373029 1.4545381,0.47260808 2.3534912,3.239305 0,1.5293919 l -2.3534933,1.7099115 0.8989552,-2.76669531 -2.353492,-1.70991339 2.9090761,1.3e-6 z"
+             points="2.3535,3.2393 0,1.5294 -2.3535,3.2393 -1.4545,0.47261 -3.808,-1.2373 -0.89895,-1.2373 0,-4.004 0.89895,-1.2373 3.808,-1.2373 1.4545,0.47261 " />
         </g>
       </g>
       <g
@@ -610,195 +305,63 @@ Guinea, Honduras, Israel, Jamaica, Jordan, and Romania Flags</dc:title>
         <g
            id="g247">
           <polygon
-             inkscape:randomized="0"
-             inkscape:rounded="0"
-             inkscape:flatsided="false"
-             sodipodi:type="star"
-             style="font-size:12px;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
              id="polygon248"
-             sodipodi:sides="5"
-             points="0,-4.004 0.898954009,-1.2373040455 3.808030291,-1.2373040455 1.454538141067,0.4726080910 2.35349215,3.2393040455 0,1.529391909 -2.35349215,3.2393040455 -1.454538141067,0.472608091 -3.808030291,-1.2373040455 -0.898954009,-1.2373040455 0,-4.004 "
-             sodipodi:arg1="-1.570796"
-             sodipodi:arg2="-0.9424778"
-             sodipodi:r1="4.0040002"
-             sodipodi:cx="0"
-             sodipodi:cy="0"
-             sodipodi:r2="1.5293919"
-             transform="translate(8.2333333,7)"
-             d="M 1.3084868e-6,-4.0040002 0.89895399,-1.237304 3.8080309,-1.2373029 1.4545381,0.47260808 2.3534912,3.239305 0,1.5293919 l -2.3534933,1.7099115 0.8989552,-2.76669531 -2.353492,-1.70991339 2.9090761,1.3e-6 z" />
+             transform="translate(8.2333,7)"
+             d="M 1.3084868e-6,-4.0040002 0.89895399,-1.237304 3.8080309,-1.2373029 1.4545381,0.47260808 2.3534912,3.239305 0,1.5293919 l -2.3534933,1.7099115 0.8989552,-2.76669531 -2.353492,-1.70991339 2.9090761,1.3e-6 z"
+             points="2.3535,3.2393 0,1.5294 -2.3535,3.2393 -1.4545,0.47261 -3.808,-1.2373 -0.89895,-1.2373 0,-4.004 0.89895,-1.2373 3.808,-1.2373 1.4545,0.47261 " />
           <polygon
-             inkscape:randomized="0"
-             inkscape:rounded="0"
-             inkscape:flatsided="false"
-             sodipodi:type="star"
-             style="font-size:12px;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
              id="polygon249"
-             sodipodi:sides="5"
-             points="0,-4.004 0.898954009,-1.2373040455 3.808030291,-1.2373040455 1.454538141067,0.4726080910 2.35349215,3.2393040455 0,1.529391909 -2.35349215,3.2393040455 -1.454538141067,0.472608091 -3.808030291,-1.2373040455 -0.898954009,-1.2373040455 0,-4.004 "
-             sodipodi:arg1="-1.570796"
-             sodipodi:arg2="-0.9424778"
-             sodipodi:r1="4.0040002"
-             sodipodi:cx="0"
-             sodipodi:cy="0"
-             sodipodi:r2="1.5293919"
              transform="translate(24.7,7)"
-             d="M 1.3084868e-6,-4.0040002 0.89895399,-1.237304 3.8080309,-1.2373029 1.4545381,0.47260808 2.3534912,3.239305 0,1.5293919 l -2.3534933,1.7099115 0.8989552,-2.76669531 -2.353492,-1.70991339 2.9090761,1.3e-6 z" />
+             d="M 1.3084868e-6,-4.0040002 0.89895399,-1.237304 3.8080309,-1.2373029 1.4545381,0.47260808 2.3534912,3.239305 0,1.5293919 l -2.3534933,1.7099115 0.8989552,-2.76669531 -2.353492,-1.70991339 2.9090761,1.3e-6 z"
+             points="2.3535,3.2393 0,1.5294 -2.3535,3.2393 -1.4545,0.47261 -3.808,-1.2373 -0.89895,-1.2373 0,-4.004 0.89895,-1.2373 3.808,-1.2373 1.4545,0.47261 " />
           <polygon
-             inkscape:randomized="0"
-             inkscape:rounded="0"
-             inkscape:flatsided="false"
-             sodipodi:type="star"
-             style="font-size:12px;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
              id="polygon250"
-             sodipodi:sides="5"
-             points="0,-4.004 0.898954009,-1.2373040455 3.808030291,-1.2373040455 1.454538141067,0.4726080910 2.35349215,3.2393040455 0,1.529391909 -2.35349215,3.2393040455 -1.454538141067,0.472608091 -3.808030291,-1.2373040455 -0.898954009,-1.2373040455 0,-4.004 "
-             sodipodi:arg1="-1.570796"
-             sodipodi:arg2="-0.9424778"
-             sodipodi:r1="4.0040002"
-             sodipodi:cx="0"
-             sodipodi:cy="0"
-             sodipodi:r2="1.5293919"
-             transform="translate(41.166667,7)"
-             d="M 1.3084868e-6,-4.0040002 0.89895399,-1.237304 3.8080309,-1.2373029 1.4545381,0.47260808 2.3534912,3.239305 0,1.5293919 l -2.3534933,1.7099115 0.8989552,-2.76669531 -2.353492,-1.70991339 2.9090761,1.3e-6 z" />
+             transform="translate(41.167,7)"
+             d="M 1.3084868e-6,-4.0040002 0.89895399,-1.237304 3.8080309,-1.2373029 1.4545381,0.47260808 2.3534912,3.239305 0,1.5293919 l -2.3534933,1.7099115 0.8989552,-2.76669531 -2.353492,-1.70991339 2.9090761,1.3e-6 z"
+             points="2.3535,3.2393 0,1.5294 -2.3535,3.2393 -1.4545,0.47261 -3.808,-1.2373 -0.89895,-1.2373 0,-4.004 0.89895,-1.2373 3.808,-1.2373 1.4545,0.47261 " />
           <polygon
-             inkscape:randomized="0"
-             inkscape:rounded="0"
-             inkscape:flatsided="false"
-             sodipodi:type="star"
-             style="font-size:12px;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
              id="polygon251"
-             sodipodi:sides="5"
-             points="0,-4.004 0.898954009,-1.2373040455 3.808030291,-1.2373040455 1.454538141067,0.4726080910 2.35349215,3.2393040455 0,1.529391909 -2.35349215,3.2393040455 -1.454538141067,0.472608091 -3.808030291,-1.2373040455 -0.898954009,-1.2373040455 0,-4.004 "
-             sodipodi:arg1="-1.570796"
-             sodipodi:arg2="-0.9424778"
-             sodipodi:r1="4.0040002"
-             sodipodi:cx="0"
-             sodipodi:cy="0"
-             sodipodi:r2="1.5293919"
-             transform="translate(57.633333,7)"
-             d="M 1.3084868e-6,-4.0040002 0.89895399,-1.237304 3.8080309,-1.2373029 1.4545381,0.47260808 2.3534912,3.239305 0,1.5293919 l -2.3534933,1.7099115 0.8989552,-2.76669531 -2.353492,-1.70991339 2.9090761,1.3e-6 z" />
+             transform="translate(57.633,7)"
+             d="M 1.3084868e-6,-4.0040002 0.89895399,-1.237304 3.8080309,-1.2373029 1.4545381,0.47260808 2.3534912,3.239305 0,1.5293919 l -2.3534933,1.7099115 0.8989552,-2.76669531 -2.353492,-1.70991339 2.9090761,1.3e-6 z"
+             points="2.3535,3.2393 0,1.5294 -2.3535,3.2393 -1.4545,0.47261 -3.808,-1.2373 -0.89895,-1.2373 0,-4.004 0.89895,-1.2373 3.808,-1.2373 1.4545,0.47261 " />
           <polygon
-             inkscape:randomized="0"
-             inkscape:rounded="0"
-             inkscape:flatsided="false"
-             sodipodi:type="star"
-             style="font-size:12px;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
              id="polygon252"
-             sodipodi:sides="5"
-             points="0,-4.004 0.898954009,-1.2373040455 3.808030291,-1.2373040455 1.454538141067,0.4726080910 2.35349215,3.2393040455 0,1.529391909 -2.35349215,3.2393040455 -1.454538141067,0.472608091 -3.808030291,-1.2373040455 -0.898954009,-1.2373040455 0,-4.004 "
-             sodipodi:arg1="-1.570796"
-             sodipodi:arg2="-0.9424778"
-             sodipodi:r1="4.0040002"
-             sodipodi:cx="0"
-             sodipodi:cy="0"
-             sodipodi:r2="1.5293919"
              transform="translate(74.1,7)"
-             d="M 1.3084868e-6,-4.0040002 0.89895399,-1.237304 3.8080309,-1.2373029 1.4545381,0.47260808 2.3534912,3.239305 0,1.5293919 l -2.3534933,1.7099115 0.8989552,-2.76669531 -2.353492,-1.70991339 2.9090761,1.3e-6 z" />
+             d="M 1.3084868e-6,-4.0040002 0.89895399,-1.237304 3.8080309,-1.2373029 1.4545381,0.47260808 2.3534912,3.239305 0,1.5293919 l -2.3534933,1.7099115 0.8989552,-2.76669531 -2.353492,-1.70991339 2.9090761,1.3e-6 z"
+             points="2.3535,3.2393 0,1.5294 -2.3535,3.2393 -1.4545,0.47261 -3.808,-1.2373 -0.89895,-1.2373 0,-4.004 0.89895,-1.2373 3.808,-1.2373 1.4545,0.47261 " />
           <polygon
-             inkscape:randomized="0"
-             inkscape:rounded="0"
-             inkscape:flatsided="false"
-             sodipodi:type="star"
-             style="font-size:12px;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
              id="polygon253"
-             sodipodi:sides="5"
-             points="0,-4.004 0.898954009,-1.2373040455 3.808030291,-1.2373040455 1.454538141067,0.4726080910 2.35349215,3.2393040455 0,1.529391909 -2.35349215,3.2393040455 -1.454538141067,0.472608091 -3.808030291,-1.2373040455 -0.898954009,-1.2373040455 0,-4.004 "
-             sodipodi:arg1="-1.570796"
-             sodipodi:arg2="-0.9424778"
-             sodipodi:r1="4.0040002"
-             sodipodi:cx="0"
-             sodipodi:cy="0"
-             sodipodi:r2="1.5293919"
-             transform="translate(90.566667,7)"
-             d="M 1.3084868e-6,-4.0040002 0.89895399,-1.237304 3.8080309,-1.2373029 1.4545381,0.47260808 2.3534912,3.239305 0,1.5293919 l -2.3534933,1.7099115 0.8989552,-2.76669531 -2.353492,-1.70991339 2.9090761,1.3e-6 z" />
+             transform="translate(90.567,7)"
+             d="M 1.3084868e-6,-4.0040002 0.89895399,-1.237304 3.8080309,-1.2373029 1.4545381,0.47260808 2.3534912,3.239305 0,1.5293919 l -2.3534933,1.7099115 0.8989552,-2.76669531 -2.353492,-1.70991339 2.9090761,1.3e-6 z"
+             points="2.3535,3.2393 0,1.5294 -2.3535,3.2393 -1.4545,0.47261 -3.808,-1.2373 -0.89895,-1.2373 0,-4.004 0.89895,-1.2373 3.808,-1.2373 1.4545,0.47261 " />
         </g>
         <g
            id="g254">
           <polygon
-             inkscape:randomized="0"
-             inkscape:rounded="0"
-             inkscape:flatsided="false"
-             sodipodi:type="star"
-             style="font-size:12px;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
              id="polygon255"
-             sodipodi:sides="5"
-             points="0,-4.004 0.898954009,-1.2373040455 3.808030291,-1.2373040455 1.454538141067,0.4726080910 2.35349215,3.2393040455 0,1.529391909 -2.35349215,3.2393040455 -1.454538141067,0.472608091 -3.808030291,-1.2373040455 -0.898954009,-1.2373040455 0,-4.004 "
-             sodipodi:arg1="-1.570796"
-             sodipodi:arg2="-0.9424778"
-             sodipodi:r1="4.0040002"
-             sodipodi:cx="0"
-             sodipodi:cy="0"
-             sodipodi:r2="1.5293919"
-             transform="translate(16.466667,14)"
-             d="M 1.3084868e-6,-4.0040002 0.89895399,-1.237304 3.8080309,-1.2373029 1.4545381,0.47260808 2.3534912,3.239305 0,1.5293919 l -2.3534933,1.7099115 0.8989552,-2.76669531 -2.353492,-1.70991339 2.9090761,1.3e-6 z" />
+             transform="translate(16.467,14)"
+             d="M 1.3084868e-6,-4.0040002 0.89895399,-1.237304 3.8080309,-1.2373029 1.4545381,0.47260808 2.3534912,3.239305 0,1.5293919 l -2.3534933,1.7099115 0.8989552,-2.76669531 -2.353492,-1.70991339 2.9090761,1.3e-6 z"
+             points="2.3535,3.2393 0,1.5294 -2.3535,3.2393 -1.4545,0.47261 -3.808,-1.2373 -0.89895,-1.2373 0,-4.004 0.89895,-1.2373 3.808,-1.2373 1.4545,0.47261 " />
           <polygon
-             inkscape:randomized="0"
-             inkscape:rounded="0"
-             inkscape:flatsided="false"
-             sodipodi:type="star"
-             style="font-size:12px;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
              id="polygon256"
-             sodipodi:sides="5"
-             points="0,-4.004 0.898954009,-1.2373040455 3.808030291,-1.2373040455 1.454538141067,0.4726080910 2.35349215,3.2393040455 0,1.529391909 -2.35349215,3.2393040455 -1.454538141067,0.472608091 -3.808030291,-1.2373040455 -0.898954009,-1.2373040455 0,-4.004 "
-             sodipodi:arg1="-1.570796"
-             sodipodi:arg2="-0.9424778"
-             sodipodi:r1="4.0040002"
-             sodipodi:cx="0"
-             sodipodi:cy="0"
-             sodipodi:r2="1.5293919"
-             transform="translate(32.933333,14)"
-             d="M 1.3084868e-6,-4.0040002 0.89895399,-1.237304 3.8080309,-1.2373029 1.4545381,0.47260808 2.3534912,3.239305 0,1.5293919 l -2.3534933,1.7099115 0.8989552,-2.76669531 -2.353492,-1.70991339 2.9090761,1.3e-6 z" />
+             transform="translate(32.933,14)"
+             d="M 1.3084868e-6,-4.0040002 0.89895399,-1.237304 3.8080309,-1.2373029 1.4545381,0.47260808 2.3534912,3.239305 0,1.5293919 l -2.3534933,1.7099115 0.8989552,-2.76669531 -2.353492,-1.70991339 2.9090761,1.3e-6 z"
+             points="2.3535,3.2393 0,1.5294 -2.3535,3.2393 -1.4545,0.47261 -3.808,-1.2373 -0.89895,-1.2373 0,-4.004 0.89895,-1.2373 3.808,-1.2373 1.4545,0.47261 " />
           <polygon
-             inkscape:randomized="0"
-             inkscape:rounded="0"
-             inkscape:flatsided="false"
-             sodipodi:type="star"
-             style="font-size:12px;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
              id="polygon257"
-             sodipodi:sides="5"
-             points="0,-4.004 0.898954009,-1.2373040455 3.808030291,-1.2373040455 1.454538141067,0.4726080910 2.35349215,3.2393040455 0,1.529391909 -2.35349215,3.2393040455 -1.454538141067,0.472608091 -3.808030291,-1.2373040455 -0.898954009,-1.2373040455 0,-4.004 "
-             sodipodi:arg1="-1.570796"
-             sodipodi:arg2="-0.9424778"
-             sodipodi:r1="4.0040002"
-             sodipodi:cx="0"
-             sodipodi:cy="0"
-             sodipodi:r2="1.5293919"
              transform="translate(49.4,14)"
-             d="M 1.3084868e-6,-4.0040002 0.89895399,-1.237304 3.8080309,-1.2373029 1.4545381,0.47260808 2.3534912,3.239305 0,1.5293919 l -2.3534933,1.7099115 0.8989552,-2.76669531 -2.353492,-1.70991339 2.9090761,1.3e-6 z" />
+             d="M 1.3084868e-6,-4.0040002 0.89895399,-1.237304 3.8080309,-1.2373029 1.4545381,0.47260808 2.3534912,3.239305 0,1.5293919 l -2.3534933,1.7099115 0.8989552,-2.76669531 -2.353492,-1.70991339 2.9090761,1.3e-6 z"
+             points="2.3535,3.2393 0,1.5294 -2.3535,3.2393 -1.4545,0.47261 -3.808,-1.2373 -0.89895,-1.2373 0,-4.004 0.89895,-1.2373 3.808,-1.2373 1.4545,0.47261 " />
           <polygon
-             inkscape:randomized="0"
-             inkscape:rounded="0"
-             inkscape:flatsided="false"
-             sodipodi:type="star"
-             style="font-size:12px;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
              id="polygon258"
-             sodipodi:sides="5"
-             points="0,-4.004 0.898954009,-1.2373040455 3.808030291,-1.2373040455 1.454538141067,0.4726080910 2.35349215,3.2393040455 0,1.529391909 -2.35349215,3.2393040455 -1.454538141067,0.472608091 -3.808030291,-1.2373040455 -0.898954009,-1.2373040455 0,-4.004 "
-             sodipodi:arg1="-1.570796"
-             sodipodi:arg2="-0.9424778"
-             sodipodi:r1="4.0040002"
-             sodipodi:cx="0"
-             sodipodi:cy="0"
-             sodipodi:r2="1.5293919"
-             transform="translate(65.866667,14)"
-             d="M 1.3084868e-6,-4.0040002 0.89895399,-1.237304 3.8080309,-1.2373029 1.4545381,0.47260808 2.3534912,3.239305 0,1.5293919 l -2.3534933,1.7099115 0.8989552,-2.76669531 -2.353492,-1.70991339 2.9090761,1.3e-6 z" />
+             transform="translate(65.867,14)"
+             d="M 1.3084868e-6,-4.0040002 0.89895399,-1.237304 3.8080309,-1.2373029 1.4545381,0.47260808 2.3534912,3.239305 0,1.5293919 l -2.3534933,1.7099115 0.8989552,-2.76669531 -2.353492,-1.70991339 2.9090761,1.3e-6 z"
+             points="2.3535,3.2393 0,1.5294 -2.3535,3.2393 -1.4545,0.47261 -3.808,-1.2373 -0.89895,-1.2373 0,-4.004 0.89895,-1.2373 3.808,-1.2373 1.4545,0.47261 " />
           <polygon
-             inkscape:randomized="0"
-             inkscape:rounded="0"
-             inkscape:flatsided="false"
-             sodipodi:type="star"
-             style="font-size:12px;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
              id="polygon259"
-             sodipodi:sides="5"
-             points="0,-4.004 0.898954009,-1.2373040455 3.808030291,-1.2373040455 1.454538141067,0.4726080910 2.35349215,3.2393040455 0,1.529391909 -2.35349215,3.2393040455 -1.454538141067,0.472608091 -3.808030291,-1.2373040455 -0.898954009,-1.2373040455 0,-4.004 "
-             sodipodi:arg1="-1.570796"
-             sodipodi:arg2="-0.9424778"
-             sodipodi:r1="4.0040002"
-             sodipodi:cx="0"
-             sodipodi:cy="0"
-             sodipodi:r2="1.5293919"
-             transform="translate(82.333333,14)"
-             d="M 1.3084868e-6,-4.0040002 0.89895399,-1.237304 3.8080309,-1.2373029 1.4545381,0.47260808 2.3534912,3.239305 0,1.5293919 l -2.3534933,1.7099115 0.8989552,-2.76669531 -2.353492,-1.70991339 2.9090761,1.3e-6 z" />
+             transform="translate(82.333,14)"
+             d="M 1.3084868e-6,-4.0040002 0.89895399,-1.237304 3.8080309,-1.2373029 1.4545381,0.47260808 2.3534912,3.239305 0,1.5293919 l -2.3534933,1.7099115 0.8989552,-2.76669531 -2.353492,-1.70991339 2.9090761,1.3e-6 z"
+             points="2.3535,3.2393 0,1.5294 -2.3535,3.2393 -1.4545,0.47261 -3.808,-1.2373 -0.89895,-1.2373 0,-4.004 0.89895,-1.2373 3.808,-1.2373 1.4545,0.47261 " />
         </g>
       </g>
       <g
@@ -807,302 +370,98 @@ Guinea, Honduras, Israel, Jamaica, Jordan, and Romania Flags</dc:title>
         <g
            id="g261">
           <polygon
-             inkscape:randomized="0"
-             inkscape:rounded="0"
-             inkscape:flatsided="false"
-             sodipodi:type="star"
-             style="font-size:12px;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
              id="polygon262"
-             sodipodi:sides="5"
-             points="0,-4.004 0.898954009,-1.2373040455 3.808030291,-1.2373040455 1.454538141067,0.4726080910 2.35349215,3.2393040455 0,1.529391909 -2.35349215,3.2393040455 -1.454538141067,0.472608091 -3.808030291,-1.2373040455 -0.898954009,-1.2373040455 0,-4.004 "
-             sodipodi:arg1="-1.570796"
-             sodipodi:arg2="-0.9424778"
-             sodipodi:r1="4.0040002"
-             sodipodi:cx="0"
-             sodipodi:cy="0"
-             sodipodi:r2="1.5293919"
-             transform="translate(8.2333333,7)"
-             d="M 1.3084868e-6,-4.0040002 0.89895399,-1.237304 3.8080309,-1.2373029 1.4545381,0.47260808 2.3534912,3.239305 0,1.5293919 l -2.3534933,1.7099115 0.8989552,-2.76669531 -2.353492,-1.70991339 2.9090761,1.3e-6 z" />
+             transform="translate(8.2333,7)"
+             d="M 1.3084868e-6,-4.0040002 0.89895399,-1.237304 3.8080309,-1.2373029 1.4545381,0.47260808 2.3534912,3.239305 0,1.5293919 l -2.3534933,1.7099115 0.8989552,-2.76669531 -2.353492,-1.70991339 2.9090761,1.3e-6 z"
+             points="2.3535,3.2393 0,1.5294 -2.3535,3.2393 -1.4545,0.47261 -3.808,-1.2373 -0.89895,-1.2373 0,-4.004 0.89895,-1.2373 3.808,-1.2373 1.4545,0.47261 " />
           <polygon
-             inkscape:randomized="0"
-             inkscape:rounded="0"
-             inkscape:flatsided="false"
-             sodipodi:type="star"
-             style="font-size:12px;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
              id="polygon263"
-             sodipodi:sides="5"
-             points="0,-4.004 0.898954009,-1.2373040455 3.808030291,-1.2373040455 1.454538141067,0.4726080910 2.35349215,3.2393040455 0,1.529391909 -2.35349215,3.2393040455 -1.454538141067,0.472608091 -3.808030291,-1.2373040455 -0.898954009,-1.2373040455 0,-4.004 "
-             sodipodi:arg1="-1.570796"
-             sodipodi:arg2="-0.9424778"
-             sodipodi:r1="4.0040002"
-             sodipodi:cx="0"
-             sodipodi:cy="0"
-             sodipodi:r2="1.5293919"
              transform="translate(24.7,7)"
-             d="M 1.3084868e-6,-4.0040002 0.89895399,-1.237304 3.8080309,-1.2373029 1.4545381,0.47260808 2.3534912,3.239305 0,1.5293919 l -2.3534933,1.7099115 0.8989552,-2.76669531 -2.353492,-1.70991339 2.9090761,1.3e-6 z" />
+             d="M 1.3084868e-6,-4.0040002 0.89895399,-1.237304 3.8080309,-1.2373029 1.4545381,0.47260808 2.3534912,3.239305 0,1.5293919 l -2.3534933,1.7099115 0.8989552,-2.76669531 -2.353492,-1.70991339 2.9090761,1.3e-6 z"
+             points="2.3535,3.2393 0,1.5294 -2.3535,3.2393 -1.4545,0.47261 -3.808,-1.2373 -0.89895,-1.2373 0,-4.004 0.89895,-1.2373 3.808,-1.2373 1.4545,0.47261 " />
           <polygon
-             inkscape:randomized="0"
-             inkscape:rounded="0"
-             inkscape:flatsided="false"
-             sodipodi:type="star"
-             style="font-size:12px;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
              id="polygon264"
-             sodipodi:sides="5"
-             points="0,-4.004 0.898954009,-1.2373040455 3.808030291,-1.2373040455 1.454538141067,0.4726080910 2.35349215,3.2393040455 0,1.529391909 -2.35349215,3.2393040455 -1.454538141067,0.472608091 -3.808030291,-1.2373040455 -0.898954009,-1.2373040455 0,-4.004 "
-             sodipodi:arg1="-1.570796"
-             sodipodi:arg2="-0.9424778"
-             sodipodi:r1="4.0040002"
-             sodipodi:cx="0"
-             sodipodi:cy="0"
-             sodipodi:r2="1.5293919"
-             transform="translate(41.166667,7)"
-             d="M 1.3084868e-6,-4.0040002 0.89895399,-1.237304 3.8080309,-1.2373029 1.4545381,0.47260808 2.3534912,3.239305 0,1.5293919 l -2.3534933,1.7099115 0.8989552,-2.76669531 -2.353492,-1.70991339 2.9090761,1.3e-6 z" />
+             transform="translate(41.167,7)"
+             d="M 1.3084868e-6,-4.0040002 0.89895399,-1.237304 3.8080309,-1.2373029 1.4545381,0.47260808 2.3534912,3.239305 0,1.5293919 l -2.3534933,1.7099115 0.8989552,-2.76669531 -2.353492,-1.70991339 2.9090761,1.3e-6 z"
+             points="2.3535,3.2393 0,1.5294 -2.3535,3.2393 -1.4545,0.47261 -3.808,-1.2373 -0.89895,-1.2373 0,-4.004 0.89895,-1.2373 3.808,-1.2373 1.4545,0.47261 " />
           <polygon
-             inkscape:randomized="0"
-             inkscape:rounded="0"
-             inkscape:flatsided="false"
-             sodipodi:type="star"
-             style="font-size:12px;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
              id="polygon265"
-             sodipodi:sides="5"
-             points="0,-4.004 0.898954009,-1.2373040455 3.808030291,-1.2373040455 1.454538141067,0.4726080910 2.35349215,3.2393040455 0,1.529391909 -2.35349215,3.2393040455 -1.454538141067,0.472608091 -3.808030291,-1.2373040455 -0.898954009,-1.2373040455 0,-4.004 "
-             sodipodi:arg1="-1.570796"
-             sodipodi:arg2="-0.9424778"
-             sodipodi:r1="4.0040002"
-             sodipodi:cx="0"
-             sodipodi:cy="0"
-             sodipodi:r2="1.5293919"
-             transform="translate(57.633333,7)"
-             d="M 1.3084868e-6,-4.0040002 0.89895399,-1.237304 3.8080309,-1.2373029 1.4545381,0.47260808 2.3534912,3.239305 0,1.5293919 l -2.3534933,1.7099115 0.8989552,-2.76669531 -2.353492,-1.70991339 2.9090761,1.3e-6 z" />
+             transform="translate(57.633,7)"
+             d="M 1.3084868e-6,-4.0040002 0.89895399,-1.237304 3.8080309,-1.2373029 1.4545381,0.47260808 2.3534912,3.239305 0,1.5293919 l -2.3534933,1.7099115 0.8989552,-2.76669531 -2.353492,-1.70991339 2.9090761,1.3e-6 z"
+             points="2.3535,3.2393 0,1.5294 -2.3535,3.2393 -1.4545,0.47261 -3.808,-1.2373 -0.89895,-1.2373 0,-4.004 0.89895,-1.2373 3.808,-1.2373 1.4545,0.47261 " />
           <polygon
-             inkscape:randomized="0"
-             inkscape:rounded="0"
-             inkscape:flatsided="false"
-             sodipodi:type="star"
-             style="font-size:12px;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
              id="polygon266"
-             sodipodi:sides="5"
-             points="0,-4.004 0.898954009,-1.2373040455 3.808030291,-1.2373040455 1.454538141067,0.4726080910 2.35349215,3.2393040455 0,1.529391909 -2.35349215,3.2393040455 -1.454538141067,0.472608091 -3.808030291,-1.2373040455 -0.898954009,-1.2373040455 0,-4.004 "
-             sodipodi:arg1="-1.570796"
-             sodipodi:arg2="-0.9424778"
-             sodipodi:r1="4.0040002"
-             sodipodi:cx="0"
-             sodipodi:cy="0"
-             sodipodi:r2="1.5293919"
              transform="translate(74.1,7)"
-             d="M 1.3084868e-6,-4.0040002 0.89895399,-1.237304 3.8080309,-1.2373029 1.4545381,0.47260808 2.3534912,3.239305 0,1.5293919 l -2.3534933,1.7099115 0.8989552,-2.76669531 -2.353492,-1.70991339 2.9090761,1.3e-6 z" />
+             d="M 1.3084868e-6,-4.0040002 0.89895399,-1.237304 3.8080309,-1.2373029 1.4545381,0.47260808 2.3534912,3.239305 0,1.5293919 l -2.3534933,1.7099115 0.8989552,-2.76669531 -2.353492,-1.70991339 2.9090761,1.3e-6 z"
+             points="2.3535,3.2393 0,1.5294 -2.3535,3.2393 -1.4545,0.47261 -3.808,-1.2373 -0.89895,-1.2373 0,-4.004 0.89895,-1.2373 3.808,-1.2373 1.4545,0.47261 " />
           <polygon
-             inkscape:randomized="0"
-             inkscape:rounded="0"
-             inkscape:flatsided="false"
-             sodipodi:type="star"
-             style="font-size:12px;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
              id="polygon267"
-             sodipodi:sides="5"
-             points="0,-4.004 0.898954009,-1.2373040455 3.808030291,-1.2373040455 1.454538141067,0.4726080910 2.35349215,3.2393040455 0,1.529391909 -2.35349215,3.2393040455 -1.454538141067,0.472608091 -3.808030291,-1.2373040455 -0.898954009,-1.2373040455 0,-4.004 "
-             sodipodi:arg1="-1.570796"
-             sodipodi:arg2="-0.9424778"
-             sodipodi:r1="4.0040002"
-             sodipodi:cx="0"
-             sodipodi:cy="0"
-             sodipodi:r2="1.5293919"
-             transform="translate(90.566667,7)"
-             d="M 1.3084868e-6,-4.0040002 0.89895399,-1.237304 3.8080309,-1.2373029 1.4545381,0.47260808 2.3534912,3.239305 0,1.5293919 l -2.3534933,1.7099115 0.8989552,-2.76669531 -2.353492,-1.70991339 2.9090761,1.3e-6 z" />
+             transform="translate(90.567,7)"
+             d="M 1.3084868e-6,-4.0040002 0.89895399,-1.237304 3.8080309,-1.2373029 1.4545381,0.47260808 2.3534912,3.239305 0,1.5293919 l -2.3534933,1.7099115 0.8989552,-2.76669531 -2.353492,-1.70991339 2.9090761,1.3e-6 z"
+             points="2.3535,3.2393 0,1.5294 -2.3535,3.2393 -1.4545,0.47261 -3.808,-1.2373 -0.89895,-1.2373 0,-4.004 0.89895,-1.2373 3.808,-1.2373 1.4545,0.47261 " />
         </g>
         <g
            id="g268">
           <polygon
-             inkscape:randomized="0"
-             inkscape:rounded="0"
-             inkscape:flatsided="false"
-             sodipodi:type="star"
-             style="font-size:12px;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
              id="polygon269"
-             sodipodi:sides="5"
-             points="0,-4.004 0.898954009,-1.2373040455 3.808030291,-1.2373040455 1.454538141067,0.4726080910 2.35349215,3.2393040455 0,1.529391909 -2.35349215,3.2393040455 -1.454538141067,0.472608091 -3.808030291,-1.2373040455 -0.898954009,-1.2373040455 0,-4.004 "
-             sodipodi:arg1="-1.570796"
-             sodipodi:arg2="-0.9424778"
-             sodipodi:r1="4.0040002"
-             sodipodi:cx="0"
-             sodipodi:cy="0"
-             sodipodi:r2="1.5293919"
-             transform="translate(16.466667,14)"
-             d="M 1.3084868e-6,-4.0040002 0.89895399,-1.237304 3.8080309,-1.2373029 1.4545381,0.47260808 2.3534912,3.239305 0,1.5293919 l -2.3534933,1.7099115 0.8989552,-2.76669531 -2.353492,-1.70991339 2.9090761,1.3e-6 z" />
+             transform="translate(16.467,14)"
+             d="M 1.3084868e-6,-4.0040002 0.89895399,-1.237304 3.8080309,-1.2373029 1.4545381,0.47260808 2.3534912,3.239305 0,1.5293919 l -2.3534933,1.7099115 0.8989552,-2.76669531 -2.353492,-1.70991339 2.9090761,1.3e-6 z"
+             points="2.3535,3.2393 0,1.5294 -2.3535,3.2393 -1.4545,0.47261 -3.808,-1.2373 -0.89895,-1.2373 0,-4.004 0.89895,-1.2373 3.808,-1.2373 1.4545,0.47261 " />
           <polygon
-             inkscape:randomized="0"
-             inkscape:rounded="0"
-             inkscape:flatsided="false"
-             sodipodi:type="star"
-             style="font-size:12px;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
              id="polygon270"
-             sodipodi:sides="5"
-             points="0,-4.004 0.898954009,-1.2373040455 3.808030291,-1.2373040455 1.454538141067,0.4726080910 2.35349215,3.2393040455 0,1.529391909 -2.35349215,3.2393040455 -1.454538141067,0.472608091 -3.808030291,-1.2373040455 -0.898954009,-1.2373040455 0,-4.004 "
-             sodipodi:arg1="-1.570796"
-             sodipodi:arg2="-0.9424778"
-             sodipodi:r1="4.0040002"
-             sodipodi:cx="0"
-             sodipodi:cy="0"
-             sodipodi:r2="1.5293919"
-             transform="translate(32.933333,14)"
-             d="M 1.3084868e-6,-4.0040002 0.89895399,-1.237304 3.8080309,-1.2373029 1.4545381,0.47260808 2.3534912,3.239305 0,1.5293919 l -2.3534933,1.7099115 0.8989552,-2.76669531 -2.353492,-1.70991339 2.9090761,1.3e-6 z" />
+             transform="translate(32.933,14)"
+             d="M 1.3084868e-6,-4.0040002 0.89895399,-1.237304 3.8080309,-1.2373029 1.4545381,0.47260808 2.3534912,3.239305 0,1.5293919 l -2.3534933,1.7099115 0.8989552,-2.76669531 -2.353492,-1.70991339 2.9090761,1.3e-6 z"
+             points="2.3535,3.2393 0,1.5294 -2.3535,3.2393 -1.4545,0.47261 -3.808,-1.2373 -0.89895,-1.2373 0,-4.004 0.89895,-1.2373 3.808,-1.2373 1.4545,0.47261 " />
           <polygon
-             inkscape:randomized="0"
-             inkscape:rounded="0"
-             inkscape:flatsided="false"
-             sodipodi:type="star"
-             style="font-size:12px;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
              id="polygon271"
-             sodipodi:sides="5"
-             points="0,-4.004 0.898954009,-1.2373040455 3.808030291,-1.2373040455 1.454538141067,0.4726080910 2.35349215,3.2393040455 0,1.529391909 -2.35349215,3.2393040455 -1.454538141067,0.472608091 -3.808030291,-1.2373040455 -0.898954009,-1.2373040455 0,-4.004 "
-             sodipodi:arg1="-1.570796"
-             sodipodi:arg2="-0.9424778"
-             sodipodi:r1="4.0040002"
-             sodipodi:cx="0"
-             sodipodi:cy="0"
-             sodipodi:r2="1.5293919"
              transform="translate(49.4,14)"
-             d="M 1.3084868e-6,-4.0040002 0.89895399,-1.237304 3.8080309,-1.2373029 1.4545381,0.47260808 2.3534912,3.239305 0,1.5293919 l -2.3534933,1.7099115 0.8989552,-2.76669531 -2.353492,-1.70991339 2.9090761,1.3e-6 z" />
+             d="M 1.3084868e-6,-4.0040002 0.89895399,-1.237304 3.8080309,-1.2373029 1.4545381,0.47260808 2.3534912,3.239305 0,1.5293919 l -2.3534933,1.7099115 0.8989552,-2.76669531 -2.353492,-1.70991339 2.9090761,1.3e-6 z"
+             points="2.3535,3.2393 0,1.5294 -2.3535,3.2393 -1.4545,0.47261 -3.808,-1.2373 -0.89895,-1.2373 0,-4.004 0.89895,-1.2373 3.808,-1.2373 1.4545,0.47261 " />
           <polygon
-             inkscape:randomized="0"
-             inkscape:rounded="0"
-             inkscape:flatsided="false"
-             sodipodi:type="star"
-             style="font-size:12px;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
              id="polygon272"
-             sodipodi:sides="5"
-             points="0,-4.004 0.898954009,-1.2373040455 3.808030291,-1.2373040455 1.454538141067,0.4726080910 2.35349215,3.2393040455 0,1.529391909 -2.35349215,3.2393040455 -1.454538141067,0.472608091 -3.808030291,-1.2373040455 -0.898954009,-1.2373040455 0,-4.004 "
-             sodipodi:arg1="-1.570796"
-             sodipodi:arg2="-0.9424778"
-             sodipodi:r1="4.0040002"
-             sodipodi:cx="0"
-             sodipodi:cy="0"
-             sodipodi:r2="1.5293919"
-             transform="translate(65.866667,14)"
-             d="M 1.3084868e-6,-4.0040002 0.89895399,-1.237304 3.8080309,-1.2373029 1.4545381,0.47260808 2.3534912,3.239305 0,1.5293919 l -2.3534933,1.7099115 0.8989552,-2.76669531 -2.353492,-1.70991339 2.9090761,1.3e-6 z" />
+             transform="translate(65.867,14)"
+             d="M 1.3084868e-6,-4.0040002 0.89895399,-1.237304 3.8080309,-1.2373029 1.4545381,0.47260808 2.3534912,3.239305 0,1.5293919 l -2.3534933,1.7099115 0.8989552,-2.76669531 -2.353492,-1.70991339 2.9090761,1.3e-6 z"
+             points="2.3535,3.2393 0,1.5294 -2.3535,3.2393 -1.4545,0.47261 -3.808,-1.2373 -0.89895,-1.2373 0,-4.004 0.89895,-1.2373 3.808,-1.2373 1.4545,0.47261 " />
           <polygon
-             inkscape:randomized="0"
-             inkscape:rounded="0"
-             inkscape:flatsided="false"
-             sodipodi:type="star"
-             style="font-size:12px;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
              id="polygon273"
-             sodipodi:sides="5"
-             points="0,-4.004 0.898954009,-1.2373040455 3.808030291,-1.2373040455 1.454538141067,0.4726080910 2.35349215,3.2393040455 0,1.529391909 -2.35349215,3.2393040455 -1.454538141067,0.472608091 -3.808030291,-1.2373040455 -0.898954009,-1.2373040455 0,-4.004 "
-             sodipodi:arg1="-1.570796"
-             sodipodi:arg2="-0.9424778"
-             sodipodi:r1="4.0040002"
-             sodipodi:cx="0"
-             sodipodi:cy="0"
-             sodipodi:r2="1.5293919"
-             transform="translate(82.333333,14)"
-             d="M 1.3084868e-6,-4.0040002 0.89895399,-1.237304 3.8080309,-1.2373029 1.4545381,0.47260808 2.3534912,3.239305 0,1.5293919 l -2.3534933,1.7099115 0.8989552,-2.76669531 -2.353492,-1.70991339 2.9090761,1.3e-6 z" />
+             transform="translate(82.333,14)"
+             d="M 1.3084868e-6,-4.0040002 0.89895399,-1.237304 3.8080309,-1.2373029 1.4545381,0.47260808 2.3534912,3.239305 0,1.5293919 l -2.3534933,1.7099115 0.8989552,-2.76669531 -2.353492,-1.70991339 2.9090761,1.3e-6 z"
+             points="2.3535,3.2393 0,1.5294 -2.3535,3.2393 -1.4545,0.47261 -3.808,-1.2373 -0.89895,-1.2373 0,-4.004 0.89895,-1.2373 3.808,-1.2373 1.4545,0.47261 " />
         </g>
       </g>
       <g
          id="g211"
          transform="translate(0,56)">
         <polygon
-           inkscape:randomized="0"
-           inkscape:rounded="0"
-           inkscape:flatsided="false"
-           sodipodi:type="star"
-           style="font-size:12px;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
            id="polygon212"
-           sodipodi:sides="5"
-           points="0,-4.004 0.898954009,-1.2373040455 3.808030291,-1.2373040455 1.454538141067,0.4726080910 2.35349215,3.2393040455 0,1.529391909 -2.35349215,3.2393040455 -1.454538141067,0.472608091 -3.808030291,-1.2373040455 -0.898954009,-1.2373040455 0,-4.004 "
-           sodipodi:arg1="-1.570796"
-           sodipodi:arg2="-0.9424778"
-           sodipodi:r1="4.0040002"
-           sodipodi:cx="0"
-           sodipodi:cy="0"
-           sodipodi:r2="1.5293919"
-           transform="translate(8.2333333,7)"
-           d="M 1.3084868e-6,-4.0040002 0.89895399,-1.237304 3.8080309,-1.2373029 1.4545381,0.47260808 2.3534912,3.239305 0,1.5293919 l -2.3534933,1.7099115 0.8989552,-2.76669531 -2.353492,-1.70991339 2.9090761,1.3e-6 z" />
+           transform="translate(8.2333,7)"
+           d="M 1.3084868e-6,-4.0040002 0.89895399,-1.237304 3.8080309,-1.2373029 1.4545381,0.47260808 2.3534912,3.239305 0,1.5293919 l -2.3534933,1.7099115 0.8989552,-2.76669531 -2.353492,-1.70991339 2.9090761,1.3e-6 z"
+           points="2.3535,3.2393 0,1.5294 -2.3535,3.2393 -1.4545,0.47261 -3.808,-1.2373 -0.89895,-1.2373 0,-4.004 0.89895,-1.2373 3.808,-1.2373 1.4545,0.47261 " />
         <polygon
-           inkscape:randomized="0"
-           inkscape:rounded="0"
-           inkscape:flatsided="false"
-           sodipodi:type="star"
-           style="font-size:12px;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
            id="polygon213"
-           sodipodi:sides="5"
-           points="0,-4.004 0.898954009,-1.2373040455 3.808030291,-1.2373040455 1.454538141067,0.4726080910 2.35349215,3.2393040455 0,1.529391909 -2.35349215,3.2393040455 -1.454538141067,0.472608091 -3.808030291,-1.2373040455 -0.898954009,-1.2373040455 0,-4.004 "
-           sodipodi:arg1="-1.570796"
-           sodipodi:arg2="-0.9424778"
-           sodipodi:r1="4.0040002"
-           sodipodi:cx="0"
-           sodipodi:cy="0"
-           sodipodi:r2="1.5293919"
            transform="translate(24.7,7)"
-           d="M 1.3084868e-6,-4.0040002 0.89895399,-1.237304 3.8080309,-1.2373029 1.4545381,0.47260808 2.3534912,3.239305 0,1.5293919 l -2.3534933,1.7099115 0.8989552,-2.76669531 -2.353492,-1.70991339 2.9090761,1.3e-6 z" />
+           d="M 1.3084868e-6,-4.0040002 0.89895399,-1.237304 3.8080309,-1.2373029 1.4545381,0.47260808 2.3534912,3.239305 0,1.5293919 l -2.3534933,1.7099115 0.8989552,-2.76669531 -2.353492,-1.70991339 2.9090761,1.3e-6 z"
+           points="2.3535,3.2393 0,1.5294 -2.3535,3.2393 -1.4545,0.47261 -3.808,-1.2373 -0.89895,-1.2373 0,-4.004 0.89895,-1.2373 3.808,-1.2373 1.4545,0.47261 " />
         <polygon
-           inkscape:randomized="0"
-           inkscape:rounded="0"
-           inkscape:flatsided="false"
-           sodipodi:type="star"
-           style="font-size:12px;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
            id="polygon214"
-           sodipodi:sides="5"
-           points="0,-4.004 0.898954009,-1.2373040455 3.808030291,-1.2373040455 1.454538141067,0.4726080910 2.35349215,3.2393040455 0,1.529391909 -2.35349215,3.2393040455 -1.454538141067,0.472608091 -3.808030291,-1.2373040455 -0.898954009,-1.2373040455 0,-4.004 "
-           sodipodi:arg1="-1.570796"
-           sodipodi:arg2="-0.9424778"
-           sodipodi:r1="4.0040002"
-           sodipodi:cx="0"
-           sodipodi:cy="0"
-           sodipodi:r2="1.5293919"
-           transform="translate(41.166667,7)"
-           d="M 1.3084868e-6,-4.0040002 0.89895399,-1.237304 3.8080309,-1.2373029 1.4545381,0.47260808 2.3534912,3.239305 0,1.5293919 l -2.3534933,1.7099115 0.8989552,-2.76669531 -2.353492,-1.70991339 2.9090761,1.3e-6 z" />
+           transform="translate(41.167,7)"
+           d="M 1.3084868e-6,-4.0040002 0.89895399,-1.237304 3.8080309,-1.2373029 1.4545381,0.47260808 2.3534912,3.239305 0,1.5293919 l -2.3534933,1.7099115 0.8989552,-2.76669531 -2.353492,-1.70991339 2.9090761,1.3e-6 z"
+           points="2.3535,3.2393 0,1.5294 -2.3535,3.2393 -1.4545,0.47261 -3.808,-1.2373 -0.89895,-1.2373 0,-4.004 0.89895,-1.2373 3.808,-1.2373 1.4545,0.47261 " />
         <polygon
-           inkscape:randomized="0"
-           inkscape:rounded="0"
-           inkscape:flatsided="false"
-           sodipodi:type="star"
-           style="font-size:12px;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
            id="polygon215"
-           sodipodi:sides="5"
-           points="0,-4.004 0.898954009,-1.2373040455 3.808030291,-1.2373040455 1.454538141067,0.4726080910 2.35349215,3.2393040455 0,1.529391909 -2.35349215,3.2393040455 -1.454538141067,0.472608091 -3.808030291,-1.2373040455 -0.898954009,-1.2373040455 0,-4.004 "
-           sodipodi:arg1="-1.570796"
-           sodipodi:arg2="-0.9424778"
-           sodipodi:r1="4.0040002"
-           sodipodi:cx="0"
-           sodipodi:cy="0"
-           sodipodi:r2="1.5293919"
-           transform="translate(57.633333,7)"
-           d="M 1.3084868e-6,-4.0040002 0.89895399,-1.237304 3.8080309,-1.2373029 1.4545381,0.47260808 2.3534912,3.239305 0,1.5293919 l -2.3534933,1.7099115 0.8989552,-2.76669531 -2.353492,-1.70991339 2.9090761,1.3e-6 z" />
+           transform="translate(57.633,7)"
+           d="M 1.3084868e-6,-4.0040002 0.89895399,-1.237304 3.8080309,-1.2373029 1.4545381,0.47260808 2.3534912,3.239305 0,1.5293919 l -2.3534933,1.7099115 0.8989552,-2.76669531 -2.353492,-1.70991339 2.9090761,1.3e-6 z"
+           points="2.3535,3.2393 0,1.5294 -2.3535,3.2393 -1.4545,0.47261 -3.808,-1.2373 -0.89895,-1.2373 0,-4.004 0.89895,-1.2373 3.808,-1.2373 1.4545,0.47261 " />
         <polygon
-           inkscape:randomized="0"
-           inkscape:rounded="0"
-           inkscape:flatsided="false"
-           sodipodi:type="star"
-           style="font-size:12px;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
            id="polygon216"
-           sodipodi:sides="5"
-           points="0,-4.004 0.898954009,-1.2373040455 3.808030291,-1.2373040455 1.454538141067,0.4726080910 2.35349215,3.2393040455 0,1.529391909 -2.35349215,3.2393040455 -1.454538141067,0.472608091 -3.808030291,-1.2373040455 -0.898954009,-1.2373040455 0,-4.004 "
-           sodipodi:arg1="-1.570796"
-           sodipodi:arg2="-0.9424778"
-           sodipodi:r1="4.0040002"
-           sodipodi:cx="0"
-           sodipodi:cy="0"
-           sodipodi:r2="1.5293919"
            transform="translate(74.1,7)"
-           d="M 1.3084868e-6,-4.0040002 0.89895399,-1.237304 3.8080309,-1.2373029 1.4545381,0.47260808 2.3534912,3.239305 0,1.5293919 l -2.3534933,1.7099115 0.8989552,-2.76669531 -2.353492,-1.70991339 2.9090761,1.3e-6 z" />
+           d="M 1.3084868e-6,-4.0040002 0.89895399,-1.237304 3.8080309,-1.2373029 1.4545381,0.47260808 2.3534912,3.239305 0,1.5293919 l -2.3534933,1.7099115 0.8989552,-2.76669531 -2.353492,-1.70991339 2.9090761,1.3e-6 z"
+           points="2.3535,3.2393 0,1.5294 -2.3535,3.2393 -1.4545,0.47261 -3.808,-1.2373 -0.89895,-1.2373 0,-4.004 0.89895,-1.2373 3.808,-1.2373 1.4545,0.47261 " />
         <polygon
-           inkscape:randomized="0"
-           inkscape:rounded="0"
-           inkscape:flatsided="false"
-           sodipodi:type="star"
-           style="font-size:12px;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
            id="polygon217"
-           sodipodi:sides="5"
-           points="0,-4.004 0.898954009,-1.2373040455 3.808030291,-1.2373040455 1.454538141067,0.4726080910 2.35349215,3.2393040455 0,1.529391909 -2.35349215,3.2393040455 -1.454538141067,0.472608091 -3.808030291,-1.2373040455 -0.898954009,-1.2373040455 0,-4.004 "
-           sodipodi:arg1="-1.570796"
-           sodipodi:arg2="-0.9424778"
-           sodipodi:r1="4.0040002"
-           sodipodi:cx="0"
-           sodipodi:cy="0"
-           sodipodi:r2="1.5293919"
-           transform="translate(90.566667,7)"
-           d="M 1.3084868e-6,-4.0040002 0.89895399,-1.237304 3.8080309,-1.2373029 1.4545381,0.47260808 2.3534912,3.239305 0,1.5293919 l -2.3534933,1.7099115 0.8989552,-2.76669531 -2.353492,-1.70991339 2.9090761,1.3e-6 z" />
+           transform="translate(90.567,7)"
+           d="M 1.3084868e-6,-4.0040002 0.89895399,-1.237304 3.8080309,-1.2373029 1.4545381,0.47260808 2.3534912,3.239305 0,1.5293919 l -2.3534933,1.7099115 0.8989552,-2.76669531 -2.353492,-1.70991339 2.9090761,1.3e-6 z"
+           points="2.3535,3.2393 0,1.5294 -2.3535,3.2393 -1.4545,0.47261 -3.808,-1.2373 -0.89895,-1.2373 0,-4.004 0.89895,-1.2373 3.808,-1.2373 1.4545,0.47261 " />
       </g>
     </g>
   </g>
