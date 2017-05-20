@@ -732,13 +732,14 @@
 
 
 ========== pl.po ==========
-# Copyright (C) 2003-2008 Free Software Foundation, Inc.
-# -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-# Aviary.pl
-# Jeśli masz jakiekolwiek uwagi odnoszące się do tłumaczenia lub chcesz
-# pomóc w jego rozwijaniu i pielęgnowaniu, napisz do nas:
-# matepl@aviary.pl
-# -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+# Polish translation for gnome-icon-theme.
+# Copyright © 2003-2008 the gnome-icon-theme authors.
+# This file is distributed under the same license as the gnome-icon-theme package.
+# Zbigniew Chyla <chyla@alice.ci.pwr.wroc.pl>, 2003.
+# Artur Flinta <aflinta@at.kernel.pl>, 2003-2005.
+# Tomasz Dominikowski <dominikowski@gmail.com>, 2007-2008.
+# Aviary.pl <gnomepl@aviary.pl>, 2007-2008.
+#
 
 
 
