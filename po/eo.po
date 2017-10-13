@@ -4,13 +4,13 @@
 # 
 # Translators:
 # kristjan <kristjan.schmidt@googlemail.com>, 2010
-# Michael Moroni <michael.moroni@openmailbox.org>, 2009
+# Michael Moroni <michaelmoroni@disroot.org>, 2009
 msgid ""
 msgstr ""
 "Project-Id-Version: MATE Desktop Environment\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-07-07 12:08+0200\n"
-"PO-Revision-Date: 2012-07-07 10:13+0000\n"
+"PO-Revision-Date: 2017-09-19 13:37+0000\n"
 "Last-Translator: Stefano Karapetsas <stefano@karapetsas.com>\n"
 "Language-Team: Esperanto (http://www.transifex.com/mate/MATE/language/eo/)\n"
 "MIME-Version: 1.0\n"
