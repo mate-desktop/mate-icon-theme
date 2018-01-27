@@ -1,28 +1,27 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
-# Translators:
-# Kostas Papadimas <pkst@gmx.net>, 2003
-# Kostas Papadimas <pkst@gnome.org>, 2003, 2004
+#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: MATE Desktop Environment\n"
+"Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-07-07 12:08+0200\n"
-"PO-Revision-Date: 2017-09-23 18:17+0000\n"
-"Last-Translator: Αλέξανδρος Καπετάνιος <alexandros@gnugr.org>\n"
-"Language-Team: Greek (http://www.transifex.com/mate/MATE/language/el/)\n"
+"POT-Creation-Date: 2017-11-28 10:27+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Αλέξανδρος Καπετάνιος <alexandros@gnugr.org>, 2018\n"
+"Language-Team: Greek (https://www.transifex.com/mate/teams/13566/el/)\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: el\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: ../index.theme.in.in.h:1
 msgid "MATE"
-msgstr "MATE"
+msgstr "ΜΑΤΕ"
 
 #: ../index.theme.in.in.h:2
 msgid "Default MATE Theme"
-msgstr "Εξ ορισμού θέμα του Mate"
+msgstr "Εξ'ορισμού θέμα του MΑΤΕ"
