@@ -1,3 +1,5 @@
+# please keep this list sorted alphabetically
+#
 af
 am
 ar
@@ -28,7 +30,9 @@ es
 es_AR
 es_CL
 es_CO
+es_ES
 es_MX
+es_PR
 et
 eu
 fa
@@ -41,12 +45,14 @@ fy
 ga
 gl
 gu
+ha
 he
 hi
 hr
 hu
 hy
 id
+ig
 is
 it
 ja
@@ -55,6 +61,7 @@ ka
 kk
 kn
 ko
+ku
 ku_IQ
 ky
 li
@@ -72,6 +79,7 @@ nds
 ne
 nl
 nn
+nso
 oc
 or
 pa
@@ -96,11 +104,15 @@ te
 th
 tk
 tr
+ug
 uk
+ur
 uz
 vi
 wa
 xh
+yo
 zh_CN
 zh_HK
 zh_TW
+zu

@@ -33,11 +33,11 @@ msgstr "YEGO"
 msgid "Art"
 msgstr ""
 
-# #-#-#-#-#  officecfg.pot (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  officecfg.pot (MATE Desktop Environment)  #-#-#-#-#
 # officecfg/registry\schema\org\openoffice\Office\Common.xcs:....Filter.Graphic.Export.PBM.FileFormat..0.text
-# #-#-#-#-#  officecfg.pot (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  officecfg.pot (MATE Desktop Environment)  #-#-#-#-#
 # officecfg/registry\schema\org\openoffice\Office\Common.xcs:....Filter.Graphic.Export.PGM.FileFormat..0.text
-# #-#-#-#-#  officecfg.pot (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  officecfg.pot (MATE Desktop Environment)  #-#-#-#-#
 # officecfg/registry\schema\org\openoffice\Office\Common.xcs:....Filter.Graphic.Export.PPM.FileFormat..0.text
 #: 48x48/emblems/emblem-bin.icon.in.h:1
 msgid "Binary"
@@ -185,9 +185,9 @@ msgstr "Amashusho"
 msgid "Plan"
 msgstr ""
 
-# #-#-#-#-#  officecfg.pot (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  officecfg.pot (MATE Desktop Environment)  #-#-#-#-#
 # officecfg/registry\schema\org\openoffice\Office\Impress.xcs:....Print.Content.Presentation.text
-# #-#-#-#-#  officecfg.pot (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  officecfg.pot (MATE Desktop Environment)  #-#-#-#-#
 # officecfg/registry\schema\org\openoffice\Office\Writer.xcs:....Insert.Caption.OfficeObject.Impress.Enable.text
 #: 48x48/emblems/emblem-presentation.icon.in.h:1
 msgid "Presentation"
