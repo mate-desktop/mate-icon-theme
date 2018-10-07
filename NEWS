@@ -1,3 +1,9 @@
+### mate-icon-theme 1.20.2
+
+  * sync with transifex
+  * add a symlink for bluetooth icon
+  * add icons for touchpad
+
 ### mate-icon-theme 1.20.1
 
   * mate: add audio-volume-off
