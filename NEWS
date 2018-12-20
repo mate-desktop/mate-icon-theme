@@ -1,6 +1,12 @@
+### mate-icon-theme 1.20.3
+
+  * Translations update
+  * Add video single and joined display symbolic svg icons
+  * symlink input-touchpad.svg icon
+
 ### mate-icon-theme 1.20.2
 
-  * sync with transifex
+  * Translations update
   * add a symlink for bluetooth icon
   * add icons for touchpad
 
