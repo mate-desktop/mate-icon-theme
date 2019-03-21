@@ -1,8 +1,25 @@
 
+NULL =
+
 themedir = $(datadir)/icons/mate
 
-SUBDIRS = scalable \
-    scalable-up-to-32
+DIMENSIONS = \
+	16x16 \
+	22x22 \
+	24x24 \
+	32x32 \
+	48x48 \
+	256x256 \
+	$(NULL)
 
-DIST_SUBDIRS =  scalable \
-    scalable-up-to-32
+SUBDIRS = \
+	$(DIMENSIONS) \
+	scalable \
+	scalable-up-to-32 \
+	$(NULL)
+
+DIST_SUBDIRS = \
+	$(DIMENSIONS) \
+	scalable \
+	scalable-up-to-32 \
+	$(NULL)
