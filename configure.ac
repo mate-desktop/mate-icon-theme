@@ -3,6 +3,7 @@ AC_PREREQ(2.53)
 
 AC_INIT([mate-icon-theme], [1.22.0], [http://www.mate-desktop.org])
 AC_CONFIG_SRCDIR([index.theme.in.in])
+AM_EXTRA_RECURSIVE_TARGETS([clean-png-icons build-png-icons])
 
 AM_INIT_AUTOMAKE([1.9 tar-ustar dist-xz no-dist-gzip foreign check-news])
 
@@ -62,6 +63,18 @@ po/Makefile.in
 src/Makefile
 menta/Makefile
 mate/Makefile
+mate/16x16/Makefile
+mate/16x16/apps/Makefile
+mate/22x22/Makefile
+mate/22x22/apps/Makefile
+mate/24x24/Makefile
+mate/24x24/apps/Makefile
+mate/32x32/Makefile
+mate/32x32/apps/Makefile
+mate/48x48/Makefile
+mate/48x48/apps/Makefile
+mate/256x256/Makefile
+mate/256x256/apps/Makefile
 mate/scalable/Makefile
 mate/scalable-up-to-32/Makefile
 ])
