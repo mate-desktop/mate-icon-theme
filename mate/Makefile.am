@@ -1,3 +1,5 @@
+MAKEFLAGS = --silent
+MAKEFLAGS += --no-print-directory
 
 NULL =
 

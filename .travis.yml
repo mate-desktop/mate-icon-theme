@@ -33,6 +33,8 @@ requires:
     - gcc
     - git
     - icon-naming-utils
+    - imagemagick
+    - inkscape
     - make
     - mate-common
     - which
@@ -42,6 +44,8 @@ requires:
     # Useful URL: https://salsa.debian.org/debian-mate-team/mate-icon-theme
     - git
     - icon-naming-utils
+    - inkscape
+    - imagemagick
     - intltool
     - librsvg2-bin
     - make
@@ -52,6 +56,8 @@ requires:
     - gcc
     - git
     - icon-naming-utils
+    - ImageMagick
+    - inkscape
     - make
     - mate-common
     - redhat-rpm-config
@@ -59,6 +65,8 @@ requires:
   ubuntu:
     - git
     - icon-naming-utils
+    - imagemagick
+    - inkscape
     - intltool
     - librsvg2-bin
     - make
