@@ -148,7 +148,7 @@ system-software-update.png: ../../../src/system-software.svg
 
 system-users.png: ../../../src/users.svg
 	@echo "  "$@
-	@inkscape -z $^ --export-area=22:22:278:278 -w=256 -h=256 -e=$@ 1> /dev/null
+	@inkscape -z $^ --export-area=822:22:1078:278 -w=256 -h=256 -e=$@ 1> /dev/null
 	@mogrify -quiet -strip $@
 
 user-info.png: ../../../src/users.svg
