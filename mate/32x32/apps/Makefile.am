@@ -160,7 +160,7 @@ preferences-system-windows.png: ../../../src/preferences-system-windows.svg
 
 system-users.png: ../../../src/users.svg
 	@echo "  "$@
-	@inkscape -z $^ --export-area=303:142:335:174 -w=32 -h=32 -e=$@ 1> /dev/null
+	@inkscape -z $^ --export-area=1103:142:1135:174 -w=32 -h=32 -e=$@ 1> /dev/null
 	@mogrify -quiet -strip $@
 
 user-info.png: ../../../src/users.svg

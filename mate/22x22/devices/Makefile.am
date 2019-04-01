@@ -208,7 +208,7 @@ phone.png: ../../../src/phone.svg
 
 printer.png: ../../../src/printers.svg
 	@echo "  "$@
-	@inkscape -z $^ --export-area=303:94:325:116 -w=22 -h=22 -e=$@ 1> /dev/null
+	@inkscape -z $^ --export-area=603:94:625:116 -w=22 -h=22 -e=$@ 1> /dev/null
 	@mogrify -quiet -strip $@
 
 printer-network.png: ../../../src/printer-network.svg

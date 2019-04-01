@@ -6,6 +6,7 @@ NULL =
 themedir = $(datadir)/icons/mate
 
 DIMENSIONS = \
+	8x8 \
 	16x16 \
 	22x22 \
 	24x24 \
