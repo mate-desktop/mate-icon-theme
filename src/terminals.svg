@@ -17,7 +17,7 @@
    height="300"
    id="svg11300"
    sodipodi:version="0.32"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.92.4 (unknown)"
    sodipodi:docname="terminals.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.0"
@@ -32,17 +32,17 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="462.17759"
+     inkscape:cx="464.17759"
      inkscape:cy="108.31772"
      inkscape:current-layer="g3262"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:showpageshadow="false"
-     inkscape:window-width="2560"
-     inkscape:window-height="1381"
-     inkscape:window-x="2560"
-     inkscape:window-y="27"
+     inkscape:window-width="1680"
+     inkscape:window-height="966"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
      width="400px"
      height="300px"
      inkscape:snap-nodes="false"
@@ -55,12 +55,14 @@
     <inkscape:grid
        type="xygrid"
        id="grid5883"
-       spacingx="1px"
-       spacingy="1px"
+       spacingx="1"
+       spacingy="1"
        enabled="true"
        visible="true"
        empspacing="4"
-       snapvisiblegridlinesonly="true" />
+       snapvisiblegridlinesonly="true"
+       originx="0"
+       originy="0" />
   </sodipodi:namedview>
   <defs
      id="defs3">
@@ -286,28 +288,6 @@
        id="radialGradient9698"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(-2.0116904,8.8395755e-7,-6.2988188e-7,-1.4334708,962.165,138.26601)"
-       cx="326.0206"
-       cy="58"
-       fx="326.0206"
-       fy="58"
-       r="12.5" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4788"
-       id="radialGradient3018"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(-2.0116904,8.8395755e-7,-6.2988188e-7,-1.4334708,980.57218,144.20167)"
-       cx="326.0206"
-       cy="58"
-       fx="326.0206"
-       fy="58"
-       r="12.5" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4788"
-       id="radialGradient3020"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(-2.0116904,8.8395755e-7,-6.2988188e-7,-1.4334708,972.31773,144.20167)"
        cx="326.0206"
        cy="58"
        fx="326.0206"
@@ -558,16 +538,6 @@
        xlink:href="#linearGradient9903-9"
        inkscape:collect="always" />
     <linearGradient
-       y2="70.266411"
-       x2="144.81967"
-       y1="211.73358"
-       x1="144.81967"
-       gradientTransform="translate(-0.24078,-0.733591)"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient3482-3-9"
-       xlink:href="#linearGradient9903-9-1-3"
-       inkscape:collect="always" />
-    <linearGradient
        id="linearGradient9903-9-1-3"
        inkscape:collect="always">
       <stop
@@ -579,17 +549,6 @@
          offset="1"
          style="stop-color:#ffffff;stop-opacity:0;" />
     </linearGradient>
-    <radialGradient
-       r="94.421112"
-       fy="216.22002"
-       fx="144.81967"
-       cy="216.22002"
-       cx="144.81967"
-       gradientTransform="matrix(2.6563253,0,0,1.8749435,-239.86849,-190.1255)"
-       gradientUnits="userSpaceOnUse"
-       id="radialGradient3419-3-1"
-       xlink:href="#linearGradient9944-2-2-2"
-       inkscape:collect="always" />
     <linearGradient
        id="linearGradient9944-2-2-2">
       <stop
@@ -609,17 +568,6 @@
          stdDeviation="3.5125"
          id="feGaussianBlur4775" />
     </filter>
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4788-8-3-7"
-       id="radialGradient3484-3-9-2"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(-10.479519,4.604809e-6,-3.28125e-6,-7.4673937,3541.5388,510.10733)"
-       cx="326.0206"
-       cy="58"
-       fx="326.0206"
-       fy="58"
-       r="12.5" />
     <linearGradient
        id="linearGradient4788-8-3-7"
        inkscape:collect="always">
@@ -632,17 +580,6 @@
          offset="1"
          style="stop-color:#ffffff;stop-opacity:0;" />
     </linearGradient>
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4788-8-3-7"
-       id="radialGradient3486-2-9-3"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(-10.479519,4.604809e-6,-3.28125e-6,-7.4673937,3498.5388,510.10733)"
-       cx="326.0206"
-       cy="58"
-       fx="326.0206"
-       fy="58"
-       r="12.5" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient9383"
@@ -978,47 +915,6 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient9383"
-       id="linearGradient9744"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.9992051,0,0,1.0654472,309.03607,-237.0148)"
-       x1="6.25"
-       y1="275.95804"
-       x2="6.25"
-       y2="306.00479" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient9389"
-       id="linearGradient9746"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.9992051,0,0,1.0654472,-0.7175166,-5.8127669)"
-       x1="325.95776"
-       y1="89.226326"
-       x2="325.95776"
-       y2="59.923328" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient6419"
-       id="radialGradient9748"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.9995371,0,0,0.7968984,0.8239183,-14.559847)"
-       cx="-321.3125"
-       cy="-54.5"
-       fx="-321.3125"
-       fy="-54.5"
-       r="19.5" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient9903-6"
-       id="linearGradient9750"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.191964,0,0,0.2079637,291.64669,44.27776)"
-       x1="144.81967"
-       y1="211.73358"
-       x2="144.81967"
-       y2="92.016411" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient9383"
        id="linearGradient9766"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.9992051,0,0,1.0654472,309.03607,-237.0148)"
@@ -1098,49 +994,6 @@
        y1="89.226326"
        x2="325.95776"
        y2="59.923328" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4788-8-3-7"
-       id="radialGradient9832"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(-10.479519,4.604809e-6,-3.28125e-6,-7.4673937,3541.5388,510.10733)"
-       cx="326.0206"
-       cy="58"
-       fx="326.0206"
-       fy="58"
-       r="12.5" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4788-8-3-7"
-       id="radialGradient9834"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(-10.479519,4.604809e-6,-3.28125e-6,-7.4673937,3498.5388,510.10733)"
-       cx="326.0206"
-       cy="58"
-       fx="326.0206"
-       fy="58"
-       r="12.5" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient9903-9-1-3"
-       id="linearGradient9860"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-0.24078,-0.733591)"
-       x1="144.81967"
-       y1="211.73358"
-       x2="144.81967"
-       y2="70.266411" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient9944-2-2-2"
-       id="radialGradient9862"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.6563253,0,0,1.8749435,-239.86849,-190.1255)"
-       cx="144.81967"
-       cy="216.22002"
-       fx="144.81967"
-       fy="216.22002"
-       r="94.421112" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient9903-9-1-3"
@@ -1289,7 +1142,7 @@
          inkscape:label="256x256" />
       <text
          xml:space="preserve"
-         style="font-size:18.30070686px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="20.970737"
          y="21.513618"
          id="context"
@@ -1297,19 +1150,20 @@
            sodipodi:role="line"
            id="tspan2716"
            x="20.970737"
-           y="21.513618">apps</tspan></text>
+           y="21.513618"
+           style="font-size:18.30070686px;line-height:1.25">apps</tspan></text>
       <text
          inkscape:label="icon-name"
          id="text3021"
          y="21.513618"
          x="191.97073"
-         style="font-size:18.30070686px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
-         xml:space="preserve"
-         sodipodi:linespacing="125%"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
+         xml:space="preserve"><tspan
            y="21.513618"
            x="191.97073"
            id="tspan3023"
-           sodipodi:role="line">utilities-terminal</tspan></text>
+           sodipodi:role="line"
+           style="font-size:18.30070686px;line-height:1.25">utilities-terminal</tspan></text>
       <path
          style="opacity:0.29455285;fill:#729fcf;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          d="m 20.0625,30 0,238 0,18 237.9375,0 18,0 0.0625,0 0,-18 -0.0625,0 0,-238 -18,0 0,238 -219.9375,0 0,-238 -18,0 z"
@@ -1810,9 +1664,9 @@
            id="text9218"
            y="121.24543"
            x="351.56595"
-           style="font-size:5.34531212px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono';display:inline;fill:#ffffff;fill-opacity:1;stroke:none;enable-background:new"
            xml:space="preserve"><tspan
-             style="font-size:5.34531212px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Andale Mono;-inkscape-font-specification:Andale Mono"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.34531212px;line-height:1.25;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono'"
              y="121.24543"
              x="351.56595"
              id="tspan9220"
@@ -1822,9 +1676,9 @@
            id="text9222"
            y="121.24543"
            x="351.56595"
-           style="font-size:5.34531212px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;filter:url(#filter9226);enable-background:new;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono';display:inline;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter9226);enable-background:new"
            xml:space="preserve"><tspan
-             style="font-size:5.34531212px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Andale Mono;-inkscape-font-specification:Andale Mono"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.34531212px;line-height:1.25;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono'"
              y="121.24543"
              x="351.56595"
              id="tspan9224"
@@ -1839,9 +1693,9 @@
            id="text9238"
            y="121.24543"
            x="351.56595"
-           style="font-size:5.34531212px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono';display:inline;fill:#ffffff;fill-opacity:1;stroke:none;enable-background:new"
            xml:space="preserve"><tspan
-             style="font-size:5.34531212px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Andale Mono;-inkscape-font-specification:Andale Mono"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.34531212px;line-height:1.25;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono'"
              y="121.24543"
              x="351.56595"
              id="tspan9240"
@@ -1851,9 +1705,9 @@
            id="text9242"
            y="121.24543"
            x="351.56595"
-           style="font-size:5.34531212px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;filter:url(#filter9226);enable-background:new;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono';display:inline;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter9226);enable-background:new"
            xml:space="preserve"><tspan
-             style="font-size:5.34531212px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Andale Mono;-inkscape-font-specification:Andale Mono"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.34531212px;line-height:1.25;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono'"
              y="121.24543"
              x="351.56595"
              id="tspan9244"
@@ -1868,9 +1722,9 @@
            id="text9248"
            y="121.24543"
            x="351.56595"
-           style="font-size:5.34531212px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono';display:inline;fill:#ffffff;fill-opacity:1;stroke:none;enable-background:new"
            xml:space="preserve"><tspan
-             style="font-size:5.34531212px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Andale Mono;-inkscape-font-specification:Andale Mono"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.34531212px;line-height:1.25;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono'"
              y="121.24543"
              x="351.56595"
              id="tspan9250"
@@ -1880,9 +1734,9 @@
            id="text9252"
            y="121.24543"
            x="351.56595"
-           style="font-size:5.34531212px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;filter:url(#filter9226);enable-background:new;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono';display:inline;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter9226);enable-background:new"
            xml:space="preserve"><tspan
-             style="font-size:5.34531212px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Andale Mono;-inkscape-font-specification:Andale Mono"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.34531212px;line-height:1.25;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono'"
              y="121.24543"
              x="351.56595"
              id="tspan9254"
@@ -2068,7 +1922,7 @@
       </g>
       <text
          xml:space="preserve"
-         style="font-size:42.69302368px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono';display:inline;fill:#ffffff;fill-opacity:1;stroke:none;enable-background:new"
          x="69.825569"
          y="118.98814"
          id="text9057"
@@ -2077,10 +1931,10 @@
            id="tspan9059"
            x="69.825569"
            y="118.98814"
-           style="font-size:42.69302368px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Andale Mono;-inkscape-font-specification:Andale Mono">&gt;_</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.69302368px;line-height:1.25;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono'">&gt;_</tspan></text>
       <text
          xml:space="preserve"
-         style="font-size:29.45220184px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;filter:url(#filter9137);enable-background:new;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono';display:inline;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter9137);enable-background:new"
          x="60.27853"
          y="96.6688"
          id="text9129"
@@ -2089,13 +1943,13 @@
            id="tspan9131"
            x="60.27853"
            y="96.6688"
-           style="font-size:29.45220184px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Andale Mono;-inkscape-font-specification:Andale Mono">&gt;_</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.45220184px;line-height:1.25;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono'">&gt;_</tspan></text>
     </g>
     <g
        transform="matrix(0.4311233,0,0,0.4311233,83.148758,122.03731)"
        id="g8909" />
     <flowRoot
-       style="font-size:14.77845478px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:150%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;fill:#4c4c4c;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.02177777;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FifthLeg;-inkscape-font-specification:FifthLeg"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:FifthLeg;-inkscape-font-specification:FifthLeg;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#4c4c4c;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.02177777;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
        id="flowRoot8899"
        xml:space="preserve"><flowRegion
          id="flowRegion8901"><rect
@@ -2104,7 +1958,8 @@
            height="18"
            width="47"
            id="rect8903" /></flowRegion><flowPara
-         id="flowPara8905">more junk</flowPara></flowRoot>    <g
+         id="flowPara8905"
+         style="font-size:14.77845478px;line-height:1.5">more junk</flowPara></flowRoot>    <g
        transform="matrix(0.6441088,0,0,0.5665047,108.00825,190.605)"
        id="g9748" />
     <g
@@ -2178,16 +2033,16 @@
          id="text3072"
          y="21.513628"
          x="420.97073"
-         style="font-size:18.30070686px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          xml:space="preserve"><tspan
            y="21.513628"
            x="420.97073"
            id="tspan3074"
-           sodipodi:role="line">apps</tspan></text>
+           sodipodi:role="line"
+           style="font-size:18.30070686px;line-height:1.25">apps</tspan></text>
       <text
-         sodipodi:linespacing="125%"
          xml:space="preserve"
-         style="font-size:18.30070686px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="541.9707"
          y="21.513628"
          id="text3076"
@@ -2195,7 +2050,8 @@
            sodipodi:role="line"
            id="tspan3078"
            x="541.9707"
-           y="21.513628">utilities-system-monitor</tspan></text>
+           y="21.513628"
+           style="font-size:18.30070686px;line-height:1.25">utilities-system-monitor</tspan></text>
       <path
          style="opacity:0.29455285;fill:#729fcf;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          d="m 420.0625,30 0,238 0,18 237.9375,0 18,0 0.0625,0 0,-18 -0.0625,0 0,-238 -18,0 0,238 -219.9375,0 0,-238 -18,0 z"
@@ -5026,14 +4882,15 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot3338"
-       style="font-size:14.77845478px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:150%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;fill:#4c4c4c;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.02177777;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FifthLeg;-inkscape-font-specification:FifthLeg"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:FifthLeg;-inkscape-font-specification:FifthLeg;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#4c4c4c;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.02177777;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"><flowRegion
          id="flowRegion3340"><rect
            id="rect3342"
            width="47"
            height="18"
            x="181"
            y="89" /></flowRegion><flowPara
-         id="flowPara3344">more junk</flowPara></flowRoot>    <g
+         id="flowPara3344"
+         style="font-size:14.77845478px;line-height:1.5">more junk</flowPara></flowRoot>    <g
        id="g3346"
        transform="matrix(0.6441088,0,0,0.5665047,108.00825,190.605)" />
     <g

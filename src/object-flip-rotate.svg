@@ -16,7 +16,7 @@
    inkscape:export-xdpi="90.000000"
    inkscape:export-ydpi="90.000000"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
-   inkscape:version="0.47 r22583"
+   inkscape:version="0.92.4 (unknown)"
    sodipodi:docname="object-flip-rotate.svg"
    sodipodi:version="0.32"
    style="display:inline;enable-background:new"
@@ -61,7 +61,7 @@
      height="300px"
      id="base"
      inkscape:current-layer="g10249-8"
-     inkscape:cx="426.05655"
+     inkscape:cx="428.05655"
      inkscape:cy="164.76691"
      inkscape:document-units="px"
      inkscape:grid-bbox="true"
@@ -74,7 +74,7 @@
      inkscape:window-height="938"
      inkscape:window-width="1177"
      inkscape:window-x="95"
-     inkscape:window-y="0"
+     inkscape:window-y="25"
      inkscape:zoom="1"
      objecttolerance="7"
      pagecolor="#ffffff"
@@ -89,11 +89,13 @@
        empspacing="2"
        enabled="true"
        id="grid5883"
-       spacingx="0.5px"
-       spacingy="0.5px"
+       spacingx="0.5"
+       spacingy="0.5"
        type="xygrid"
        visible="true"
-       snapvisiblegridlinesonly="true" />
+       snapvisiblegridlinesonly="true"
+       originx="0"
+       originy="0" />
     <inkscape:grid
        type="xygrid"
        id="grid3499"
@@ -104,30 +106,6 @@
   </sodipodi:namedview>
   <defs
      id="defs3">
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient5230">
-      <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
-         offset="0"
-         id="stop5232" />
-      <stop
-         style="stop-color:#ffffff;stop-opacity:0;"
-         offset="1"
-         id="stop5234" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient5200">
-      <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
-         offset="0"
-         id="stop5202" />
-      <stop
-         style="stop-color:#ffffff;stop-opacity:0;"
-         offset="1"
-         id="stop5204" />
-    </linearGradient>
     <linearGradient
        id="linearGradient4051">
       <stop
@@ -1451,28 +1429,6 @@
          x="103.00037"
          y="166" />
     </mask>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient10243-4-3-9-5"
-       id="linearGradient4758-7"
-       gradientUnits="userSpaceOnUse"
-       x1="126.86459"
-       y1="382"
-       x2="134.99556"
-       y2="382"
-       gradientTransform="translate(0,-200)" />
-    <linearGradient
-       id="linearGradient10243-4-3-9-5"
-       inkscape:collect="always">
-      <stop
-         id="stop10245-7-3-9-3"
-         offset="0"
-         style="stop-color:#ffffff;stop-opacity:1;" />
-      <stop
-         id="stop10247-5-3-0-1"
-         offset="1"
-         style="stop-color:#000000;stop-opacity:1" />
-    </linearGradient>
     <mask
        maskUnits="userSpaceOnUse"
        id="mask4754-6-3">
@@ -1687,24 +1643,6 @@
        inkscape:collect="always" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient5200"
-       id="linearGradient5206"
-       x1="117.5"
-       y1="182.50089"
-       x2="117.5"
-       y2="173.625"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient5230"
-       id="linearGradient5236"
-       x1="113.75"
-       y1="172.11932"
-       x2="113.75"
-       y2="181.25"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient5200-5"
        id="linearGradient5206-9"
        x1="117.5"
@@ -1793,26 +1731,27 @@
       <text
          id="context"
          inkscape:label="context"
-         style="font-size:18.30070686px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="780.9707"
          xml:space="preserve"
          y="191.51361"><tspan
            id="tspan2716"
            sodipodi:role="line"
            x="780.9707"
-           y="191.51361">actions</tspan></text>
+           y="191.51361"
+           style="font-size:18.30070686px;line-height:1.25">actions</tspan></text>
       <text
          id="icon-name"
          inkscape:label="icon-name"
-         sodipodi:linespacing="125%"
-         style="font-size:18.30070686px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="861.97089"
          xml:space="preserve"
          y="191.51361"><tspan
            id="tspan3023"
            sodipodi:role="line"
            x="861.97089"
-           y="191.51361">object-flip-horizontal</tspan></text>
+           y="191.51361"
+           style="font-size:18.30070686px;line-height:1.25">object-flip-horizontal</tspan></text>
       <rect
          y="216"
          x="22"
@@ -2041,25 +1980,26 @@
          y="221.51361"
          xml:space="preserve"
          x="780.97089"
-         style="font-size:18.30070686px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          inkscape:label="context"
          id="text5039"><tspan
            y="221.51361"
            x="780.97089"
            sodipodi:role="line"
-           id="tspan5041">actions</tspan></text>
+           id="tspan5041"
+           style="font-size:18.30070686px;line-height:1.25">actions</tspan></text>
       <text
          y="221.51361"
          xml:space="preserve"
          x="861.97089"
-         style="font-size:18.30070686px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
-         sodipodi:linespacing="125%"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          inkscape:label="icon-name"
          id="text5043"><tspan
            y="221.51361"
            x="861.97089"
            sodipodi:role="line"
-           id="tspan5201">object-flip-vertical</tspan></text>
+           id="tspan5201"
+           style="font-size:18.30070686px;line-height:1.25">object-flip-vertical</tspan></text>
       <rect
          height="24"
          id="rect5047"
@@ -2258,26 +2198,27 @@
       <text
          id="text3204"
          inkscape:label="context"
-         style="font-size:18.30070686px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="780.97113"
          xml:space="preserve"
          y="251.51361"><tspan
            id="tspan3206"
            sodipodi:role="line"
            x="780.97113"
-           y="251.51361">actions</tspan></text>
+           y="251.51361"
+           style="font-size:18.30070686px;line-height:1.25">actions</tspan></text>
       <text
          id="text3208"
          inkscape:label="icon-name"
-         sodipodi:linespacing="125%"
-         style="font-size:18.30070686px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="861.97089"
          xml:space="preserve"
          y="251.51361"><tspan
            id="tspan3210"
            sodipodi:role="line"
            x="861.97089"
-           y="251.51361">object-rotate-left</tspan></text>
+           y="251.51361"
+           style="font-size:18.30070686px;line-height:1.25">object-rotate-left</tspan></text>
       <rect
          height="24"
          id="rect3212"
@@ -2501,25 +2442,26 @@
          y="281.51361"
          xml:space="preserve"
          x="780.97113"
-         style="font-size:18.30070686px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          inkscape:label="context"
          id="text6705"><tspan
            y="281.51361"
            x="780.97113"
            sodipodi:role="line"
-           id="tspan6707">actions</tspan></text>
+           id="tspan6707"
+           style="font-size:18.30070686px;line-height:1.25">actions</tspan></text>
       <text
          y="281.51361"
          xml:space="preserve"
          x="861.97089"
-         style="font-size:18.30070686px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
-         sodipodi:linespacing="125%"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          inkscape:label="icon-name"
          id="text6709"><tspan
            y="281.51361"
            x="861.97089"
            sodipodi:role="line"
-           id="tspan6711">object-rotate-right</tspan></text>
+           id="tspan6711"
+           style="font-size:18.30070686px;line-height:1.25">object-rotate-right</tspan></text>
       <rect
          y="216"
          x="112"

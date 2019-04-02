@@ -16,8 +16,8 @@
    inkscape:export-xdpi="90.000000"
    inkscape:export-ydpi="90.000000"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
-   inkscape:version="0.48+devel r11908 custom"
-   sodipodi:docname="weather.svg"
+   inkscape:version="0.92.4 (unknown)"
+   sodipodi:docname="weather-icons.svg"
    sodipodi:version="0.32"
    style="display:inline;enable-background:new"
    version="1.0"
@@ -87,10 +87,12 @@
        empspacing="2"
        enabled="true"
        id="grid5883"
-       spacingx="0.5px"
-       spacingy="0.5px"
+       spacingx="0.5"
+       spacingy="0.5"
        type="xygrid"
-       visible="true" />
+       visible="true"
+       originx="0"
+       originy="0" />
   </sodipodi:namedview>
   <defs
      id="defs3">
@@ -3186,26 +3188,27 @@
       <text
          id="context"
          inkscape:label="context"
-         style="font-size:18.30070686px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="20.971115"
          xml:space="preserve"
          y="-578.48639"><tspan
            id="tspan2716"
            sodipodi:role="line"
            x="20.971115"
-           y="-578.48639">status</tspan></text>
+           y="-578.48639"
+           style="font-size:18.30070686px;line-height:1.25">status</tspan></text>
       <text
          id="icon-name"
          inkscape:label="icon-name"
-         sodipodi:linespacing="125%"
-         style="font-size:18.30070686px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="191.97112"
          xml:space="preserve"
          y="-578.48639"><tspan
            id="tspan3023"
            sodipodi:role="line"
            x="191.97112"
-           y="-578.48639">weather-clear</tspan></text>
+           y="-578.48639"
+           style="font-size:18.30070686px;line-height:1.25">weather-clear</tspan></text>
     </g>
     <g
        id="layer2"
@@ -3404,26 +3407,27 @@
       <text
          id="context-3"
          inkscape:label="context"
-         style="font-size:18.30070686px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="420.97113"
          xml:space="preserve"
          y="21.513611"><tspan
            id="tspan2716-4"
            sodipodi:role="line"
            x="420.97113"
-           y="21.513611">status</tspan></text>
+           y="21.513611"
+           style="font-size:18.30070686px;line-height:1.25">status</tspan></text>
       <text
          id="icon-name-9"
          inkscape:label="icon-name"
-         sodipodi:linespacing="125%"
-         style="font-size:18.30070686px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="591.97113"
          xml:space="preserve"
          y="21.513611"><tspan
            id="tspan3023-5"
            sodipodi:role="line"
            x="591.97113"
-           y="21.513611">weather-clear-night</tspan></text>
+           y="21.513611"
+           style="font-size:18.30070686px;line-height:1.25">weather-clear-night</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
@@ -3949,26 +3953,27 @@
       <text
          id="context-1"
          inkscape:label="context"
-         style="font-size:18.30070686px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="820.97113"
          xml:space="preserve"
          y="21.513611"><tspan
            id="tspan2716-8"
            sodipodi:role="line"
            x="820.97113"
-           y="21.513611">status</tspan></text>
+           y="21.513611"
+           style="font-size:18.30070686px;line-height:1.25">status</tspan></text>
       <text
          id="icon-name-7"
          inkscape:label="icon-name"
-         sodipodi:linespacing="125%"
-         style="font-size:18.30070686px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="991.97113"
          xml:space="preserve"
          y="21.513611"><tspan
            id="tspan3023-9"
            sodipodi:role="line"
            x="991.97113"
-           y="21.513611">weather-few-clouds</tspan></text>
+           y="21.513611"
+           style="font-size:18.30070686px;line-height:1.25">weather-few-clouds</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
@@ -4245,26 +4250,27 @@
       <text
          id="context-2"
          inkscape:label="context"
-         style="font-size:18.30070686px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="1220.9711"
          xml:space="preserve"
          y="21.513611"><tspan
            id="tspan2716-3"
            sodipodi:role="line"
            x="1220.9711"
-           y="21.513611">status</tspan></text>
+           y="21.513611"
+           style="font-size:18.30070686px;line-height:1.25">status</tspan></text>
       <text
          id="icon-name-91"
          inkscape:label="icon-name"
-         sodipodi:linespacing="125%"
-         style="font-size:18.30070686px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="1391.9711"
          xml:space="preserve"
          y="21.513611"><tspan
            id="tspan3023-0"
            sodipodi:role="line"
            x="1391.9711"
-           y="21.513611">weather-few-clouds-night</tspan></text>
+           y="21.513611"
+           style="font-size:18.30070686px;line-height:1.25">weather-few-clouds-night</tspan></text>
     </g>
     <g
        inkscape:label="small sizes"
@@ -4746,26 +4752,27 @@
       <text
          id="context-24"
          inkscape:label="context"
-         style="font-size:18.30070686px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="20.971115"
          xml:space="preserve"
          y="321.51361"><tspan
            id="tspan2716-9"
            sodipodi:role="line"
            x="20.971115"
-           y="321.51361">status</tspan></text>
+           y="321.51361"
+           style="font-size:18.30070686px;line-height:1.25">status</tspan></text>
       <text
          id="icon-name-95"
          inkscape:label="icon-name"
-         sodipodi:linespacing="125%"
-         style="font-size:18.30070686px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="191.97112"
          xml:space="preserve"
          y="321.51361"><tspan
            id="tspan3023-1"
            sodipodi:role="line"
            x="191.97112"
-           y="321.51361">weather-fog</tspan></text>
+           y="321.51361"
+           style="font-size:18.30070686px;line-height:1.25">weather-fog</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
@@ -5051,26 +5058,27 @@
       <text
          id="context-4"
          inkscape:label="context"
-         style="font-size:18.30070686px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="420.97113"
          xml:space="preserve"
          y="321.51361"><tspan
            id="tspan2716-6"
            sodipodi:role="line"
            x="420.97113"
-           y="321.51361">status</tspan></text>
+           y="321.51361"
+           style="font-size:18.30070686px;line-height:1.25">status</tspan></text>
       <text
          id="icon-name-3"
          inkscape:label="icon-name"
-         sodipodi:linespacing="125%"
-         style="font-size:18.30070686px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="591.97113"
          xml:space="preserve"
          y="321.51361"><tspan
            id="tspan3023-7"
            sodipodi:role="line"
            x="591.97113"
-           y="321.51361">weather-overcast</tspan></text>
+           y="321.51361"
+           style="font-size:18.30070686px;line-height:1.25">weather-overcast</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
@@ -5209,26 +5217,27 @@
       <text
          id="context-8"
          inkscape:label="context"
-         style="font-size:18.30070686px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="820.97113"
          xml:space="preserve"
          y="321.51361"><tspan
            id="tspan2716-41"
            sodipodi:role="line"
            x="820.97113"
-           y="321.51361">status</tspan></text>
+           y="321.51361"
+           style="font-size:18.30070686px;line-height:1.25">status</tspan></text>
       <text
          id="icon-name-2"
          inkscape:label="icon-name"
-         sodipodi:linespacing="125%"
-         style="font-size:18.30070686px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="991.97113"
          xml:space="preserve"
          y="321.51361"><tspan
            id="tspan3023-3"
            sodipodi:role="line"
            x="991.97113"
-           y="321.51361">weather-showers-scattered</tspan></text>
+           y="321.51361"
+           style="font-size:18.30070686px;line-height:1.25">weather-showers-scattered</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
@@ -5553,26 +5562,27 @@
       <text
          id="context-32"
          inkscape:label="context"
-         style="font-size:18.30070686px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="1220.9711"
          xml:space="preserve"
          y="321.51361"><tspan
            id="tspan2716-33"
            sodipodi:role="line"
            x="1220.9711"
-           y="321.51361">status</tspan></text>
+           y="321.51361"
+           style="font-size:18.30070686px;line-height:1.25">status</tspan></text>
       <text
          id="icon-name-6"
          inkscape:label="icon-name"
-         sodipodi:linespacing="125%"
-         style="font-size:18.30070686px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="1391.9711"
          xml:space="preserve"
          y="321.51361"><tspan
            id="tspan3023-4"
            sodipodi:role="line"
            x="1391.9711"
-           y="321.51361">weather-showers</tspan></text>
+           y="321.51361"
+           style="font-size:18.30070686px;line-height:1.25">weather-showers</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
@@ -5965,26 +5975,27 @@
       <text
          id="context-5"
          inkscape:label="context"
-         style="font-size:18.30070686px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="20.970737"
          xml:space="preserve"
          y="621.51361"><tspan
            id="tspan2716-1"
            sodipodi:role="line"
            x="20.970737"
-           y="621.51361">status</tspan></text>
+           y="621.51361"
+           style="font-size:18.30070686px;line-height:1.25">status</tspan></text>
       <text
          id="icon-name-0"
          inkscape:label="icon-name"
-         sodipodi:linespacing="125%"
-         style="font-size:18.30070686px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="191.97073"
          xml:space="preserve"
          y="621.51361"><tspan
            id="tspan3023-54"
            sodipodi:role="line"
            x="191.97073"
-           y="621.51361">weather-storm</tspan></text>
+           y="621.51361"
+           style="font-size:18.30070686px;line-height:1.25">weather-storm</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
@@ -6271,26 +6282,27 @@
       <text
          id="context-44"
          inkscape:label="context"
-         style="font-size:18.30070686px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="420.97113"
          xml:space="preserve"
          y="621.51361"><tspan
            id="tspan2716-5"
            sodipodi:role="line"
            x="420.97113"
-           y="621.51361">status</tspan></text>
+           y="621.51361"
+           style="font-size:18.30070686px;line-height:1.25">status</tspan></text>
       <text
          id="icon-name-69"
          inkscape:label="icon-name"
-         sodipodi:linespacing="125%"
-         style="font-size:18.30070686px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="591.97113"
          xml:space="preserve"
          y="621.51361"><tspan
            id="tspan3023-15"
            sodipodi:role="line"
            x="591.97113"
-           y="621.51361">weather-severe-alert</tspan></text>
+           y="621.51361"
+           style="font-size:18.30070686px;line-height:1.25">weather-severe-alert</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
@@ -6669,26 +6681,27 @@
       <text
          id="context-59"
          inkscape:label="context"
-         style="font-size:18.30070686px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="820.97113"
          xml:space="preserve"
          y="621.51361"><tspan
            id="tspan2716-47"
            sodipodi:role="line"
            x="820.97113"
-           y="621.51361">status</tspan></text>
+           y="621.51361"
+           style="font-size:18.30070686px;line-height:1.25">status</tspan></text>
       <text
          id="icon-name-1"
          inkscape:label="icon-name"
-         sodipodi:linespacing="125%"
-         style="font-size:18.30070686px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="991.97113"
          xml:space="preserve"
          y="621.51361"><tspan
            id="tspan3023-07"
            sodipodi:role="line"
            x="991.97113"
-           y="621.51361">weather-snow</tspan></text>
+           y="621.51361"
+           style="font-size:18.30070686px;line-height:1.25">weather-snow</tspan></text>
     </g>
     <g
        inkscape:label="small sizes"

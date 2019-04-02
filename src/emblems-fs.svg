@@ -17,7 +17,7 @@
    height="300"
    id="svg11300"
    sodipodi:version="0.32"
-   inkscape:version="0.48+devel r12226 custom"
+   inkscape:version="0.92.4 (unknown)"
    sodipodi:docname="emblems-fs.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.0"
@@ -34,17 +34,17 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="772.2635"
+     inkscape:cx="774.2635"
      inkscape:cy="131.05845"
      inkscape:current-layer="layer10"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:showpageshadow="false"
-     inkscape:window-width="2560"
-     inkscape:window-height="1381"
-     inkscape:window-x="2560"
-     inkscape:window-y="27"
+     inkscape:window-width="1680"
+     inkscape:window-height="966"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
      width="400px"
      height="300px"
      inkscape:snap-nodes="false"
@@ -58,21 +58,25 @@
     <inkscape:grid
        visible="true"
        enabled="true"
-       spacingy="1px"
-       spacingx="1px"
+       spacingy="1"
+       spacingx="1"
        id="grid5883"
        type="xygrid"
        empspacing="4"
-       snapvisiblegridlinesonly="true" />
+       snapvisiblegridlinesonly="true"
+       originx="0"
+       originy="0" />
     <inkscape:grid
        type="xygrid"
        id="grid4276"
        visible="true"
        enabled="true"
-       spacingx="0.5px"
-       spacingy="0.5px"
+       spacingx="0.5"
+       spacingy="0.5"
        empspacing="2"
-       snapvisiblegridlinesonly="true" />
+       snapvisiblegridlinesonly="true"
+       originx="0"
+       originy="0" />
   </sodipodi:namedview>
   <defs
      id="defs3">
@@ -1635,16 +1639,16 @@
          id="context"
          y="21.513618"
          x="20.970737"
-         style="font-size:18.30070686px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          xml:space="preserve"><tspan
            y="21.513618"
            x="20.970737"
            id="tspan2716"
-           sodipodi:role="line">emblems</tspan></text>
+           sodipodi:role="line"
+           style="font-size:18.30070686px;line-height:1.25">emblems</tspan></text>
       <text
-         sodipodi:linespacing="125%"
          xml:space="preserve"
-         style="font-size:18.30070686px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="131.97073"
          y="21.513618"
          id="text3021"
@@ -1652,7 +1656,8 @@
            sodipodi:role="line"
            id="tspan3023"
            x="131.97073"
-           y="21.513618">emblem-symbolic-link</tspan></text>
+           y="21.513618"
+           style="font-size:18.30070686px;line-height:1.25">emblem-symbolic-link</tspan></text>
       <rect
          inkscape:label="8x8"
          y="257"
@@ -2098,16 +2103,16 @@
          id="text8641"
          y="21.513618"
          x="420.97073"
-         style="font-size:18.30070686px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          xml:space="preserve"><tspan
            y="21.513618"
            x="420.97073"
            id="tspan8643"
-           sodipodi:role="line">emblems</tspan></text>
+           sodipodi:role="line"
+           style="font-size:18.30070686px;line-height:1.25">emblems</tspan></text>
       <text
-         sodipodi:linespacing="125%"
          xml:space="preserve"
-         style="font-size:17.80428123px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="567.44537"
          y="20.93004"
          id="text8645"
@@ -2116,7 +2121,8 @@
            sodipodi:role="line"
            x="567.44537"
            y="20.93004"
-           id="tspan8198">emblem-unreadable</tspan></text>
+           id="tspan8198"
+           style="font-size:17.80428123px;line-height:1.25">emblem-unreadable</tspan></text>
       <rect
          inkscape:label="8x8"
          y="257"
@@ -3160,16 +3166,16 @@
          id="text3107"
          y="21.513618"
          x="820.9707"
-         style="font-size:18.30070686px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          xml:space="preserve"><tspan
            y="21.513618"
            x="820.9707"
            id="tspan3109"
-           sodipodi:role="line">emblems</tspan></text>
+           sodipodi:role="line"
+           style="font-size:18.30070686px;line-height:1.25">emblems</tspan></text>
       <text
-         sodipodi:linespacing="125%"
          xml:space="preserve"
-         style="font-size:17.80428123px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="999.15588"
          y="20.93004"
          id="text3111"
@@ -3178,7 +3184,8 @@
            sodipodi:role="line"
            id="tspan3113"
            x="999.15588"
-           y="20.93004">emblem-readonly</tspan></text>
+           y="20.93004"
+           style="font-size:17.80428123px;line-height:1.25">emblem-readonly</tspan></text>
       <rect
          inkscape:label="8x8"
          y="257"

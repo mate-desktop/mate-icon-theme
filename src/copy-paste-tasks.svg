@@ -16,7 +16,7 @@
    inkscape:export-xdpi="90.000000"
    inkscape:export-ydpi="90.000000"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
-   inkscape:version="0.47pre4 r22446"
+   inkscape:version="0.92.4 (unknown)"
    sodipodi:docname="copy-paste-tasks.svg"
    sodipodi:version="0.32"
    style="display:inline;enable-background:new"
@@ -61,7 +61,7 @@
      height="300px"
      id="base"
      inkscape:current-layer="layer5"
-     inkscape:cx="363.04808"
+     inkscape:cx="365.04808"
      inkscape:cy="276.24693"
      inkscape:document-units="px"
      inkscape:grid-bbox="true"
@@ -88,21 +88,16 @@
        empspacing="2"
        enabled="true"
        id="grid5883"
-       spacingx="0.5px"
-       spacingy="0.5px"
+       spacingx="0.5"
+       spacingy="0.5"
        type="xygrid"
        visible="true"
-       snapvisiblegridlinesonly="true" />
+       snapvisiblegridlinesonly="true"
+       originx="0"
+       originy="0" />
   </sodipodi:namedview>
   <defs
      id="defs3">
-    <inkscape:perspective
-       sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="0 : 150 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_z="1200 : 150 : 1"
-       inkscape:persp3d-origin="600 : 100 : 1"
-       id="perspective390" />
     <linearGradient
        id="linearGradient8387">
       <stop
@@ -934,104 +929,6 @@
          offset="1"
          id="stop16-paper-sheet-orig-8-4-8-9-3-9-9-7-5" />
     </linearGradient>
-    <linearGradient
-       id="linearGradient3-paper-sheet-orig-08-1-7-9-4-5-4-8-5-3">
-      <stop
-         style="stop-color: rgb(255, 255, 255); stop-opacity: 1;"
-         offset="0"
-         id="stop6-paper-sheet-orig-1-0-9-5-1-7-5-9-9-3" />
-      <stop
-         style="stop-color: rgb(211, 215, 207); stop-opacity: 1;"
-         offset="1"
-         id="stop7-paper-sheet-orig-2-0-1-5-7-0-3-8-3-7" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient3-paper-sheet-orig-08-1-7-9-4-5-4-8-5-3-6">
-      <stop
-         style="stop-color: rgb(255, 255, 255); stop-opacity: 1;"
-         offset="0"
-         id="stop6-paper-sheet-orig-1-0-9-5-1-7-5-9-9-3-6" />
-      <stop
-         style="stop-color: rgb(211, 215, 207); stop-opacity: 1;"
-         offset="1"
-         id="stop7-paper-sheet-orig-2-0-1-5-7-0-3-8-3-7-6" />
-    </linearGradient>
-    <inkscape:perspective
-       id="perspective4261"
-       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
-       inkscape:vp_z="1 : 0.5 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_x="0 : 0.5 : 1"
-       sodipodi:type="inkscape:persp3d" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3881-2-4-1-0"
-       id="linearGradient3217-4"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(296,52)"
-       x1="24.635435"
-       y1="3.5194116"
-       x2="24.635435"
-       y2="11.540999" />
-    <linearGradient
-       id="linearGradient3881-2-4-1-0">
-      <stop
-         style="stop-color:#babdb6;stop-opacity:1"
-         offset="0"
-         id="stop3883-6-8-8-0" />
-      <stop
-         id="stop3895-6-7-4-2"
-         offset="0.13349205"
-         style="stop-color:#eeeeec;stop-opacity:1" />
-      <stop
-         id="stop3891-1-9-4-5"
-         offset="0.53102833"
-         style="stop-color:#babdb6;stop-opacity:1" />
-      <stop
-         style="stop-color:#eeeeec;stop-opacity:1"
-         offset="0.78738999"
-         id="stop3893-0-9-8-8" />
-      <stop
-         style="stop-color:#9c988a;stop-opacity:1;"
-         offset="1"
-         id="stop3885-35-2-2-7" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3869-39-6-5-7"
-       id="linearGradient3219-4"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(296,50)"
-       x1="32.911613"
-       y1="14.114658"
-       x2="32.911613"
-       y2="0.35210887" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient3869-39-6-5-7">
-      <stop
-         style="stop-color:#555753;stop-opacity:1;"
-         offset="0"
-         id="stop3871-72-8-0-2" />
-      <stop
-         style="stop-color:#babdb6;stop-opacity:1"
-         offset="1"
-         id="stop3873-7-4-7-7" />
-    </linearGradient>
-    <inkscape:perspective
-       id="perspective4324"
-       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
-       inkscape:vp_z="1 : 0.5 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_x="0 : 0.5 : 1"
-       sodipodi:type="inkscape:persp3d" />
-    <inkscape:perspective
-       id="perspective4372"
-       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
-       inkscape:vp_z="1 : 0.5 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_x="0 : 0.5 : 1"
-       sodipodi:type="inkscape:persp3d" />
     <radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3-paper-sheet-orig-08-1-7-9-4-5-4-8-5-3-5"
@@ -1075,237 +972,6 @@
          style="stop-color: rgb(186, 189, 182); stop-opacity: 1;"
          offset="1"
          id="stop16-paper-sheet-orig-8-4-8-9-3-9-9-7-5-6-0" />
-    </linearGradient>
-    <inkscape:perspective
-       id="perspective4442"
-       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
-       inkscape:vp_z="1 : 0.5 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_x="0 : 0.5 : 1"
-       sodipodi:type="inkscape:persp3d" />
-    <linearGradient
-       id="linearGradient3-paper-sheet-orig-08-1-7-9-4-5-4-8-5-3-6-9">
-      <stop
-         style="stop-color: rgb(255, 255, 255); stop-opacity: 1;"
-         offset="0"
-         id="stop6-paper-sheet-orig-1-0-9-5-1-7-5-9-9-3-6-0" />
-      <stop
-         style="stop-color: rgb(211, 215, 207); stop-opacity: 1;"
-         offset="1"
-         id="stop7-paper-sheet-orig-2-0-1-5-7-0-3-8-3-7-6-7" />
-    </linearGradient>
-    <inkscape:perspective
-       id="perspective2911"
-       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
-       inkscape:vp_z="1 : 0.5 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_x="0 : 0.5 : 1"
-       sodipodi:type="inkscape:persp3d" />
-    <linearGradient
-       gradientTransform="matrix(0.9716096,0,0,1.283333,-40.47809,-6.1310478)"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient5968"
-       inkscape:collect="always"
-       x1="37.926636"
-       x2="5.4959755"
-       xlink:href="#linearGradient6732"
-       y1="37.668934"
-       y2="10.982666" />
-    <linearGradient
-       id="linearGradient6732">
-      <stop
-         id="stop6734"
-         offset="0"
-         style="stop-color:#ffffff;stop-opacity:1;" />
-      <stop
-         id="stop6736"
-         offset="1"
-         style="stop-color:#dddddd;stop-opacity:1;" />
-    </linearGradient>
-    <inkscape:perspective
-       id="perspective2930"
-       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
-       inkscape:vp_z="1 : 0.5 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_x="0 : 0.5 : 1"
-       sodipodi:type="inkscape:persp3d" />
-    <linearGradient
-       gradientTransform="matrix(0.9716096,0,0,1.283333,-40.47809,-6.1310478)"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient5968-8"
-       inkscape:collect="always"
-       x1="37.926636"
-       x2="5.4959755"
-       xlink:href="#linearGradient6732-0"
-       y1="37.668934"
-       y2="10.982666" />
-    <linearGradient
-       id="linearGradient6732-0">
-      <stop
-         id="stop6734-3"
-         offset="0"
-         style="stop-color:#ffffff;stop-opacity:1;" />
-      <stop
-         id="stop6736-8"
-         offset="1"
-         style="stop-color:#dddddd;stop-opacity:1;" />
-    </linearGradient>
-    <inkscape:perspective
-       id="perspective2949"
-       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
-       inkscape:vp_z="1 : 0.5 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_x="0 : 0.5 : 1"
-       sodipodi:type="inkscape:persp3d" />
-    <inkscape:perspective
-       id="perspective2964"
-       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
-       inkscape:vp_z="1 : 0.5 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_x="0 : 0.5 : 1"
-       sodipodi:type="inkscape:persp3d" />
-    <inkscape:perspective
-       id="perspective2980"
-       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
-       inkscape:vp_z="1 : 0.5 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_x="0 : 0.5 : 1"
-       sodipodi:type="inkscape:persp3d" />
-    <linearGradient
-       id="linearGradient6732-3">
-      <stop
-         id="stop6734-6"
-         offset="0"
-         style="stop-color:#ffffff;stop-opacity:1;" />
-      <stop
-         id="stop6736-7"
-         offset="1"
-         style="stop-color:#dddddd;stop-opacity:1;" />
-    </linearGradient>
-    <inkscape:perspective
-       id="perspective4691"
-       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
-       inkscape:vp_z="1 : 0.5 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_x="0 : 0.5 : 1"
-       sodipodi:type="inkscape:persp3d" />
-    <linearGradient
-       id="linearGradient3-paper-sheet-orig-08-1-7-9-4-5-4-8-5-3-6-9-0">
-      <stop
-         style="stop-color: rgb(255, 255, 255); stop-opacity: 1;"
-         offset="0"
-         id="stop6-paper-sheet-orig-1-0-9-5-1-7-5-9-9-3-6-0-0" />
-      <stop
-         style="stop-color: rgb(211, 215, 207); stop-opacity: 1;"
-         offset="1"
-         id="stop7-paper-sheet-orig-2-0-1-5-7-0-3-8-3-7-6-7-0" />
-    </linearGradient>
-    <inkscape:perspective
-       id="perspective3008"
-       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
-       inkscape:vp_z="1 : 0.5 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_x="0 : 0.5 : 1"
-       sodipodi:type="inkscape:persp3d" />
-    <inkscape:perspective
-       id="perspective4782"
-       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
-       inkscape:vp_z="1 : 0.5 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_x="0 : 0.5 : 1"
-       sodipodi:type="inkscape:persp3d" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3-paper-sheet-orig-08-1-7-9-4-5-4-8-5-3-6-9-0-0"
-       id="radialGradient5710-7-7-0-2-4-3-8"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.71342738,0,0,0.40465722,276.36115,155.11398)"
-       cx="50.32478"
-       cy="184.42899"
-       fx="50.32478"
-       fy="184.42899"
-       r="18.000002" />
-    <linearGradient
-       id="linearGradient3-paper-sheet-orig-08-1-7-9-4-5-4-8-5-3-6-9-0-0">
-      <stop
-         style="stop-color: rgb(255, 255, 255); stop-opacity: 1;"
-         offset="0"
-         id="stop6-paper-sheet-orig-1-0-9-5-1-7-5-9-9-3-6-0-0-6" />
-      <stop
-         style="stop-color: rgb(211, 215, 207); stop-opacity: 1;"
-         offset="1"
-         id="stop7-paper-sheet-orig-2-0-1-5-7-0-3-8-3-7-6-7-0-7" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient10-paper-sheet-orig-3-03-7-2-8-5-3-1-0-6-1-4-6-5"
-       id="linearGradient5712-4-4-6-9-9-8-1"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.99074986,0,0,0.99255731,355.51437,51.261536)"
-       x1="-47.073864"
-       y1="187.23497"
-       x2="-50.999737"
-       y2="170.5" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient10-paper-sheet-orig-3-03-7-2-8-5-3-1-0-6-1-4-6-5">
-      <stop
-         style="stop-color: rgb(85, 87, 83); stop-opacity: 1;"
-         offset="0"
-         id="stop15-paper-sheet-orig-7-42-5-7-4-5-4-9-2-0-0-9-4-6" />
-      <stop
-         style="stop-color: rgb(186, 189, 182); stop-opacity: 1;"
-         offset="1"
-         id="stop16-paper-sheet-orig-8-4-8-9-3-9-9-7-5-6-2-8-9-7" />
-    </linearGradient>
-    <inkscape:perspective
-       id="perspective4836"
-       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
-       inkscape:vp_z="1 : 0.5 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_x="0 : 0.5 : 1"
-       sodipodi:type="inkscape:persp3d" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient5772-1-9"
-       id="linearGradient4677-2"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(303,-127)"
-       x1="25.5"
-       y1="-13.625"
-       x2="26"
-       y2="-39.125" />
-    <linearGradient
-       id="linearGradient5772-1-9">
-      <stop
-         id="stop5774-8-8"
-         offset="0"
-         style="stop-color:#e2b369;stop-opacity:1" />
-      <stop
-         id="stop5776-7-9"
-         offset="1"
-         style="stop-color:#c79b55;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3968-1-9"
-       id="linearGradient4679-6"
-       gradientUnits="userSpaceOnUse"
-       x1="314.77817"
-       y1="-154.31371"
-       x2="307"
-       y2="-107.11433" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient3968-1-9">
-      <stop
-         style="stop-color:#8f5902;stop-opacity:1"
-         offset="0"
-         id="stop3970-9-0" />
-      <stop
-         style="stop-color:#e9b96e;stop-opacity:1"
-         offset="1"
-         id="stop3972-0-7" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
@@ -1544,13 +1210,6 @@
        y1="-9.017684"
        x2="14.787762"
        y2="-69.468956" />
-    <inkscape:perspective
-       id="perspective5261"
-       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
-       inkscape:vp_z="1 : 0.5 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_x="0 : 0.5 : 1"
-       sodipodi:type="inkscape:persp3d" />
     <filter
        color-interpolation-filters="sRGB"
        height="1.9040724"
@@ -1565,28 +1224,6 @@
          stdDeviation="1.4691176" />
     </filter>
     <linearGradient
-       id="linearGradient6732-0-4">
-      <stop
-         id="stop6734-3-7"
-         offset="0"
-         style="stop-color:#ffffff;stop-opacity:1;" />
-      <stop
-         id="stop6736-8-0"
-         offset="1"
-         style="stop-color:#dddddd;stop-opacity:1;" />
-    </linearGradient>
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3-paper-sheet-orig-08-1-7-9-4-5-4-8-5-3-6-9-8"
-       id="radialGradient5710-7-7-0-2-4-8"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.7200883,0,0,0.40769154,276.10776,154.63118)"
-       cx="50.32478"
-       cy="184.42899"
-       fx="50.32478"
-       fy="184.42899"
-       r="18.000002" />
-    <linearGradient
        id="linearGradient3-paper-sheet-orig-08-1-7-9-4-5-4-8-5-3-6-9-8">
       <stop
          style="stop-color: rgb(255, 255, 255); stop-opacity: 1;"
@@ -1599,16 +1236,6 @@
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient10-paper-sheet-orig-3-03-7-2-8-5-3-1-0-6-1-4-0"
-       id="linearGradient5712-4-4-6-9-9-4"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(356,50)"
-       x1="-47.073864"
-       y1="187.23497"
-       x2="-50.999737"
-       y2="170.5" />
-    <linearGradient
-       inkscape:collect="always"
        id="linearGradient10-paper-sheet-orig-3-03-7-2-8-5-3-1-0-6-1-4-0">
       <stop
          style="stop-color: rgb(85, 87, 83); stop-opacity: 1;"
@@ -1619,17 +1246,6 @@
          offset="1"
          id="stop16-paper-sheet-orig-8-4-8-9-3-9-9-7-5-6-2-8-6" />
     </linearGradient>
-    <radialGradient
-       r="5.00001"
-       fy="187.5"
-       fx="313"
-       cy="187.5"
-       cx="313"
-       gradientTransform="matrix(2.7470985,5.8358552e-8,0,1.6597215,-556.06469,-91.386605)"
-       gradientUnits="userSpaceOnUse"
-       id="radialGradient5096-0-8"
-       xlink:href="#linearGradient5071-3-1-8"
-       inkscape:collect="always" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient5071-3-1-8">
@@ -1778,442 +1394,6 @@
        y1="37.668934"
        x2="5.4959755"
        y2="10.982666" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient6732-0-4"
-       id="linearGradient5575"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.52996902,0,0,0.70000002,314.3806,-234.8625)"
-       x1="37.926636"
-       y1="37.668934"
-       x2="5.4959755"
-       y2="10.982666" />
-    <inkscape:perspective
-       id="perspective5608"
-       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
-       inkscape:vp_z="1 : 0.5 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_x="0 : 0.5 : 1"
-       sodipodi:type="inkscape:persp3d" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3-paper-sheet-orig-08-1-7-9-4-5-4-8-5-3-5-0"
-       id="radialGradient4348-6-8"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.90011542,0,0,0.50961451,266.2594,135.16396)"
-       cx="50.32478"
-       cy="184.42899"
-       fx="50.32478"
-       fy="184.42899"
-       r="18.000002" />
-    <linearGradient
-       id="linearGradient3-paper-sheet-orig-08-1-7-9-4-5-4-8-5-3-5-0">
-      <stop
-         style="stop-color: rgb(255, 255, 255); stop-opacity: 1;"
-         offset="0"
-         id="stop6-paper-sheet-orig-1-0-9-5-1-7-5-9-9-3-5-0" />
-      <stop
-         style="stop-color: rgb(211, 215, 207); stop-opacity: 1;"
-         offset="1"
-         id="stop7-paper-sheet-orig-2-0-1-5-7-0-3-8-3-7-7-4" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient10-paper-sheet-orig-3-03-7-2-8-5-3-1-0-6-19-0"
-       id="linearGradient4350-7-0"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.250007,0,0,1.2500002,366.12527,4.3749712)"
-       x1="-47.073864"
-       y1="187.23497"
-       x2="-51.194942"
-       y2="170.48183" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient10-paper-sheet-orig-3-03-7-2-8-5-3-1-0-6-19-0">
-      <stop
-         style="stop-color: rgb(85, 87, 83); stop-opacity: 1;"
-         offset="0"
-         id="stop15-paper-sheet-orig-7-42-5-7-4-5-4-9-2-0-7-4" />
-      <stop
-         style="stop-color: rgb(186, 189, 182); stop-opacity: 1;"
-         offset="1"
-         id="stop16-paper-sheet-orig-8-4-8-9-3-9-9-7-5-6-0-3" />
-    </linearGradient>
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3-paper-sheet-orig-08-1-7-9-4-5-4-8-5-3-6-2-6"
-       id="radialGradient5217-7-5"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.7200883,0,0,0.40769154,276.10776,154.63118)"
-       cx="50.32478"
-       cy="184.42899"
-       fx="50.32478"
-       fy="184.42899"
-       r="18.000002" />
-    <linearGradient
-       id="linearGradient3-paper-sheet-orig-08-1-7-9-4-5-4-8-5-3-6-2-6">
-      <stop
-         style="stop-color: rgb(255, 255, 255); stop-opacity: 1;"
-         offset="0"
-         id="stop6-paper-sheet-orig-1-0-9-5-1-7-5-9-9-3-6-8-9" />
-      <stop
-         style="stop-color: rgb(211, 215, 207); stop-opacity: 1;"
-         offset="1"
-         id="stop7-paper-sheet-orig-2-0-1-5-7-0-3-8-3-7-6-1-6" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient10-paper-sheet-orig-3-03-7-2-8-5-3-1-0-6-1-7-0"
-       id="linearGradient5219-2-1"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(356,50)"
-       x1="-47.073864"
-       y1="187.23497"
-       x2="-50.999737"
-       y2="170.5" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient10-paper-sheet-orig-3-03-7-2-8-5-3-1-0-6-1-7-0">
-      <stop
-         style="stop-color: rgb(85, 87, 83); stop-opacity: 1;"
-         offset="0"
-         id="stop15-paper-sheet-orig-7-42-5-7-4-5-4-9-2-0-0-92-0" />
-      <stop
-         style="stop-color: rgb(186, 189, 182); stop-opacity: 1;"
-         offset="1"
-         id="stop16-paper-sheet-orig-8-4-8-9-3-9-9-7-5-6-2-5-1" />
-    </linearGradient>
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient5071-3-4-9"
-       id="radialGradient5221-7-4"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.6399944,-2.1818086e-7,1.099998e-7,1.3090857,-522.318,-25.453491)"
-       cx="313"
-       cy="187.5"
-       fx="313"
-       fy="187.5"
-       r="5.00001" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient5071-3-4-9">
-      <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
-         offset="0"
-         id="stop5073-3-4-1" />
-      <stop
-         style="stop-color:#ffffff;stop-opacity:0;"
-         offset="1"
-         id="stop5075-6-6-7" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient6732-0-4-1"
-       id="linearGradient5575-7"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.52996902,0,0,0.70000002,314.3806,-234.8625)"
-       x1="37.926636"
-       y1="37.668934"
-       x2="5.4959755"
-       y2="10.982666" />
-    <linearGradient
-       id="linearGradient6732-0-4-1">
-      <stop
-         id="stop6734-3-7-3"
-         offset="0"
-         style="stop-color:#ffffff;stop-opacity:1;" />
-      <stop
-         id="stop6736-8-0-0"
-         offset="1"
-         style="stop-color:#dddddd;stop-opacity:1;" />
-    </linearGradient>
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3-paper-sheet-orig-08-1-7-9-4-5-4-8-5-3-6-9-8-6"
-       id="radialGradient5710-7-7-0-2-4-8-8"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.7200883,0,0,0.40769154,276.10776,154.63118)"
-       cx="50.32478"
-       cy="184.42899"
-       fx="50.32478"
-       fy="184.42899"
-       r="18.000002" />
-    <linearGradient
-       id="linearGradient3-paper-sheet-orig-08-1-7-9-4-5-4-8-5-3-6-9-8-6">
-      <stop
-         style="stop-color: rgb(255, 255, 255); stop-opacity: 1;"
-         offset="0"
-         id="stop6-paper-sheet-orig-1-0-9-5-1-7-5-9-9-3-6-0-5-5" />
-      <stop
-         style="stop-color: rgb(211, 215, 207); stop-opacity: 1;"
-         offset="1"
-         id="stop7-paper-sheet-orig-2-0-1-5-7-0-3-8-3-7-6-7-02-5" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient10-paper-sheet-orig-3-03-7-2-8-5-3-1-0-6-1-4-0-4"
-       id="linearGradient5712-4-4-6-9-9-4-7"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(356,50)"
-       x1="-47.073864"
-       y1="187.23497"
-       x2="-50.999737"
-       y2="170.5" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient10-paper-sheet-orig-3-03-7-2-8-5-3-1-0-6-1-4-0-4">
-      <stop
-         style="stop-color: rgb(85, 87, 83); stop-opacity: 1;"
-         offset="0"
-         id="stop15-paper-sheet-orig-7-42-5-7-4-5-4-9-2-0-0-9-7-2" />
-      <stop
-         style="stop-color: rgb(186, 189, 182); stop-opacity: 1;"
-         offset="1"
-         id="stop16-paper-sheet-orig-8-4-8-9-3-9-9-7-5-6-2-8-6-7" />
-    </linearGradient>
-    <radialGradient
-       r="5.00001"
-       fy="187.5"
-       fx="313"
-       cy="187.5"
-       cx="313"
-       gradientTransform="matrix(2.7470985,5.8358552e-8,0,1.6597215,-556.06469,-91.386605)"
-       gradientUnits="userSpaceOnUse"
-       id="radialGradient5096-0-8-4"
-       xlink:href="#linearGradient5071-3-1-8-2"
-       inkscape:collect="always" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient5071-3-1-8-2">
-      <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
-         offset="0"
-         id="stop5073-3-6-8-1" />
-      <stop
-         style="stop-color:#ffffff;stop-opacity:0;"
-         offset="1"
-         id="stop5075-6-9-9-4" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient6732-3-9-7"
-       id="linearGradient5546-4"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.39910865,0,0,0.53781904,315.68178,-164.33051)"
-       x1="37.926636"
-       y1="37.668934"
-       x2="5.4959755"
-       y2="10.982666" />
-    <linearGradient
-       id="linearGradient6732-3-9-7">
-      <stop
-         id="stop6734-6-5-9"
-         offset="0"
-         style="stop-color:#ffffff;stop-opacity:1;" />
-      <stop
-         id="stop6736-7-5-1"
-         offset="1"
-         style="stop-color:#dddddd;stop-opacity:1;" />
-    </linearGradient>
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3-paper-sheet-orig-08-1-7-9-4-5-4-8-5-3-6-9-0-6-9"
-       id="radialGradient5710-7-7-0-2-4-3-87-5"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.71342738,0,0,0.40465722,276.36115,155.11398)"
-       cx="50.32478"
-       cy="184.42899"
-       fx="50.32478"
-       fy="184.42899"
-       r="18.000002" />
-    <linearGradient
-       id="linearGradient3-paper-sheet-orig-08-1-7-9-4-5-4-8-5-3-6-9-0-6-9">
-      <stop
-         style="stop-color: rgb(255, 255, 255); stop-opacity: 1;"
-         offset="0"
-         id="stop6-paper-sheet-orig-1-0-9-5-1-7-5-9-9-3-6-0-0-2-9" />
-      <stop
-         style="stop-color: rgb(211, 215, 207); stop-opacity: 1;"
-         offset="1"
-         id="stop7-paper-sheet-orig-2-0-1-5-7-0-3-8-3-7-6-7-0-4-6" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient10-paper-sheet-orig-3-03-7-2-8-5-3-1-0-6-1-4-6-59-9"
-       id="linearGradient5712-4-4-6-9-9-8-4-9"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.99074986,0,0,0.99255731,355.51437,51.261536)"
-       x1="-47.073864"
-       y1="187.23497"
-       x2="-50.999737"
-       y2="170.5" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient10-paper-sheet-orig-3-03-7-2-8-5-3-1-0-6-1-4-6-59-9">
-      <stop
-         style="stop-color: rgb(85, 87, 83); stop-opacity: 1;"
-         offset="0"
-         id="stop15-paper-sheet-orig-7-42-5-7-4-5-4-9-2-0-0-9-4-7-7" />
-      <stop
-         style="stop-color: rgb(186, 189, 182); stop-opacity: 1;"
-         offset="1"
-         id="stop16-paper-sheet-orig-8-4-8-9-3-9-9-7-5-6-2-8-9-1-5" />
-    </linearGradient>
-    <radialGradient
-       r="5.00001"
-       fy="187.5"
-       fx="313"
-       cy="187.5"
-       cx="313"
-       gradientTransform="matrix(2.6623954,5.7466356e-8,0,1.6343474,-529.43013,-86.534339)"
-       gradientUnits="userSpaceOnUse"
-       id="radialGradient5096-0-9-6-1"
-       xlink:href="#linearGradient5071-3-1-5-0-1"
-       inkscape:collect="always" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient5071-3-1-5-0-1">
-      <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
-         offset="0"
-         id="stop5073-3-6-9-0-3" />
-      <stop
-         style="stop-color:#ffffff;stop-opacity:0;"
-         offset="1"
-         id="stop5075-6-9-0-4-0" />
-    </linearGradient>
-    <inkscape:perspective
-       id="perspective5795"
-       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
-       inkscape:vp_z="1 : 0.5 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_x="0 : 0.5 : 1"
-       sodipodi:type="inkscape:persp3d" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3-paper-sheet-orig-08-1-7-9-4-5-4-8-5-3-5-2"
-       id="radialGradient4348-6-0"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.90011542,0,0,0.50961451,266.2594,135.16396)"
-       cx="50.32478"
-       cy="184.42899"
-       fx="50.32478"
-       fy="184.42899"
-       r="18.000002" />
-    <linearGradient
-       id="linearGradient3-paper-sheet-orig-08-1-7-9-4-5-4-8-5-3-5-2">
-      <stop
-         style="stop-color: rgb(255, 255, 255); stop-opacity: 1;"
-         offset="0"
-         id="stop6-paper-sheet-orig-1-0-9-5-1-7-5-9-9-3-5-1" />
-      <stop
-         style="stop-color: rgb(211, 215, 207); stop-opacity: 1;"
-         offset="1"
-         id="stop7-paper-sheet-orig-2-0-1-5-7-0-3-8-3-7-7-8" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient10-paper-sheet-orig-3-03-7-2-8-5-3-1-0-6-19-3"
-       id="linearGradient4350-7-4"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.250007,0,0,1.2500002,366.12527,4.3749712)"
-       x1="-47.073864"
-       y1="187.23497"
-       x2="-51.194942"
-       y2="170.48183" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient10-paper-sheet-orig-3-03-7-2-8-5-3-1-0-6-19-3">
-      <stop
-         style="stop-color: rgb(85, 87, 83); stop-opacity: 1;"
-         offset="0"
-         id="stop15-paper-sheet-orig-7-42-5-7-4-5-4-9-2-0-7-5" />
-      <stop
-         style="stop-color: rgb(186, 189, 182); stop-opacity: 1;"
-         offset="1"
-         id="stop16-paper-sheet-orig-8-4-8-9-3-9-9-7-5-6-0-39" />
-    </linearGradient>
-    <inkscape:perspective
-       id="perspective5841"
-       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
-       inkscape:vp_z="1 : 0.5 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_x="0 : 0.5 : 1"
-       sodipodi:type="inkscape:persp3d" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3-paper-sheet-orig-08-1-7-9-4-5-4-8-5-3-6-2-1"
-       id="radialGradient5217-7-3"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.7200883,0,0,0.40769154,276.10776,154.63118)"
-       cx="50.32478"
-       cy="184.42899"
-       fx="50.32478"
-       fy="184.42899"
-       r="18.000002" />
-    <linearGradient
-       id="linearGradient3-paper-sheet-orig-08-1-7-9-4-5-4-8-5-3-6-2-1">
-      <stop
-         style="stop-color: rgb(255, 255, 255); stop-opacity: 1;"
-         offset="0"
-         id="stop6-paper-sheet-orig-1-0-9-5-1-7-5-9-9-3-6-8-1" />
-      <stop
-         style="stop-color: rgb(211, 215, 207); stop-opacity: 1;"
-         offset="1"
-         id="stop7-paper-sheet-orig-2-0-1-5-7-0-3-8-3-7-6-1-5" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient10-paper-sheet-orig-3-03-7-2-8-5-3-1-0-6-1-7-00"
-       id="linearGradient5219-2-0"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(356,50)"
-       x1="-47.073864"
-       y1="187.23497"
-       x2="-50.999737"
-       y2="170.5" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient10-paper-sheet-orig-3-03-7-2-8-5-3-1-0-6-1-7-00">
-      <stop
-         style="stop-color: rgb(85, 87, 83); stop-opacity: 1;"
-         offset="0"
-         id="stop15-paper-sheet-orig-7-42-5-7-4-5-4-9-2-0-0-92-03" />
-      <stop
-         style="stop-color: rgb(186, 189, 182); stop-opacity: 1;"
-         offset="1"
-         id="stop16-paper-sheet-orig-8-4-8-9-3-9-9-7-5-6-2-5-5" />
-    </linearGradient>
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient5071-3-4-94"
-       id="radialGradient5221-7-8"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.6399944,-2.1818086e-7,1.099998e-7,1.3090857,-522.318,-25.453491)"
-       cx="313"
-       cy="187.5"
-       fx="313"
-       fy="187.5"
-       r="5.00001" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient5071-3-4-94">
-      <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
-         offset="0"
-         id="stop5073-3-4-5" />
-      <stop
-         style="stop-color:#ffffff;stop-opacity:0;"
-         offset="1"
-         id="stop5075-6-6-9" />
-    </linearGradient>
-    <inkscape:perspective
-       id="perspective3027"
-       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
-       inkscape:vp_z="1 : 0.5 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_x="0 : 0.5 : 1"
-       sodipodi:type="inkscape:persp3d" />
     <radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3-paper-sheet-orig-08-1-7-9-4-5-4-8-5-3-6-2"
@@ -2246,220 +1426,6 @@
        fx="313"
        fy="187.5"
        r="5.00001" />
-    <inkscape:perspective
-       id="perspective6025"
-       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
-       inkscape:vp_z="1 : 0.5 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_x="0 : 0.5 : 1"
-       sodipodi:type="inkscape:persp3d" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient6732-3-9-0"
-       id="linearGradient5546-7"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.39910865,0,0,0.53781904,315.68178,-164.33051)"
-       x1="37.926636"
-       y1="37.668934"
-       x2="5.4959755"
-       y2="10.982666" />
-    <linearGradient
-       id="linearGradient6732-3-9-0">
-      <stop
-         id="stop6734-6-5-6"
-         offset="0"
-         style="stop-color:#ffffff;stop-opacity:1;" />
-      <stop
-         id="stop6736-7-5-8"
-         offset="1"
-         style="stop-color:#dddddd;stop-opacity:1;" />
-    </linearGradient>
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3-paper-sheet-orig-08-1-7-9-4-5-4-8-5-3-6-9-0-6-6"
-       id="radialGradient5710-7-7-0-2-4-3-87-1"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.71342738,0,0,0.40465722,276.36115,155.11398)"
-       cx="50.32478"
-       cy="184.42899"
-       fx="50.32478"
-       fy="184.42899"
-       r="18.000002" />
-    <linearGradient
-       id="linearGradient3-paper-sheet-orig-08-1-7-9-4-5-4-8-5-3-6-9-0-6-6">
-      <stop
-         style="stop-color: rgb(255, 255, 255); stop-opacity: 1;"
-         offset="0"
-         id="stop6-paper-sheet-orig-1-0-9-5-1-7-5-9-9-3-6-0-0-2-7" />
-      <stop
-         style="stop-color: rgb(211, 215, 207); stop-opacity: 1;"
-         offset="1"
-         id="stop7-paper-sheet-orig-2-0-1-5-7-0-3-8-3-7-6-7-0-4-68" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient10-paper-sheet-orig-3-03-7-2-8-5-3-1-0-6-1-4-6-59-4"
-       id="linearGradient5712-4-4-6-9-9-8-4-4"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.99074986,0,0,0.99255731,355.51437,51.261536)"
-       x1="-47.073864"
-       y1="187.23497"
-       x2="-50.999737"
-       y2="170.5" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient10-paper-sheet-orig-3-03-7-2-8-5-3-1-0-6-1-4-6-59-4">
-      <stop
-         style="stop-color: rgb(85, 87, 83); stop-opacity: 1;"
-         offset="0"
-         id="stop15-paper-sheet-orig-7-42-5-7-4-5-4-9-2-0-0-9-4-7-6" />
-      <stop
-         style="stop-color: rgb(186, 189, 182); stop-opacity: 1;"
-         offset="1"
-         id="stop16-paper-sheet-orig-8-4-8-9-3-9-9-7-5-6-2-8-9-1-6" />
-    </linearGradient>
-    <radialGradient
-       r="5.00001"
-       fy="187.5"
-       fx="313"
-       cy="187.5"
-       cx="313"
-       gradientTransform="matrix(2.6623954,5.7466356e-8,0,1.6343474,-529.43013,-86.534339)"
-       gradientUnits="userSpaceOnUse"
-       id="radialGradient5096-0-9-6-8"
-       xlink:href="#linearGradient5071-3-1-5-0-8"
-       inkscape:collect="always" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient5071-3-1-5-0-8">
-      <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
-         offset="0"
-         id="stop5073-3-6-9-0-2" />
-      <stop
-         style="stop-color:#ffffff;stop-opacity:0;"
-         offset="1"
-         id="stop5075-6-9-0-4-7" />
-    </linearGradient>
-    <inkscape:perspective
-       id="perspective6097"
-       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
-       inkscape:vp_z="1 : 0.5 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_x="0 : 0.5 : 1"
-       sodipodi:type="inkscape:persp3d" />
-    <inkscape:perspective
-       id="perspective6125"
-       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
-       inkscape:vp_z="1 : 0.5 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_x="0 : 0.5 : 1"
-       sodipodi:type="inkscape:persp3d" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient6732-0-4-6"
-       id="linearGradient5575-3"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.52996902,0,0,0.70000002,314.3806,-234.8625)"
-       x1="37.926636"
-       y1="37.668934"
-       x2="5.4959755"
-       y2="10.982666" />
-    <linearGradient
-       id="linearGradient6732-0-4-6">
-      <stop
-         id="stop6734-3-7-6"
-         offset="0"
-         style="stop-color:#ffffff;stop-opacity:1;" />
-      <stop
-         id="stop6736-8-0-6"
-         offset="1"
-         style="stop-color:#dddddd;stop-opacity:1;" />
-    </linearGradient>
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3-paper-sheet-orig-08-1-7-9-4-5-4-8-5-3-6-9-8-2"
-       id="radialGradient5710-7-7-0-2-4-8-85"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.7200883,0,0,0.40769154,276.10776,154.63118)"
-       cx="50.32478"
-       cy="184.42899"
-       fx="50.32478"
-       fy="184.42899"
-       r="18.000002" />
-    <linearGradient
-       id="linearGradient3-paper-sheet-orig-08-1-7-9-4-5-4-8-5-3-6-9-8-2">
-      <stop
-         style="stop-color: rgb(255, 255, 255); stop-opacity: 1;"
-         offset="0"
-         id="stop6-paper-sheet-orig-1-0-9-5-1-7-5-9-9-3-6-0-5-0" />
-      <stop
-         style="stop-color: rgb(211, 215, 207); stop-opacity: 1;"
-         offset="1"
-         id="stop7-paper-sheet-orig-2-0-1-5-7-0-3-8-3-7-6-7-02-9" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient10-paper-sheet-orig-3-03-7-2-8-5-3-1-0-6-1-4-0-1"
-       id="linearGradient5712-4-4-6-9-9-4-6"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(356,50)"
-       x1="-47.073864"
-       y1="187.23497"
-       x2="-50.999737"
-       y2="170.5" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient10-paper-sheet-orig-3-03-7-2-8-5-3-1-0-6-1-4-0-1">
-      <stop
-         style="stop-color: rgb(85, 87, 83); stop-opacity: 1;"
-         offset="0"
-         id="stop15-paper-sheet-orig-7-42-5-7-4-5-4-9-2-0-0-9-7-6" />
-      <stop
-         style="stop-color: rgb(186, 189, 182); stop-opacity: 1;"
-         offset="1"
-         id="stop16-paper-sheet-orig-8-4-8-9-3-9-9-7-5-6-2-8-6-4" />
-    </linearGradient>
-    <radialGradient
-       r="5.00001"
-       fy="187.5"
-       fx="313"
-       cy="187.5"
-       cx="313"
-       gradientTransform="matrix(2.7470985,5.8358552e-8,0,1.6597215,-556.06469,-91.386605)"
-       gradientUnits="userSpaceOnUse"
-       id="radialGradient5096-0-8-6"
-       xlink:href="#linearGradient5071-3-1-8-4"
-       inkscape:collect="always" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient5071-3-1-8-4">
-      <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
-         offset="0"
-         id="stop5073-3-6-8-11" />
-      <stop
-         style="stop-color:#ffffff;stop-opacity:0;"
-         offset="1"
-         id="stop5075-6-9-9-3" />
-    </linearGradient>
-    <inkscape:perspective
-       id="perspective6197"
-       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
-       inkscape:vp_z="1 : 0.5 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_x="0 : 0.5 : 1"
-       sodipodi:type="inkscape:persp3d" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient6732-0-4"
-       id="linearGradient6291"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.52996902,0,0,0.70000002,314.3806,-234.8625)"
-       x1="37.926636"
-       y1="37.668934"
-       x2="5.4959755"
-       y2="10.982666" />
     <radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3-paper-sheet-orig-08-1-7-9-4-5-4-8-5-3-6-9-8"
@@ -2492,13 +1458,6 @@
        fx="313"
        fy="187.5"
        r="5.00001" />
-    <inkscape:perspective
-       id="perspective6319"
-       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
-       inkscape:vp_z="1 : 0.5 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_x="0 : 0.5 : 1"
-       sodipodi:type="inkscape:persp3d" />
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath6333">
@@ -2524,13 +1483,6 @@
          stdDeviation="0.72499814"
          id="feGaussianBlur6339" />
     </filter>
-    <inkscape:perspective
-       id="perspective6350"
-       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
-       inkscape:vp_z="1 : 0.5 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_x="0 : 0.5 : 1"
-       sodipodi:type="inkscape:persp3d" />
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath6333-1">
@@ -2557,331 +1509,6 @@
          stdDeviation="0.72499814"
          id="feGaussianBlur6339-8" />
     </filter>
-    <inkscape:perspective
-       id="perspective6384"
-       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
-       inkscape:vp_z="1 : 0.5 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_x="0 : 0.5 : 1"
-       sodipodi:type="inkscape:persp3d" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3-paper-sheet-orig-08-1-7-9-4-5-4-8-5-3-6-2-0"
-       id="radialGradient6011-7"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.7200883,0,0,0.40769154,276.10776,154.63118)"
-       cx="50.32478"
-       cy="184.42899"
-       fx="50.32478"
-       fy="184.42899"
-       r="18.000002" />
-    <linearGradient
-       id="linearGradient3-paper-sheet-orig-08-1-7-9-4-5-4-8-5-3-6-2-0">
-      <stop
-         style="stop-color: rgb(255, 255, 255); stop-opacity: 1;"
-         offset="0"
-         id="stop6-paper-sheet-orig-1-0-9-5-1-7-5-9-9-3-6-8-4" />
-      <stop
-         style="stop-color: rgb(211, 215, 207); stop-opacity: 1;"
-         offset="1"
-         id="stop7-paper-sheet-orig-2-0-1-5-7-0-3-8-3-7-6-1-8" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient10-paper-sheet-orig-3-03-7-2-8-5-3-1-0-6-1-7-8"
-       id="linearGradient6013-1"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(356,50)"
-       x1="-47.073864"
-       y1="187.23497"
-       x2="-50.999737"
-       y2="170.5" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient10-paper-sheet-orig-3-03-7-2-8-5-3-1-0-6-1-7-8">
-      <stop
-         style="stop-color: rgb(85, 87, 83); stop-opacity: 1;"
-         offset="0"
-         id="stop15-paper-sheet-orig-7-42-5-7-4-5-4-9-2-0-0-92-3" />
-      <stop
-         style="stop-color: rgb(186, 189, 182); stop-opacity: 1;"
-         offset="1"
-         id="stop16-paper-sheet-orig-8-4-8-9-3-9-9-7-5-6-2-5-8" />
-    </linearGradient>
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient5071-3-4-0"
-       id="radialGradient6015-7"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.6399944,-2.1538355e-7,1.099998e-7,1.2923019,-522.318,-22.2296)"
-       cx="313"
-       cy="187.5"
-       fx="313"
-       fy="187.5"
-       r="5.00001" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient5071-3-4-0">
-      <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
-         offset="0"
-         id="stop5073-3-4-3" />
-      <stop
-         style="stop-color:#ffffff;stop-opacity:0;"
-         offset="1"
-         id="stop5075-6-6-5" />
-    </linearGradient>
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3-paper-sheet-orig-08-1-7-9-4-5-4-8-5-3-6-2-0"
-       id="radialGradient6400"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.7200883,0,0,0.40769154,276.10776,154.63118)"
-       cx="50.32478"
-       cy="184.42899"
-       fx="50.32478"
-       fy="184.42899"
-       r="18.000002" />
-    <linearGradient
-       id="linearGradient6402">
-      <stop
-         style="stop-color: rgb(255, 255, 255); stop-opacity: 1;"
-         offset="0"
-         id="stop6404" />
-      <stop
-         style="stop-color: rgb(211, 215, 207); stop-opacity: 1;"
-         offset="1"
-         id="stop6406" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient10-paper-sheet-orig-3-03-7-2-8-5-3-1-0-6-1-7-8"
-       id="linearGradient6408"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(356,50)"
-       x1="-47.073864"
-       y1="187.23497"
-       x2="-50.999737"
-       y2="170.5" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient5071-3-4-0"
-       id="radialGradient6416"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.6399944,-2.1538355e-7,1.099998e-7,1.2923019,-522.318,-22.2296)"
-       cx="313"
-       cy="187.5"
-       fx="313"
-       fy="187.5"
-       r="5.00001" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3-paper-sheet-orig-08-1-7-9-4-5-4-8-5-3-6-2"
-       id="radialGradient6507"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.7200883,0,0,0.40769154,276.10776,154.63118)"
-       cx="50.32478"
-       cy="184.42899"
-       fx="50.32478"
-       fy="184.42899"
-       r="18.000002" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient10-paper-sheet-orig-3-03-7-2-8-5-3-1-0-6-1-7"
-       id="linearGradient6509"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(356,50)"
-       x1="-47.073864"
-       y1="187.23497"
-       x2="-50.999737"
-       y2="170.5" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient5071-3-4"
-       id="radialGradient6511"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.6399944,-2.1538355e-7,1.099998e-7,1.2923019,-522.318,-22.2296)"
-       cx="313"
-       cy="187.5"
-       fx="313"
-       fy="187.5"
-       r="5.00001" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3-paper-sheet-orig-08-1-7-9-4-5-4-8-5-3-6-2"
-       id="radialGradient6535"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.7200883,0,0,0.40769154,276.10776,154.63118)"
-       cx="50.32478"
-       cy="184.42899"
-       fx="50.32478"
-       fy="184.42899"
-       r="18.000002" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient10-paper-sheet-orig-3-03-7-2-8-5-3-1-0-6-1-7"
-       id="linearGradient6537"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(356,50)"
-       x1="-47.073864"
-       y1="187.23497"
-       x2="-50.999737"
-       y2="170.5" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient5071-3-4"
-       id="radialGradient6539"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.6399944,-2.1538355e-7,1.099998e-7,1.2923019,-522.318,-22.2296)"
-       cx="313"
-       cy="187.5"
-       fx="313"
-       fy="187.5"
-       r="5.00001" />
-    <inkscape:perspective
-       id="perspective6574"
-       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
-       inkscape:vp_z="1 : 0.5 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_x="0 : 0.5 : 1"
-       sodipodi:type="inkscape:persp3d" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3-paper-sheet-orig-08-1-7-9-4-5-4-8-5-3-6-2-5"
-       id="radialGradient6507-7"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.7200883,0,0,0.40769154,276.10776,154.63118)"
-       cx="50.32478"
-       cy="184.42899"
-       fx="50.32478"
-       fy="184.42899"
-       r="18.000002" />
-    <linearGradient
-       id="linearGradient3-paper-sheet-orig-08-1-7-9-4-5-4-8-5-3-6-2-5">
-      <stop
-         style="stop-color: rgb(255, 255, 255); stop-opacity: 1;"
-         offset="0"
-         id="stop6-paper-sheet-orig-1-0-9-5-1-7-5-9-9-3-6-8-41" />
-      <stop
-         style="stop-color: rgb(211, 215, 207); stop-opacity: 1;"
-         offset="1"
-         id="stop7-paper-sheet-orig-2-0-1-5-7-0-3-8-3-7-6-1-54" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient10-paper-sheet-orig-3-03-7-2-8-5-3-1-0-6-1-7-6"
-       id="linearGradient6509-3"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(356,50)"
-       x1="-47.073864"
-       y1="187.23497"
-       x2="-50.999737"
-       y2="170.5" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient10-paper-sheet-orig-3-03-7-2-8-5-3-1-0-6-1-7-6">
-      <stop
-         style="stop-color: rgb(85, 87, 83); stop-opacity: 1;"
-         offset="0"
-         id="stop15-paper-sheet-orig-7-42-5-7-4-5-4-9-2-0-0-92-35" />
-      <stop
-         style="stop-color: rgb(186, 189, 182); stop-opacity: 1;"
-         offset="1"
-         id="stop16-paper-sheet-orig-8-4-8-9-3-9-9-7-5-6-2-5-84" />
-    </linearGradient>
-    <radialGradient
-       r="18.000002"
-       fy="184.42899"
-       fx="50.32478"
-       cy="184.42899"
-       cx="50.32478"
-       gradientTransform="matrix(0.7200883,0,0,0.3785711,678.108,119.22889)"
-       gradientUnits="userSpaceOnUse"
-       id="radialGradient6587"
-       xlink:href="#linearGradient3-paper-sheet-orig-08-1-7-9-4-5-4-8-5-3-6-2-5"
-       inkscape:collect="always" />
-    <linearGradient
-       y2="170.5"
-       x2="-50.999737"
-       y1="187.23497"
-       x1="-47.073864"
-       gradientTransform="matrix(1,0,0,0.92857236,758.00024,22.07127)"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient6589"
-       xlink:href="#linearGradient10-paper-sheet-orig-3-03-7-2-8-5-3-1-0-6-1-7-6"
-       inkscape:collect="always" />
-    <inkscape:perspective
-       id="perspective6574-8"
-       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
-       inkscape:vp_z="1 : 0.5 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_x="0 : 0.5 : 1"
-       sodipodi:type="inkscape:persp3d" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3-paper-sheet-orig-08-1-7-9-4-5-4-8-5-3-6-2-9"
-       id="radialGradient6507-9"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.7200883,0,0,0.40769154,276.10776,154.63118)"
-       cx="50.32478"
-       cy="184.42899"
-       fx="50.32478"
-       fy="184.42899"
-       r="18.000002" />
-    <linearGradient
-       id="linearGradient3-paper-sheet-orig-08-1-7-9-4-5-4-8-5-3-6-2-9">
-      <stop
-         style="stop-color: rgb(255, 255, 255); stop-opacity: 1;"
-         offset="0"
-         id="stop6-paper-sheet-orig-1-0-9-5-1-7-5-9-9-3-6-8-5" />
-      <stop
-         style="stop-color: rgb(211, 215, 207); stop-opacity: 1;"
-         offset="1"
-         id="stop7-paper-sheet-orig-2-0-1-5-7-0-3-8-3-7-6-1-2" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient10-paper-sheet-orig-3-03-7-2-8-5-3-1-0-6-1-7-004"
-       id="linearGradient6509-7"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(356,50)"
-       x1="-47.073864"
-       y1="187.23497"
-       x2="-50.999737"
-       y2="170.5" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient10-paper-sheet-orig-3-03-7-2-8-5-3-1-0-6-1-7-004">
-      <stop
-         style="stop-color: rgb(85, 87, 83); stop-opacity: 1;"
-         offset="0"
-         id="stop15-paper-sheet-orig-7-42-5-7-4-5-4-9-2-0-0-92-6" />
-      <stop
-         style="stop-color: rgb(186, 189, 182); stop-opacity: 1;"
-         offset="1"
-         id="stop16-paper-sheet-orig-8-4-8-9-3-9-9-7-5-6-2-5-0" />
-    </linearGradient>
-    <radialGradient
-       r="18.000002"
-       fy="184.42899"
-       fx="50.32478"
-       cy="184.42899"
-       cx="50.32478"
-       gradientTransform="matrix(0.7200883,0,0,0.3785711,684.108,-174.77111)"
-       gradientUnits="userSpaceOnUse"
-       id="radialGradient6587-3"
-       xlink:href="#linearGradient3-paper-sheet-orig-08-1-7-9-4-5-4-8-5-3-6-2-9"
-       inkscape:collect="always" />
-    <linearGradient
-       y2="170.5"
-       x2="-50.999737"
-       y1="187.23497"
-       x1="-47.073864"
-       gradientTransform="matrix(1,0,0,0.92857236,764.00024,-271.92873)"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient6589-1"
-       xlink:href="#linearGradient10-paper-sheet-orig-3-03-7-2-8-5-3-1-0-6-1-7-004"
-       inkscape:collect="always" />
   </defs>
   <g
      inkscape:groupmode="layer"
@@ -2929,26 +1556,27 @@
       <text
          id="context"
          inkscape:label="context"
-         style="font-size:18.30070686px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="20.970737"
          xml:space="preserve"
          y="-278.48639"><tspan
            id="tspan2716"
            sodipodi:role="line"
            x="20.970737"
-           y="-278.48639">actions</tspan></text>
+           y="-278.48639"
+           style="font-size:18.30070686px;line-height:1.25">actions</tspan></text>
       <text
          id="icon-name"
          inkscape:label="icon-name"
-         sodipodi:linespacing="125%"
-         style="font-size:18.30070686px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="191.97073"
          xml:space="preserve"
          y="-278.48639"><tspan
            id="tspan3023"
            sodipodi:role="line"
            x="191.97073"
-           y="-278.48639">edit-paste</tspan></text>
+           y="-278.48639"
+           style="font-size:18.30070686px;line-height:1.25">edit-paste</tspan></text>
       <rect
          y="-124"
          x="302"
@@ -3660,25 +2288,26 @@
          y="-278.48639"
          xml:space="preserve"
          x="420.97089"
-         style="font-size:18.30070686px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          inkscape:label="context"
          id="text5039"><tspan
            y="-278.48639"
            x="420.97089"
            sodipodi:role="line"
-           id="tspan5041">actions</tspan></text>
+           id="tspan5041"
+           style="font-size:18.30070686px;line-height:1.25">actions</tspan></text>
       <text
          y="-278.48639"
          xml:space="preserve"
          x="591.97089"
-         style="font-size:18.30070686px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
-         sodipodi:linespacing="125%"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          inkscape:label="icon-name"
          id="text5043"><tspan
            y="-278.48639"
            x="591.97089"
            sodipodi:role="line"
-           id="tspan5201">edit-copy</tspan></text>
+           id="tspan5201"
+           style="font-size:18.30070686px;line-height:1.25">edit-copy</tspan></text>
       <rect
          height="24"
          id="rect5047"
@@ -3849,26 +2478,27 @@
       <text
          id="text3204"
          inkscape:label="context"
-         style="font-size:18.30070686px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="20.971115"
          xml:space="preserve"
          y="21.513618"><tspan
            id="tspan3206"
            sodipodi:role="line"
            x="20.971115"
-           y="21.513618">status</tspan></text>
+           y="21.513618"
+           style="font-size:18.30070686px;line-height:1.25">status</tspan></text>
       <text
          id="text3208"
          inkscape:label="icon-name"
-         sodipodi:linespacing="125%"
-         style="font-size:18.30070686px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="191.97112"
          xml:space="preserve"
          y="21.513618"><tspan
            id="tspan3210"
            sodipodi:role="line"
            x="191.97112"
-           y="21.513618">task-due</tspan></text>
+           y="21.513618"
+           style="font-size:18.30070686px;line-height:1.25">task-due</tspan></text>
       <rect
          height="24"
          id="rect3212"
@@ -4280,25 +2910,26 @@
          y="21.513618"
          xml:space="preserve"
          x="420.97113"
-         style="font-size:18.30070686px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          inkscape:label="context"
          id="text6705"><tspan
            y="21.513618"
            x="420.97113"
            sodipodi:role="line"
-           id="tspan6707">status</tspan></text>
+           id="tspan6707"
+           style="font-size:18.30070686px;line-height:1.25">status</tspan></text>
       <text
          y="21.513618"
          xml:space="preserve"
          x="591.97113"
-         style="font-size:18.30070686px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
-         sodipodi:linespacing="125%"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          inkscape:label="icon-name"
          id="text6709"><tspan
            y="21.513618"
            x="591.97113"
            sodipodi:role="line"
-           id="tspan6711">task-past-due</tspan></text>
+           id="tspan6711"
+           style="font-size:18.30070686px;line-height:1.25">task-past-due</tspan></text>
       <rect
          y="176"
          x="702"
