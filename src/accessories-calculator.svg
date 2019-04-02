@@ -65,7 +65,7 @@
      height="300px"
      id="base"
      inkscape:current-layer="layer4"
-     inkscape:cx="136.93634"
+     inkscape:cx="137.7321"
      inkscape:cy="150"
      inkscape:document-units="px"
      inkscape:grid-bbox="true"
@@ -75,10 +75,10 @@
      inkscape:showpageshadow="false"
      inkscape:snap-bbox="true"
      inkscape:snap-nodes="true"
-     inkscape:window-height="975"
+     inkscape:window-height="966"
      inkscape:window-width="1680"
      inkscape:window-x="0"
-     inkscape:window-y="28"
+     inkscape:window-y="25"
      inkscape:zoom="2.5133333"
      objecttolerance="7"
      pagecolor="#ffffff"
@@ -100,13 +100,6 @@
   </sodipodi:namedview>
   <defs
      id="defs3">
-    <inkscape:perspective
-       sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="0 : 150 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_z="400 : 150 : 1"
-       inkscape:persp3d-origin="200 : 100 : 1"
-       id="perspective809" />
     <linearGradient
        id="linearGradient3213">
       <stop
@@ -2240,15 +2233,6 @@
          offset="1"
          id="stop9046" />
     </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient9042"
-       id="linearGradient9048"
-       x1="13.779406"
-       y1="29.598591"
-       x2="13.775816"
-       y2="24.5"
-       gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient7104">

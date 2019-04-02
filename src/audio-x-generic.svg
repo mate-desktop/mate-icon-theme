@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -16,20 +17,13 @@
    height="300"
    id="svg11300"
    sodipodi:version="0.32"
-   inkscape:version="0.46"
+   inkscape:version="0.92.4 (unknown)"
    sodipodi:docname="audio-x-generic.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.0"
    style="display:inline;enable-background:new">
   <defs
      id="defs3">
-    <inkscape:perspective
-       sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="0 : 150 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_z="400 : 150 : 1"
-       inkscape:persp3d-origin="200 : 100 : 1"
-       id="perspective229" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient7010">
@@ -907,14 +901,17 @@
      inkscape:snap-bbox="true"
      objecttolerance="7"
      gridtolerance="12"
-     guidetolerance="13">
+     guidetolerance="13"
+     inkscape:window-maximized="0">
     <inkscape:grid
        type="xygrid"
        id="grid5883"
-       spacingx="1px"
-       spacingy="1px"
+       spacingx="1"
+       spacingy="1"
        enabled="true"
-       visible="true" />
+       visible="true"
+       originx="0"
+       originy="0" />
   </sodipodi:namedview>
   <metadata
      id="metadata4">
@@ -1008,15 +1005,15 @@
        inkscape:label="16x16" />
     <text
        xml:space="preserve"
-       style="font-size:56.11526489px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:none;overflow:visible;enable-background:accumulate;font-family:Myriad"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Myriad;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:none;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
        x="-136.6134"
        y="-51.053188"
-       id="text4713"
-       sodipodi:linespacing="125%"><tspan
+       id="text4713"><tspan
          sodipodi:role="line"
          id="tspan4715"
          x="-136.6134"
-         y="-51.053188">folder</tspan></text>
+         y="-51.053188"
+         style="font-size:56.11526489px;line-height:1.25">folder</tspan></text>
     <rect
        inkscape:label="32x32"
        y="32.823101"
@@ -1059,15 +1056,15 @@
        inkscape:label="16x16" />
     <text
        xml:space="preserve"
-       style="font-size:56.11526489px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:none;overflow:visible;enable-background:accumulate;font-family:Myriad"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Myriad;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:none;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
        x="-418.41196"
        y="34.084831"
-       id="text6091"
-       sodipodi:linespacing="125%"><tspan
+       id="text6091"><tspan
          sodipodi:role="line"
          id="tspan6093"
          x="-418.41196"
-         y="34.084831">audio-x-generic</tspan></text>
+         y="34.084831"
+         style="font-size:56.11526489px;line-height:1.25">audio-x-generic</tspan></text>
     <rect
        inkscape:label="32x32"
        y="117.96112"
@@ -1131,7 +1128,7 @@
          inkscape:label="24x24" />
       <text
          xml:space="preserve"
-         style="font-size:18.30070686px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="20.970737"
          y="21.513618"
          id="context"
@@ -1139,19 +1136,20 @@
            sodipodi:role="line"
            id="tspan2716"
            x="20.970737"
-           y="21.513618">mimetypes</tspan></text>
+           y="21.513618"
+           style="font-size:18.30070686px;line-height:1.25">mimetypes</tspan></text>
       <text
          inkscape:label="icon-name"
          id="text3021"
          y="21.513618"
          x="191.97073"
-         style="font-size:18.30070686px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
-         xml:space="preserve"
-         sodipodi:linespacing="125%"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
+         xml:space="preserve"><tspan
            y="21.513618"
            x="191.97073"
            id="tspan3023"
-           sodipodi:role="line">audio-x-generic</tspan></text>
+           sodipodi:role="line"
+           style="font-size:18.30070686px;line-height:1.25">audio-x-generic</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"

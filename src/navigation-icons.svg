@@ -16,7 +16,7 @@
    inkscape:export-xdpi="90.000000"
    inkscape:export-ydpi="90.000000"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
-   inkscape:version="0.48.1 r9760"
+   inkscape:version="0.92.4 (unknown)"
    sodipodi:docname="navigation-icons.svg"
    sodipodi:version="0.32"
    style="display:inline;enable-background:new"
@@ -61,7 +61,7 @@
      height="300px"
      id="base"
      inkscape:current-layer="svg11300"
-     inkscape:cx="417.27629"
+     inkscape:cx="419.27629"
      inkscape:cy="-94.88568"
      inkscape:document-units="px"
      inkscape:grid-bbox="true"
@@ -73,8 +73,8 @@
      inkscape:snap-nodes="false"
      inkscape:window-height="951"
      inkscape:window-width="1494"
-     inkscape:window-x="1827"
-     inkscape:window-y="145"
+     inkscape:window-x="178"
+     inkscape:window-y="37"
      inkscape:zoom="1"
      objecttolerance="7"
      pagecolor="#ffffff"
@@ -89,35 +89,43 @@
        empspacing="2"
        enabled="false"
        id="grid5883"
-       spacingx="0.5px"
-       spacingy="0.5px"
+       spacingx="0.5"
+       spacingy="0.5"
        type="xygrid"
        visible="true"
-       snapvisiblegridlinesonly="true" />
+       snapvisiblegridlinesonly="true"
+       originx="0"
+       originy="0" />
     <sodipodi:guide
        orientation="0,1"
        position="55.75,59.125"
-       id="guide4059" />
+       id="guide4059"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="0,1"
        position="594.375,163.125"
-       id="guide6987" />
+       id="guide6987"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="0,1"
        position="70.5,76.125"
-       id="guide4091" />
+       id="guide4091"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="0,1"
        position="590.5,200"
-       id="guide5824" />
+       id="guide5824"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="0,1"
        position="564.80154,126.04178"
-       id="guide6041" />
+       id="guide6041"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="0,1"
        position="546.06321,100.93949"
-       id="guide6043" />
+       id="guide6043"
+       inkscape:locked="false" />
     <inkscape:grid
        type="xygrid"
        id="grid6165"
@@ -128,15 +136,18 @@
     <sodipodi:guide
        orientation="0,1"
        position="284,-43"
-       id="guide6182" />
+       id="guide6182"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="1,0"
        position="656,-108"
-       id="guide6602" />
+       id="guide6602"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="0,1"
        position="390.32294,-323.1478"
-       id="guide7059" />
+       id="guide7059"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <defs
      id="defs3">
@@ -11135,25 +11146,26 @@
          y="21.513618"
          xml:space="preserve"
          x="14.970734"
-         style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          inkscape:label="context"
          id="text3696"><tspan
            y="21.513618"
            x="14.970734"
            sodipodi:role="line"
-           id="tspan3698">actions</tspan></text>
+           id="tspan3698"
+           style="font-size:10px;line-height:1.25">actions</tspan></text>
       <text
          y="33.513618"
          xml:space="preserve"
          x="15.970734"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
-         sodipodi:linespacing="125%"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          inkscape:label="icon-name"
          id="text3700"><tspan
            y="33.513618"
            x="15.970734"
            sodipodi:role="line"
-           id="tspan3702">go-jump</tspan></text>
+           id="tspan3702"
+           style="font-size:10px;line-height:1.25">go-jump</tspan></text>
       <rect
          y="552"
          x="16.000031"
@@ -11826,25 +11838,26 @@
          y="21.513618"
          xml:space="preserve"
          x="94.970734"
-         style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          inkscape:label="context"
          id="text3962"><tspan
            y="21.513618"
            x="94.970734"
            sodipodi:role="line"
-           id="tspan3964">actions</tspan></text>
+           id="tspan3964"
+           style="font-size:10px;line-height:1.25">actions</tspan></text>
       <text
          y="33.513618"
          xml:space="preserve"
          x="95.970734"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
-         sodipodi:linespacing="125%"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          inkscape:label="icon-name"
          id="text3966"><tspan
            y="33.513618"
            x="95.970734"
            sodipodi:role="line"
-           id="tspan3968">go-bottom</tspan></text>
+           id="tspan3968"
+           style="font-size:10px;line-height:1.25">go-bottom</tspan></text>
     </g>
     <g
        style="display:inline"
@@ -12256,26 +12269,27 @@
       <text
          id="text4021"
          inkscape:label="context"
-         style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="174.97073"
          xml:space="preserve"
          y="21.513618"><tspan
            id="tspan4023"
            sodipodi:role="line"
            x="174.97073"
-           y="21.513618">actions</tspan></text>
+           y="21.513618"
+           style="font-size:10px;line-height:1.25">actions</tspan></text>
       <text
          id="text4025"
          inkscape:label="icon-name"
-         sodipodi:linespacing="125%"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="175.97073"
          xml:space="preserve"
          y="33.513618"><tspan
            id="tspan4027"
            sodipodi:role="line"
            x="175.97073"
-           y="33.513618">go-down</tspan></text>
+           y="33.513618"
+           style="font-size:10px;line-height:1.25">go-down</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
@@ -12685,26 +12699,27 @@
       <text
          id="text4135"
          inkscape:label="context"
-         style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="264.97073"
          xml:space="preserve"
          y="21.513618"><tspan
            id="tspan4137"
            sodipodi:role="line"
            x="264.97073"
-           y="21.513618">actions</tspan></text>
+           y="21.513618"
+           style="font-size:10px;line-height:1.25">actions</tspan></text>
       <text
          id="text4139"
          inkscape:label="icon-name"
-         sodipodi:linespacing="125%"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="265.97073"
          xml:space="preserve"
          y="33.513618"><tspan
            id="tspan4141"
            sodipodi:role="line"
            x="265.97073"
-           y="33.513618">go-top</tspan></text>
+           y="33.513618"
+           style="font-size:10px;line-height:1.25">go-top</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
@@ -13137,25 +13152,26 @@
          y="21.513618"
          xml:space="preserve"
          x="354.97073"
-         style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          inkscape:label="context"
          id="text3043"><tspan
            y="21.513618"
            x="354.97073"
            sodipodi:role="line"
-           id="tspan3045">actions</tspan></text>
+           id="tspan3045"
+           style="font-size:10px;line-height:1.25">actions</tspan></text>
       <text
          y="33.513618"
          xml:space="preserve"
          x="355.97073"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
-         sodipodi:linespacing="125%"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          inkscape:label="icon-name"
          id="text3047"><tspan
            y="33.513618"
            x="355.97073"
            sodipodi:role="line"
-           id="tspan3049">go-up</tspan></text>
+           id="tspan3049"
+           style="font-size:10px;line-height:1.25">go-up</tspan></text>
     </g>
     <g
        style="display:inline"
@@ -13569,25 +13585,26 @@
          y="21.513618"
          xml:space="preserve"
          x="444.97073"
-         style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          inkscape:label="context"
          id="text3357"><tspan
            y="21.513618"
            x="444.97073"
            sodipodi:role="line"
-           id="tspan3359">actions</tspan></text>
+           id="tspan3359"
+           style="font-size:10px;line-height:1.25">actions</tspan></text>
       <text
          y="33.513618"
          xml:space="preserve"
          x="445.97073"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
-         sodipodi:linespacing="125%"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          inkscape:label="icon-name"
          id="text3361"><tspan
            y="33.513618"
            x="445.97073"
            sodipodi:role="line"
-           id="tspan3363">go-first</tspan></text>
+           id="tspan3363"
+           style="font-size:10px;line-height:1.25">go-first</tspan></text>
       <rect
          y="272"
          x="16.000031"
@@ -13645,26 +13662,27 @@
       <text
          id="text5828"
          inkscape:label="context"
-         style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="444.97073"
          xml:space="preserve"
          y="21.513618"><tspan
            id="tspan5830"
            sodipodi:role="line"
            x="444.97073"
-           y="21.513618">actions</tspan></text>
+           y="21.513618"
+           style="font-size:10px;line-height:1.25">actions</tspan></text>
       <text
          id="text5832"
          inkscape:label="icon-name"
-         sodipodi:linespacing="125%"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="445.97073"
          xml:space="preserve"
          y="33.513618"><tspan
            id="tspan5834"
            sodipodi:role="line"
            x="445.97073"
-           y="33.513618">go-last-rtl</tspan></text>
+           y="33.513618"
+           style="font-size:10px;line-height:1.25">go-last-rtl</tspan></text>
       <rect
          height="256"
          id="rect5836"
@@ -14261,26 +14279,27 @@
       <text
          id="context"
          inkscape:label="context"
-         style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="524.9707"
          xml:space="preserve"
          y="21.513618"><tspan
            id="tspan2716"
            sodipodi:role="line"
            x="524.9707"
-           y="21.513618">actions</tspan></text>
+           y="21.513618"
+           style="font-size:10px;line-height:1.25">actions</tspan></text>
       <text
          id="icon-name"
          inkscape:label="icon-name"
-         sodipodi:linespacing="125%"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="525.9707"
          xml:space="preserve"
          y="33.513618"><tspan
            id="tspan3023"
            sodipodi:role="line"
            x="525.9707"
-           y="33.513618">go-previous</tspan></text>
+           y="33.513618"
+           style="font-size:10px;line-height:1.25">go-previous</tspan></text>
       <rect
          y="272"
          x="296"
@@ -14339,25 +14358,26 @@
          y="21.513618"
          xml:space="preserve"
          x="524.9707"
-         style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          inkscape:label="context"
          id="text5850"><tspan
            y="21.513618"
            x="524.9707"
            sodipodi:role="line"
-           id="tspan5852">actions</tspan></text>
+           id="tspan5852"
+           style="font-size:10px;line-height:1.25">actions</tspan></text>
       <text
          y="33.513618"
          xml:space="preserve"
          x="525.9707"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
-         sodipodi:linespacing="125%"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          inkscape:label="icon-name"
          id="text5854"><tspan
            y="33.513618"
            x="525.9707"
            sodipodi:role="line"
-           id="tspan5856">go-next-rtl</tspan></text>
+           id="tspan5856"
+           style="font-size:10px;line-height:1.25">go-next-rtl</tspan></text>
       <rect
          height="256"
          id="rect5858"
@@ -14945,26 +14965,27 @@
       <text
          id="text3425"
          inkscape:label="context"
-         style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="604.9707"
          xml:space="preserve"
          y="21.513618"><tspan
            id="tspan3427"
            sodipodi:role="line"
            x="604.9707"
-           y="21.513618">actions</tspan></text>
+           y="21.513618"
+           style="font-size:10px;line-height:1.25">actions</tspan></text>
       <text
          id="text3429"
          inkscape:label="icon-name"
-         sodipodi:linespacing="125%"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="605.9707"
          xml:space="preserve"
          y="33.513618"><tspan
            id="tspan3431"
            sodipodi:role="line"
            x="605.9707"
-           y="33.513618">view-refresh</tspan></text>
+           y="33.513618"
+           style="font-size:10px;line-height:1.25">view-refresh</tspan></text>
       <rect
          y="552"
          x="296"
@@ -15450,25 +15471,26 @@
          y="21.513618"
          xml:space="preserve"
          x="684.9707"
-         style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          inkscape:label="context"
          id="text3912"><tspan
            y="21.513618"
            x="684.9707"
            sodipodi:role="line"
-           id="tspan3914">actions</tspan></text>
+           id="tspan3914"
+           style="font-size:10px;line-height:1.25">actions</tspan></text>
       <text
          y="33.513618"
          xml:space="preserve"
          x="685.9707"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
-         sodipodi:linespacing="125%"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          inkscape:label="icon-name"
          id="text3916"><tspan
            y="33.513618"
            x="685.9707"
            sodipodi:role="line"
-           id="tspan3918">process-stop</tspan></text>
+           id="tspan3918"
+           style="font-size:10px;line-height:1.25">process-stop</tspan></text>
       <rect
          y="552"
          x="576"
@@ -15893,26 +15915,27 @@
       <text
          id="text3237"
          inkscape:label="context"
-         style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="764.9704"
          xml:space="preserve"
          y="21.513618"><tspan
            id="tspan3239"
            sodipodi:role="line"
            x="764.9704"
-           y="21.513618">actions</tspan></text>
+           y="21.513618"
+           style="font-size:10px;line-height:1.25">actions</tspan></text>
       <text
          id="text3241"
          inkscape:label="icon-name"
-         sodipodi:linespacing="125%"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="765.9704"
          xml:space="preserve"
          y="33.513618"><tspan
            id="tspan3243"
            sodipodi:role="line"
            x="765.9704"
-           y="33.513618">go-next</tspan></text>
+           y="33.513618"
+           style="font-size:10px;line-height:1.25">go-next</tspan></text>
       <rect
          y="272"
          x="-832"
@@ -15972,25 +15995,26 @@
          y="21.513618"
          xml:space="preserve"
          x="764.9704"
-         style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          inkscape:label="context"
          id="text5872"><tspan
            y="21.513618"
            x="764.9704"
            sodipodi:role="line"
-           id="tspan5874">actions</tspan></text>
+           id="tspan5874"
+           style="font-size:10px;line-height:1.25">actions</tspan></text>
       <text
          y="33.513618"
          xml:space="preserve"
          x="765.9704"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
-         sodipodi:linespacing="125%"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          inkscape:label="icon-name"
          id="text5876"><tspan
            y="33.513618"
            x="765.9704"
            sodipodi:role="line"
-           id="tspan5878">go-previous-rtl</tspan></text>
+           id="tspan5878"
+           style="font-size:10px;line-height:1.25">go-previous-rtl</tspan></text>
       <rect
          transform="scale(-1,1)"
          height="256"
@@ -16575,25 +16599,26 @@
          y="21.513618"
          xml:space="preserve"
          x="844.9704"
-         style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          inkscape:label="context"
          id="text3167"><tspan
            y="21.513618"
            x="844.9704"
            sodipodi:role="line"
-           id="tspan3169">actions</tspan></text>
+           id="tspan3169"
+           style="font-size:10px;line-height:1.25">actions</tspan></text>
       <text
          y="33.513618"
          xml:space="preserve"
          x="845.9704"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
-         sodipodi:linespacing="125%"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          inkscape:label="icon-name"
          id="text3171"><tspan
            y="33.513618"
            x="845.9704"
            sodipodi:role="line"
-           id="tspan3173">go-last</tspan></text>
+           id="tspan3173"
+           style="font-size:10px;line-height:1.25">go-last</tspan></text>
       <rect
          y="272"
          x="-1112"
@@ -16652,26 +16677,27 @@
       <text
          id="text5894"
          inkscape:label="context"
-         style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="844.9704"
          xml:space="preserve"
          y="21.513618"><tspan
            id="tspan5896"
            sodipodi:role="line"
            x="844.9704"
-           y="21.513618">actions</tspan></text>
+           y="21.513618"
+           style="font-size:10px;line-height:1.25">actions</tspan></text>
       <text
          id="text5898"
          inkscape:label="icon-name"
-         sodipodi:linespacing="125%"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="845.9704"
          xml:space="preserve"
          y="33.513618"><tspan
            id="tspan5900"
            sodipodi:role="line"
            x="845.9704"
-           y="33.513618">go-first-rtl</tspan></text>
+           y="33.513618"
+           style="font-size:10px;line-height:1.25">go-first-rtl</tspan></text>
       <rect
          transform="scale(-1,1)"
          height="256"
@@ -17295,26 +17321,27 @@
       <text
          id="text4182"
          inkscape:label="context"
-         style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="924.9704"
          xml:space="preserve"
          y="21.513618"><tspan
            id="tspan4184"
            sodipodi:role="line"
            x="924.9704"
-           y="21.513618">actions</tspan></text>
+           y="21.513618"
+           style="font-size:10px;line-height:1.25">actions</tspan></text>
       <text
          id="text4186"
          inkscape:label="icon-name"
-         sodipodi:linespacing="125%"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="925.9704"
          xml:space="preserve"
          y="33.513618"><tspan
            id="tspan4188"
            sodipodi:role="line"
            x="925.9704"
-           y="33.513618">go-home</tspan></text>
+           y="33.513618"
+           style="font-size:10px;line-height:1.25">go-home</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"

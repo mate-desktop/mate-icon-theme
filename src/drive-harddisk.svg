@@ -331,49 +331,6 @@
          id="stop3923" />
     </linearGradient>
     <linearGradient
-       id="linearGradient3887">
-      <stop
-         style="stop-color:#ffffff;stop-opacity:0.73758865"
-         offset="0"
-         id="stop3889" />
-      <stop
-         id="stop3895"
-         offset="0.05051634"
-         style="stop-color:#d3d7cf;stop-opacity:0" />
-      <stop
-         style="stop-color:#e9ebe7;stop-opacity:0.47163121"
-         offset="0.12191077"
-         id="stop3907" />
-      <stop
-         style="stop-color:#ffffff;stop-opacity:0.60992908"
-         offset="0.23396878"
-         id="stop3897" />
-      <stop
-         id="stop3899"
-         offset="0.31844863"
-         style="stop-color:#888a85;stop-opacity:0.20921986" />
-      <stop
-         style="stop-color:#ffffff;stop-opacity:0.05882353;"
-         offset="0.52352715"
-         id="stop3901" />
-      <stop
-         id="stop3903"
-         offset="0.62107521"
-         style="stop-color:#ffffff;stop-opacity:0.68794326" />
-      <stop
-         style="stop-color:#ffffff;stop-opacity:0"
-         offset="0.69267386"
-         id="stop3905" />
-      <stop
-         id="stop3909"
-         offset="0.84464967"
-         style="stop-color:#2e3436;stop-opacity:0.06737589" />
-      <stop
-         style="stop-color:#ffffff;stop-opacity:0.56737589"
-         offset="1"
-         id="stop3891" />
-    </linearGradient>
-    <linearGradient
        inkscape:collect="always"
        id="linearGradient9111">
       <stop
@@ -1989,7 +1946,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.4066667"
-     inkscape:cx="109.83571"
+     inkscape:cx="110.66673"
      inkscape:cy="206.40519"
      inkscape:current-layer="layer9"
      showgrid="false"
@@ -1997,7 +1954,7 @@
      inkscape:document-units="px"
      inkscape:showpageshadow="false"
      inkscape:window-width="1680"
-     inkscape:window-height="975"
+     inkscape:window-height="966"
      inkscape:window-x="0"
      inkscape:window-y="25"
      width="400px"

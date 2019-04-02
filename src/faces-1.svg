@@ -16,7 +16,7 @@
    inkscape:export-xdpi="90.000000"
    inkscape:export-ydpi="90.000000"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
-   inkscape:version="0.47 r22583"
+   inkscape:version="0.92.4 (unknown)"
    sodipodi:docname="faces-1.svg"
    sodipodi:version="0.32"
    style="display:inline;enable-background:new"
@@ -31,7 +31,7 @@
      height="300px"
      id="base"
      inkscape:current-layer="g15397"
-     inkscape:cx="1227.7162"
+     inkscape:cx="1229.7162"
      inkscape:cy="892.33774"
      inkscape:document-units="px"
      inkscape:grid-bbox="true"
@@ -40,10 +40,10 @@
      inkscape:showpageshadow="false"
      inkscape:snap-bbox="true"
      inkscape:snap-nodes="false"
-     inkscape:window-height="999"
+     inkscape:window-height="963"
      inkscape:window-width="1304"
-     inkscape:window-x="1920"
-     inkscape:window-y="0"
+     inkscape:window-x="368"
+     inkscape:window-y="25"
      inkscape:zoom="1"
      objecttolerance="10000"
      pagecolor="#ffffff"
@@ -59,92 +59,114 @@
        empspacing="4"
        visible="true"
        type="xygrid"
-       spacingy="1px"
-       spacingx="1px"
+       spacingy="1"
+       spacingx="1"
        id="grid5883"
        enabled="true"
-       snapvisiblegridlinesonly="true" />
+       snapvisiblegridlinesonly="true"
+       originx="0"
+       originy="0" />
     <sodipodi:guide
        id="guide3715"
        position="642.75,472.25"
-       orientation="0,1" />
+       orientation="0,1"
+       inkscape:locked="false" />
     <sodipodi:guide
        id="guide3717"
        position="660,462.5"
-       orientation="1,0" />
+       orientation="1,0"
+       inkscape:locked="false" />
     <sodipodi:guide
        id="guide3719"
        position="435.75,446.25"
-       orientation="1,0" />
+       orientation="1,0"
+       inkscape:locked="false" />
     <sodipodi:guide
        id="guide3721"
        position="587.5,364"
-       orientation="0,1" />
+       orientation="0,1"
+       inkscape:locked="false" />
     <sodipodi:guide
        id="guide3734"
        position="647.5,328"
-       orientation="1,0" />
+       orientation="1,0"
+       inkscape:locked="false" />
     <sodipodi:guide
        id="guide3736"
        position="448,311"
-       orientation="1,0" />
+       orientation="1,0"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="0,1"
        position="1004.7987,432.04224"
-       id="guide2995" />
+       id="guide2995"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="0,1"
        position="314,177"
-       id="guide5127" />
+       id="guide5127"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="0,1"
        position="321,93"
-       id="guide5129" />
+       id="guide5129"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="0,1"
        position="692,250"
-       id="guide3538" />
+       id="guide3538"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="0,1"
        position="316.69545,807.95789"
-       id="guide8344" />
+       id="guide8344"
+       inkscape:locked="false" />
     <inkscape:grid
        type="xygrid"
        id="grid8407"
        visible="true"
        enabled="false"
        empspacing="2"
-       spacingx="0.5px"
-       spacingy="0.5px"
-       snapvisiblegridlinesonly="true" />
+       spacingx="0.5"
+       spacingy="0.5"
+       snapvisiblegridlinesonly="true"
+       originx="0"
+       originy="0" />
     <sodipodi:guide
        orientation="0,1"
        position="631.44636,847.46748"
-       id="guide8504" />
+       id="guide8504"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="0,1"
        position="735.5,745"
-       id="guide9483" />
+       id="guide9483"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="0,1"
        position="624,1021.5"
-       id="guide9523" />
+       id="guide9523"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="0,1"
        position="544.5,1037.5"
-       id="guide9525" />
+       id="guide9525"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="0,1"
        position="1590.9903,663.97327"
-       id="guide10342" />
+       id="guide10342"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="0,1"
        position="396.5,539.5"
-       id="guide11568" />
+       id="guide11568"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="0,1"
        position="440,508"
-       id="guide11570" />
+       id="guide11570"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata85">
@@ -8254,7 +8276,7 @@
       <path
          sodipodi:type="inkscape:offset"
          inkscape:radius="-0.11874371"
-         inkscape:original="M 314.96875 169.3125 C 310.25707 169.3125 306.4375 173.13207 306.4375 177.84375 C 306.4375 182.55543 310.25707 186.375 314.96875 186.375 C 319.68043 186.375 323.5 182.55543 323.5 177.84375 C 323.5 173.13207 319.68043 169.3125 314.96875 169.3125 z "
+         inkscape:original="M 312.04297 169.11133 A 8.53125 8.53125 0 0 0 303.51367 177.89258 A 8.53125 8.53125 0 0 0 312.31055 186.66797 A 8.53125 8.53125 0 0 0 321.10547 177.89258 A 8.53125 8.53125 0 0 0 312.31055 169.11719 A 8.53125 8.53125 0 0 0 312.04297 169.11133 z "
          xlink:href="#path6824-1"
          style="fill:#e9b96e;fill-opacity:1;fill-rule:nonzero;stroke:url(#radialGradient5694);stroke-width:0.61879385;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          id="path5692"
@@ -20135,7 +20157,7 @@
       <path
          sodipodi:type="inkscape:offset"
          inkscape:radius="-0.11874371"
-         inkscape:original="M 314.96875 169.3125 C 310.25707 169.3125 306.4375 173.13207 306.4375 177.84375 C 306.4375 182.55543 310.25707 186.375 314.96875 186.375 C 319.68043 186.375 323.5 182.55543 323.5 177.84375 C 323.5 173.13207 319.68043 169.3125 314.96875 169.3125 z "
+         inkscape:original="M 312.04297 169.11133 A 8.53125 8.53125 0 0 0 303.51367 177.89258 A 8.53125 8.53125 0 0 0 312.31055 186.66797 A 8.53125 8.53125 0 0 0 321.10547 177.89258 A 8.53125 8.53125 0 0 0 312.31055 169.11719 A 8.53125 8.53125 0 0 0 312.04297 169.11133 z "
          xlink:href="#path6824-1-3"
          style="fill:#e9b96e;fill-opacity:1;fill-rule:nonzero;stroke:url(#radialGradient5694);stroke-width:0.61879385;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          id="path5692-1-7"
@@ -21727,25 +21749,26 @@
          y="-278.48639"
          xml:space="preserve"
          x="20.970737"
-         style="font-size:18.30070686px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          inkscape:label="context"
          id="text3671"><tspan
            y="-278.48639"
            x="20.970737"
            sodipodi:role="line"
-           id="tspan3673">emotes</tspan></text>
+           id="tspan3673"
+           style="font-size:18.30070686px;line-height:1.25">emotes</tspan></text>
       <text
          y="-278.48639"
          xml:space="preserve"
          x="191.97073"
-         style="font-size:18.30070686px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
-         sodipodi:linespacing="125%"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          inkscape:label="icon-name"
          id="text3675"><tspan
            y="-278.48639"
            x="191.97073"
            sodipodi:role="line"
-           id="tspan3677">face-sad</tspan></text>
+           id="tspan3677"
+           style="font-size:18.30070686px;line-height:1.25">face-sad</tspan></text>
       <use
          style="display:inline"
          x="0"
@@ -21888,7 +21911,7 @@
            id="path5708"
            style="opacity:0.70935956;fill:none;stroke:url(#linearGradient39613);stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
            xlink:href="#path5044"
-           inkscape:original="M 314.96875 169.3125 C 310.25707 169.3125 306.4375 173.13207 306.4375 177.84375 C 306.4375 182.55543 310.25707 186.375 314.96875 186.375 C 319.68043 186.375 323.5 182.55543 323.5 177.84375 C 323.5 173.13207 319.68043 169.3125 314.96875 169.3125 z "
+           inkscape:original="M 314.66797 169.00391 A 8.53125 8.53125 0 0 0 306.13672 177.53516 A 8.53125 8.53125 0 0 0 314.66797 186.06641 A 8.53125 8.53125 0 0 0 323.19922 177.53516 A 8.53125 8.53125 0 0 0 314.66797 169.00391 z "
            inkscape:radius="-1.0232617"
            sodipodi:type="inkscape:offset" />
         <path
@@ -21919,7 +21942,7 @@
         <path
            sodipodi:type="inkscape:offset"
            inkscape:radius="-1.0232617"
-           inkscape:original="M 314.96875 169.3125 C 310.25707 169.3125 306.4375 173.13207 306.4375 177.84375 C 306.4375 182.55543 310.25707 186.375 314.96875 186.375 C 319.68043 186.375 323.5 182.55543 323.5 177.84375 C 323.5 173.13207 319.68043 169.3125 314.96875 169.3125 z "
+           inkscape:original="M 314.66797 169.00391 A 8.53125 8.53125 0 0 0 306.13672 177.53516 A 8.53125 8.53125 0 0 0 314.66797 186.06641 A 8.53125 8.53125 0 0 0 323.19922 177.53516 A 8.53125 8.53125 0 0 0 314.66797 169.00391 z "
            xlink:href="#path5044"
            style="opacity:0.70935956;color:#000000;fill:none;stroke:url(#linearGradient39942);stroke-width:1.13750041;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
            id="path6306"
@@ -22007,7 +22030,7 @@
            id="path7025"
            style="fill:none;stroke:url(#radialGradient37817);stroke-width:0.44199559;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
            xlink:href="#path6824"
-           inkscape:original="M 314.96875 169.3125 C 310.25707 169.3125 306.4375 173.13207 306.4375 177.84375 C 306.4375 182.55543 310.25707 186.375 314.96875 186.375 C 319.68043 186.375 323.5 182.55543 323.5 177.84375 C 323.5 173.13207 319.68043 169.3125 314.96875 169.3125 z "
+           inkscape:original="M 313.68164 169.3457 A 8.53125 8.53125 0 0 0 305.15234 178.125 A 8.53125 8.53125 0 0 0 313.94922 186.90039 A 8.53125 8.53125 0 0 0 322.74414 178.125 A 8.53125 8.53125 0 0 0 313.94922 169.34961 A 8.53125 8.53125 0 0 0 313.68164 169.3457 z "
            inkscape:radius="-0.11874371"
            sodipodi:type="inkscape:offset" />
       </g>
@@ -22077,7 +22100,7 @@
         <path
            sodipodi:type="inkscape:offset"
            inkscape:radius="-0.11874371"
-           inkscape:original="M 314.96875 169.3125 C 310.25707 169.3125 306.4375 173.13207 306.4375 177.84375 C 306.4375 182.55543 310.25707 186.375 314.96875 186.375 C 319.68043 186.375 323.5 182.55543 323.5 177.84375 C 323.5 173.13207 319.68043 169.3125 314.96875 169.3125 z "
+           inkscape:original="M 313.68164 169.3457 A 8.53125 8.53125 0 0 0 305.15234 178.125 A 8.53125 8.53125 0 0 0 313.94922 186.90039 A 8.53125 8.53125 0 0 0 322.74414 178.125 A 8.53125 8.53125 0 0 0 313.94922 169.34961 A 8.53125 8.53125 0 0 0 313.68164 169.3457 z "
            xlink:href="#path6824"
            style="fill:none;stroke:url(#radialGradient38167);stroke-width:0.64432716;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
            id="path7153"
@@ -22810,26 +22833,27 @@
       <text
          id="text13337"
          inkscape:label="context"
-         style="font-size:18.30070686px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="420.97073"
          xml:space="preserve"
          y="-278.48639"><tspan
            id="tspan13339"
            sodipodi:role="line"
            x="420.97073"
-           y="-278.48639">emotes</tspan></text>
+           y="-278.48639"
+           style="font-size:18.30070686px;line-height:1.25">emotes</tspan></text>
       <text
          id="text13341"
          inkscape:label="icon-name"
-         sodipodi:linespacing="125%"
-         style="font-size:18.30070686px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="591.9707"
          xml:space="preserve"
          y="-278.48639"><tspan
            id="tspan13343"
            sodipodi:role="line"
            x="591.9707"
-           y="-278.48639">face-smile</tspan></text>
+           y="-278.48639"
+           style="font-size:18.30070686px;line-height:1.25">face-smile</tspan></text>
       <use
          height="900"
          width="1600"
@@ -23504,25 +23528,26 @@
          y="-278.48639"
          xml:space="preserve"
          x="820.9707"
-         style="font-size:18.30070686px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          inkscape:label="context"
          id="text15379"><tspan
            y="-278.48639"
            x="820.9707"
            sodipodi:role="line"
-           id="tspan15381">emotes</tspan></text>
+           id="tspan15381"
+           style="font-size:18.30070686px;line-height:1.25">emotes</tspan></text>
       <text
          y="-278.48639"
          xml:space="preserve"
          x="991.9707"
-         style="font-size:18.30070686px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
-         sodipodi:linespacing="125%"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          inkscape:label="icon-name"
          id="text15383"><tspan
            y="-278.48639"
            x="991.9707"
            sodipodi:role="line"
-           id="tspan15385">face-angel</tspan></text>
+           id="tspan15385"
+           style="font-size:18.30070686px;line-height:1.25">face-angel</tspan></text>
       <use
          style="display:inline"
          x="0"
@@ -24543,26 +24568,27 @@
       <text
          id="text15427"
          inkscape:label="context"
-         style="font-size:18.30070686px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="1220.9707"
          xml:space="preserve"
          y="-278.48639"><tspan
            id="tspan15429"
            sodipodi:role="line"
            x="1220.9707"
-           y="-278.48639">emotes</tspan></text>
+           y="-278.48639"
+           style="font-size:18.30070686px;line-height:1.25">emotes</tspan></text>
       <text
          id="text15431"
          inkscape:label="icon-name"
-         sodipodi:linespacing="125%"
-         style="font-size:18.30070686px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="1391.9707"
          xml:space="preserve"
          y="-278.48639"><tspan
            id="tspan15433"
            sodipodi:role="line"
            x="1391.9707"
-           y="-278.48639">face-sick</tspan></text>
+           y="-278.48639"
+           style="font-size:18.30070686px;line-height:1.25">face-sick</tspan></text>
       <use
          height="900"
          width="1600"
@@ -24780,25 +24806,26 @@
          y="21.513611"
          xml:space="preserve"
          x="20.970703"
-         style="font-size:18.30070686px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          inkscape:label="context"
          id="text15475"><tspan
            y="21.513611"
            x="20.970703"
            sodipodi:role="line"
-           id="tspan15477">emotes</tspan></text>
+           id="tspan15477"
+           style="font-size:18.30070686px;line-height:1.25">emotes</tspan></text>
       <text
          y="21.513611"
          xml:space="preserve"
          x="191.9707"
-         style="font-size:18.30070686px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
-         sodipodi:linespacing="125%"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          inkscape:label="icon-name"
          id="text15479"><tspan
            y="21.513611"
            x="191.9707"
            sodipodi:role="line"
-           id="tspan15481">face-cool</tspan></text>
+           id="tspan15481"
+           style="font-size:18.30070686px;line-height:1.25">face-cool</tspan></text>
       <use
          style="display:inline"
          x="0"
@@ -26474,26 +26501,27 @@
       <text
          id="text17555"
          inkscape:label="context"
-         style="font-size:18.30070686px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="420.9707"
          xml:space="preserve"
          y="21.513611"><tspan
            id="tspan17557"
            sodipodi:role="line"
            x="420.9707"
-           y="21.513611">emotes</tspan></text>
+           y="21.513611"
+           style="font-size:18.30070686px;line-height:1.25">emotes</tspan></text>
       <text
          id="text17559"
          inkscape:label="icon-name"
-         sodipodi:linespacing="125%"
-         style="font-size:18.30070686px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="591.9707"
          xml:space="preserve"
          y="21.513611"><tspan
            id="tspan17561"
            sodipodi:role="line"
            x="591.9707"
-           y="21.513611">face-smile-big</tspan></text>
+           y="21.513611"
+           style="font-size:18.30070686px;line-height:1.25">face-smile-big</tspan></text>
       <use
          height="900"
          width="1600"
@@ -26969,25 +26997,26 @@
          y="21.513611"
          xml:space="preserve"
          x="820.9707"
-         style="font-size:18.30070686px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          inkscape:label="context"
          id="text17603"><tspan
            y="21.513611"
            x="820.9707"
            sodipodi:role="line"
-           id="tspan17605">emotes</tspan></text>
+           id="tspan17605"
+           style="font-size:18.30070686px;line-height:1.25">emotes</tspan></text>
       <text
          y="21.513611"
          xml:space="preserve"
          x="991.9707"
-         style="font-size:18.30070686px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
-         sodipodi:linespacing="125%"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          inkscape:label="icon-name"
          id="text17607"><tspan
            y="21.513611"
            x="991.9707"
            sodipodi:role="line"
-           id="tspan17609">face-crying</tspan></text>
+           id="tspan17609"
+           style="font-size:18.30070686px;line-height:1.25">face-crying</tspan></text>
       <use
          style="display:inline"
          x="0"
@@ -28102,26 +28131,27 @@
       <text
          id="text17651"
          inkscape:label="context"
-         style="font-size:18.30070686px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="1220.9707"
          xml:space="preserve"
          y="21.513611"><tspan
            id="tspan17653"
            sodipodi:role="line"
            x="1220.9707"
-           y="21.513611">emotes</tspan></text>
+           y="21.513611"
+           style="font-size:18.30070686px;line-height:1.25">emotes</tspan></text>
       <text
          id="text17655"
          inkscape:label="icon-name"
-         sodipodi:linespacing="125%"
-         style="font-size:18.30070686px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="1391.9707"
          xml:space="preserve"
          y="21.513611"><tspan
            id="tspan17657"
            sodipodi:role="line"
            x="1391.9707"
-           y="21.513611">face-angry</tspan></text>
+           y="21.513611"
+           style="font-size:18.30070686px;line-height:1.25">face-angry</tspan></text>
       <use
          height="900"
          width="1600"
@@ -28264,7 +28294,7 @@
           <path
              sodipodi:type="inkscape:offset"
              inkscape:radius="-1.0232617"
-             inkscape:original="M 314.96875 169.3125 C 310.25707 169.3125 306.4375 173.13207 306.4375 177.84375 C 306.4375 182.55543 310.25707 186.375 314.96875 186.375 C 319.68043 186.375 323.5 182.55543 323.5 177.84375 C 323.5 173.13207 319.68043 169.3125 314.96875 169.3125 z "
+             inkscape:original="M 314.66797 169.00391 A 8.53125 8.53125 0 0 0 306.13672 177.53516 A 8.53125 8.53125 0 0 0 314.66797 186.06641 A 8.53125 8.53125 0 0 0 323.19922 177.53516 A 8.53125 8.53125 0 0 0 314.66797 169.00391 z "
              xlink:href="#path5044"
              style="color:#000000;fill:none;stroke:url(#radialGradient32897-9-4);stroke-width:0.94844204;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
              id="path6559-6"
@@ -28320,7 +28350,7 @@
         <path
            sodipodi:type="inkscape:offset"
            inkscape:radius="-1.0232617"
-           inkscape:original="M 314.96875 169.3125 C 310.25707 169.3125 306.4375 173.13207 306.4375 177.84375 C 306.4375 182.55543 310.25707 186.375 314.96875 186.375 C 319.68043 186.375 323.5 182.55543 323.5 177.84375 C 323.5 173.13207 319.68043 169.3125 314.96875 169.3125 z "
+           inkscape:original="M 314.66797 169.00391 A 8.53125 8.53125 0 0 0 306.13672 177.53516 A 8.53125 8.53125 0 0 0 314.66797 186.06641 A 8.53125 8.53125 0 0 0 323.19922 177.53516 A 8.53125 8.53125 0 0 0 314.66797 169.00391 z "
            xlink:href="#path5044"
            style="color:#000000;fill:none;stroke:url(#radialGradient32901-2-0);stroke-width:1.13750041;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
            id="path6306-0-6"
@@ -28437,7 +28467,7 @@
            id="path7025-2-4"
            style="fill:none;stroke:url(#radialGradient6505-6-3);stroke-width:0.44199842;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
            xlink:href="#path6824-1-3"
-           inkscape:original="M 314.96875 169.3125 C 310.25707 169.3125 306.4375 173.13207 306.4375 177.84375 C 306.4375 182.55543 310.25707 186.375 314.96875 186.375 C 319.68043 186.375 323.5 182.55543 323.5 177.84375 C 323.5 173.13207 319.68043 169.3125 314.96875 169.3125 z "
+           inkscape:original="M 312.04297 169.11133 A 8.53125 8.53125 0 0 0 303.51367 177.89258 A 8.53125 8.53125 0 0 0 312.31055 186.66797 A 8.53125 8.53125 0 0 0 321.10547 177.89258 A 8.53125 8.53125 0 0 0 312.31055 169.11719 A 8.53125 8.53125 0 0 0 312.04297 169.11133 z "
            inkscape:radius="-0.11874371"
            sodipodi:type="inkscape:offset" />
         <g
@@ -28555,7 +28585,7 @@
         <path
            sodipodi:type="inkscape:offset"
            inkscape:radius="-0.11874371"
-           inkscape:original="M 314.96875 169.3125 C 310.25707 169.3125 306.4375 173.13207 306.4375 177.84375 C 306.4375 182.55543 310.25707 186.375 314.96875 186.375 C 319.68043 186.375 323.5 182.55543 323.5 177.84375 C 323.5 173.13207 319.68043 169.3125 314.96875 169.3125 z "
+           inkscape:original="M 312.04297 169.11133 A 8.53125 8.53125 0 0 0 303.51367 177.89258 A 8.53125 8.53125 0 0 0 312.31055 186.66797 A 8.53125 8.53125 0 0 0 321.10547 177.89258 A 8.53125 8.53125 0 0 0 312.31055 169.11719 A 8.53125 8.53125 0 0 0 312.04297 169.11133 z "
            xlink:href="#path6824-1-3"
            style="fill:none;stroke:url(#radialGradient7203-3-0);stroke-width:0.64432716;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
            id="path7153-5-5"
@@ -28904,26 +28934,27 @@
       <text
          id="text17747"
          inkscape:label="context"
-         style="font-size:18.30070686px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="420.9707"
          xml:space="preserve"
          y="321.51361"><tspan
            id="tspan17749"
            sodipodi:role="line"
            x="420.9707"
-           y="321.51361">emotes</tspan></text>
+           y="321.51361"
+           style="font-size:18.30070686px;line-height:1.25">emotes</tspan></text>
       <text
          id="text17751"
          inkscape:label="icon-name"
-         sodipodi:linespacing="125%"
-         style="font-size:18.30070686px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="591.9707"
          xml:space="preserve"
          y="321.51361"><tspan
            id="tspan17753"
            sodipodi:role="line"
            x="591.9707"
-           y="321.51361">face-embarrassed</tspan></text>
+           y="321.51361"
+           style="font-size:18.30070686px;line-height:1.25">face-embarrassed</tspan></text>
       <use
          height="900"
          width="1600"
@@ -29622,25 +29653,26 @@
          y="321.51361"
          xml:space="preserve"
          x="820.9707"
-         style="font-size:18.30070686px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          inkscape:label="context"
          id="text17891"><tspan
            y="321.51361"
            x="820.9707"
            sodipodi:role="line"
-           id="tspan17893">emotes</tspan></text>
+           id="tspan17893"
+           style="font-size:18.30070686px;line-height:1.25">emotes</tspan></text>
       <text
          y="321.51361"
          xml:space="preserve"
          x="991.9707"
-         style="font-size:18.30070686px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
-         sodipodi:linespacing="125%"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          inkscape:label="icon-name"
          id="text17895"><tspan
            y="321.51361"
            x="991.9707"
            sodipodi:role="line"
-           id="tspan17897">face-surprise</tspan></text>
+           id="tspan17897"
+           style="font-size:18.30070686px;line-height:1.25">face-surprise</tspan></text>
       <use
          style="display:inline"
          x="0"
@@ -30450,25 +30482,26 @@
          y="621.51361"
          xml:space="preserve"
          x="420.9707"
-         style="font-size:18.30070686px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          inkscape:label="context"
          id="text17987"><tspan
            y="621.51361"
            x="420.9707"
            sodipodi:role="line"
-           id="tspan17989">emotes</tspan></text>
+           id="tspan17989"
+           style="font-size:18.30070686px;line-height:1.25">emotes</tspan></text>
       <text
          y="621.51361"
          xml:space="preserve"
          x="591.9707"
-         style="font-size:18.30070686px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
-         sodipodi:linespacing="125%"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          inkscape:label="icon-name"
          id="text17991"><tspan
            y="621.51361"
            x="591.9707"
            sodipodi:role="line"
-           id="tspan17993">face-laugh</tspan></text>
+           id="tspan17993"
+           style="font-size:18.30070686px;line-height:1.25">face-laugh</tspan></text>
       <use
          style="display:inline"
          x="0"
@@ -31162,25 +31195,26 @@
          y="321.51361"
          xml:space="preserve"
          x="1220.9707"
-         style="font-size:18.30070686px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          inkscape:label="context"
          id="text18083"><tspan
            y="321.51361"
            x="1220.9707"
            sodipodi:role="line"
-           id="tspan18085">emotes</tspan></text>
+           id="tspan18085"
+           style="font-size:18.30070686px;line-height:1.25">emotes</tspan></text>
       <text
          y="321.51361"
          xml:space="preserve"
          x="1391.9707"
-         style="font-size:18.30070686px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
-         sodipodi:linespacing="125%"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          inkscape:label="icon-name"
          id="text18087"><tspan
            y="321.51361"
            x="1391.9707"
            sodipodi:role="line"
-           id="tspan18089">face-wink</tspan></text>
+           id="tspan18089"
+           style="font-size:18.30070686px;line-height:1.25">face-wink</tspan></text>
       <use
          style="display:inline"
          x="0"
@@ -31837,26 +31871,27 @@
       <text
          id="text18131"
          inkscape:label="context"
-         style="font-size:18.30070686px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="20.970703"
          xml:space="preserve"
          y="333.51361"><tspan
            id="tspan18133"
            sodipodi:role="line"
            x="20.970703"
-           y="333.51361">emotes</tspan></text>
+           y="333.51361"
+           style="font-size:18.30070686px;line-height:1.25">emotes</tspan></text>
       <text
          id="text18135"
          inkscape:label="icon-name"
-         sodipodi:linespacing="125%"
-         style="font-size:18.30070686px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="191.9707"
          xml:space="preserve"
          y="333.51361"><tspan
            id="tspan18137"
            sodipodi:role="line"
            x="191.9707"
-           y="333.51361">face-plain</tspan></text>
+           y="333.51361"
+           style="font-size:18.30070686px;line-height:1.25">face-plain</tspan></text>
       <use
          height="900"
          width="1600"
@@ -32530,25 +32565,26 @@
          y="621.51361"
          xml:space="preserve"
          x="820.9707"
-         style="font-size:18.30070686px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          inkscape:label="context"
          id="text19794"><tspan
            y="621.51361"
            x="820.9707"
            sodipodi:role="line"
-           id="tspan19796">emotes</tspan></text>
+           id="tspan19796"
+           style="font-size:18.30070686px;line-height:1.25">emotes</tspan></text>
       <text
          y="621.51361"
          xml:space="preserve"
          x="991.9707"
-         style="font-size:18.30070686px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
-         sodipodi:linespacing="125%"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          inkscape:label="icon-name"
          id="text19798"><tspan
            y="621.51361"
            x="991.9707"
            sodipodi:role="line"
-           id="tspan19800">face-glasses</tspan></text>
+           id="tspan19800"
+           style="font-size:18.30070686px;line-height:1.25">face-glasses</tspan></text>
       <use
          style="display:inline"
          x="0"
@@ -33639,25 +33675,26 @@
          y="621.51324"
          xml:space="preserve"
          x="20.970703"
-         style="font-size:18.30070686px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          inkscape:label="context"
          id="text30166"><tspan
            y="621.51324"
            x="20.970703"
            sodipodi:role="line"
-           id="tspan30168">emotes</tspan></text>
+           id="tspan30168"
+           style="font-size:18.30070686px;line-height:1.25">emotes</tspan></text>
       <text
          y="621.51324"
          xml:space="preserve"
          x="191.9707"
-         style="font-size:18.30070686px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
-         sodipodi:linespacing="125%"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          inkscape:label="icon-name"
          id="text30170"><tspan
            y="621.51324"
            x="191.9707"
            sodipodi:role="line"
-           id="tspan30172">face-devilish</tspan></text>
+           id="tspan30172"
+           style="font-size:18.30070686px;line-height:1.25">face-devilish</tspan></text>
       <use
          style="display:inline"
          x="0"
@@ -33800,7 +33837,7 @@
           <path
              sodipodi:type="inkscape:offset"
              inkscape:radius="-1.0232617"
-             inkscape:original="M 314.96875 169.3125 C 310.25707 169.3125 306.4375 173.13207 306.4375 177.84375 C 306.4375 182.55543 310.25707 186.375 314.96875 186.375 C 319.68043 186.375 323.5 182.55543 323.5 177.84375 C 323.5 173.13207 319.68043 169.3125 314.96875 169.3125 z "
+             inkscape:original="M 314.66797 169.00391 A 8.53125 8.53125 0 0 0 306.13672 177.53516 A 8.53125 8.53125 0 0 0 314.66797 186.06641 A 8.53125 8.53125 0 0 0 323.19922 177.53516 A 8.53125 8.53125 0 0 0 314.66797 169.00391 z "
              xlink:href="#path5044"
              style="color:#000000;fill:none;stroke:url(#radialGradient32897);stroke-width:0.94844204;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
              id="path6559"
@@ -33928,7 +33965,7 @@
         <path
            sodipodi:type="inkscape:offset"
            inkscape:radius="-1.0232617"
-           inkscape:original="M 314.96875 169.3125 C 310.25707 169.3125 306.4375 173.13207 306.4375 177.84375 C 306.4375 182.55543 310.25707 186.375 314.96875 186.375 C 319.68043 186.375 323.5 182.55543 323.5 177.84375 C 323.5 173.13207 319.68043 169.3125 314.96875 169.3125 z "
+           inkscape:original="M 314.66797 169.00391 A 8.53125 8.53125 0 0 0 306.13672 177.53516 A 8.53125 8.53125 0 0 0 314.66797 186.06641 A 8.53125 8.53125 0 0 0 323.19922 177.53516 A 8.53125 8.53125 0 0 0 314.66797 169.00391 z "
            xlink:href="#path5044"
            style="color:#000000;fill:none;stroke:url(#radialGradient32901);stroke-width:1.13750041;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
            id="path6306-0"
@@ -34163,7 +34200,7 @@
            id="path7025-2"
            style="fill:none;stroke:url(#radialGradient6505);stroke-width:0.44199842;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
            xlink:href="#path6824-1"
-           inkscape:original="M 314.96875 169.3125 C 310.25707 169.3125 306.4375 173.13207 306.4375 177.84375 C 306.4375 182.55543 310.25707 186.375 314.96875 186.375 C 319.68043 186.375 323.5 182.55543 323.5 177.84375 C 323.5 173.13207 319.68043 169.3125 314.96875 169.3125 z "
+           inkscape:original="M 312.04297 169.11133 A 8.53125 8.53125 0 0 0 303.51367 177.89258 A 8.53125 8.53125 0 0 0 312.31055 186.66797 A 8.53125 8.53125 0 0 0 321.10547 177.89258 A 8.53125 8.53125 0 0 0 312.31055 169.11719 A 8.53125 8.53125 0 0 0 312.04297 169.11133 z "
            inkscape:radius="-0.11874371"
            sodipodi:type="inkscape:offset" />
         <g
@@ -34523,7 +34560,7 @@
         <path
            sodipodi:type="inkscape:offset"
            inkscape:radius="-0.11874371"
-           inkscape:original="M 314.96875 169.3125 C 310.25707 169.3125 306.4375 173.13207 306.4375 177.84375 C 306.4375 182.55543 310.25707 186.375 314.96875 186.375 C 319.68043 186.375 323.5 182.55543 323.5 177.84375 C 323.5 173.13207 319.68043 169.3125 314.96875 169.3125 z "
+           inkscape:original="M 312.04297 169.11133 A 8.53125 8.53125 0 0 0 303.51367 177.89258 A 8.53125 8.53125 0 0 0 312.31055 186.66797 A 8.53125 8.53125 0 0 0 321.10547 177.89258 A 8.53125 8.53125 0 0 0 312.31055 169.11719 A 8.53125 8.53125 0 0 0 312.04297 169.11133 z "
            xlink:href="#path6824-1"
            style="fill:none;stroke:url(#radialGradient7203);stroke-width:0.64432716;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
            id="path7153-5"

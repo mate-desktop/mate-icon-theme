@@ -16,7 +16,7 @@
    inkscape:export-xdpi="90.000000"
    inkscape:export-ydpi="90.000000"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
-   inkscape:version="0.47 r22583"
+   inkscape:version="0.92.4 (unknown)"
    sodipodi:docname="list-add-remove.svg"
    sodipodi:version="0.32"
    style="display:inline;enable-background:new"
@@ -61,7 +61,7 @@
      height="300px"
      id="base"
      inkscape:current-layer="layer5"
-     inkscape:cx="315.10771"
+     inkscape:cx="317.10771"
      inkscape:cy="115.03317"
      inkscape:document-units="px"
      inkscape:grid-bbox="true"
@@ -87,11 +87,13 @@
        empspacing="2"
        enabled="true"
        id="grid5883"
-       spacingx="0.5px"
-       spacingy="0.5px"
+       spacingx="0.5"
+       spacingy="0.5"
        type="xygrid"
        visible="true"
-       snapvisiblegridlinesonly="true" />
+       snapvisiblegridlinesonly="true"
+       originx="0"
+       originy="0" />
   </sodipodi:namedview>
   <defs
      id="defs3">
@@ -110,13 +112,6 @@
          offset="1"
          style="stop-color:#bcd1e8;stop-opacity:1" />
     </linearGradient>
-    <inkscape:perspective
-       sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="0 : 150 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_z="800 : 150 : 1"
-       inkscape:persp3d-origin="400 : 100 : 1"
-       id="perspective192" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient5484">
@@ -164,21 +159,6 @@
          style="stop-color:#000000;stop-opacity:0;"
          offset="1"
          id="stop4598" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient4179">
-      <stop
-         id="stop4181"
-         offset="0"
-         style="stop-color:#9ebdde;stop-opacity:1;" />
-      <stop
-         style="stop-color:#729fcf;stop-opacity:1"
-         offset="0.39035457"
-         id="stop4183" />
-      <stop
-         id="stop4185"
-         offset="1"
-         style="stop-color:#ffffff;stop-opacity:1" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
@@ -277,21 +257,6 @@
        xlink:href="#linearGradient3770"
        inkscape:collect="always" />
     <linearGradient
-       id="linearGradient4179-1-1">
-      <stop
-         id="stop4181-9-4"
-         offset="0"
-         style="stop-color:#9ebdde;stop-opacity:1;" />
-      <stop
-         style="stop-color:#6294ca;stop-opacity:1;"
-         offset="0.39035457"
-         id="stop4183-88-9" />
-      <stop
-         id="stop4185-6-0"
-         offset="1"
-         style="stop-color:#ffffff;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient
        y2="223.31934"
        x2="309.52393"
        y1="232.67677"
@@ -343,21 +308,6 @@
          style="stop-color:#ffffff;stop-opacity:0;"
          offset="1"
          id="stop5047-9" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient4179-1-1-12">
-      <stop
-         id="stop4181-9-4-7"
-         offset="0"
-         style="stop-color:#9ebdde;stop-opacity:1;" />
-      <stop
-         style="stop-color:#6294ca;stop-opacity:1;"
-         offset="0.39035457"
-         id="stop4183-88-9-19" />
-      <stop
-         id="stop4185-6-0-8"
-         offset="1"
-         style="stop-color:#ffffff;stop-opacity:1" />
     </linearGradient>
     <linearGradient
        y2="218.6644"
@@ -442,21 +392,6 @@
        id="linearGradient5322-9-0"
        xlink:href="#linearGradient3770"
        inkscape:collect="always" />
-    <linearGradient
-       id="linearGradient4179-1-1-12-6-9">
-      <stop
-         id="stop4181-9-4-7-5-6"
-         offset="0"
-         style="stop-color:#9ebdde;stop-opacity:1;" />
-      <stop
-         style="stop-color:#6294ca;stop-opacity:1;"
-         offset="0.39035457"
-         id="stop4183-88-9-19-8-3" />
-      <stop
-         id="stop4185-6-0-8-0-8"
-         offset="1"
-         style="stop-color:#ffffff;stop-opacity:1" />
-    </linearGradient>
     <linearGradient
        y2="224.10898"
        x2="310.19247"
@@ -570,21 +505,6 @@
        xlink:href="#linearGradient3770"
        inkscape:collect="always" />
     <linearGradient
-       id="linearGradient4179-1-1-1-7">
-      <stop
-         id="stop4181-9-4-95-5"
-         offset="0"
-         style="stop-color:#9ebdde;stop-opacity:1;" />
-      <stop
-         style="stop-color:#6294ca;stop-opacity:1;"
-         offset="0.39035457"
-         id="stop4183-88-9-5-9" />
-      <stop
-         id="stop4185-6-0-3-6"
-         offset="1"
-         style="stop-color:#ffffff;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient
        y2="223.31934"
        x2="309.52393"
        y1="232.67677"
@@ -662,21 +582,6 @@
        xlink:href="#linearGradient3770"
        inkscape:collect="always" />
     <linearGradient
-       id="linearGradient4179-7-8">
-      <stop
-         id="stop4181-2-3"
-         offset="0"
-         style="stop-color:#9ebdde;stop-opacity:1;" />
-      <stop
-         style="stop-color:#729fcf;stop-opacity:1"
-         offset="0.39035457"
-         id="stop4183-4-1" />
-      <stop
-         id="stop4185-0-8"
-         offset="1"
-         style="stop-color:#ffffff;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient
        y2="223"
        x2="308.40625"
        y1="231.71875"
@@ -686,21 +591,6 @@
        id="linearGradient4300-9"
        xlink:href="#linearGradient4051"
        inkscape:collect="always" />
-    <linearGradient
-       id="linearGradient3995-6-3">
-      <stop
-         style="stop-color:#9ebdde;stop-opacity:1;"
-         offset="0"
-         id="stop3997-0-8" />
-      <stop
-         id="stop4003-8-6"
-         offset="0.39035457"
-         style="stop-color:#729fcf;stop-opacity:1" />
-      <stop
-         style="stop-color:#ffffff;stop-opacity:1"
-         offset="1"
-         id="stop3999-8-0" />
-    </linearGradient>
     <linearGradient
        y2="220.53125"
        x2="309.88742"
@@ -777,25 +667,26 @@
          y="21.74086"
          xml:space="preserve"
          x="420.90088"
-         style="font-size:18.30070686px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          inkscape:label="context"
          id="text3062"><tspan
            y="21.74086"
            x="420.90088"
            sodipodi:role="line"
-           id="tspan3064">actions</tspan></text>
+           id="tspan3064"
+           style="font-size:18.30070686px;line-height:1.25">actions</tspan></text>
       <text
          y="21.513618"
          xml:space="preserve"
          x="591.97076"
-         style="font-size:18.30070686px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
-         sodipodi:linespacing="125%"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          inkscape:label="icon-name"
          id="text3066"><tspan
            y="21.513618"
            x="591.97076"
            sodipodi:role="line"
-           id="tspan3068">list-remove</tspan></text>
+           id="tspan3068"
+           style="font-size:18.30070686px;line-height:1.25">list-remove</tspan></text>
     </g>
     <g
        style="display:inline"
@@ -928,26 +819,27 @@
       <text
          id="context"
          inkscape:label="context"
-         style="font-size:18.30070686px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="20.900885"
          xml:space="preserve"
          y="21.74086"><tspan
            id="tspan2716"
            sodipodi:role="line"
            x="20.900885"
-           y="21.74086">actions</tspan></text>
+           y="21.74086"
+           style="font-size:18.30070686px;line-height:1.25">actions</tspan></text>
       <text
          id="icon-name"
          inkscape:label="icon-name"
-         sodipodi:linespacing="125%"
-         style="font-size:18.30070686px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="191.97073"
          xml:space="preserve"
          y="21.513618"><tspan
            id="tspan3023"
            sodipodi:role="line"
            x="191.97073"
-           y="21.513618">list-add</tspan></text>
+           y="21.513618"
+           style="font-size:18.30070686px;line-height:1.25">list-add</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"

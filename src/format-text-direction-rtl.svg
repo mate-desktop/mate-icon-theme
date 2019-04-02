@@ -16,7 +16,7 @@
    inkscape:export-xdpi="90.000000"
    inkscape:export-ydpi="90.000000"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
-   inkscape:version="0.46+devel"
+   inkscape:version="0.92.4 (unknown)"
    sodipodi:docname="format-text-direction-rtl.svg"
    sodipodi:version="0.32"
    style="display:inline;enable-background:new"
@@ -80,8 +80,8 @@
      inkscape:snap-nodes="true"
      inkscape:window-height="722"
      inkscape:window-width="968"
-     inkscape:window-x="1755"
-     inkscape:window-y="296"
+     inkscape:window-x="704"
+     inkscape:window-y="266"
      inkscape:zoom="1"
      objecttolerance="7"
      pagecolor="#ffffff"
@@ -94,20 +94,15 @@
        empspacing="2"
        enabled="true"
        id="grid5883"
-       spacingx="0.5px"
-       spacingy="0.5px"
+       spacingx="0.5"
+       spacingy="0.5"
        type="xygrid"
-       visible="true" />
+       visible="true"
+       originx="0"
+       originy="0" />
   </sodipodi:namedview>
   <defs
      id="defs3">
-    <inkscape:perspective
-       sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="0 : 150 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_z="400 : 150 : 1"
-       inkscape:persp3d-origin="200 : 100 : 1"
-       id="perspective279" />
     <linearGradient
        id="linearGradient7024"
        inkscape:collect="always">
@@ -257,78 +252,6 @@
          offset="1"
          style="stop-color:#fce94f;stop-opacity:1;" />
     </linearGradient>
-    <linearGradient
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient6605"
-       inkscape:collect="always"
-       x1="47.994873"
-       x2="47.994873"
-       xlink:href="#linearGradient5523"
-       y1="44.07373"
-       y2="40.908184" />
-    <linearGradient
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient6607"
-       inkscape:collect="always"
-       x1="29.78125"
-       x2="29.78125"
-       xlink:href="#linearGradient5523"
-       y1="43.875"
-       y2="41.183868" />
-    <linearGradient
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient6609"
-       inkscape:collect="always"
-       x1="38.5"
-       x2="38.5"
-       xlink:href="#linearGradient5513"
-       y1="43.8125"
-       y2="41.25" />
-    <linearGradient
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient6611"
-       inkscape:collect="always"
-       x1="29.78125"
-       x2="29.78125"
-       xlink:href="#linearGradient5523"
-       y1="43.875"
-       y2="41.183868" />
-    <linearGradient
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient6613"
-       inkscape:collect="always"
-       x1="47.994873"
-       x2="47.994873"
-       xlink:href="#linearGradient5523"
-       y1="44.07373"
-       y2="40.908184" />
-    <linearGradient
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient6615"
-       inkscape:collect="always"
-       x1="29.78125"
-       x2="29.78125"
-       xlink:href="#linearGradient5523"
-       y1="43.875"
-       y2="41.183868" />
-    <linearGradient
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient6617"
-       inkscape:collect="always"
-       x1="38.5"
-       x2="38.5"
-       xlink:href="#linearGradient5513"
-       y1="43.8125"
-       y2="41.25" />
-    <linearGradient
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient6619"
-       inkscape:collect="always"
-       x1="30.3125"
-       x2="30.3125"
-       xlink:href="#linearGradient6579"
-       y1="41.4375"
-       y2="45.500481" />
     <linearGradient
        gradientTransform="translate(0,12)"
        gradientUnits="userSpaceOnUse"
@@ -966,26 +889,27 @@
     <text
        id="context"
        inkscape:label="context"
-       style="font-size:18.30070686px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
        x="20.970737"
        xml:space="preserve"
        y="21.513618"><tspan
          id="tspan2716"
          sodipodi:role="line"
          x="20.970737"
-         y="21.513618">actions</tspan></text>
+         y="21.513618"
+         style="font-size:18.30070686px;line-height:1.25">actions</tspan></text>
     <text
        id="icon-name"
        inkscape:label="icon-name"
-       sodipodi:linespacing="125%"
-       style="font-size:18.30070686px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
        x="191.97073"
        xml:space="preserve"
        y="21.513618"><tspan
          id="tspan3023"
          sodipodi:role="line"
          x="191.97073"
-         y="21.513618">format-text-direction-rtl</tspan></text>
+         y="21.513618"
+         style="font-size:18.30070686px;line-height:1.25">format-text-direction-rtl</tspan></text>
   </g>
   <g
      id="layer2"

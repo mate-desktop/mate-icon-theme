@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -15,7 +16,7 @@
    inkscape:export-xdpi="90.000000"
    inkscape:export-ydpi="90.000000"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
-   inkscape:version="0.46"
+   inkscape:version="0.92.4 (unknown)"
    sodipodi:docname="face-monkey.svg"
    sodipodi:version="0.32"
    style="display:inline;enable-background:new"
@@ -60,7 +61,7 @@
      height="300px"
      id="base"
      inkscape:current-layer="layer6"
-     inkscape:cx="144.68008"
+     inkscape:cx="146.68008"
      inkscape:cy="87.105301"
      inkscape:document-units="px"
      inkscape:grid-bbox="true"
@@ -73,22 +74,25 @@
      inkscape:window-height="876"
      inkscape:window-width="968"
      inkscape:window-x="132"
-     inkscape:window-y="8"
+     inkscape:window-y="25"
      inkscape:zoom="1"
      objecttolerance="7"
      pagecolor="#ffffff"
      showgrid="false"
      showguides="true"
      stroke="#ef2929"
-     width="400px">
+     width="400px"
+     inkscape:window-maximized="0">
     <inkscape:grid
        empspacing="2"
        enabled="true"
        id="grid5883"
-       spacingx="0.5px"
-       spacingy="0.5px"
+       spacingx="0.5"
+       spacingy="0.5"
        type="xygrid"
-       visible="true" />
+       visible="true"
+       originx="0"
+       originy="0" />
   </sodipodi:namedview>
   <defs
      id="defs3">
@@ -562,26 +566,27 @@
     <text
        id="context"
        inkscape:label="context"
-       style="font-size:18.30070686px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
        x="20.970737"
        xml:space="preserve"
        y="21.513618"><tspan
          id="tspan2716"
          sodipodi:role="line"
          x="20.970737"
-         y="21.513618">emotes</tspan></text>
+         y="21.513618"
+         style="font-size:18.30070686px;line-height:1.25">emotes</tspan></text>
     <text
        id="icon-name"
        inkscape:label="icon-name"
-       sodipodi:linespacing="125%"
-       style="font-size:18.30070686px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
        x="191.97073"
        xml:space="preserve"
        y="21.513618"><tspan
          id="tspan3023"
          sodipodi:role="line"
          x="191.97073"
-         y="21.513618">face-monkey</tspan></text>
+         y="21.513618"
+         style="font-size:18.30070686px;line-height:1.25">face-monkey</tspan></text>
   </g>
   <g
      id="layer2"
@@ -970,7 +975,7 @@
          d="M 10.59375,2.5 C 8.7981648,2.6042025 7.5461736,3.1044783 6.75,3.875 C 5.9538264,4.6455217 5.53125,5.7526169 5.53125,7.375 L 6,10.875 C 6.055813,11.29599 5.8439323,11.707288 5.46875,11.90625 C 4.9833593,12.152852 4.53125,13.202826 4.53125,14.5 C 4.53125,16.83296 6.4039143,19.439172 11,19.46875 C 15.653931,19.49901 17.468751,16.84819 17.46875,14.5 C 17.474146,13.239149 16.992362,12.198483 16.46875,11.875 C 16.129179,11.663086 15.945653,11.271563 16,10.875 L 16.46875,7.375 C 16.46875,5.6928576 15.996401,4.5644706 15.125,3.78125 C 14.253599,2.9980294 12.899088,2.53125 11,2.53125 C 10.799592,2.53125 10.677489,2.4951403 10.59375,2.5 z"
          id="path158"
          inkscape:href="#path3346"
-         inkscape:original="M 10.53125 1.5 C 6.6154138 1.7272463 4.5000001 3.7364327 4.5 7.375 L 5 11 C 3.9491616 11.533876 3.5 13 3.5 14.5 C 3.5 17.412673 5.992829 20.467776 11 20.5 C 16.072664 20.532983 18.500001 17.412673 18.5 14.5 C 18.506426 12.998394 17.978648 11.6046 17 11 L 17.5 7.375 C 17.500001 3.5885239 15.13989 1.5 11 1.5 C 10.838284 1.5 10.690429 1.4907623 10.53125 1.5 z "
+         inkscape:original="M 24.007812 4.5 C 15.73716 4.5 10.521485 9.0665416 10.521484 16.535156 L 11.544922 24 C 9.3635353 25.095848 8.4316406 28.104657 8.4316406 31.183594 C 8.4316406 37.162219 13.621468 43.433856 24.015625 43.5 C 34.545735 43.567701 39.568362 37.162219 39.568359 31.183594 C 39.581699 28.101361 38.486608 25.241017 36.455078 24 L 37.507812 16.535156 C 37.507812 8.7629405 32.278464 4.5 24.007812 4.5 z "
          inkscape:radius="-1.0160223"
          sodipodi:type="inkscape:offset"
          style="opacity:0.51119403;fill:url(#radialGradient3396);fill-opacity:1;fill-rule:evenodd;stroke:url(#linearGradient3404);stroke-width:1;stroke-miterlimit:4;stroke-opacity:1"

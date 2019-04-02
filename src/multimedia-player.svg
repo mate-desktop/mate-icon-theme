@@ -17,20 +17,13 @@
    height="300"
    id="svg11300"
    sodipodi:version="0.32"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.92.4 (unknown)"
    sodipodi:docname="multimedia-player.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.0"
    style="display:inline;enable-background:new">
   <defs
      id="defs3">
-    <inkscape:perspective
-       sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="0 : 150 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_z="400 : 150 : 1"
-       inkscape:persp3d-origin="200 : 100 : 1"
-       id="perspective1361" />
     <linearGradient
        id="linearGradient9406"
        inkscape:collect="always">
@@ -1109,7 +1102,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="155.19728"
+     inkscape:cx="157.19728"
      inkscape:cy="265.98523"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1117,9 +1110,9 @@
      inkscape:document-units="px"
      inkscape:showpageshadow="false"
      inkscape:window-width="1459"
-     inkscape:window-height="1113"
-     inkscape:window-x="581"
-     inkscape:window-y="196"
+     inkscape:window-height="963"
+     inkscape:window-x="213"
+     inkscape:window-y="25"
      width="400px"
      height="300px"
      inkscape:snap-nodes="false"
@@ -1133,10 +1126,12 @@
     <inkscape:grid
        type="xygrid"
        id="grid5883"
-       spacingx="1px"
-       spacingy="1px"
+       spacingx="1"
+       spacingy="1"
        enabled="true"
-       visible="true" />
+       visible="true"
+       originx="0"
+       originy="0" />
   </sodipodi:namedview>
   <metadata
      id="metadata4">
@@ -1251,7 +1246,7 @@
          inkscape:label="24x24" />
       <text
          xml:space="preserve"
-         style="font-size:18.30070686px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="20.970737"
          y="21.513618"
          id="context"
@@ -1259,19 +1254,20 @@
            sodipodi:role="line"
            id="tspan2716"
            x="20.970737"
-           y="21.513618">devices</tspan></text>
+           y="21.513618"
+           style="font-size:18.30070686px;line-height:1.25">devices</tspan></text>
       <text
          inkscape:label="icon-name"
          id="text3021"
          y="21.513618"
          x="191.97073"
-         style="font-size:18.30070686px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
-         xml:space="preserve"
-         sodipodi:linespacing="125%"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
+         xml:space="preserve"><tspan
            y="21.513618"
            x="191.97073"
            id="tspan3023"
-           sodipodi:role="line">multimedia-player</tspan></text>
+           sodipodi:role="line"
+           style="font-size:18.30070686px;line-height:1.25">multimedia-player</tspan></text>
     </g>
     <rect
        transform="matrix(0.86788929,0,0,0.56830731,40.472254,137.81722)"

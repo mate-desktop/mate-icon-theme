@@ -17,7 +17,7 @@
    height="300"
    id="svg11300"
    sodipodi:version="0.32"
-   inkscape:version="0.46+devel"
+   inkscape:version="0.92.4 (unknown)"
    sodipodi:docname="keyboards.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.0"
@@ -32,7 +32,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="396.46818"
+     inkscape:cx="398.46818"
      inkscape:cy="60.481263"
      inkscape:current-layer="layer3"
      showgrid="false"
@@ -58,21 +58,16 @@
     <inkscape:grid
        type="xygrid"
        id="grid5883"
-       spacingx="1px"
-       spacingy="1px"
+       spacingx="1"
+       spacingy="1"
        enabled="true"
        visible="true"
-       empspacing="4" />
+       empspacing="4"
+       originx="0"
+       originy="0" />
   </sodipodi:namedview>
   <defs
      id="defs3">
-    <inkscape:perspective
-       sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="0 : 150 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_z="800 : 150 : 1"
-       inkscape:persp3d-origin="400 : 100 : 1"
-       id="perspective16418" />
     <pattern
        id="pattern2719"
        patternTransform="translate(-523,-333)"
@@ -3575,7 +3570,7 @@
          style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <text
          xml:space="preserve"
-         style="font-size:18.30070686px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="20.970737"
          y="21.513618"
          id="context"
@@ -3583,19 +3578,20 @@
            sodipodi:role="line"
            id="tspan2716"
            x="20.970737"
-           y="21.513618">devices</tspan></text>
+           y="21.513618"
+           style="font-size:18.30070686px;line-height:1.25">devices</tspan></text>
       <text
          inkscape:label="icon-name"
          id="text3021"
          y="21.513618"
          x="191.97073"
-         style="font-size:18.30070686px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
-         xml:space="preserve"
-         sodipodi:linespacing="125%"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
+         xml:space="preserve"><tspan
            y="21.513618"
            x="191.97073"
            id="tspan3023"
-           sodipodi:role="line">input-keyboard</tspan></text>
+           sodipodi:role="line"
+           style="font-size:18.30070686px;line-height:1.25">input-keyboard</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
@@ -5743,7 +5739,7 @@
          style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <text
          xml:space="preserve"
-         style="font-size:18.30070686px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="420.97025"
          y="21.513618"
          id="text3035"
@@ -5751,19 +5747,20 @@
            sodipodi:role="line"
            id="tspan3037"
            x="420.97025"
-           y="21.513618">apps</tspan></text>
+           y="21.513618"
+           style="font-size:18.30070686px;line-height:1.25">apps</tspan></text>
       <text
          inkscape:label="icon-name"
          id="text3039"
          y="21.513618"
          x="471.97021"
-         style="font-size:18.30070686px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
-         xml:space="preserve"
-         sodipodi:linespacing="125%"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
+         xml:space="preserve"><tspan
            y="21.513618"
            x="471.97021"
            id="tspan3041"
-           sodipodi:role="line">preferences-desktop-keyboard</tspan></text>
+           sodipodi:role="line"
+           style="font-size:18.30070686px;line-height:1.25">preferences-desktop-keyboard</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"

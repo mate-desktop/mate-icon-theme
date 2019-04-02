@@ -14,7 +14,7 @@
    height="1200"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="0.48.1 r9760"
+   inkscape:version="0.92.4 (unknown)"
    sodipodi:docname="paper-sheets.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.0"
@@ -33,15 +33,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="1344.1388"
+     inkscape:cx="1346.1388"
      inkscape:cy="134.76914"
      inkscape:document-units="px"
      inkscape:current-layer="g25937"
      showgrid="false"
      inkscape:window-width="1227"
      inkscape:window-height="931"
-     inkscape:window-x="1644"
-     inkscape:window-y="230"
+     inkscape:window-x="445"
+     inkscape:window-y="57"
      borderlayer="true"
      inkscape:showpageshadow="false"
      inkscape:snap-nodes="false"
@@ -58,27 +58,33 @@
        empspacing="2"
        visible="true"
        enabled="true"
-       spacingx="0.5px"
-       spacingy="0.5px"
+       spacingx="0.5"
+       spacingy="0.5"
        empcolor="#ff0000"
        empopacity="0.25098039"
-       snapvisiblegridlinesonly="true" />
+       snapvisiblegridlinesonly="true"
+       originx="0"
+       originy="0" />
     <sodipodi:guide
        id="guide5862"
        position="1180,249"
-       orientation="0,1" />
+       orientation="0,1"
+       inkscape:locked="false" />
     <sodipodi:guide
        id="guide5564"
        position="1216,243"
-       orientation="0,1" />
+       orientation="0,1"
+       inkscape:locked="false" />
     <sodipodi:guide
        id="guide5134"
        position="214.25335,552.9575"
-       orientation="0,1" />
+       orientation="0,1"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="0,1"
        position="1028.25,24"
-       id="guide11679" />
+       id="guide11679"
+       inkscape:locked="false" />
     <inkscape:grid
        type="xygrid"
        id="grid15026"
@@ -89,19 +95,23 @@
     <sodipodi:guide
        orientation="0,1"
        position="1020.3551,124.45079"
-       id="guide16018" />
+       id="guide16018"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="-0.70710678,0.70710678"
        position="419,216.25"
-       id="guide13027" />
+       id="guide13027"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="1,0"
        position="455,563"
-       id="guide13759" />
+       id="guide13759"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="1,0"
        position="1739,692"
-       id="guide7647" />
+       id="guide7647"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <defs
      id="defs4">
@@ -12009,7 +12019,7 @@
       <text
          id="text8340"
          x="20"
-         style="font-size:18px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;font-size:18px;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none"
          inkscape:label="context"
          y="20">
         <tspan
@@ -12018,7 +12028,7 @@
       <text
          id="text8344"
          x="200"
-         style="font-size:18px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;font-size:18px;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none"
          inkscape:label="icon-name"
          y="20">
         <tspan
@@ -13823,7 +13833,7 @@
       <text
          id="text8364"
          x="420"
-         style="font-size:18px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;font-size:18px;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none"
          inkscape:label="context"
          y="20">
         <tspan
@@ -13832,7 +13842,7 @@
       <text
          id="text8368"
          x="600"
-         style="font-size:18px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;font-size:18px;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none"
          inkscape:label="icon-name"
          y="20">
         <tspan
@@ -13844,29 +13854,28 @@
          style="fill:#fcaf3e;fill-opacity:1;stroke:none;display:inline"
          inkscape:connector-curvature="0" />
       <text
-         sodipodi:linespacing="125%"
          id="text5170"
          y="-131.664"
          x="576.02301"
-         style="font-size:6px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;fill:#f57900;fill-opacity:1;stroke:none;display:inline;font-family:Impact"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Impact;display:inline;fill:#f57900;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            id="tspan5174"
-           style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;text-anchor:start;fill:#f57900;font-family:Bitstream Vera Sans"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:'Bitstream Vera Sans';text-align:start;text-anchor:start;fill:#f57900"
            y="-131.664"
            x="576.02301"
            sodipodi:role="line">This is the parent of all the clones.</tspan><tspan
            id="tspan5178"
-           style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;text-anchor:start;fill:#f57900;font-family:Bitstream Vera Sans"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:'Bitstream Vera Sans';text-align:start;text-anchor:start;fill:#f57900"
            y="-121.664"
            x="576.02301"
            sodipodi:role="line">There are 2 clones per blank sheet,</tspan><tspan
            id="tspan5180"
-           style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;text-anchor:start;fill:#f57900;font-family:Bitstream Vera Sans"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:'Bitstream Vera Sans';text-align:start;text-anchor:start;fill:#f57900"
            y="-111.664"
            x="576.02301"
            sodipodi:role="line">the main page and the curl, so you can</tspan><tspan
            id="tspan5182"
-           style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;text-anchor:start;fill:#f57900;font-family:Bitstream Vera Sans"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:'Bitstream Vera Sans';text-align:start;text-anchor:start;fill:#f57900"
            y="-101.664"
            x="576.02301"
            sodipodi:role="line">place things underneat it.</tspan></text>
@@ -13874,12 +13883,13 @@
          id="text4397"
          y="-103.25"
          x="624.75"
-         style="font-size:6px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Impact"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Impact;display:inline;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            y="-103.25"
            x="624.75"
            id="tspan4399"
-           sodipodi:role="line"> </tspan></text>
+           sodipodi:role="line"
+           style="font-size:6px;line-height:1.25"> </tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
@@ -14879,7 +14889,7 @@
       <text
          id="text8388"
          x="820"
-         style="font-size:18px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;font-size:18px;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none"
          inkscape:label="context"
          y="20">
         <tspan
@@ -14888,7 +14898,7 @@
       <text
          id="text8392"
          x="936"
-         style="font-size:18px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;font-size:18px;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none"
          inkscape:label="icon-name"
          y="20">
         <tspan
@@ -16449,7 +16459,7 @@
       <text
          id="text8412"
          x="1220"
-         style="font-size:18px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;font-size:18px;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none"
          inkscape:label="context"
          y="20">
         <tspan
@@ -16458,7 +16468,7 @@
       <text
          id="text8416"
          x="1400"
-         style="font-size:18px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;font-size:18px;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none"
          inkscape:label="icon-name"
          y="20">
         <tspan
@@ -17021,7 +17031,7 @@
       <text
          id="text8436"
          x="1620.0002"
-         style="font-size:18px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;font-size:18px;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none"
          inkscape:label="context"
          y="20">
         <tspan
@@ -17030,7 +17040,7 @@
       <text
          id="text8440"
          x="1760.0002"
-         style="font-size:18px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;font-size:18px;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none"
          inkscape:label="icon-name"
          y="20">
         <tspan
@@ -18067,7 +18077,7 @@
       <text
          id="text8460"
          x="20"
-         style="font-size:18px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;font-size:18px;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none"
          inkscape:label="context"
          y="320">
         <tspan
@@ -18076,7 +18086,7 @@
       <text
          id="text8464"
          x="128"
-         style="font-size:18px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;font-size:18px;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none"
          inkscape:label="icon-name"
          y="320">
         <tspan
@@ -18252,7 +18262,7 @@
       <text
          id="text8484"
          x="420"
-         style="font-size:18px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;font-size:18px;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none"
          inkscape:label="context"
          y="320">
         <tspan
@@ -18261,7 +18271,7 @@
       <text
          id="text8488"
          x="600"
-         style="font-size:18px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;font-size:18px;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none"
          inkscape:label="icon-name"
          y="320">
         <tspan
@@ -19052,7 +19062,7 @@
       <text
          id="text8508"
          x="820"
-         style="font-size:18px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;font-size:18px;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none"
          inkscape:label="context"
          y="320">
         <tspan
@@ -19061,7 +19071,7 @@
       <text
          id="text8512"
          x="940"
-         style="font-size:18px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;font-size:18px;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none"
          inkscape:label="icon-name"
          y="320">
         <tspan
@@ -19241,7 +19251,7 @@
       <text
          id="text8508-5"
          x="1220"
-         style="font-size:18px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;font-size:18px;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none"
          inkscape:label="context"
          y="324">
         <tspan
@@ -19250,7 +19260,7 @@
       <text
          id="text8512-7"
          x="1364"
-         style="font-size:18px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;font-size:18px;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none"
          inkscape:label="icon-name"
          y="324">
         <tspan
@@ -21488,7 +21498,7 @@
       <text
          id="text8508-5-4"
          x="1620.0002"
-         style="font-size:18px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;font-size:18px;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none"
          inkscape:label="context"
          y="324">
         <tspan
@@ -21497,7 +21507,7 @@
       <text
          id="text8512-7-9"
          x="1730.0002"
-         style="font-size:18px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;font-size:18px;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none"
          inkscape:label="icon-name"
          y="324">
         <tspan
@@ -23683,7 +23693,7 @@
       <text
          id="text11424"
          x="20.000235"
-         style="font-size:18px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;font-size:18px;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none"
          inkscape:label="context"
          y="624">
         <tspan
@@ -23692,7 +23702,7 @@
       <text
          id="text11428"
          x="220.00023"
-         style="font-size:18px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;font-size:18px;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none"
          inkscape:label="icon-name"
          y="624">
         <tspan
@@ -27150,7 +27160,7 @@
       <text
          id="text6050"
          x="419.99994"
-         style="font-size:18px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;font-size:18px;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none"
          inkscape:label="context"
          y="624">
         <tspan
@@ -27159,7 +27169,7 @@
       <text
          id="text6054"
          x="619.99994"
-         style="font-size:18px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;font-size:18px;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none"
          inkscape:label="icon-name"
          y="624">
         <tspan
@@ -27496,7 +27506,7 @@
       <text
          id="text5764"
          x="819.99994"
-         style="font-size:18px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;font-size:18px;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none"
          inkscape:label="context"
          y="624">
         <tspan
@@ -27505,7 +27515,7 @@
       <text
          id="text5768"
          x="959.99994"
-         style="font-size:18px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;font-size:18px;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none"
          inkscape:label="icon-name"
          y="624">
         <tspan
@@ -27913,7 +27923,7 @@
       <text
          y="924"
          inkscape:label="context"
-         style="font-size:18px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;font-size:18px;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none"
          x="819.99994"
          id="text15207">
         <tspan
@@ -27922,7 +27932,7 @@
       <text
          y="924"
          inkscape:label="icon-name"
-         style="font-size:18px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;font-size:18px;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none"
          x="959.99994"
          id="text15211">
         <tspan
@@ -28098,7 +28108,7 @@
       <text
          id="text5980"
          x="1219.9999"
-         style="font-size:18px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;font-size:18px;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none"
          inkscape:label="context"
          y="624">
         <tspan
@@ -28107,7 +28117,7 @@
       <text
          id="text5984"
          x="1389.9999"
-         style="font-size:18px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;font-size:18px;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none"
          inkscape:label="icon-name"
          y="624">
         <tspan
@@ -29028,7 +29038,7 @@
       <text
          id="text11625"
          x="1619.9999"
-         style="font-size:18px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;font-size:18px;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none"
          inkscape:label="context"
          y="624">
         <tspan
@@ -29037,7 +29047,7 @@
       <text
          id="text11629"
          x="1789.9999"
-         style="font-size:18px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;font-size:18px;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none"
          inkscape:label="icon-name"
          y="624">
         <tspan
@@ -29444,7 +29454,7 @@
       <text
          y="924"
          inkscape:label="context"
-         style="font-size:18px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;font-size:18px;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none"
          x="1219.9999"
          id="text25929">
         <tspan
@@ -29453,7 +29463,7 @@
       <text
          y="924"
          inkscape:label="icon-name"
-         style="font-size:18px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;font-size:18px;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none"
          x="1389.9999"
          id="text25933">
         <tspan
@@ -29861,7 +29871,7 @@
       <text
          id="text11781"
          x="19.999945"
-         style="font-size:18px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;font-size:18px;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none"
          inkscape:label="context"
          y="924">
         <tspan
@@ -29870,7 +29880,7 @@
       <text
          id="text11785"
          x="189.99994"
-         style="font-size:18px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;font-size:18px;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none"
          inkscape:label="icon-name"
          y="924">
         <tspan
@@ -30707,7 +30717,7 @@
           </g>
           <text
              xml:space="preserve"
-             style="font-size:8.47572803px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;fill-opacity:1;stroke:none"
              x="1187.3527"
              y="-1204.048"
              id="text12948"
@@ -30716,7 +30726,7 @@
                id="tspan12950"
                x="1187.3527"
                y="-1204.048"
-               style="font-size:4.23786402px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:Courier New;-inkscape-font-specification:Courier New Bold">0  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25</tspan></text>
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23786402px;line-height:1.25;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';fill:#ffffff">0  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25</tspan></text>
         </g>
         <g
            id="g12860">
@@ -30908,7 +30918,7 @@
           </g>
           <text
              xml:space="preserve"
-             style="font-size:8.47572803px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1;stroke:none"
              x="1187.3527"
              y="-1204.048"
              id="text12856"
@@ -30917,7 +30927,7 @@
                id="tspan12858"
                x="1187.3527"
                y="-1204.048"
-               style="font-size:4.23786402px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Courier New;-inkscape-font-specification:Courier New Bold">0  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25</tspan></text>
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23786402px;line-height:1.25;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold'">0  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25</tspan></text>
         </g>
       </g>
       <g
@@ -31024,7 +31034,7 @@
       <text
          id="text12032"
          x="419.99994"
-         style="font-size:18px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;font-size:18px;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none"
          inkscape:label="context"
          y="924">
         <tspan
@@ -31033,7 +31043,7 @@
       <text
          id="text12036"
          x="589.99994"
-         style="font-size:18px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;font-size:18px;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none"
          inkscape:label="icon-name"
          y="924">
         <tspan

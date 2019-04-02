@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -15,7 +16,7 @@
    inkscape:export-xdpi="90.000000"
    inkscape:export-ydpi="90.000000"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
-   inkscape:version="0.46"
+   inkscape:version="0.92.4 (unknown)"
    sodipodi:docname="video-x-generic.svg"
    sodipodi:version="0.32"
    style="display:inline;enable-background:new"
@@ -59,7 +60,7 @@
      height="300px"
      id="base"
      inkscape:current-layer="layer6"
-     inkscape:cx="176.15667"
+     inkscape:cx="178.15667"
      inkscape:cy="114.94912"
      inkscape:document-units="px"
      inkscape:grid-bbox="true"
@@ -77,15 +78,18 @@
      pagecolor="#ffffff"
      showgrid="false"
      stroke="#ef2929"
-     width="400px">
+     width="400px"
+     inkscape:window-maximized="0">
     <inkscape:grid
        enabled="true"
        id="grid5883"
-       spacingx="1px"
-       spacingy="1px"
+       spacingx="1"
+       spacingy="1"
        type="xygrid"
        visible="true"
-       empspacing="4" />
+       empspacing="4"
+       originx="0"
+       originy="0" />
   </sodipodi:namedview>
   <defs
      id="defs3">
@@ -2413,26 +2417,27 @@
       <text
          id="context"
          inkscape:label="context"
-         style="font-size:18.30070686px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="20.970737"
          xml:space="preserve"
          y="21.513618"><tspan
            id="tspan2716"
            sodipodi:role="line"
            x="20.970737"
-           y="21.513618">mimetypes</tspan></text>
+           y="21.513618"
+           style="font-size:18.30070686px;line-height:1.25">mimetypes</tspan></text>
       <text
          id="icon-name"
          inkscape:label="icon-name"
-         sodipodi:linespacing="125%"
-         style="font-size:18.30070686px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="191.97073"
          xml:space="preserve"
          y="21.513618"><tspan
            id="tspan3023"
            sodipodi:role="line"
            x="191.97073"
-           y="21.513618">video-x-generic</tspan></text>
+           y="21.513618"
+           style="font-size:18.30070686px;line-height:1.25">video-x-generic</tspan></text>
     </g>
     <g
        id="g256"

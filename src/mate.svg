@@ -7,14 +7,13 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="48"
    height="48"
    id="svg4908"
    sodipodi:version="0.32"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.92.4 (unknown)"
    version="1.0"
    sodipodi:docname="mate.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
@@ -22,28 +21,6 @@
    inkscape:export-ydpi="90">
   <defs
      id="defs4910">
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient5671">
-      <stop
-         style="stop-color:#729fcf;stop-opacity:1;"
-         offset="0"
-         id="stop5673" />
-      <stop
-         style="stop-color:#3465a4;stop-opacity:1"
-         offset="1"
-         id="stop5675" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient5671"
-       id="linearGradient5677"
-       x1="10.915961"
-       y1="14.010388"
-       x2="10.915961"
-       y2="18.908218"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.3340955,0,0,2.0797356,-1.8209963,2.8226078)" />
     <filter
        inkscape:collect="always"
        id="filter5761"
@@ -56,16 +33,6 @@
          stdDeviation="0.45085227"
          id="feGaussianBlur5763" />
     </filter>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient5671"
-       id="linearGradient3022"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.3340955,0,0,2.0797356,-1.8209963,2.8226078)"
-       x1="10.915961"
-       y1="14.010388"
-       x2="10.915961"
-       y2="18.908218" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -75,7 +42,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="8"
-     inkscape:cx="6.747905"
+     inkscape:cx="6.997905"
      inkscape:cy="33.475858"
      inkscape:current-layer="layer1"
      showgrid="true"
