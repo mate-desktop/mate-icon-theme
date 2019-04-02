@@ -94,27 +94,27 @@ appointment-soon.png: ../../../src/clocks.svg
 
 audio-volume-high.png: ../../../src/audio-volume.svg
 	@echo "  "$@
-	@inkscape -z $^ --export-area=303:442:335:474 -w=24 -h=24 -e=$@ 1> /dev/null
+	@inkscape -z $^ --export-area=304:401:326:423 -w=24 -h=24 -e=$@ 1> /dev/null
 	@mogrify -quiet -strip $@
 
 audio-volume-low.png: ../../../src/audio-volume.svg
 	@echo "  "$@
-	@inkscape -z $^ --export-area=303:142:335:174 -w=24 -h=24 -e=$@ 1> /dev/null
+	@inkscape -z $^ --export-area=304:101:326:123 -w=24 -h=24 -e=$@ 1> /dev/null
 	@mogrify -quiet -strip $@
 
 audio-volume-medium.png: ../../../src/audio-volume.svg
 	@echo "  "$@
-	@inkscape -z $^ --export-area=703:442:735:474 -w=24 -h=24 -e=$@ 1> /dev/null
+	@inkscape -z $^ --export-area=704:401:726:423 -w=24 -h=24 -e=$@ 1> /dev/null
 	@mogrify -quiet -strip $@
 
 audio-volume-muted.png: ../../../src/audio-volume.svg
 	@echo "  "$@
-	@inkscape -z $^ --export-area=703:142:735:174 -w=24 -h=24 -e=$@ 1> /dev/null
+	@inkscape -z $^ --export-area=704:101:726:123 -w=24 -h=24 -e=$@ 1> /dev/null
 	@mogrify -quiet -strip $@
 
 audio-volume-off.png: ../../../src/audio-volume-off.svg
 	@echo "  "$@
-	@inkscape -z $^ --export-area=303:142:335:174 -w=24 -h=24 -e=$@ 1> /dev/null
+	@inkscape -z $^ --export-area=304:101:326:123 -w=24 -h=24 -e=$@ 1> /dev/null
 	@mogrify -quiet -strip $@
 
 avatar-default.png: ../../../src/users.svg
