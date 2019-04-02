@@ -16,7 +16,7 @@
    inkscape:export-xdpi="90.000000"
    inkscape:export-ydpi="90.000000"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
-   inkscape:version="0.47 r22583"
+   inkscape:version="0.92.4 (unknown)"
    sodipodi:docname="input-tablet.svg"
    sodipodi:version="0.32"
    style="display:inline;enable-background:new"
@@ -81,7 +81,7 @@
      height="300px"
      id="base"
      inkscape:current-layer="layer2"
-     inkscape:cx="316.64581"
+     inkscape:cx="318.64581"
      inkscape:cy="71.366661"
      inkscape:document-units="px"
      inkscape:grid-bbox="true"
@@ -107,10 +107,12 @@
        empspacing="2"
        enabled="true"
        id="grid5883"
-       spacingx="0.5px"
-       spacingy="0.5px"
+       spacingx="0.5"
+       spacingy="0.5"
        type="xygrid"
-       visible="true" />
+       visible="true"
+       originx="0"
+       originy="0" />
   </sodipodi:namedview>
   <defs
      id="defs3">
@@ -777,7 +779,7 @@
          id="path12953"
          style="fill:none;stroke:#000000;stroke-width:0.57298481;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
          xlink:href="#path4736-9"
-         inkscape:original="M 12.4375 25.5 C 12.4375 25.5 11.511601 25.605948 11.21875 26.53125 C 11.21875 26.53125 5.42536 41.742154 5.09375 42.5625 C 4.7800379 43.338568 5.8829553 44.0625 6.875 44.0625 L 42.59375 44.0625 C 43.585794 44.0625 44.688711 43.338568 44.375 42.5625 C 44.043389 41.742154 38.25 26.53125 38.25 26.53125 C 37.810724 25.485206 37.03125 25.5 37.03125 25.5 L 12.4375 25.5 z "
+         inkscape:original="M 12.449219 25.5 C 12.449219 25.5 11.507695 25.590323 11.214844 26.515625 C 11.214844 26.515625 5.4234069 41.755826 5.0917969 42.576172 C 4.7780848 43.35224 5.8907678 44.052734 6.8828125 44.052734 L 42.595703 44.052734 C 43.587747 44.052734 44.70043 43.35224 44.386719 42.576172 C 44.055108 41.755826 38.263672 26.515625 38.263672 26.515625 C 37.824396 25.469581 37.029297 25.5 37.029297 25.5 L 12.449219 25.5 z "
          inkscape:radius="0"
          sodipodi:type="inkscape:offset" />
     </clipPath>
@@ -1516,26 +1518,27 @@
     <text
        id="context"
        inkscape:label="context"
-       style="font-size:18.30070686px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
        x="20.970737"
        xml:space="preserve"
        y="21.513618"><tspan
          id="tspan2716"
          sodipodi:role="line"
          x="20.970737"
-         y="21.513618">devices</tspan></text>
+         y="21.513618"
+         style="font-size:18.30070686px;line-height:1.25">devices</tspan></text>
     <text
        id="icon-name"
        inkscape:label="icon-name"
-       sodipodi:linespacing="125%"
-       style="font-size:18.30070686px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
        x="191.97073"
        xml:space="preserve"
        y="21.513618"><tspan
          id="tspan3023"
          sodipodi:role="line"
          x="191.97073"
-         y="21.513618">input-tablet</tspan></text>
+         y="21.513618"
+         style="font-size:18.30070686px;line-height:1.25">input-tablet</tspan></text>
     <rect
        y="33"
        x="20"
@@ -2007,7 +2010,7 @@
       <path
          sodipodi:type="inkscape:offset"
          inkscape:radius="0"
-         inkscape:original="M 12.4375 25.5 C 12.4375 25.5 11.511601 25.605948 11.21875 26.53125 C 11.21875 26.53125 5.42536 41.742154 5.09375 42.5625 C 4.7800379 43.338568 5.8829553 44.0625 6.875 44.0625 L 42.59375 44.0625 C 43.585794 44.0625 44.688711 43.338568 44.375 42.5625 C 44.043389 41.742154 38.25 26.53125 38.25 26.53125 C 37.810724 25.485206 37.03125 25.5 37.03125 25.5 L 12.4375 25.5 z "
+         inkscape:original="M 12.449219 25.5 C 12.449219 25.5 11.507695 25.590323 11.214844 26.515625 C 11.214844 26.515625 5.4234069 41.755826 5.0917969 42.576172 C 4.7780848 43.35224 5.8907678 44.052734 6.8828125 44.052734 L 42.595703 44.052734 C 43.587747 44.052734 44.70043 43.35224 44.386719 42.576172 C 44.055108 41.755826 38.263672 26.515625 38.263672 26.515625 C 37.824396 25.469581 37.029297 25.5 37.029297 25.5 L 12.449219 25.5 z "
          xlink:href="#path4736-9"
          style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter12862)"
          id="path12850"
@@ -2042,7 +2045,7 @@
            id="path12832"
            style="fill:#000000;fill-opacity:0.27777779;stroke:none"
            xlink:href="#path41909-9"
-           inkscape:original="M 14.5 27 C 14.5 27 13.785262 27.056219 13.5625 27.6875 C 13.5625 27.6875 10.494264 37.801787 10.25 38.34375 C 10.018919 38.856465 10.863009 39.3125 11.59375 39.3125 L 37.90625 39.3125 C 38.63699 39.3125 39.449831 38.856465 39.21875 38.34375 C 38.974487 37.801787 35.374999 27.687499 35.375 27.6875 C 35.040856 26.973839 34.4375 27 34.4375 27 L 14.5 27 z "
+           inkscape:original="M 14.494141 27.005859 C 14.494141 27.005859 13.773543 27.071844 13.550781 27.703125 C 13.550781 27.703125 10.507936 37.805693 10.263672 38.347656 C 10.032591 38.860371 10.85715 39.328125 11.587891 39.328125 L 37.900391 39.328125 C 38.631131 39.328125 39.453737 38.860371 39.222656 38.347656 C 38.978393 37.805693 35.367187 27.703124 35.367188 27.703125 C 35.033043 26.989464 34.423828 27.005859 34.423828 27.005859 L 14.494141 27.005859 z "
            inkscape:radius="0"
            sodipodi:type="inkscape:offset" />
         <path
@@ -2061,7 +2064,7 @@
       <path
          sodipodi:type="inkscape:offset"
          inkscape:radius="0"
-         inkscape:original="M 12.4375 25.5 C 12.4375 25.5 11.511601 25.605948 11.21875 26.53125 C 11.21875 26.53125 5.42536 41.742154 5.09375 42.5625 C 4.7800379 43.338568 5.8829553 44.0625 6.875 44.0625 L 42.59375 44.0625 C 43.585794 44.0625 44.688711 43.338568 44.375 42.5625 C 44.043389 41.742154 38.25 26.53125 38.25 26.53125 C 37.810724 25.485206 37.03125 25.5 37.03125 25.5 L 12.4375 25.5 z "
+         inkscape:original="M 12.449219 25.5 C 12.449219 25.5 11.507695 25.590323 11.214844 26.515625 C 11.214844 26.515625 5.4234069 41.755826 5.0917969 42.576172 C 4.7780848 43.35224 5.8907678 44.052734 6.8828125 44.052734 L 42.595703 44.052734 C 43.587747 44.052734 44.70043 43.35224 44.386719 42.576172 C 44.055108 41.755826 38.263672 26.515625 38.263672 26.515625 C 37.824396 25.469581 37.029297 25.5 37.029297 25.5 L 12.449219 25.5 z "
          xlink:href="#path4736-9"
          style="opacity:0.3;fill:none;fill-opacity:0.27777779000000002;stroke:url(#linearGradient12985);stroke-opacity:1;stroke-width:0.38198986000000001;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter12991)"
          id="path12945"

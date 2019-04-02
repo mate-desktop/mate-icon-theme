@@ -17,7 +17,7 @@
    height="600"
    id="svg11300"
    sodipodi:version="0.32"
-   inkscape:version="0.47 r22583"
+   inkscape:version="0.92.4 (unknown)"
    sodipodi:docname="clocks.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.0"
@@ -44,7 +44,7 @@
      inkscape:window-width="1121"
      inkscape:window-height="690"
      inkscape:window-x="243"
-     inkscape:window-y="24"
+     inkscape:window-y="25"
      width="400px"
      height="300px"
      inkscape:snap-nodes="false"
@@ -59,20 +59,24 @@
        empspacing="4"
        enabled="true"
        visible="true"
-       spacingy="1px"
-       spacingx="1px"
+       spacingy="1"
+       spacingx="1"
        id="grid5883"
        type="xygrid"
-       snapvisiblegridlinesonly="true" />
+       snapvisiblegridlinesonly="true"
+       originx="0"
+       originy="0" />
     <inkscape:grid
        type="xygrid"
        id="grid10173"
        visible="true"
        enabled="false"
-       spacingx="0.5px"
-       spacingy="0.5px"
+       spacingx="0.5"
+       spacingy="0.5"
        empspacing="2"
-       snapvisiblegridlinesonly="true" />
+       snapvisiblegridlinesonly="true"
+       originx="0"
+       originy="0" />
   </sodipodi:namedview>
   <defs
      id="defs3">
@@ -3388,16 +3392,16 @@
          id="text8558"
          y="23.513618"
          x="20.970737"
-         style="font-size:18.30070686px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          xml:space="preserve"><tspan
            y="23.513618"
            x="20.970737"
            id="tspan8560"
-           sodipodi:role="line">actions</tspan></text>
+           sodipodi:role="line"
+           style="font-size:18.30070686px;line-height:1.25">actions</tspan></text>
       <text
-         sodipodi:linespacing="125%"
          xml:space="preserve"
-         style="font-size:18.30070686px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="191.97073"
          y="23.513618"
          id="text8562"
@@ -3405,7 +3409,8 @@
            sodipodi:role="line"
            id="tspan8564"
            x="191.97073"
-           y="23.513618">appointment-new</tspan></text>
+           y="23.513618"
+           style="font-size:18.30070686px;line-height:1.25">appointment-new</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
@@ -4147,19 +4152,20 @@
                id="text4060-6"
                y="106.96484"
                x="143.77536"
-               style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;stroke:#ffffff;display:inline;enable-background:new;font-family:Liberation Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';text-align:center;text-anchor:middle;display:inline;fill:#ffffff;stroke:#ffffff;enable-background:new"
                xml:space="preserve"><tspan
                  y="106.96484"
                  x="143.77536"
                  id="tspan4062-2"
-                 sodipodi:role="line">12</tspan></text>
+                 sodipodi:role="line"
+                 style="font-size:20px;line-height:1.25">12</tspan></text>
             <text
                id="text4060"
                y="105.96484"
                x="143.77536"
-               style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:url(#linearGradient6351);fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';text-align:center;text-anchor:middle;fill:url(#linearGradient6351);fill-opacity:1;stroke:none"
                xml:space="preserve"><tspan
-                 style="fill:url(#linearGradient6351);fill-opacity:1"
+                 style="font-size:20px;line-height:1.25;fill:url(#linearGradient6351);fill-opacity:1"
                  y="105.96484"
                  x="143.77536"
                  id="tspan4062"
@@ -4168,19 +4174,20 @@
                id="text4060-0-1"
                y="236.80469"
                x="143.77536"
-               style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;stroke:#ffffff;display:inline;enable-background:new;font-family:Liberation Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';text-align:center;text-anchor:middle;display:inline;fill:#ffffff;stroke:#ffffff;enable-background:new"
                xml:space="preserve"><tspan
                  y="236.80469"
                  x="143.77536"
                  id="tspan4062-1-6"
-                 sodipodi:role="line">6</tspan></text>
+                 sodipodi:role="line"
+                 style="font-size:20px;line-height:1.25">6</tspan></text>
             <text
                id="text4060-0"
                y="235.80469"
                x="143.77536"
-               style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:url(#linearGradient6353);stroke:none;display:inline;enable-background:new;font-family:Liberation Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';text-align:center;text-anchor:middle;display:inline;fill:url(#linearGradient6353);stroke:none;enable-background:new"
                xml:space="preserve"><tspan
-                 style="fill:url(#linearGradient6353)"
+                 style="font-size:20px;line-height:1.25;fill:url(#linearGradient6353)"
                  y="235.80469"
                  x="143.77536"
                  id="tspan4062-1"
@@ -4189,19 +4196,20 @@
                id="text4060-7-6"
                y="171.87004"
                x="211.16602"
-               style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;stroke:#ffffff;display:inline;enable-background:new;font-family:Liberation Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';text-align:center;text-anchor:middle;display:inline;fill:#ffffff;stroke:#ffffff;enable-background:new"
                xml:space="preserve"><tspan
                  y="171.87004"
                  x="211.16602"
                  id="tspan4062-8-9"
-                 sodipodi:role="line">3</tspan></text>
+                 sodipodi:role="line"
+                 style="font-size:20px;line-height:1.25">3</tspan></text>
             <text
                id="text4060-7"
                y="170.87004"
                x="211.16602"
-               style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:url(#linearGradient6355);stroke:none;display:inline;enable-background:new;font-family:Liberation Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';text-align:center;text-anchor:middle;display:inline;fill:url(#linearGradient6355);stroke:none;enable-background:new"
                xml:space="preserve"><tspan
-                 style="fill:url(#linearGradient6355)"
+                 style="font-size:20px;line-height:1.25;fill:url(#linearGradient6355)"
                  y="170.87004"
                  x="211.16602"
                  id="tspan4062-8"
@@ -4210,19 +4218,20 @@
                id="text4060-7-1-5"
                y="171.87004"
                x="77.166023"
-               style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;stroke:#ffffff;display:inline;enable-background:new;font-family:Liberation Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';text-align:center;text-anchor:middle;display:inline;fill:#ffffff;stroke:#ffffff;enable-background:new"
                xml:space="preserve"><tspan
                  y="171.87004"
                  x="77.166023"
                  id="tspan4062-8-7-5"
-                 sodipodi:role="line">9</tspan></text>
+                 sodipodi:role="line"
+                 style="font-size:20px;line-height:1.25">9</tspan></text>
             <text
                id="text4060-7-1"
                y="170.87004"
                x="77.166023"
-               style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:url(#linearGradient6357);stroke:none;display:inline;enable-background:new;font-family:Liberation Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';text-align:center;text-anchor:middle;display:inline;fill:url(#linearGradient6357);stroke:none;enable-background:new"
                xml:space="preserve"><tspan
-                 style="fill:url(#linearGradient6357)"
+                 style="font-size:20px;line-height:1.25;fill:url(#linearGradient6357)"
                  y="170.87004"
                  x="77.166023"
                  id="tspan4062-8-7"
@@ -4531,16 +4540,16 @@
          id="text8301"
          y="23.513618"
          x="420.97073"
-         style="font-size:18.30070686px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          xml:space="preserve"><tspan
            y="23.513618"
            x="420.97073"
            id="tspan8303"
-           sodipodi:role="line">status</tspan></text>
+           sodipodi:role="line"
+           style="font-size:18.30070686px;line-height:1.25">status</tspan></text>
       <text
-         sodipodi:linespacing="125%"
          xml:space="preserve"
-         style="font-size:18.30070686px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="591.9707"
          y="23.513618"
          id="text8305"
@@ -4548,7 +4557,8 @@
            sodipodi:role="line"
            id="tspan8307"
            x="591.9707"
-           y="23.513618">appointment-soon</tspan></text>
+           y="23.513618"
+           style="font-size:18.30070686px;line-height:1.25">appointment-soon</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
@@ -4733,7 +4743,7 @@
                id="g5583">
               <text
                  xml:space="preserve"
-                 style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;stroke:#ffffff;stroke-width:4.57142782;display:inline;enable-background:new;font-family:Liberation Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';text-align:center;text-anchor:middle;display:inline;fill:#ffffff;stroke:#ffffff;stroke-width:4.57142782;enable-background:new"
                  x="143.77536"
                  y="106.96484"
                  id="text5585"><tspan
@@ -4741,10 +4751,10 @@
                    id="tspan5587"
                    x="143.77536"
                    y="106.96484"
-                   style="stroke-width:4.57142782">12</tspan></text>
+                   style="font-size:20px;line-height:1.25;stroke-width:4.57142782">12</tspan></text>
               <text
                  xml:space="preserve"
-                 style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:url(#linearGradient5627);fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';text-align:center;text-anchor:middle;fill:url(#linearGradient5627);fill-opacity:1;stroke:none"
                  x="143.77536"
                  y="105.96484"
                  id="text5589"><tspan
@@ -4752,10 +4762,10 @@
                    id="tspan5591"
                    x="143.77536"
                    y="105.96484"
-                   style="fill:url(#linearGradient5627);fill-opacity:1">12</tspan></text>
+                   style="font-size:20px;line-height:1.25;fill:url(#linearGradient5627);fill-opacity:1">12</tspan></text>
               <text
                  xml:space="preserve"
-                 style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;stroke:#ffffff;stroke-width:4.57142782;display:inline;enable-background:new;font-family:Liberation Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';text-align:center;text-anchor:middle;display:inline;fill:#ffffff;stroke:#ffffff;stroke-width:4.57142782;enable-background:new"
                  x="143.77536"
                  y="236.80469"
                  id="text5593"><tspan
@@ -4763,10 +4773,10 @@
                    id="tspan5595"
                    x="143.77536"
                    y="236.80469"
-                   style="stroke-width:4.57142782">6</tspan></text>
+                   style="font-size:20px;line-height:1.25;stroke-width:4.57142782">6</tspan></text>
               <text
                  xml:space="preserve"
-                 style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:url(#linearGradient5629);stroke:none;display:inline;enable-background:new;font-family:Liberation Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';text-align:center;text-anchor:middle;display:inline;fill:url(#linearGradient5629);stroke:none;enable-background:new"
                  x="143.77536"
                  y="235.80469"
                  id="text5597"><tspan
@@ -4774,10 +4784,10 @@
                    id="tspan5599"
                    x="143.77536"
                    y="235.80469"
-                   style="fill:url(#linearGradient5629)">6</tspan></text>
+                   style="font-size:20px;line-height:1.25;fill:url(#linearGradient5629)">6</tspan></text>
               <text
                  xml:space="preserve"
-                 style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;stroke:#ffffff;stroke-width:4.57142782;display:inline;enable-background:new;font-family:Liberation Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';text-align:center;text-anchor:middle;display:inline;fill:#ffffff;stroke:#ffffff;stroke-width:4.57142782;enable-background:new"
                  x="211.16602"
                  y="171.87004"
                  id="text5601"><tspan
@@ -4785,10 +4795,10 @@
                    id="tspan5603"
                    x="211.16602"
                    y="171.87004"
-                   style="stroke-width:4.57142782">3</tspan></text>
+                   style="font-size:20px;line-height:1.25;stroke-width:4.57142782">3</tspan></text>
               <text
                  xml:space="preserve"
-                 style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:url(#linearGradient5631);stroke:none;display:inline;enable-background:new;font-family:Liberation Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';text-align:center;text-anchor:middle;display:inline;fill:url(#linearGradient5631);stroke:none;enable-background:new"
                  x="211.16602"
                  y="170.87004"
                  id="text5605"><tspan
@@ -4796,10 +4806,10 @@
                    id="tspan5607"
                    x="211.16602"
                    y="170.87004"
-                   style="fill:url(#linearGradient5631)">3</tspan></text>
+                   style="font-size:20px;line-height:1.25;fill:url(#linearGradient5631)">3</tspan></text>
               <text
                  xml:space="preserve"
-                 style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;stroke:#ffffff;stroke-width:4.57142782;display:inline;enable-background:new;font-family:Liberation Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';text-align:center;text-anchor:middle;display:inline;fill:#ffffff;stroke:#ffffff;stroke-width:4.57142782;enable-background:new"
                  x="77.166023"
                  y="171.87004"
                  id="text5609"><tspan
@@ -4807,10 +4817,10 @@
                    id="tspan5611"
                    x="77.166023"
                    y="171.87004"
-                   style="stroke-width:4.57142782">9</tspan></text>
+                   style="font-size:20px;line-height:1.25;stroke-width:4.57142782">9</tspan></text>
               <text
                  xml:space="preserve"
-                 style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:url(#linearGradient5633);stroke:none;display:inline;enable-background:new;font-family:Liberation Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';text-align:center;text-anchor:middle;display:inline;fill:url(#linearGradient5633);stroke:none;enable-background:new"
                  x="77.166023"
                  y="170.87004"
                  id="text5613"><tspan
@@ -4818,7 +4828,7 @@
                    id="tspan5615"
                    x="77.166023"
                    y="170.87004"
-                   style="fill:url(#linearGradient5633)">9</tspan></text>
+                   style="font-size:20px;line-height:1.25;fill:url(#linearGradient5633)">9</tspan></text>
             </g>
           </g>
         </g>
@@ -5073,9 +5083,9 @@
                id="text6114"
                y="106.96484"
                x="143.77536"
-               style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;stroke:#ffffff;stroke-width:10.37939167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;display:inline;enable-background:new;font-family:Liberation Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';text-align:center;text-anchor:middle;display:inline;fill:#ffffff;stroke:#ffffff;stroke-width:10.37939167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;enable-background:new"
                xml:space="preserve"><tspan
-                 style="stroke-width:10.37939167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+                 style="font-size:20px;line-height:1.25;stroke-width:10.37939167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
                  y="106.96484"
                  x="143.77536"
                  id="tspan6116"
@@ -5084,9 +5094,9 @@
                id="text6118"
                y="105.96484"
                x="143.77536"
-               style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:url(#linearGradient6156);fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';text-align:center;text-anchor:middle;fill:url(#linearGradient6156);fill-opacity:1;stroke:none"
                xml:space="preserve"><tspan
-                 style="fill:url(#linearGradient6156);fill-opacity:1"
+                 style="font-size:20px;line-height:1.25;fill:url(#linearGradient6156);fill-opacity:1"
                  y="105.96484"
                  x="143.77536"
                  id="tspan6120"
@@ -5095,9 +5105,9 @@
                id="text6122"
                y="236.80469"
                x="143.77536"
-               style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;stroke:#ffffff;stroke-width:10.37939167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;display:inline;enable-background:new;font-family:Liberation Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';text-align:center;text-anchor:middle;display:inline;fill:#ffffff;stroke:#ffffff;stroke-width:10.37939167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;enable-background:new"
                xml:space="preserve"><tspan
-                 style="stroke-width:10.37939167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+                 style="font-size:20px;line-height:1.25;stroke-width:10.37939167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
                  y="236.80469"
                  x="143.77536"
                  id="tspan6124"
@@ -5106,9 +5116,9 @@
                id="text6126"
                y="235.80469"
                x="143.77536"
-               style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:url(#linearGradient6158);stroke:none;display:inline;enable-background:new;font-family:Liberation Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';text-align:center;text-anchor:middle;display:inline;fill:url(#linearGradient6158);stroke:none;enable-background:new"
                xml:space="preserve"><tspan
-                 style="fill:url(#linearGradient6158)"
+                 style="font-size:20px;line-height:1.25;fill:url(#linearGradient6158)"
                  y="235.80469"
                  x="143.77536"
                  id="tspan6128"
@@ -5117,9 +5127,9 @@
                id="text6130"
                y="171.87004"
                x="211.16602"
-               style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;stroke:#ffffff;stroke-width:10.37939167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;display:inline;enable-background:new;font-family:Liberation Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';text-align:center;text-anchor:middle;display:inline;fill:#ffffff;stroke:#ffffff;stroke-width:10.37939167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;enable-background:new"
                xml:space="preserve"><tspan
-                 style="stroke-width:10.37939167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+                 style="font-size:20px;line-height:1.25;stroke-width:10.37939167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
                  y="171.87004"
                  x="211.16602"
                  id="tspan6132"
@@ -5128,9 +5138,9 @@
                id="text6134"
                y="170.87004"
                x="211.16602"
-               style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:url(#linearGradient6160);stroke:none;display:inline;enable-background:new;font-family:Liberation Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';text-align:center;text-anchor:middle;display:inline;fill:url(#linearGradient6160);stroke:none;enable-background:new"
                xml:space="preserve"><tspan
-                 style="fill:url(#linearGradient6160)"
+                 style="font-size:20px;line-height:1.25;fill:url(#linearGradient6160)"
                  y="170.87004"
                  x="211.16602"
                  id="tspan6136"
@@ -5139,9 +5149,9 @@
                id="text6138"
                y="171.87004"
                x="77.166023"
-               style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;stroke:#ffffff;stroke-width:10.37939167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;display:inline;enable-background:new;font-family:Liberation Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';text-align:center;text-anchor:middle;display:inline;fill:#ffffff;stroke:#ffffff;stroke-width:10.37939167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;enable-background:new"
                xml:space="preserve"><tspan
-                 style="stroke-width:10.37939167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+                 style="font-size:20px;line-height:1.25;stroke-width:10.37939167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
                  y="171.87004"
                  x="77.166023"
                  id="tspan6140"
@@ -5150,9 +5160,9 @@
                id="text6142"
                y="170.87004"
                x="77.166023"
-               style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:url(#linearGradient6162);stroke:none;display:inline;enable-background:new;font-family:Liberation Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';text-align:center;text-anchor:middle;display:inline;fill:url(#linearGradient6162);stroke:none;enable-background:new"
                xml:space="preserve"><tspan
-                 style="fill:url(#linearGradient6162)"
+                 style="font-size:20px;line-height:1.25;fill:url(#linearGradient6162)"
                  y="170.87004"
                  x="77.166023"
                  id="tspan6144"
@@ -5634,16 +5644,16 @@
          id="text8607"
          y="323.51361"
          x="20.970734"
-         style="font-size:18.30070686px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          xml:space="preserve"><tspan
            y="323.51361"
            x="20.970734"
            id="tspan8609"
-           sodipodi:role="line">status</tspan></text>
+           sodipodi:role="line"
+           style="font-size:18.30070686px;line-height:1.25">status</tspan></text>
       <text
-         sodipodi:linespacing="125%"
          xml:space="preserve"
-         style="font-size:18.30070686px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="201.9707"
          y="323.51361"
          id="text8611"
@@ -5651,7 +5661,8 @@
            sodipodi:role="line"
            id="tspan8613"
            x="201.9707"
-           y="323.51361">appointment-missed</tspan></text>
+           y="323.51361"
+           style="font-size:18.30070686px;line-height:1.25">appointment-missed</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
@@ -6743,16 +6754,16 @@
          id="text9379"
          y="323.51361"
          x="420.97073"
-         style="font-size:18.30070686px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          xml:space="preserve"><tspan
            y="323.51361"
            x="420.97073"
            id="tspan9381"
-           sodipodi:role="line">actions</tspan></text>
+           sodipodi:role="line"
+           style="font-size:18.30070686px;line-height:1.25">actions</tspan></text>
       <text
-         sodipodi:linespacing="125%"
          xml:space="preserve"
-         style="font-size:18.30070686px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="591.9707"
          y="323.51361"
          id="text9383"
@@ -6760,7 +6771,8 @@
            sodipodi:role="line"
            id="tspan9385"
            x="591.9707"
-           y="323.51361">document-open-recent</tspan></text>
+           y="323.51361"
+           style="font-size:18.30070686px;line-height:1.25">document-open-recent</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
@@ -7056,9 +7068,9 @@
                  id="text3781"
                  y="106.96484"
                  x="143.77536"
-                 style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;stroke:#ffffff;stroke-width:4.57142782;display:inline;enable-background:new;font-family:Liberation Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';text-align:center;text-anchor:middle;display:inline;fill:#ffffff;stroke:#ffffff;stroke-width:4.57142782;enable-background:new"
                  xml:space="preserve"><tspan
-                   style="stroke-width:4.57142782"
+                   style="font-size:20px;line-height:1.25;stroke-width:4.57142782"
                    y="106.96484"
                    x="143.77536"
                    id="tspan3783"
@@ -7067,9 +7079,9 @@
                  id="text3785"
                  y="105.96484"
                  x="143.77536"
-                 style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:url(#linearGradient3879);fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';text-align:center;text-anchor:middle;fill:url(#linearGradient3879);fill-opacity:1;stroke:none"
                  xml:space="preserve"><tspan
-                   style="fill:url(#linearGradient3879);fill-opacity:1"
+                   style="font-size:20px;line-height:1.25;fill:url(#linearGradient3879);fill-opacity:1"
                    y="105.96484"
                    x="143.77536"
                    id="tspan3787"
@@ -7078,9 +7090,9 @@
                  id="text3789"
                  y="236.80469"
                  x="143.77536"
-                 style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;stroke:#ffffff;stroke-width:4.57142782;display:inline;enable-background:new;font-family:Liberation Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';text-align:center;text-anchor:middle;display:inline;fill:#ffffff;stroke:#ffffff;stroke-width:4.57142782;enable-background:new"
                  xml:space="preserve"><tspan
-                   style="stroke-width:4.57142782"
+                   style="font-size:20px;line-height:1.25;stroke-width:4.57142782"
                    y="236.80469"
                    x="143.77536"
                    id="tspan3791"
@@ -7089,9 +7101,9 @@
                  id="text3793"
                  y="235.80469"
                  x="143.77536"
-                 style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:url(#linearGradient3881);stroke:none;display:inline;enable-background:new;font-family:Liberation Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';text-align:center;text-anchor:middle;display:inline;fill:url(#linearGradient3881);stroke:none;enable-background:new"
                  xml:space="preserve"><tspan
-                   style="fill:url(#linearGradient3881)"
+                   style="font-size:20px;line-height:1.25;fill:url(#linearGradient3881)"
                    y="235.80469"
                    x="143.77536"
                    id="tspan3795"
@@ -7100,9 +7112,9 @@
                  id="text3797"
                  y="171.87004"
                  x="211.16602"
-                 style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;stroke:#ffffff;stroke-width:4.57142782;display:inline;enable-background:new;font-family:Liberation Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';text-align:center;text-anchor:middle;display:inline;fill:#ffffff;stroke:#ffffff;stroke-width:4.57142782;enable-background:new"
                  xml:space="preserve"><tspan
-                   style="stroke-width:4.57142782"
+                   style="font-size:20px;line-height:1.25;stroke-width:4.57142782"
                    y="171.87004"
                    x="211.16602"
                    id="tspan3799"
@@ -7111,9 +7123,9 @@
                  id="text3801"
                  y="170.87004"
                  x="211.16602"
-                 style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:url(#linearGradient3883);stroke:none;display:inline;enable-background:new;font-family:Liberation Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';text-align:center;text-anchor:middle;display:inline;fill:url(#linearGradient3883);stroke:none;enable-background:new"
                  xml:space="preserve"><tspan
-                   style="fill:url(#linearGradient3883)"
+                   style="font-size:20px;line-height:1.25;fill:url(#linearGradient3883)"
                    y="170.87004"
                    x="211.16602"
                    id="tspan3803"
@@ -7122,9 +7134,9 @@
                  id="text3805"
                  y="171.87004"
                  x="77.166023"
-                 style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;stroke:#ffffff;stroke-width:4.57142782;display:inline;enable-background:new;font-family:Liberation Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';text-align:center;text-anchor:middle;display:inline;fill:#ffffff;stroke:#ffffff;stroke-width:4.57142782;enable-background:new"
                  xml:space="preserve"><tspan
-                   style="stroke-width:4.57142782"
+                   style="font-size:20px;line-height:1.25;stroke-width:4.57142782"
                    y="171.87004"
                    x="77.166023"
                    id="tspan3807"
@@ -7133,9 +7145,9 @@
                  id="text3809"
                  y="170.87004"
                  x="77.166023"
-                 style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:url(#linearGradient3885);stroke:none;display:inline;enable-background:new;font-family:Liberation Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';text-align:center;text-anchor:middle;display:inline;fill:url(#linearGradient3885);stroke:none;enable-background:new"
                  xml:space="preserve"><tspan
-                   style="fill:url(#linearGradient3885)"
+                   style="font-size:20px;line-height:1.25;fill:url(#linearGradient3885)"
                    y="170.87004"
                    x="77.166023"
                    id="tspan3811"
@@ -7511,7 +7523,7 @@
              id="g3779-6">
             <text
                xml:space="preserve"
-               style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;stroke:#ffffff;stroke-width:10.37939072;display:inline;enable-background:new;font-family:Liberation Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';text-align:center;text-anchor:middle;display:inline;fill:#ffffff;stroke:#ffffff;stroke-width:10.37939072;enable-background:new"
                x="143.77536"
                y="106.96484"
                id="text3781-1"><tspan
@@ -7519,10 +7531,10 @@
                  id="tspan3783-3"
                  x="143.77536"
                  y="106.96484"
-                 style="stroke-width:10.37939072">12</tspan></text>
+                 style="font-size:20px;line-height:1.25;stroke-width:10.37939072">12</tspan></text>
             <text
                xml:space="preserve"
-               style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:url(#linearGradient5463);fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';text-align:center;text-anchor:middle;fill:url(#linearGradient5463);fill-opacity:1;stroke:none"
                x="143.77536"
                y="105.96484"
                id="text3785-0"><tspan
@@ -7530,10 +7542,10 @@
                  id="tspan3787-2"
                  x="143.77536"
                  y="105.96484"
-                 style="fill:url(#linearGradient5463);fill-opacity:1">12</tspan></text>
+                 style="font-size:20px;line-height:1.25;fill:url(#linearGradient5463);fill-opacity:1">12</tspan></text>
             <text
                xml:space="preserve"
-               style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;stroke:#ffffff;stroke-width:10.37939072;display:inline;enable-background:new;font-family:Liberation Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';text-align:center;text-anchor:middle;display:inline;fill:#ffffff;stroke:#ffffff;stroke-width:10.37939072;enable-background:new"
                x="143.77536"
                y="236.80469"
                id="text3789-2"><tspan
@@ -7541,10 +7553,10 @@
                  id="tspan3791-4"
                  x="143.77536"
                  y="236.80469"
-                 style="stroke-width:10.37939072">6</tspan></text>
+                 style="font-size:20px;line-height:1.25;stroke-width:10.37939072">6</tspan></text>
             <text
                xml:space="preserve"
-               style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:url(#linearGradient5465);stroke:none;display:inline;enable-background:new;font-family:Liberation Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';text-align:center;text-anchor:middle;display:inline;fill:url(#linearGradient5465);stroke:none;enable-background:new"
                x="143.77536"
                y="235.80469"
                id="text3793-3"><tspan
@@ -7552,10 +7564,10 @@
                  id="tspan3795-7"
                  x="143.77536"
                  y="235.80469"
-                 style="fill:url(#linearGradient5465)">6</tspan></text>
+                 style="font-size:20px;line-height:1.25;fill:url(#linearGradient5465)">6</tspan></text>
             <text
                xml:space="preserve"
-               style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;stroke:#ffffff;stroke-width:10.37939072;display:inline;enable-background:new;font-family:Liberation Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';text-align:center;text-anchor:middle;display:inline;fill:#ffffff;stroke:#ffffff;stroke-width:10.37939072;enable-background:new"
                x="211.16602"
                y="171.87004"
                id="text3797-3"><tspan
@@ -7563,10 +7575,10 @@
                  id="tspan3799-3"
                  x="211.16602"
                  y="171.87004"
-                 style="stroke-width:10.37939072">3</tspan></text>
+                 style="font-size:20px;line-height:1.25;stroke-width:10.37939072">3</tspan></text>
             <text
                xml:space="preserve"
-               style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:url(#linearGradient5467);stroke:none;display:inline;enable-background:new;font-family:Liberation Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';text-align:center;text-anchor:middle;display:inline;fill:url(#linearGradient5467);stroke:none;enable-background:new"
                x="211.16602"
                y="170.87004"
                id="text3801-7"><tspan
@@ -7574,10 +7586,10 @@
                  id="tspan3803-9"
                  x="211.16602"
                  y="170.87004"
-                 style="fill:url(#linearGradient5467)">3</tspan></text>
+                 style="font-size:20px;line-height:1.25;fill:url(#linearGradient5467)">3</tspan></text>
             <text
                xml:space="preserve"
-               style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;stroke:#ffffff;stroke-width:10.37939072;display:inline;enable-background:new;font-family:Liberation Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';text-align:center;text-anchor:middle;display:inline;fill:#ffffff;stroke:#ffffff;stroke-width:10.37939072;enable-background:new"
                x="77.166023"
                y="171.87004"
                id="text3805-0"><tspan
@@ -7585,10 +7597,10 @@
                  id="tspan3807-0"
                  x="77.166023"
                  y="171.87004"
-                 style="stroke-width:10.37939072">9</tspan></text>
+                 style="font-size:20px;line-height:1.25;stroke-width:10.37939072">9</tspan></text>
             <text
                xml:space="preserve"
-               style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:url(#linearGradient5469);stroke:none;display:inline;enable-background:new;font-family:Liberation Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';text-align:center;text-anchor:middle;display:inline;fill:url(#linearGradient5469);stroke:none;enable-background:new"
                x="77.166023"
                y="170.87004"
                id="text3809-6"><tspan
@@ -7596,7 +7608,7 @@
                  id="tspan3811-6"
                  x="77.166023"
                  y="170.87004"
-                 style="fill:url(#linearGradient5469)">9</tspan></text>
+                 style="font-size:20px;line-height:1.25;fill:url(#linearGradient5469)">9</tspan></text>
           </g>
         </g>
         <path
@@ -8024,9 +8036,9 @@
              id="text3781-8"
              y="106.96484"
              x="143.77536"
-             style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;stroke:#ffffff;stroke-width:7.74643087;display:inline;enable-background:new;font-family:Liberation Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';text-align:center;text-anchor:middle;display:inline;fill:#ffffff;stroke:#ffffff;stroke-width:7.74643087;enable-background:new"
              xml:space="preserve"><tspan
-               style="stroke-width:7.74643087"
+               style="font-size:20px;line-height:1.25;stroke-width:7.74643087"
                y="106.96484"
                x="143.77536"
                id="tspan3783-39"
@@ -8035,9 +8047,9 @@
              id="text3785-9"
              y="105.96484"
              x="143.77536"
-             style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:url(#linearGradient4307);fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';text-align:center;text-anchor:middle;fill:url(#linearGradient4307);fill-opacity:1;stroke:none"
              xml:space="preserve"><tspan
-               style="fill:url(#linearGradient4307);fill-opacity:1"
+               style="font-size:20px;line-height:1.25;fill:url(#linearGradient4307);fill-opacity:1"
                y="105.96484"
                x="143.77536"
                id="tspan3787-0"
@@ -8046,9 +8058,9 @@
              id="text3789-3"
              y="236.80469"
              x="143.77536"
-             style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;stroke:#ffffff;stroke-width:7.74643087;display:inline;enable-background:new;font-family:Liberation Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';text-align:center;text-anchor:middle;display:inline;fill:#ffffff;stroke:#ffffff;stroke-width:7.74643087;enable-background:new"
              xml:space="preserve"><tspan
-               style="stroke-width:7.74643087"
+               style="font-size:20px;line-height:1.25;stroke-width:7.74643087"
                y="236.80469"
                x="143.77536"
                id="tspan3791-46"
@@ -8057,9 +8069,9 @@
              id="text3793-6"
              y="235.80469"
              x="143.77536"
-             style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:url(#linearGradient4309);stroke:none;display:inline;enable-background:new;font-family:Liberation Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';text-align:center;text-anchor:middle;display:inline;fill:url(#linearGradient4309);stroke:none;enable-background:new"
              xml:space="preserve"><tspan
-               style="fill:url(#linearGradient4309)"
+               style="font-size:20px;line-height:1.25;fill:url(#linearGradient4309)"
                y="235.80469"
                x="143.77536"
                id="tspan3795-4"
@@ -8068,9 +8080,9 @@
              id="text3797-1"
              y="171.87004"
              x="211.16602"
-             style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;stroke:#ffffff;stroke-width:7.74643087;display:inline;enable-background:new;font-family:Liberation Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';text-align:center;text-anchor:middle;display:inline;fill:#ffffff;stroke:#ffffff;stroke-width:7.74643087;enable-background:new"
              xml:space="preserve"><tspan
-               style="stroke-width:7.74643087"
+               style="font-size:20px;line-height:1.25;stroke-width:7.74643087"
                y="171.87004"
                x="211.16602"
                id="tspan3799-33"
@@ -8079,9 +8091,9 @@
              id="text3801-4"
              y="170.87004"
              x="211.16602"
-             style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:url(#linearGradient4311);stroke:none;display:inline;enable-background:new;font-family:Liberation Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';text-align:center;text-anchor:middle;display:inline;fill:url(#linearGradient4311);stroke:none;enable-background:new"
              xml:space="preserve"><tspan
-               style="fill:url(#linearGradient4311)"
+               style="font-size:20px;line-height:1.25;fill:url(#linearGradient4311)"
                y="170.87004"
                x="211.16602"
                id="tspan3803-2"
@@ -8090,9 +8102,9 @@
              id="text3805-5"
              y="171.87004"
              x="77.166023"
-             style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;stroke:#ffffff;stroke-width:7.74643087;display:inline;enable-background:new;font-family:Liberation Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';text-align:center;text-anchor:middle;display:inline;fill:#ffffff;stroke:#ffffff;stroke-width:7.74643087;enable-background:new"
              xml:space="preserve"><tspan
-               style="stroke-width:7.74643087"
+               style="font-size:20px;line-height:1.25;stroke-width:7.74643087"
                y="171.87004"
                x="77.166023"
                id="tspan3807-3"
@@ -8101,9 +8113,9 @@
              id="text3809-2"
              y="170.87004"
              x="77.166023"
-             style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:url(#linearGradient4313);stroke:none;display:inline;enable-background:new;font-family:Liberation Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';text-align:center;text-anchor:middle;display:inline;fill:url(#linearGradient4313);stroke:none;enable-background:new"
              xml:space="preserve"><tspan
-               style="fill:url(#linearGradient4313)"
+               style="font-size:20px;line-height:1.25;fill:url(#linearGradient4313)"
                y="170.87004"
                x="77.166023"
                id="tspan3811-0"

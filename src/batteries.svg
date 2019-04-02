@@ -17,7 +17,7 @@
    height="900"
    id="svg11300"
    sodipodi:version="0.32"
-   inkscape:version="0.47 r22583"
+   inkscape:version="0.92.4 (unknown)"
    sodipodi:docname="batteries.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.0"
@@ -32,17 +32,17 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="670.55767"
+     inkscape:cx="672.55767"
      inkscape:cy="-427.96285"
      inkscape:current-layer="g14201"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:showpageshadow="false"
-     inkscape:window-width="1366"
-     inkscape:window-height="695"
+     inkscape:window-width="1680"
+     inkscape:window-height="966"
      inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-y="25"
      width="400px"
      height="300px"
      inkscape:snap-nodes="false"
@@ -59,30 +59,27 @@
        empspacing="4"
        visible="true"
        enabled="true"
-       spacingy="1px"
-       spacingx="1px"
+       spacingy="1"
+       spacingx="1"
        id="grid5883"
        type="xygrid"
-       snapvisiblegridlinesonly="true" />
+       snapvisiblegridlinesonly="true"
+       originx="0"
+       originy="0" />
     <inkscape:grid
        type="xygrid"
        id="grid9359"
        visible="true"
        enabled="false"
-       spacingx="0.5px"
-       spacingy="0.5px"
+       spacingx="0.5"
+       spacingy="0.5"
        empspacing="2"
-       snapvisiblegridlinesonly="true" />
+       snapvisiblegridlinesonly="true"
+       originx="0"
+       originy="0" />
   </sodipodi:namedview>
   <defs
      id="defs3">
-    <inkscape:perspective
-       sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="0 : 450 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_z="1200 : 450 : 1"
-       inkscape:persp3d-origin="600 : 300 : 1"
-       id="perspective3976" />
     <linearGradient
        id="linearGradient21308">
       <stop
@@ -12979,28 +12976,6 @@
        fx="159.5"
        fy="73.382141"
        r="29" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient11414-2-0-3"
-       id="radialGradient14289"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1,0,0,2.9032258,0,-801.25806)"
-       cx="209.75"
-       cy="421"
-       fx="209.75"
-       fy="421"
-       r="7.75" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient10619"
-       id="radialGradient14291"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(3.8074704,1.0202064,-0.6669418,2.4890614,-307.09892,-824.32894)"
-       cx="207.83586"
-       cy="414.17401"
-       fx="207.83586"
-       fy="414.17401"
-       r="40" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient10140"
@@ -13321,17 +13296,6 @@
        y1="395.5"
        x2="325"
        y2="395" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient10619"
-       id="radialGradient14359"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.4380549,0.1335277,-0.08219175,0.3067438,273.9981,212.26389)"
-       cx="207.83586"
-       cy="414.17401"
-       fx="207.83586"
-       fy="414.17401"
-       r="40" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient10464"
@@ -13464,17 +13428,6 @@
        y1="395.5"
        x2="325"
        y2="395" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient10619"
-       id="radialGradient14389"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.4380549,0.1335277,-0.08219175,0.3067438,273.9981,212.26389)"
-       cx="207.83586"
-       cy="414.17401"
-       fx="207.83586"
-       fy="414.17401"
-       r="40" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient10535"
@@ -13497,16 +13450,6 @@
        y2="365.41733" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient10091"
-       id="linearGradient14395"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(3,0)"
-       x1="309.5"
-       y1="530.0625"
-       x2="309.5"
-       y2="526.9375" />
-    <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient15872"
        id="linearGradient14397"
        gradientUnits="userSpaceOnUse"
@@ -13523,16 +13466,6 @@
        y1="529.73126"
        x2="327.34625"
        y2="532.53265" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient10091"
-       id="linearGradient14401"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(3,0)"
-       x1="309.5"
-       y1="530.0625"
-       x2="309.5"
-       y2="526.9375" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient10563"
@@ -13743,16 +13676,16 @@
          id="context"
          y="21.513618"
          x="20.970737"
-         style="font-size:18.30070686px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          xml:space="preserve"><tspan
            y="21.513618"
            x="20.970737"
            id="tspan2716"
-           sodipodi:role="line">devices</tspan></text>
+           sodipodi:role="line"
+           style="font-size:18.30070686px;line-height:1.25">devices</tspan></text>
       <text
-         sodipodi:linespacing="125%"
          xml:space="preserve"
-         style="font-size:18.30070686px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="191.97073"
          y="21.513618"
          id="text3021"
@@ -13760,7 +13693,8 @@
            sodipodi:role="line"
            id="tspan3023"
            x="191.97073"
-           y="21.513618">battery</tspan></text>
+           y="21.513618"
+           style="font-size:18.30070686px;line-height:1.25">battery</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
@@ -13847,7 +13781,7 @@
       </g>
       <text
          xml:space="preserve"
-         style="font-size:4.26873779px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;opacity:0.9;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;enable-background:new;font-family:Arial Black;-inkscape-font-specification:'Arial Black, Bold'"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Bold';display:inline;opacity:0.9;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new"
          x="71.93763"
          y="-319.36383"
          id="text8021"
@@ -13857,7 +13791,8 @@
            sodipodi:role="line"
            id="tspan8023"
            x="71.93763"
-           y="-319.36383">POWER </tspan></text>
+           y="-319.36383"
+           style="font-size:4.26873779px;line-height:1.25">POWER </tspan></text>
       <path
          transform="matrix(0.1442309,0,0,0.2117117,299.14424,40.414422)"
          style="opacity:0.3;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline;filter:url(#filter8765);enable-background:new"
@@ -14061,7 +13996,7 @@
       </g>
       <text
          xml:space="preserve"
-         style="font-size:3.37175608px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;opacity:0.8;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;enable-background:new;font-family:Arial Black;-inkscape-font-specification:'Arial Black, Bold'"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Bold';display:inline;opacity:0.8;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new"
          x="168.03383"
          y="-264.60419"
          id="text2589"
@@ -14071,7 +14006,8 @@
            sodipodi:role="line"
            id="tspan2591"
            x="168.03383"
-           y="-264.60419">POWER </tspan></text>
+           y="-264.60419"
+           style="font-size:3.37175608px;line-height:1.25">POWER </tspan></text>
       <path
          transform="matrix(0.1072494,0,0,0.1394243,302.88507,119.56718)"
          style="opacity:0.3;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline;filter:url(#filter8765);enable-background:new"
@@ -14323,9 +14259,9 @@
              id="text8805"
              y="-132.69225"
              x="176.22548"
-             style="font-size:7.36700916px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#babdb6;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';fill:#babdb6;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              xml:space="preserve"><tspan
-               style="fill:#babdb6"
+               style="font-size:7.36700916px;line-height:1.25;fill:#babdb6"
                y="-132.69225"
                x="176.22548"
                id="tspan8807"
@@ -14335,9 +14271,9 @@
              id="text8809"
              y="-160.85133"
              x="176.22801"
-             style="font-size:7.36700916px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#babdb6;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;enable-background:new;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';display:inline;fill:#babdb6;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new"
              xml:space="preserve"><tspan
-               style="fill:#babdb6"
+               style="font-size:7.36700916px;line-height:1.25;fill:#babdb6"
                y="-160.85133"
                x="176.22801"
                id="tspan8811"
@@ -14456,7 +14392,7 @@
          style="opacity:1;fill:none;fill-opacity:1;stroke:url(#radialGradient10214);stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline;filter:url(#filter10204);enable-background:new" />
       <text
          xml:space="preserve"
-         style="font-size:20.79171753px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;enable-background:new;font-family:Arial Black;-inkscape-font-specification:'Arial Black, Bold'"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Bold';display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new"
          x="154.02531"
          y="-134.92282"
          id="text10238"
@@ -14466,10 +14402,11 @@
            sodipodi:role="line"
            id="tspan10240"
            x="154.02531"
-           y="-134.92282">POWER  -</tspan></text>
+           y="-134.92282"
+           style="font-size:20.79171753px;line-height:1.25">POWER  -</tspan></text>
       <text
          xml:space="preserve"
-         style="font-size:20.79171753px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;enable-background:new;font-family:Arial Black;-inkscape-font-specification:'Arial Black, Bold'"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Bold';display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new"
          x="82.293869"
          y="-134.92282"
          id="text10242"
@@ -14479,7 +14416,8 @@
            sodipodi:role="line"
            id="tspan10244"
            x="82.293869"
-           y="-134.92282">+</tspan></text>
+           y="-134.92282"
+           style="font-size:20.79171753px;line-height:1.25">+</tspan></text>
       <path
          transform="matrix(0.6923077,0,0,1,40.692308,-8)"
          style="opacity:0.3;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline;filter:url(#filter8765);enable-background:new"
@@ -14583,16 +14521,16 @@
          id="text8273"
          y="21.513628"
          x="420.97073"
-         style="font-size:18.30070686px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          xml:space="preserve"><tspan
            y="21.513628"
            x="420.97073"
            id="tspan8275"
-           sodipodi:role="line">status</tspan></text>
+           sodipodi:role="line"
+           style="font-size:18.30070686px;line-height:1.25">status</tspan></text>
       <text
-         sodipodi:linespacing="125%"
          xml:space="preserve"
-         style="font-size:18.30070686px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="591.9707"
          y="21.513628"
          id="text8277"
@@ -14600,7 +14538,8 @@
            sodipodi:role="line"
            id="tspan8279"
            x="591.9707"
-           y="21.513628">battery-low</tspan></text>
+           y="21.513628"
+           style="font-size:18.30070686px;line-height:1.25">battery-low</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
@@ -14908,12 +14847,13 @@
                id="text9500"
                y="-718.50244"
                x="71.93763"
-               style="font-size:4.26873779px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;opacity:0.1;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Arial Black;-inkscape-font-specification:'Arial Black, Bold'"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Bold';display:inline;opacity:0.1;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
                xml:space="preserve"><tspan
                  y="-718.50244"
                  x="71.93763"
                  id="tspan9502"
-                 sodipodi:role="line">POWER </tspan></text>
+                 sodipodi:role="line"
+                 style="font-size:4.26873779px;line-height:1.25">POWER </tspan></text>
             <rect
                y="92"
                x="721"
@@ -15172,7 +15112,7 @@
                    id="g10070">
                   <text
                      xml:space="preserve"
-                     style="font-size:3.37175608px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Arial Black;-inkscape-font-specification:'Arial Black, Bold'"
+                     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Bold';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
                      x="168.03383"
                      y="-597.38757"
                      id="text9547"
@@ -15182,7 +15122,8 @@
                        sodipodi:role="line"
                        id="tspan9549"
                        x="168.03383"
-                       y="-597.38757">POWER </tspan></text>
+                       y="-597.38757"
+                       style="font-size:3.37175608px;line-height:1.25">POWER </tspan></text>
                   <rect
                      style="fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new"
                      id="rect9581"
@@ -15841,7 +15782,7 @@
                    id="g9648">
                   <text
                      xml:space="preserve"
-                     style="font-size:20.79171753px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;opacity:0.1;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Arial Black;-inkscape-font-specification:'Arial Black, Bold'"
+                     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Bold';display:inline;opacity:0.1;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
                      x="154.02531"
                      y="-519.69244"
                      id="text9623"
@@ -15851,10 +15792,11 @@
                        sodipodi:role="line"
                        id="tspan9625"
                        x="154.02531"
-                       y="-519.69244">POWER  -</tspan></text>
+                       y="-519.69244"
+                       style="font-size:20.79171753px;line-height:1.25">POWER  -</tspan></text>
                   <text
                      xml:space="preserve"
-                     style="font-size:20.79171753px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;opacity:0.1;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Arial Black;-inkscape-font-specification:'Arial Black, Bold'"
+                     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Bold';display:inline;opacity:0.1;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
                      x="82.293869"
                      y="-519.69244"
                      id="text9627"
@@ -15864,7 +15806,8 @@
                        sodipodi:role="line"
                        id="tspan9629"
                        x="82.293869"
-                       y="-519.69244">+</tspan></text>
+                       y="-519.69244"
+                       style="font-size:20.79171753px;line-height:1.25">+</tspan></text>
                 </g>
               </g>
               <g
@@ -15876,7 +15819,7 @@
                    style="opacity:0.1;fill:#000000;display:inline;enable-background:new">
                   <text
                      xml:space="preserve"
-                     style="font-size:7.36700916px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS"
+                     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';fill:#000000;fill-opacity:1;stroke:none"
                      x="176.22548"
                      y="-132.69225"
                      id="text9934"
@@ -15885,10 +15828,10 @@
                        id="tspan9936"
                        x="176.22548"
                        y="-132.69225"
-                       style="fill:#000000">tango cell</tspan></text>
+                       style="font-size:7.36700916px;line-height:1.25;fill:#000000">tango cell</tspan></text>
                   <text
                      xml:space="preserve"
-                     style="font-size:7.36700916px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS"
+                     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
                      x="176.22801"
                      y="-160.85133"
                      id="text9938"
@@ -15897,7 +15840,7 @@
                        id="tspan9940"
                        x="176.22801"
                        y="-160.85133"
-                       style="fill:#000000">clean</tspan></text>
+                       style="font-size:7.36700916px;line-height:1.25;fill:#000000">clean</tspan></text>
                 </g>
                 <path
                    style="font-size:7.36700916px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;opacity:0.5;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter9983);font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS"
@@ -15990,7 +15933,7 @@
          inkscape:export-ydpi="90" />
       <text
          xml:space="preserve"
-         style="font-size:18.30070686px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="420.97073"
          y="941.51367"
          id="text26398"
@@ -15998,19 +15941,20 @@
            sodipodi:role="line"
            id="tspan26400"
            x="420.97073"
-           y="941.51367">status</tspan></text>
+           y="941.51367"
+           style="font-size:18.30070686px;line-height:1.25">status</tspan></text>
       <text
          inkscape:label="icon-name"
          id="text26402"
          y="941.51367"
          x="591.9707"
-         style="font-size:18.30070686px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
-         xml:space="preserve"
-         sodipodi:linespacing="125%"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
+         xml:space="preserve"><tspan
            y="941.51367"
            x="591.9707"
            id="tspan26404"
-           sodipodi:role="line">battery-empty</tspan></text>
+           sodipodi:role="line"
+           style="font-size:18.30070686px;line-height:1.25">battery-empty</tspan></text>
     </g>
     <g
        style="display:inline"
@@ -16268,7 +16212,7 @@
              id="g26496">
             <text
                xml:space="preserve"
-               style="font-size:4.26873779px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;opacity:0.1;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Arial Black;-inkscape-font-specification:'Arial Black, Bold'"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Bold';display:inline;opacity:0.1;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
                x="71.93763"
                y="-718.50244"
                id="text26498"
@@ -16278,7 +16222,8 @@
                  sodipodi:role="line"
                  id="tspan26500"
                  x="71.93763"
-                 y="-718.50244">POWER </tspan></text>
+                 y="-718.50244"
+                 style="font-size:4.26873779px;line-height:1.25">POWER </tspan></text>
             <rect
                style="opacity:0.1;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new"
                id="rect26502"
@@ -16489,12 +16434,13 @@
                      id="text26582"
                      y="-597.38757"
                      x="168.03383"
-                     style="font-size:3.37175608px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Arial Black;-inkscape-font-specification:'Arial Black, Bold'"
+                     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Bold';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
                      xml:space="preserve"><tspan
                        y="-597.38757"
                        x="168.03383"
                        id="tspan26584"
-                       sodipodi:role="line">POWER </tspan></text>
+                       sodipodi:role="line"
+                       style="font-size:3.37175608px;line-height:1.25">POWER </tspan></text>
                   <rect
                      y="132"
                      x="719"
@@ -16885,12 +16831,13 @@
                      id="text26764"
                      y="-519.69244"
                      x="154.02531"
-                     style="font-size:20.79171753px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;opacity:0.1;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Arial Black;-inkscape-font-specification:'Arial Black, Bold'"
+                     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Bold';display:inline;opacity:0.1;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
                      xml:space="preserve"><tspan
                        y="-519.69244"
                        x="154.02531"
                        id="tspan26766"
-                       sodipodi:role="line">POWER  -</tspan></text>
+                       sodipodi:role="line"
+                       style="font-size:20.79171753px;line-height:1.25">POWER  -</tspan></text>
                   <text
                      inkscape:transform-center-y="-37.08417"
                      inkscape:transform-center-x="-43.225147"
@@ -16898,12 +16845,13 @@
                      id="text26768"
                      y="-519.69244"
                      x="82.293869"
-                     style="font-size:20.79171753px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;opacity:0.1;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Arial Black;-inkscape-font-specification:'Arial Black, Bold'"
+                     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Bold';display:inline;opacity:0.1;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
                      xml:space="preserve"><tspan
                        y="-519.69244"
                        x="82.293869"
                        id="tspan26770"
-                       sodipodi:role="line">+</tspan></text>
+                       sodipodi:role="line"
+                       style="font-size:20.79171753px;line-height:1.25">+</tspan></text>
                 </g>
               </g>
               <g
@@ -16918,9 +16866,9 @@
                      id="text26776"
                      y="-132.69225"
                      x="176.22548"
-                     style="font-size:7.36700916px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS"
+                     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';fill:#000000;fill-opacity:1;stroke:none"
                      xml:space="preserve"><tspan
-                       style="fill:#000000"
+                       style="font-size:7.36700916px;line-height:1.25;fill:#000000"
                        y="-132.69225"
                        x="176.22548"
                        id="tspan26778"
@@ -16930,9 +16878,9 @@
                      id="text26780"
                      y="-160.85133"
                      x="176.22801"
-                     style="font-size:7.36700916px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS"
+                     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
                      xml:space="preserve"><tspan
-                       style="fill:#000000"
+                       style="font-size:7.36700916px;line-height:1.25;fill:#000000"
                        y="-160.85133"
                        x="176.22801"
                        id="tspan26782"
@@ -17031,16 +16979,16 @@
          id="text27004"
          y="941.51367"
          x="20.970703"
-         style="font-size:18.30070686px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          xml:space="preserve"><tspan
            y="941.51367"
            x="20.970703"
            id="tspan27006"
-           sodipodi:role="line">status</tspan></text>
+           sodipodi:role="line"
+           style="font-size:18.30070686px;line-height:1.25">status</tspan></text>
       <text
-         sodipodi:linespacing="125%"
          xml:space="preserve"
-         style="font-size:18.30070686px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="191.9707"
          y="941.51367"
          id="text27008"
@@ -17048,7 +16996,8 @@
            sodipodi:role="line"
            id="tspan27010"
            x="191.9707"
-           y="941.51367">battery-missing</tspan></text>
+           y="941.51367"
+           style="font-size:18.30070686px;line-height:1.25">battery-missing</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
@@ -17313,12 +17262,13 @@
                id="text27092"
                y="-718.50244"
                x="71.93763"
-               style="font-size:4.26873779px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;opacity:0.1;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Arial Black;-inkscape-font-specification:'Arial Black, Bold'"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Bold';display:inline;opacity:0.1;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
                xml:space="preserve"><tspan
                  y="-718.50244"
                  x="71.93763"
                  id="tspan27094"
-                 sodipodi:role="line">POWER </tspan></text>
+                 sodipodi:role="line"
+                 style="font-size:4.26873779px;line-height:1.25">POWER </tspan></text>
             <rect
                y="92"
                x="721"
@@ -17526,7 +17476,7 @@
                    id="g27162">
                   <text
                      xml:space="preserve"
-                     style="font-size:3.37175608px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Arial Black;-inkscape-font-specification:'Arial Black, Bold'"
+                     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Bold';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
                      x="168.03383"
                      y="-597.38757"
                      id="text27164"
@@ -17536,7 +17486,8 @@
                        sodipodi:role="line"
                        id="tspan27166"
                        x="168.03383"
-                       y="-597.38757">POWER </tspan></text>
+                       y="-597.38757"
+                       style="font-size:3.37175608px;line-height:1.25">POWER </tspan></text>
                   <rect
                      style="fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new"
                      id="rect27168"
@@ -18200,7 +18151,7 @@
                    id="g27280">
                   <text
                      xml:space="preserve"
-                     style="font-size:20.79171753px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;opacity:0.1;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Arial Black;-inkscape-font-specification:'Arial Black, Bold'"
+                     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Bold';display:inline;opacity:0.1;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
                      x="154.02531"
                      y="-519.69244"
                      id="text27282"
@@ -18210,10 +18161,11 @@
                        sodipodi:role="line"
                        id="tspan27284"
                        x="154.02531"
-                       y="-519.69244">POWER  -</tspan></text>
+                       y="-519.69244"
+                       style="font-size:20.79171753px;line-height:1.25">POWER  -</tspan></text>
                   <text
                      xml:space="preserve"
-                     style="font-size:20.79171753px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;opacity:0.1;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Arial Black;-inkscape-font-specification:'Arial Black, Bold'"
+                     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Bold';display:inline;opacity:0.1;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
                      x="82.293869"
                      y="-519.69244"
                      id="text27286"
@@ -18223,7 +18175,8 @@
                        sodipodi:role="line"
                        id="tspan27288"
                        x="82.293869"
-                       y="-519.69244">+</tspan></text>
+                       y="-519.69244"
+                       style="font-size:20.79171753px;line-height:1.25">+</tspan></text>
                 </g>
               </g>
               <g
@@ -18235,7 +18188,7 @@
                    style="opacity:0.1;fill:#000000;display:inline;enable-background:new">
                   <text
                      xml:space="preserve"
-                     style="font-size:7.36700916px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS"
+                     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';fill:#000000;fill-opacity:1;stroke:none"
                      x="176.22548"
                      y="-132.69225"
                      id="text27294"
@@ -18244,10 +18197,10 @@
                        id="tspan27296"
                        x="176.22548"
                        y="-132.69225"
-                       style="fill:#000000">tango cell</tspan></text>
+                       style="font-size:7.36700916px;line-height:1.25;fill:#000000">tango cell</tspan></text>
                   <text
                      xml:space="preserve"
-                     style="font-size:7.36700916px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS"
+                     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
                      x="176.22801"
                      y="-160.85133"
                      id="text27298"
@@ -18256,7 +18209,7 @@
                        id="tspan27300"
                        x="176.22801"
                        y="-160.85133"
-                       style="fill:#000000">clean</tspan></text>
+                       style="font-size:7.36700916px;line-height:1.25;fill:#000000">clean</tspan></text>
                 </g>
                 <path
                    style="font-size:7.36700916px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;opacity:0.5;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter9983);font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS"
@@ -18468,16 +18421,16 @@
          id="text3167"
          y="21.513628"
          x="820.9707"
-         style="font-size:18.30070686px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          xml:space="preserve"><tspan
            y="21.513628"
            x="820.9707"
            id="tspan3169"
-           sodipodi:role="line">status</tspan></text>
+           sodipodi:role="line"
+           style="font-size:18.30070686px;line-height:1.25">status</tspan></text>
       <text
-         sodipodi:linespacing="125%"
          xml:space="preserve"
-         style="font-size:18.30070686px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="991.9707"
          y="21.513628"
          id="text3171"
@@ -18485,7 +18438,8 @@
            sodipodi:role="line"
            x="991.9707"
            y="21.513628"
-           id="tspan3175">battery-caution</tspan></text>
+           id="tspan3175"
+           style="font-size:18.30070686px;line-height:1.25">battery-caution</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
@@ -19284,16 +19238,16 @@
          id="text8960"
          y="321.51364"
          x="420.97073"
-         style="font-size:18.30070686px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          xml:space="preserve"><tspan
            y="321.51364"
            x="420.97073"
            id="tspan8962"
-           sodipodi:role="line">status</tspan></text>
+           sodipodi:role="line"
+           style="font-size:18.30070686px;line-height:1.25">status</tspan></text>
       <text
-         sodipodi:linespacing="125%"
          xml:space="preserve"
-         style="font-size:18.30070686px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="591.9707"
          y="321.51364"
          id="text8964"
@@ -19301,7 +19255,8 @@
            sodipodi:role="line"
            id="tspan8966"
            x="591.9707"
-           y="321.51364">battery-full</tspan></text>
+           y="321.51364"
+           style="font-size:18.30070686px;line-height:1.25">battery-full</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
@@ -19965,16 +19920,16 @@
          id="text10602"
          y="321.51364"
          x="820.9707"
-         style="font-size:18.30070686px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          xml:space="preserve"><tspan
            y="321.51364"
            x="820.9707"
            id="tspan10604"
-           sodipodi:role="line">status</tspan></text>
+           sodipodi:role="line"
+           style="font-size:18.30070686px;line-height:1.25">status</tspan></text>
       <text
-         sodipodi:linespacing="125%"
          xml:space="preserve"
-         style="font-size:18.30070686px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="991.9707"
          y="321.51364"
          id="text10606"
@@ -19982,7 +19937,8 @@
            sodipodi:role="line"
            x="991.9707"
            y="321.51364"
-           id="tspan10620">battery-good</tspan></text>
+           id="tspan10620"
+           style="font-size:18.30070686px;line-height:1.25">battery-good</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
@@ -20631,7 +20587,7 @@
          inkscape:export-ydpi="90" />
       <text
          xml:space="preserve"
-         style="font-size:18.30070686px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="420.97073"
          y="621.51367"
          id="text12905"
@@ -20639,19 +20595,20 @@
            sodipodi:role="line"
            id="tspan12907"
            x="420.97073"
-           y="621.51367">status</tspan></text>
+           y="621.51367"
+           style="font-size:18.30070686px;line-height:1.25">status</tspan></text>
       <text
          inkscape:label="icon-name"
          id="text12909"
          y="621.51367"
          x="591.9707"
-         style="font-size:18.30070686px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
-         xml:space="preserve"
-         sodipodi:linespacing="125%"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
+         xml:space="preserve"><tspan
            y="621.51367"
            x="591.9707"
            id="tspan12911"
-           sodipodi:role="line">battery-full-charging</tspan></text>
+           sodipodi:role="line"
+           style="font-size:18.30070686px;line-height:1.25">battery-full-charging</tspan></text>
     </g>
     <g
        style="display:inline"
@@ -21795,16 +21752,16 @@
          id="text13953"
          y="1251.5137"
          x="420.97073"
-         style="font-size:18.30070686px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          xml:space="preserve"><tspan
            y="1251.5137"
            x="420.97073"
            id="tspan13955"
-           sodipodi:role="line">status</tspan></text>
+           sodipodi:role="line"
+           style="font-size:18.30070686px;line-height:1.25">status</tspan></text>
       <text
-         sodipodi:linespacing="125%"
          xml:space="preserve"
-         style="font-size:18.30070686px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="591.9707"
          y="1251.5137"
          id="text13957"
@@ -21812,7 +21769,8 @@
            sodipodi:role="line"
            id="tspan13959"
            x="591.9707"
-           y="1251.5137">battery-full-charged</tspan></text>
+           y="1251.5137"
+           style="font-size:18.30070686px;line-height:1.25">battery-full-charged</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
@@ -22660,16 +22618,16 @@
          id="text16654"
          y="621.51367"
          x="820.9707"
-         style="font-size:18.30070686px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          xml:space="preserve"><tspan
            y="621.51367"
            x="820.9707"
            id="tspan16656"
-           sodipodi:role="line">status</tspan></text>
+           sodipodi:role="line"
+           style="font-size:18.30070686px;line-height:1.25">status</tspan></text>
       <text
-         sodipodi:linespacing="125%"
          xml:space="preserve"
-         style="font-size:18.30070686px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="991.9707"
          y="621.51367"
          id="text16658"
@@ -22677,7 +22635,8 @@
            sodipodi:role="line"
            id="tspan16660"
            x="991.9707"
-           y="621.51367">battery-good-charging</tspan></text>
+           y="621.51367"
+           style="font-size:18.30070686px;line-height:1.25">battery-good-charging</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
@@ -23818,7 +23777,7 @@
          inkscape:export-ydpi="90" />
       <text
          xml:space="preserve"
-         style="font-size:18.30070686px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="820.9707"
          y="941.51367"
          id="text20406"
@@ -23826,19 +23785,20 @@
            sodipodi:role="line"
            id="tspan20408"
            x="820.9707"
-           y="941.51367">status</tspan></text>
+           y="941.51367"
+           style="font-size:18.30070686px;line-height:1.25">status</tspan></text>
       <text
          inkscape:label="icon-name"
          id="text20410"
          y="941.51367"
          x="991.9707"
-         style="font-size:18.30070686px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
-         xml:space="preserve"
-         sodipodi:linespacing="125%"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
+         xml:space="preserve"><tspan
            y="941.51367"
            x="991.9707"
            id="tspan20412"
-           sodipodi:role="line">battery-low-charging</tspan></text>
+           sodipodi:role="line"
+           style="font-size:18.30070686px;line-height:1.25">battery-low-charging</tspan></text>
     </g>
     <g
        style="display:inline"
@@ -24880,7 +24840,7 @@
              id="g11031">
             <text
                xml:space="preserve"
-               style="font-size:4.26873779px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;opacity:0.1;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Arial Black;-inkscape-font-specification:'Arial Black, Bold'"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Bold';display:inline;opacity:0.1;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
                x="71.93763"
                y="-718.50244"
                id="text11033"
@@ -24890,7 +24850,8 @@
                  sodipodi:role="line"
                  id="tspan11035"
                  x="71.93763"
-                 y="-718.50244">POWER </tspan></text>
+                 y="-718.50244"
+                 style="font-size:4.26873779px;line-height:1.25">POWER </tspan></text>
             <rect
                style="opacity:0.1;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new"
                id="rect11037"
@@ -25146,12 +25107,13 @@
                      id="text10900"
                      y="-597.38757"
                      x="168.03383"
-                     style="font-size:3.37175608px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Arial Black;-inkscape-font-specification:'Arial Black, Bold'"
+                     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Bold';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
                      xml:space="preserve"><tspan
                        y="-597.38757"
                        x="168.03383"
                        id="tspan10902"
-                       sodipodi:role="line">POWER </tspan></text>
+                       sodipodi:role="line"
+                       style="font-size:3.37175608px;line-height:1.25">POWER </tspan></text>
                   <rect
                      y="132"
                      x="719"
@@ -26074,7 +26036,7 @@
                    id="g9648-1">
                   <text
                      xml:space="preserve"
-                     style="font-size:20.79171753px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;opacity:0.1;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Arial Black;-inkscape-font-specification:'Arial Black, Bold'"
+                     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Bold';display:inline;opacity:0.1;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
                      x="154.02531"
                      y="-519.69244"
                      id="text9623-0"
@@ -26084,10 +26046,11 @@
                        sodipodi:role="line"
                        id="tspan9625-4"
                        x="154.02531"
-                       y="-519.69244">POWER  -</tspan></text>
+                       y="-519.69244"
+                       style="font-size:20.79171753px;line-height:1.25">POWER  -</tspan></text>
                   <text
                      xml:space="preserve"
-                     style="font-size:20.79171753px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;opacity:0.1;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Arial Black;-inkscape-font-specification:'Arial Black, Bold'"
+                     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Bold';display:inline;opacity:0.1;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
                      x="82.293869"
                      y="-519.69244"
                      id="text9627-5"
@@ -26097,7 +26060,8 @@
                        sodipodi:role="line"
                        id="tspan9629-8"
                        x="82.293869"
-                       y="-519.69244">+</tspan></text>
+                       y="-519.69244"
+                       style="font-size:20.79171753px;line-height:1.25">+</tspan></text>
                 </g>
               </g>
               <g
@@ -26109,7 +26073,7 @@
                    style="opacity:0.1;fill:#000000;display:inline;enable-background:new">
                   <text
                      xml:space="preserve"
-                     style="font-size:7.36700916px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS"
+                     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';fill:#000000;fill-opacity:1;stroke:none"
                      x="176.22548"
                      y="-132.69225"
                      id="text9934-5"
@@ -26118,10 +26082,10 @@
                        id="tspan9936-1"
                        x="176.22548"
                        y="-132.69225"
-                       style="fill:#000000">tango cell</tspan></text>
+                       style="font-size:7.36700916px;line-height:1.25;fill:#000000">tango cell</tspan></text>
                   <text
                      xml:space="preserve"
-                     style="font-size:7.36700916px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS"
+                     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
                      x="176.22801"
                      y="-160.85133"
                      id="text9938-3"
@@ -26130,7 +26094,7 @@
                        id="tspan9940-8"
                        x="176.22801"
                        y="-160.85133"
-                       style="fill:#000000">clean</tspan></text>
+                       style="font-size:7.36700916px;line-height:1.25;fill:#000000">clean</tspan></text>
                 </g>
                 <path
                    inkscape:connector-curvature="0"
@@ -26235,16 +26199,16 @@
          id="text23915"
          y="321.51367"
          x="40.970703"
-         style="font-size:18.30070686px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          xml:space="preserve"><tspan
            y="321.51367"
            x="40.970703"
            id="tspan23917"
-           sodipodi:role="line">status</tspan></text>
+           sodipodi:role="line"
+           style="font-size:18.30070686px;line-height:1.25">status</tspan></text>
       <text
-         sodipodi:linespacing="125%"
          xml:space="preserve"
-         style="font-size:18.30070686px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="171.9707"
          y="321.51367"
          id="text23919"
@@ -26252,7 +26216,8 @@
            sodipodi:role="line"
            id="tspan23921"
            x="171.9707"
-           y="321.51367">battery-caution-charging</tspan></text>
+           y="321.51367"
+           style="font-size:18.30070686px;line-height:1.25">battery-caution-charging</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
@@ -27768,16 +27733,16 @@
          id="text9702"
          y="621.51367"
          x="20.970737"
-         style="font-size:18.30070686px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          xml:space="preserve"><tspan
            y="621.51367"
            x="20.970737"
            id="tspan9704"
-           sodipodi:role="line">devices</tspan></text>
+           sodipodi:role="line"
+           style="font-size:18.30070686px;line-height:1.25">devices</tspan></text>
       <text
-         sodipodi:linespacing="125%"
          xml:space="preserve"
-         style="font-size:18.30070686px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="191.97073"
          y="621.51367"
          id="text9706"
@@ -27785,7 +27750,8 @@
            sodipodi:role="line"
            id="tspan9708"
            x="191.97073"
-           y="621.51367">ac-adapter</tspan></text>
+           y="621.51367"
+           style="font-size:18.30070686px;line-height:1.25">ac-adapter</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"

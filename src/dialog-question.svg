@@ -16,7 +16,7 @@
    inkscape:export-xdpi="90.000000"
    inkscape:export-ydpi="90.000000"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
-   inkscape:version="0.46+devel"
+   inkscape:version="0.92.4 (unknown)"
    sodipodi:docname="dialog-question.svg"
    sodipodi:version="0.32"
    style="display:inline;enable-background:new"
@@ -80,8 +80,8 @@ Jakub Steiner</dc:title>
      inkscape:snap-nodes="true"
      inkscape:window-height="811"
      inkscape:window-width="1189"
-     inkscape:window-x="1780"
-     inkscape:window-y="264"
+     inkscape:window-x="483"
+     inkscape:window-y="177"
      inkscape:zoom="1"
      objecttolerance="7"
      pagecolor="#ffffff"
@@ -94,11 +94,13 @@ Jakub Steiner</dc:title>
        empspacing="4"
        enabled="true"
        id="grid5883"
-       spacingx="1px"
-       spacingy="1px"
+       spacingx="1"
+       spacingy="1"
        type="xygrid"
        visible="true"
-       snapvisiblegridlinesonly="true" />
+       snapvisiblegridlinesonly="true"
+       originx="0"
+       originy="0" />
   </sodipodi:namedview>
   <defs
      id="defs3">
@@ -126,13 +128,6 @@ Jakub Steiner</dc:title>
          offset="1"
          id="stop3757" />
     </linearGradient>
-    <inkscape:perspective
-       sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="0 : 150 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_z="400 : 150 : 1"
-       inkscape:persp3d-origin="200 : 100 : 1"
-       id="perspective106" />
     <linearGradient
        id="linearGradient6565"
        inkscape:collect="always">
@@ -157,68 +152,6 @@ Jakub Steiner</dc:title>
          offset="1"
          style="stop-color:#3465a4;stop-opacity:1" />
     </linearGradient>
-    <linearGradient
-       id="linearGradient6516"
-       inkscape:collect="always">
-      <stop
-         id="stop6518"
-         offset="0"
-         style="stop-color:#cc0000;stop-opacity:1" />
-      <stop
-         id="stop6520"
-         offset="1"
-         style="stop-color:#ef2929;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient
-       gradientTransform="matrix(2.1466396,0,0,2.0983681,-62.708523,-14.532865)"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient6690"
-       inkscape:collect="always"
-       x1="8.3140812"
-       x2="8.3140812"
-       xlink:href="#linearGradient6516"
-       y1="12.284181"
-       y2="-8.0501661" />
-    <linearGradient
-       gradientTransform="matrix(2.1466396,0,0,2.0983681,-62.708523,-14.532865)"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient6707"
-       inkscape:collect="always"
-       x1="8.3140812"
-       x2="8.3140812"
-       xlink:href="#linearGradient6516"
-       y1="12.284181"
-       y2="-8.0501661" />
-    <linearGradient
-       gradientTransform="matrix(2.1466396,0,0,-2.0983681,-172.70852,46.532865)"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient6716"
-       inkscape:collect="always"
-       x1="8.3140812"
-       x2="8.3140812"
-       xlink:href="#linearGradient6516"
-       y1="12.284181"
-       y2="-8.0501661" />
-    <linearGradient
-       gradientTransform="matrix(1.53347,0,0,1.5010009,-3.0898627,2.4172e-2)"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient6999"
-       inkscape:collect="always"
-       x1="8.3140812"
-       x2="8.3140812"
-       xlink:href="#linearGradient6516"
-       y1="12.284181"
-       y2="-8.0501661" />
-    <linearGradient
-       gradientTransform="matrix(1.53347,0,0,-1.5010009,-283.08986,31.975828)"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient7001"
-       inkscape:collect="always"
-       x1="8.3140812"
-       x2="8.3140812"
-       xlink:href="#linearGradient6516"
-       y1="12.284181"
-       y2="-8.0501661" />
     <radialGradient
        cx="10.84375"
        cy="17.4375"
@@ -316,250 +249,6 @@ Jakub Steiner</dc:title>
        r="7.6345282"
        xlink:href="#linearGradient6548" />
     <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient6516"
-       id="linearGradient2489"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.1466396,0,0,2.0983681,-62.708523,-14.532865)"
-       x1="8.3140812"
-       y1="12.284181"
-       x2="8.3140812"
-       y2="-8.0501661" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient6516"
-       id="linearGradient2491"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.1466396,0,0,2.0983681,-62.708523,-14.532865)"
-       x1="8.3140812"
-       y1="12.284181"
-       x2="8.3140812"
-       y2="-8.0501661" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient6516"
-       id="linearGradient2493"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.1466396,0,0,-2.0983681,-172.70852,46.532865)"
-       x1="8.3140812"
-       y1="12.284181"
-       x2="8.3140812"
-       y2="-8.0501661" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient6516"
-       id="linearGradient2495"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.53347,0,0,1.5010009,-3.0898627,2.4172e-2)"
-       x1="8.3140812"
-       y1="12.284181"
-       x2="8.3140812"
-       y2="-8.0501661" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient6516"
-       id="linearGradient2497"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.53347,0,0,-1.5010009,-283.08986,31.975828)"
-       x1="8.3140812"
-       y1="12.284181"
-       x2="8.3140812"
-       y2="-8.0501661" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient6516"
-       id="linearGradient2501"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.53347,0,0,-1.5010009,19.91014,208.97583)"
-       x1="8.3140812"
-       y1="12.284181"
-       x2="8.3140812"
-       y2="-8.0501661" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient6516"
-       id="linearGradient2507"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.1466396,0,0,-2.0983681,130.29148,223.53287)"
-       x1="8.3140812"
-       y1="12.284181"
-       x2="8.3140812"
-       y2="-8.0501661" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient6516"
-       id="linearGradient2517"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.1466396,0,0,2.0983681,-62.708523,-14.532865)"
-       x1="8.3140812"
-       y1="12.284181"
-       x2="8.3140812"
-       y2="-8.0501661" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient6516"
-       id="linearGradient2519"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.1466396,0,0,2.0983681,-62.708523,-14.532865)"
-       x1="8.3140812"
-       y1="12.284181"
-       x2="8.3140812"
-       y2="-8.0501661" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient6516"
-       id="linearGradient2521"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.1466396,0,0,-2.0983681,-172.70852,46.532865)"
-       x1="8.3140812"
-       y1="12.284181"
-       x2="8.3140812"
-       y2="-8.0501661" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient6516"
-       id="linearGradient2523"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.53347,0,0,1.5010009,-3.0898627,2.4172e-2)"
-       x1="8.3140812"
-       y1="12.284181"
-       x2="8.3140812"
-       y2="-8.0501661" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient6516"
-       id="linearGradient2525"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.53347,0,0,-1.5010009,-283.08986,31.975828)"
-       x1="8.3140812"
-       y1="12.284181"
-       x2="8.3140812"
-       y2="-8.0501661" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient6516"
-       id="linearGradient2529"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.53347,0,0,-1.5010009,19.91014,157.97583)"
-       x1="8.3140812"
-       y1="12.284181"
-       x2="8.3140812"
-       y2="-8.0501661" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient6516"
-       id="linearGradient2535"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.1466396,0,0,-2.0983681,130.29148,172.53287)"
-       x1="8.3140812"
-       y1="12.284181"
-       x2="8.3140812"
-       y2="-8.0501661" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient6516"
-       id="linearGradient2546"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.1466396,0,0,2.0983681,-62.708523,-14.532865)"
-       x1="8.3140812"
-       y1="12.284181"
-       x2="8.3140812"
-       y2="-8.0501661" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient6516"
-       id="linearGradient2548"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.1466396,0,0,2.0983681,-62.708523,-14.532865)"
-       x1="8.3140812"
-       y1="12.284181"
-       x2="8.3140812"
-       y2="-8.0501661" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient6516"
-       id="linearGradient2550"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.1466396,0,0,-2.0983681,-172.70852,46.532865)"
-       x1="8.3140812"
-       y1="12.284181"
-       x2="8.3140812"
-       y2="-8.0501661" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient6516"
-       id="linearGradient2552"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.53347,0,0,1.5010009,-3.0898627,2.4172e-2)"
-       x1="8.3140812"
-       y1="12.284181"
-       x2="8.3140812"
-       y2="-8.0501661" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient6516"
-       id="linearGradient2554"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.53347,0,0,-1.5010009,-283.08986,31.975828)"
-       x1="8.3140812"
-       y1="12.284181"
-       x2="8.3140812"
-       y2="-8.0501661" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient6516"
-       id="linearGradient2558"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.53347,0,0,-1.5010009,12.91014,81.975828)"
-       x1="8.3140812"
-       y1="12.284181"
-       x2="8.3140812"
-       y2="-8.0501661" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient6516"
-       id="linearGradient2564"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.1466396,0,0,-2.0983681,123.29148,96.532865)"
-       x1="8.3140812"
-       y1="12.284181"
-       x2="8.3140812"
-       y2="-8.0501661" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient6516"
-       id="linearGradient2576"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.53347,0,0,-1.5010009,19.91014,250.97583)"
-       x1="8.3140812"
-       y1="12.284181"
-       x2="8.3140812"
-       y2="-8.0501661" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient6516"
-       id="linearGradient2582"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.1466396,0,0,-2.0983681,130.29148,265.53287)"
-       x1="8.3140812"
-       y1="12.284181"
-       x2="8.3140812"
-       y2="-8.0501661" />
-    <inkscape:perspective
-       id="perspective3824"
-       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
-       inkscape:vp_z="1 : 0.5 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_x="0 : 0.5 : 1"
-       sodipodi:type="inkscape:persp3d" />
-    <inkscape:perspective
-       id="perspective2915"
-       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
-       inkscape:vp_z="1 : 0.5 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_x="0 : 0.5 : 1"
-       sodipodi:type="inkscape:persp3d" />
-    <linearGradient
        id="linearGradient6548-8"
        inkscape:collect="always">
       <stop
@@ -593,52 +282,6 @@ Jakub Steiner</dc:title>
          x="-14.688457"
          y="17.838459" />
     </clipPath>
-    <inkscape:perspective
-       id="perspective2971"
-       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
-       inkscape:vp_z="1 : 0.5 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_x="0 : 0.5 : 1"
-       sodipodi:type="inkscape:persp3d" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient5343"
-       id="linearGradient5551"
-       gradientUnits="userSpaceOnUse"
-       x1="85.687943"
-       y1="52.708382"
-       x2="89.831696"
-       y2="154.19772" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient5343">
-      <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
-         offset="0"
-         id="stop5345" />
-      <stop
-         style="stop-color:#ffffff;stop-opacity:0;"
-         offset="1"
-         id="stop5347" />
-    </linearGradient>
-    <inkscape:perspective
-       id="perspective2992"
-       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
-       inkscape:vp_z="1 : 0.5 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_x="0 : 0.5 : 1"
-       sodipodi:type="inkscape:persp3d" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient5402"
-       id="radialGradient5408"
-       cx="79.377068"
-       cy="44.534161"
-       fx="79.377068"
-       fy="44.534161"
-       r="50.668388"
-       gradientTransform="matrix(1.6739663,0,0,1.6098814,-53.178311,-27.61411)"
-       gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient5402">
@@ -651,20 +294,6 @@ Jakub Steiner</dc:title>
          offset="1"
          id="stop5406" />
     </linearGradient>
-    <inkscape:perspective
-       id="perspective3011"
-       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
-       inkscape:vp_z="1 : 0.5 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_x="0 : 0.5 : 1"
-       sodipodi:type="inkscape:persp3d" />
-    <inkscape:perspective
-       id="perspective2961"
-       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
-       inkscape:vp_z="1 : 0.5 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_x="0 : 0.5 : 1"
-       sodipodi:type="inkscape:persp3d" />
     <linearGradient
        id="linearGradient4287">
       <stop
@@ -676,44 +305,6 @@ Jakub Steiner</dc:title>
          offset="1"
          id="stop4291" />
     </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4287"
-       id="linearGradient2987"
-       gradientUnits="userSpaceOnUse"
-       x1="188.99997"
-       y1="227.06276"
-       x2="186.28505"
-       y2="33.809074" />
-    <linearGradient
-       id="linearGradient2972">
-      <stop
-         style="stop-color:#000000;stop-opacity:1;"
-         offset="0"
-         id="stop2974" />
-      <stop
-         style="stop-color:#000000;stop-opacity:0;"
-         offset="1"
-         id="stop2976" />
-    </linearGradient>
-    <inkscape:perspective
-       id="perspective3026"
-       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
-       inkscape:vp_z="1 : 0.5 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_x="0 : 0.5 : 1"
-       sodipodi:type="inkscape:persp3d" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient5402-1"
-       id="radialGradient3358"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.5111798,0,0,0.4916103,257.55424,38.311797)"
-       cx="79.377068"
-       cy="44.534161"
-       fx="79.377068"
-       fy="44.534161"
-       r="50.668388" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient5402-1">
@@ -732,24 +323,6 @@ Jakub Steiner</dc:title>
        id="radialGradient3944"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.5111798,0,0,0.4916103,-19.054823,-12.450161)"
-       cx="79.377068"
-       cy="44.534161"
-       fx="79.377068"
-       fy="44.534161"
-       r="50.668388" />
-    <inkscape:perspective
-       id="perspective3045"
-       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
-       inkscape:vp_z="1 : 0.5 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_x="0 : 0.5 : 1"
-       sodipodi:type="inkscape:persp3d" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient5402-3"
-       id="radialGradient11069"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.3446429,0,0,0.3314489,290.64326,116.83586)"
        cx="79.377068"
        cy="44.534161"
        fx="79.377068"
@@ -778,24 +351,6 @@ Jakub Steiner</dc:title>
        id="radialGradient3054"
        xlink:href="#linearGradient5402-3"
        inkscape:collect="always" />
-    <inkscape:perspective
-       id="perspective3064"
-       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
-       inkscape:vp_z="1 : 0.5 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_x="0 : 0.5 : 1"
-       sodipodi:type="inkscape:persp3d" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient5402-0"
-       id="radialGradient10120"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.2527298,0,0,0.2430545,293.06756,169.79774)"
-       cx="79.377068"
-       cy="44.534161"
-       fx="79.377068"
-       fy="44.534161"
-       r="50.668388" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient5402-0">
@@ -814,24 +369,6 @@ Jakub Steiner</dc:title>
        id="radialGradient4003"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.2527298,0,0,0.2430545,-49.326684,-4.504567)"
-       cx="79.377068"
-       cy="44.534161"
-       fx="79.377068"
-       fy="44.534161"
-       r="50.668388" />
-    <inkscape:perspective
-       id="perspective3083"
-       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
-       inkscape:vp_z="1 : 0.5 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_x="0 : 0.5 : 1"
-       sodipodi:type="inkscape:persp3d" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient5402-4"
-       id="radialGradient10039"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.1980196,0,0,0.1904388,294.50053,214.06736)"
        cx="79.377068"
        cy="44.534161"
        fx="79.377068"
@@ -1009,26 +546,27 @@ Jakub Steiner</dc:title>
     <text
        id="context"
        inkscape:label="context"
-       style="font-size:18.30070686px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
        x="20.970737"
        xml:space="preserve"
        y="21.513618"><tspan
          id="tspan2716"
          sodipodi:role="line"
          x="20.970737"
-         y="21.513618">status</tspan></text>
+         y="21.513618"
+         style="font-size:18.30070686px;line-height:1.25">status</tspan></text>
     <text
        id="icon-name"
        inkscape:label="icon-name"
-       sodipodi:linespacing="125%"
-       style="font-size:18.30070686px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
        x="191.97073"
        xml:space="preserve"
        y="21.513618"><tspan
          id="tspan3023"
          sodipodi:role="line"
          x="191.97073"
-         y="21.513618">dialog-question</tspan></text>
+         y="21.513618"
+         style="font-size:18.30070686px;line-height:1.25">dialog-question</tspan></text>
     <rect
        height="256"
        id="rect6282"

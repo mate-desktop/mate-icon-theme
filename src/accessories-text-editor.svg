@@ -17,7 +17,7 @@
    height="300"
    id="svg11300"
    sodipodi:version="0.32"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.92.4 (unknown)"
    sodipodi:docname="accessories-text-editor.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.0"
@@ -34,17 +34,17 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="125.59182"
+     inkscape:cx="127.59182"
      inkscape:cy="88.349942"
      inkscape:current-layer="g58732"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:showpageshadow="false"
-     inkscape:window-width="2560"
-     inkscape:window-height="1401"
-     inkscape:window-x="2560"
-     inkscape:window-y="0"
+     inkscape:window-width="1680"
+     inkscape:window-height="966"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
      width="400px"
      height="300px"
      inkscape:snap-nodes="false"
@@ -56,31 +56,36 @@
      inkscape:guide-bbox="true"
      inkscape:window-maximized="1">
     <inkscape:grid
-       spacingy="1px"
-       spacingx="1px"
+       spacingy="1"
+       spacingx="1"
        id="grid5883"
        type="xygrid"
        enabled="true"
        visible="true"
        empspacing="4"
-       snapvisiblegridlinesonly="true" />
+       snapvisiblegridlinesonly="true"
+       originx="0"
+       originy="0" />
     <inkscape:grid
        type="xygrid"
        id="grid11592"
        empspacing="2"
        visible="true"
        enabled="false"
-       spacingx="0.5px"
-       spacingy="0.5px"
+       spacingx="0.5"
+       spacingy="0.5"
        color="#ff0000"
        opacity="0.1254902"
        empcolor="#ff0000"
        empopacity="0.25098039"
-       snapvisiblegridlinesonly="true" />
+       snapvisiblegridlinesonly="true"
+       originx="0"
+       originy="0" />
     <sodipodi:guide
        orientation="-0.70710678,0.70710678"
        position="309.8125,173.625"
-       id="guide9630" />
+       id="guide9630"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <defs
      id="defs3">
@@ -5609,24 +5614,6 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient2329"
-       id="linearGradient59987"
-       gradientUnits="userSpaceOnUse"
-       x1="118.95486"
-       y1="167.55492"
-       x2="120.17053"
-       y2="74.832535" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient2329"
-       id="linearGradient59989"
-       gradientUnits="userSpaceOnUse"
-       x1="118.95486"
-       y1="167.55492"
-       x2="120.17053"
-       y2="74.832535" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient2329"
        id="linearGradient59991"
        gradientUnits="userSpaceOnUse"
        x1="118.95486"
@@ -5666,389 +5653,6 @@
        fx="120.75494"
        fy="202.94055"
        r="27.784051" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient2778"
-       id="linearGradient59999"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-5.4256032,0)"
-       x1="136.25"
-       y1="69.125"
-       x2="136.75"
-       y2="56.125" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient2778"
-       id="linearGradient60001"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-5.4256032,0)"
-       x1="136.25"
-       y1="69.125"
-       x2="136.75"
-       y2="56.125" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient2778"
-       id="linearGradient60003"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-5.4256032,0)"
-       x1="136.25"
-       y1="69.125"
-       x2="136.75"
-       y2="56.125" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient2778"
-       id="linearGradient60005"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-5.4256032,0)"
-       x1="136.25"
-       y1="69.125"
-       x2="136.75"
-       y2="56.125" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient2778"
-       id="linearGradient60007"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-5.4256032,0)"
-       x1="136.25"
-       y1="69.125"
-       x2="136.75"
-       y2="56.125" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient2778"
-       id="linearGradient60009"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-5.4256032,0)"
-       x1="136.25"
-       y1="69.125"
-       x2="136.75"
-       y2="56.125" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient2778"
-       id="linearGradient60011"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-5.4256032,0)"
-       x1="136.25"
-       y1="69.125"
-       x2="136.75"
-       y2="56.125" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient2778"
-       id="linearGradient60013"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-45.2784,0)"
-       x1="136.25"
-       y1="69.125"
-       x2="136.75"
-       y2="56.125" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient2778"
-       id="linearGradient60015"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-45.2784,0)"
-       x1="136.25"
-       y1="69.125"
-       x2="136.75"
-       y2="56.125" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient2778"
-       id="linearGradient60017"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-65.876972,0)"
-       x1="136.25"
-       y1="69.125"
-       x2="136.75"
-       y2="56.125" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient2778"
-       id="linearGradient60019"
-       gradientUnits="userSpaceOnUse"
-       x1="136.25"
-       y1="69.125"
-       x2="136.75"
-       y2="56.125" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient2314"
-       id="radialGradient60021"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(4.9833633,0,0,2.9313902,-315.68154,-144.4444)"
-       cx="79.25"
-       cy="73.946426"
-       fx="79.25"
-       fy="73.946426"
-       r="4.25" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient2314"
-       id="radialGradient60023"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(4.9833633,0,0,2.9313902,-315.68154,-144.4444)"
-       cx="79.25"
-       cy="73.946426"
-       fx="79.25"
-       fy="73.946426"
-       r="4.25" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient2314"
-       id="radialGradient60025"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.0343179,0,0,1.1966576,-81.969695,-16.167125)"
-       cx="79.25"
-       cy="73.946426"
-       fx="79.25"
-       fy="73.946426"
-       r="4.25" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient2314"
-       id="radialGradient60027"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(4.9833633,0,0,2.9313902,-315.68154,-144.4444)"
-       cx="79.25"
-       cy="73.946426"
-       fx="79.25"
-       fy="73.946426"
-       r="4.25" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient2314"
-       id="radialGradient60029"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(4.9833633,0,0,2.9313902,-315.68154,-144.4444)"
-       cx="79.25"
-       cy="73.946426"
-       fx="79.25"
-       fy="73.946426"
-       r="4.25" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient2314"
-       id="radialGradient60031"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(4.9833633,0,0,2.9313902,-315.68154,-144.4444)"
-       cx="79.25"
-       cy="73.946426"
-       fx="79.25"
-       fy="73.946426"
-       r="4.25" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient2314"
-       id="radialGradient60033"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(4.9833633,0,0,2.9313902,-315.68154,-144.4444)"
-       cx="79.25"
-       cy="73.946426"
-       fx="79.25"
-       fy="73.946426"
-       r="4.25" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient2314"
-       id="radialGradient60035"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(4.9833633,0,0,2.9313902,-315.68154,-144.4444)"
-       cx="79.25"
-       cy="73.946426"
-       fx="79.25"
-       fy="73.946426"
-       r="4.25" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient2314"
-       id="radialGradient60037"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(4.9833633,0,0,2.9313902,-315.68154,-144.4444)"
-       cx="79.25"
-       cy="73.946426"
-       fx="79.25"
-       fy="73.946426"
-       r="4.25" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient2314"
-       id="radialGradient60039"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(4.9833633,0,0,2.9313902,-315.68154,-144.4444)"
-       cx="79.25"
-       cy="73.946426"
-       fx="79.25"
-       fy="73.946426"
-       r="4.25" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient2514"
-       id="radialGradient60053"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(4.9535959,0.09558682,-0.1792925,9.2914736,-518.12545,-185.26363)"
-       cx="135.323"
-       cy="20.937555"
-       fx="135.323"
-       fy="20.937555"
-       r="4.5487531" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient2551"
-       id="radialGradient60055"
-       gradientUnits="userSpaceOnUse"
-       cx="120.625"
-       cy="48.25"
-       fx="120.625"
-       fy="48.25"
-       r="3" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient11866"
-       id="linearGradient60057"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1,0,-0.09129439,1,6.4880155,0)"
-       x1="115.875"
-       y1="71.735504"
-       x2="116.12797"
-       y2="61.992752" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient11897"
-       id="linearGradient60059"
-       gradientUnits="userSpaceOnUse"
-       x1="197.25963"
-       y1="66.081268"
-       x2="197.25963"
-       y2="48.463104" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient2527"
-       id="radialGradient7745"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(-0.5787934,-1.9481728,-3.0875019,0.7339127,322.98691,-226.47725)"
-       cx="-110.02866"
-       cy="85.706482"
-       fx="-110.02866"
-       fy="85.706482"
-       r="4.9694943" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient2563"
-       id="radialGradient7747"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1,0,0,1.9680969,0,-52.325227)"
-       cx="129.76097"
-       cy="56.971184"
-       fx="129.76097"
-       fy="56.971184"
-       r="6.1638479" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3078"
-       id="radialGradient7749"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(4.9651781,-0.03163525,0.06353698,9.5673407,-524.77704,-173.82354)"
-       cx="135.323"
-       cy="20.937555"
-       fx="135.323"
-       fy="20.937555"
-       r="4.5487531" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient2551"
-       id="radialGradient7751"
-       gradientUnits="userSpaceOnUse"
-       cx="120.625"
-       cy="48.25"
-       fx="120.625"
-       fy="48.25"
-       r="3" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3228"
-       id="linearGradient7753"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1,0,-0.09129439,1,6.4880155,0)"
-       x1="115.875"
-       y1="71.117752"
-       x2="117.89574"
-       y2="50.893509" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient11816"
-       id="linearGradient7755"
-       gradientUnits="userSpaceOnUse"
-       x1="121.5"
-       y1="37.645859"
-       x2="116.375"
-       y2="23.49086" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient2527"
-       id="radialGradient7757"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(-0.5787934,-1.9481728,-3.0875019,0.7339127,322.98691,-226.47725)"
-       cx="-110.02866"
-       cy="85.706482"
-       fx="-110.02866"
-       fy="85.706482"
-       r="4.9694943" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient2563"
-       id="radialGradient7759"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1,0,0,1.9680969,0,-52.325227)"
-       cx="129.76097"
-       cy="56.971184"
-       fx="129.76097"
-       fy="56.971184"
-       r="6.1638479" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3078"
-       id="radialGradient7761"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(4.9651781,-0.03163525,0.06353698,9.5673407,-524.77704,-173.82354)"
-       cx="135.323"
-       cy="20.937555"
-       fx="135.323"
-       fy="20.937555"
-       r="4.5487531" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient2551"
-       id="radialGradient7763"
-       gradientUnits="userSpaceOnUse"
-       cx="120.625"
-       cy="48.25"
-       fx="120.625"
-       fy="48.25"
-       r="3" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3228"
-       id="linearGradient7765"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1,0,-0.09129439,1,6.4880155,0)"
-       x1="115.875"
-       y1="71.117752"
-       x2="117.89574"
-       y2="50.893509" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient11816"
-       id="linearGradient7767"
-       gradientUnits="userSpaceOnUse"
-       x1="121.5"
-       y1="37.645859"
-       x2="116.375"
-       y2="23.49086" />
     <filter
        inkscape:collect="always"
        id="filter8545">
@@ -6579,26 +6183,27 @@
       <text
          id="context"
          inkscape:label="context"
-         style="font-size:18.30070686px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="31.87059"
          xml:space="preserve"
          y="-13.139694"><tspan
            id="tspan2716"
            sodipodi:role="line"
            x="31.87059"
-           y="-13.139694">apps</tspan></text>
+           y="-13.139694"
+           style="font-size:18.30070686px;line-height:1.25">apps</tspan></text>
       <text
          id="icon-name"
          inkscape:label="icon-name"
-         sodipodi:linespacing="125%"
-         style="font-size:18.30070686px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="202.87057"
          xml:space="preserve"
          y="-13.139694"><tspan
            id="tspan3023"
            sodipodi:role="line"
            x="202.87057"
-           y="-13.139694">accessories-text-editor</tspan></text>
+           y="-13.139694"
+           style="font-size:18.30070686px;line-height:1.25">accessories-text-editor</tspan></text>
       <path
          style="opacity:0.29455285;fill:#729fcf;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          d="m 20.0625,20 0,238 0,18 237.9375,0 18,0 0.0625,0 0,-18 -0.0625,0 0,-238 -18,0 0,238 -219.9375,0 0,-238 -18,0 z"
@@ -8365,7 +7970,7 @@
              style="color:#000000;fill:#fdd498;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new" />
           <path
              style="opacity:0.21844662;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
-             d="m -288.25376,125.49248 3.75,2.75 -40.75,0.375 37,-3.125"
+             d="m -288.25376,125.49248 3.75,2.75 -40.75,0.375 z"
              id="path3019"
              inkscape:path-effect="#path-effect2422"
              inkscape:original-d="m -288.25376,125.49248 3.75,2.75 -40.75,0.375 37,-3.125 z" />
@@ -8373,7 +7978,7 @@
              inkscape:original-d="m -289.50376,124.49248 1.875,1.125 138.5,0 0,-0.5 -0.75,-0.75 -139.625,0.125 z"
              inkscape:path-effect="#path-effect2424"
              id="path4091"
-             d="m -289.50376,124.49248 1.875,1.125 138.5,0 0,-0.5 -0.75,-0.75 -139.625,0.125"
+             d="m -289.50376,124.49248 1.875,1.125 h 138.5 v -0.5 l -0.75,-0.75 z"
              style="opacity:0.46601939;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new" />
           <path
              style="color:#000000;fill:url(#radialGradient2494);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
@@ -8489,7 +8094,7 @@
           <path
              sodipodi:type="inkscape:offset"
              inkscape:radius="0"
-             inkscape:original="M -247.75 127.59375 C -248.76864 127.59375 -249.4375 128.37187 -249.4375 129.3125 C -249.4375 130.25772 -248.76864 131.03125 -247.75 131.03125 C -246.73595 131.03125 -246.0625 130.25772 -246.0625 129.3125 C -246.0625 128.37187 -246.73595 127.59375 -247.75 127.59375 z M -253.28125 127.65625 C -254.08423 127.65625 -254.375 128.20001 -254.375 128.5625 C -254.375 128.75522 -254.36336 129.06931 -253.96875 129.3125 C -253.49155 129.61075 -252.78125 129.56695 -252.78125 130.0625 C -252.78125 130.4204 -253.11718 130.59375 -253.40625 130.59375 C -253.6632 130.59375 -253.93315 130.49319 -254.09375 130.25 L -254.46875 130.5625 C -254.24392 130.8791 -253.84587 131.03125 -253.4375 131.03125 C -252.78594 131.03125 -252.3125 130.60568 -252.3125 130 C -252.3125 129.78893 -252.3425 129.49232 -252.71875 129.28125 C -253.18677 129.01971 -253.90625 129.1177 -253.90625 128.5625 C -253.90625 128.37896 -253.79057 128.0625 -253.28125 128.0625 C -252.93712 128.0625 -252.75174 128.25198 -252.6875 128.34375 L -252.34375 128.03125 C -252.49517 127.8523 -252.73064 127.65625 -253.28125 127.65625 z M -230.78125 127.65625 C -231.58423 127.65625 -231.875 128.20001 -231.875 128.5625 C -231.875 128.75522 -231.86336 129.06931 -231.46875 129.3125 C -230.99155 129.61075 -230.28125 129.56695 -230.28125 130.0625 C -230.28125 130.4204 -230.61718 130.59375 -230.90625 130.59375 C -231.1632 130.59375 -231.43315 130.49319 -231.59375 130.25 L -231.96875 130.5625 C -231.74392 130.8791 -231.34587 131.03125 -230.9375 131.03125 C -230.28594 131.03125 -229.8125 130.60568 -229.8125 130 C -229.8125 129.78893 -229.8425 129.49232 -230.21875 129.28125 C -230.68677 129.01971 -231.40625 129.1177 -231.40625 128.5625 C -231.40625 128.37896 -231.29057 128.0625 -230.78125 128.0625 C -230.43712 128.0625 -230.25174 128.25198 -230.1875 128.34375 L -229.84375 128.03125 C -229.99517 127.8523 -230.23064 127.65625 -230.78125 127.65625 z M -210.4375 127.65625 C -211.45614 127.65625 -212.15625 128.37187 -212.15625 129.3125 C -212.15625 130.23478 -211.50748 131.03125 -210.40625 131.03125 C -210.00247 131.03125 -209.49951 130.91147 -209.1875 130.71875 L -209.1875 129.125 L -210.34375 129.125 L -210.34375 129.53125 L -209.625 129.53125 L -209.625 130.4375 C -209.90031 130.59351 -210.25024 130.59375 -210.40625 130.59375 C -211.14958 130.59375 -211.6875 130.0283 -211.6875 129.3125 C -211.6875 128.5967 -211.17624 128.0625 -210.4375 128.0625 C -209.90065 128.0625 -209.65886 128.31907 -209.5625 128.40625 L -209.25 128.0625 C -209.57119 127.73672 -209.96948 127.65625 -210.4375 127.65625 z M -252.15625 127.6875 L -252.15625 128.09375 L -251.09375 128.09375 L -251.09375 130.9375 L -250.65625 130.9375 L -250.65625 128.09375 L -249.625 128.09375 L -249.625 127.6875 L -252.15625 127.6875 z M -245.53125 127.6875 L -245.53125 130.9375 L -245.09375 130.9375 L -245.09375 129.5 L -244.375 129.5 C -243.54449 129.5 -243.34375 129.00212 -243.34375 128.59375 C -243.34375 128.18997 -243.54449 127.6875 -244.375 127.6875 L -245.53125 127.6875 z M -241.3125 127.6875 L -241.3125 130.9375 L -240.21875 130.9375 C -239.58095 130.9375 -239.0625 130.6094 -239.0625 130.03125 C -239.0625 129.55864 -239.40128 129.24169 -239.75 129.21875 C -239.48846 129.13157 -239.1875 128.93131 -239.1875 128.5 C -239.1875 127.93103 -239.65983 127.6875 -240.1875 127.6875 L -241.3125 127.6875 z M -238.65625 127.6875 L -238.65625 130.9375 L -238.21875 130.9375 L -238.21875 127.6875 L -238.65625 127.6875 z M -237.40625 127.6875 L -237.40625 130.9375 L -236.96875 130.9375 L -236.96875 129.3125 L -236.9375 129.3125 L -235.4375 130.9375 L -234.78125 130.9375 L -236.46875 129.1875 L -234.90625 127.6875 L -235.5 127.6875 L -236.9375 129.09375 L -236.96875 129.09375 L -236.96875 127.6875 L -237.40625 127.6875 z M -234.40625 127.6875 L -234.40625 130.9375 L -232.21875 130.9375 L -232.21875 130.53125 L -233.96875 130.53125 L -233.96875 129.46875 L -232.4375 129.46875 L -232.4375 129.0625 L -233.96875 129.0625 L -233.96875 128.09375 L -232.3125 128.09375 L -232.3125 127.6875 L -234.40625 127.6875 z M -229.28125 127.6875 L -229.28125 130.9375 L -228.84375 130.9375 L -228.84375 129.4375 L -227.15625 129.4375 L -227.15625 130.9375 L -226.71875 130.9375 L -226.71875 127.6875 L -227.15625 127.6875 L -227.15625 129.03125 L -228.84375 129.03125 L -228.84375 127.6875 L -229.28125 127.6875 z M -226 127.6875 L -226 130.9375 L -223.8125 130.9375 L -223.8125 130.53125 L -225.5625 130.53125 L -225.5625 129.46875 L -224 129.46875 L -224 129.0625 L -225.5625 129.0625 L -225.5625 128.09375 L -223.90625 128.09375 L -223.90625 127.6875 L -226 127.6875 z M -223.375 127.6875 L -223.375 130.9375 L -222.3125 130.9375 C -221.21586 130.9375 -220.53125 130.20266 -220.53125 129.3125 C -220.53125 128.71141 -220.8468 127.6875 -222.21875 127.6875 L -223.375 127.6875 z M -220.09375 127.6875 L -220.09375 130.9375 L -219.03125 130.9375 C -217.93461 130.9375 -217.25 130.20266 -217.25 129.3125 C -217.25 128.71141 -217.56555 127.6875 -218.9375 127.6875 L -220.09375 127.6875 z M -216.71875 127.6875 L -216.71875 130.9375 L -216.28125 130.9375 L -216.28125 127.6875 L -216.71875 127.6875 z M -215.5 127.6875 L -215.5 130.9375 L -215.0625 130.9375 L -215.0625 128.28125 L -215.03125 128.28125 L -213.21875 130.9375 L -212.6875 130.9375 L -212.6875 127.6875 L -213.125 127.6875 L -213.125 130.34375 L -214.90625 127.6875 L -215.5 127.6875 z M -247.75 128.03125 C -247.01585 128.03125 -246.5 128.5967 -246.5 129.3125 C -246.5 130.03289 -247.01585 130.59375 -247.75 130.59375 C -248.48874 130.59375 -248.96875 130.03289 -248.96875 129.3125 C -248.96875 128.5967 -248.48874 128.03125 -247.75 128.03125 z M -245.09375 128.0625 L -244.5 128.0625 C -243.97233 128.0625 -243.8125 128.28174 -243.8125 128.59375 C -243.8125 128.91035 -243.97233 129.125 -244.5 129.125 L -245.09375 129.125 L -245.09375 128.0625 z M -240.875 128.0625 L -240.1875 128.0625 C -239.75619 128.0625 -239.65625 128.39732 -239.65625 128.5625 C -239.65625 128.91581 -239.94629 129.03125 -240.28125 129.03125 L -240.875 129.03125 L -240.875 128.0625 z M -222.90625 128.09375 L -222.25 128.09375 C -221.23595 128.09375 -221 128.85365 -221 129.3125 C -221 130.12924 -221.64085 130.53125 -222.375 130.53125 L -222.90625 130.53125 L -222.90625 128.09375 z M -219.625 128.09375 L -218.96875 128.09375 C -217.9547 128.09375 -217.71875 128.85365 -217.71875 129.3125 C -217.71875 130.12924 -218.3596 130.53125 -219.09375 130.53125 L -219.625 130.53125 L -219.625 128.09375 z M -240.875 129.4375 L -240.21875 129.4375 C -239.89756 129.4375 -239.53125 129.54115 -239.53125 130 C -239.53125 130.44049 -239.9205 130.5625 -240.21875 130.5625 L -240.875 130.5625 L -240.875 129.4375 z "
+             inkscape:original="M -253.14648 127.53125 C -253.51243 127.53125 -253.80066 127.61683 -254.00977 127.78711 C -254.21738 127.95738 -254.32031 128.19059 -254.32031 128.48633 C -254.32031 128.74174 -254.24461 128.9406 -254.09375 129.08398 C -253.94289 129.22737 -253.69889 129.33318 -253.36133 129.40039 L -253.08594 129.45312 C -252.85592 129.49943 -252.68992 129.5695 -252.58984 129.66211 C -252.48828 129.75471 -252.4375 129.88257 -252.4375 130.04688 C -252.4375 130.23507 -252.50804 130.38085 -252.64844 130.48242 C -252.78884 130.58399 -252.98965 130.63477 -253.24805 130.63477 C -253.41832 130.63477 -253.59133 130.60892 -253.76758 130.55664 C -253.94383 130.50436 -254.12292 130.42728 -254.30664 130.32422 L -254.30664 130.78906 C -254.11545 130.85926 -253.93165 130.91337 -253.75391 130.94922 C -253.57467 130.98507 -253.40637 131.00195 -253.24805 131.00195 C -252.82833 131.00195 -252.50955 130.91924 -252.29297 130.75195 C -252.0749 130.58467 -251.96484 130.33779 -251.96484 130.01367 C -251.96484 129.74183 -252.04572 129.52655 -252.20703 129.36523 C -252.36685 129.20243 -252.61556 129.08766 -252.95312 129.02344 L -253.22656 128.96875 C -253.47451 128.92245 -253.64476 128.86179 -253.73438 128.78711 C -253.8225 128.71093 -253.86523 128.59904 -253.86523 128.45117 C -253.86523 128.27492 -253.79895 128.13856 -253.66602 128.04297 C -253.53159 127.94738 -253.34215 127.89844 -253.0957 127.89844 C -252.95381 127.89844 -252.80665 127.91866 -252.6543 127.95898 C -252.50195 127.99931 -252.33974 128.06043 -252.16797 128.14258 L -252.16797 127.70117 C -252.33824 127.64441 -252.50321 127.6026 -252.66602 127.57422 C -252.82882 127.54584 -252.98965 127.53125 -253.14648 127.53125 z M -247.09766 127.53125 C -247.56815 127.53125 -247.94426 127.68875 -248.22656 128.00391 C -248.50737 128.31757 -248.64844 128.73883 -248.64844 129.26758 C -248.64844 129.79633 -248.50737 130.21759 -248.22656 130.53125 C -247.94426 130.84491 -247.56815 131.00195 -247.09766 131.00195 C -246.62865 131.00195 -246.25346 130.84491 -245.97266 130.53125 C -245.69185 130.21609 -245.55078 129.79483 -245.55078 129.26758 C -245.55078 128.73883 -245.69185 128.31757 -245.97266 128.00391 C -246.25346 127.68875 -246.62865 127.53125 -247.09766 127.53125 z M -229.17383 127.53125 C -229.53977 127.53125 -229.82605 127.61683 -230.03516 127.78711 C -230.24277 127.95738 -230.34766 128.19059 -230.34766 128.48633 C -230.34766 128.74174 -230.27195 128.9406 -230.12109 129.08398 C -229.97024 129.22737 -229.72623 129.33318 -229.38867 129.40039 L -229.11328 129.45312 C -228.88326 129.49943 -228.71726 129.5695 -228.61719 129.66211 C -228.51562 129.75471 -228.46484 129.88257 -228.46484 130.04688 C -228.46484 130.23507 -228.53538 130.38085 -228.67578 130.48242 C -228.81618 130.58399 -229.01504 130.63477 -229.27344 130.63477 C -229.44371 130.63477 -229.61867 130.60892 -229.79492 130.55664 C -229.97117 130.50436 -230.15027 130.42728 -230.33398 130.32422 L -230.33398 130.78906 C -230.1428 130.85926 -229.95899 130.91337 -229.78125 130.94922 C -229.60201 130.98507 -229.43176 131.00195 -229.27344 131.00195 C -228.85372 131.00195 -228.53689 130.91924 -228.32031 130.75195 C -228.10224 130.58467 -227.99219 130.33779 -227.99219 130.01367 C -227.99219 129.74183 -228.07306 129.52655 -228.23438 129.36523 C -228.39419 129.20243 -228.64291 129.08766 -228.98047 129.02344 L -229.25391 128.96875 C -229.50185 128.92245 -229.67015 128.86179 -229.75977 128.78711 C -229.84789 128.71093 -229.89258 128.59904 -229.89258 128.45117 C -229.89258 128.27492 -229.82629 128.13856 -229.69336 128.04297 C -229.55893 127.94738 -229.36754 127.89844 -229.12109 127.89844 C -228.9792 127.89844 -228.83204 127.91866 -228.67969 127.95898 C -228.52734 127.99931 -228.36708 128.06043 -228.19531 128.14258 L -228.19531 127.70117 C -228.36559 127.64441 -228.53055 127.6026 -228.69336 127.57422 C -228.85617 127.54584 -229.017 127.53125 -229.17383 127.53125 z M -207.60938 127.53125 C -208.13215 127.53125 -208.5402 127.68404 -208.83594 127.99023 C -209.13018 128.29494 -209.27734 128.72091 -209.27734 129.26758 C -209.27734 129.81276 -209.13018 130.23873 -208.83594 130.54492 C -208.5402 130.84962 -208.13215 131.00195 -207.60938 131.00195 C -207.37039 131.00195 -207.14615 130.97094 -206.93555 130.9082 C -206.72494 130.84398 -206.53218 130.74897 -206.35742 130.625 L -206.35742 129.18945 L -207.54492 129.18945 L -207.54492 129.5625 L -206.80469 129.5625 L -206.80469 130.46094 C -206.90476 130.51919 -207.01711 130.56146 -207.14258 130.58984 C -207.26804 130.61673 -207.41049 130.63086 -207.57031 130.63086 C -207.97957 130.63086 -208.28802 130.51564 -208.49414 130.28711 C -208.69877 130.05858 -208.80078 129.71866 -208.80078 129.26758 C -208.80078 128.81501 -208.69877 128.47462 -208.49414 128.24609 C -208.28802 128.01757 -207.97957 127.9043 -207.57031 127.9043 C -207.3627 127.9043 -207.16476 127.94002 -206.97656 128.01172 C -206.78836 128.08341 -206.61065 128.19014 -206.44336 128.33203 L -206.44336 127.84961 C -206.60915 127.74505 -206.79112 127.66705 -206.98828 127.61328 C -207.18395 127.55951 -207.3913 127.53125 -207.60938 127.53125 z M -251.72461 127.5918 L -251.72461 127.97266 L -250.53711 127.97266 L -250.53711 130.9375 L -250.08203 130.9375 L -250.08203 127.97266 L -248.89453 127.97266 L -248.89453 127.5918 L -251.72461 127.5918 z M -244.84375 127.5918 L -244.84375 130.9375 L -244.39062 130.9375 L -244.39062 129.59375 L -243.82227 129.59375 C -243.44736 129.59375 -243.16384 129.50862 -242.97266 129.33984 C -242.77998 129.17106 -242.68359 128.92189 -242.68359 128.5918 C -242.68359 128.26469 -242.77998 128.01644 -242.97266 127.84766 C -243.16384 127.67738 -243.44736 127.5918 -243.82227 127.5918 L -244.84375 127.5918 z M -240.61328 127.5918 L -240.61328 130.9375 L -239.41211 130.9375 C -239.03721 130.9375 -238.74806 130.85617 -238.54492 130.69336 C -238.34179 130.53055 -238.24023 130.29873 -238.24023 130 C -238.24023 129.77297 -238.30181 129.58445 -238.42578 129.43359 C -238.54826 129.28124 -238.72081 129.18061 -238.94336 129.13281 C -238.75815 129.10294 -238.61903 129.02919 -238.52344 128.9082 C -238.42784 128.78722 -238.37891 128.6226 -238.37891 128.41797 C -238.37891 128.15359 -238.47345 127.95003 -238.66016 127.80664 C -238.84686 127.66325 -239.112 127.5918 -239.45703 127.5918 L -240.61328 127.5918 z M -237.4668 127.5918 L -237.4668 130.9375 L -237.01562 130.9375 L -237.01562 127.5918 L -237.4668 127.5918 z M -236.11523 127.5918 L -236.11523 130.9375 L -235.66211 130.9375 L -235.66211 129.32617 L -234.05469 130.9375 L -233.45898 130.9375 L -235.23828 129.15234 L -233.57812 127.5918 L -234.16016 127.5918 L -235.66211 129.00586 L -235.66211 127.5918 L -236.11523 127.5918 z M -233.10352 127.5918 L -233.10352 130.9375 L -230.94727 130.9375 L -230.94727 130.55664 L -232.65039 130.55664 L -232.65039 129.34375 L -231.05859 129.34375 L -231.05859 128.96289 L -232.65039 128.96289 L -232.65039 127.97266 L -230.98828 127.97266 L -230.98828 127.5918 L -233.10352 127.5918 z M -227.28711 127.5918 L -227.28711 130.9375 L -226.83398 130.9375 L -226.83398 129.34375 L -225.18945 129.34375 L -225.18945 130.9375 L -224.73828 130.9375 L -224.73828 127.5918 L -225.18945 127.5918 L -225.18945 128.96289 L -226.83398 128.96289 L -226.83398 127.5918 L -227.28711 127.5918 z M -223.83594 127.5918 L -223.83594 130.9375 L -221.68164 130.9375 L -221.68164 130.55664 L -223.38477 130.55664 L -223.38477 129.34375 L -221.79102 129.34375 L -221.79102 128.96289 L -223.38477 128.96289 L -223.38477 127.97266 L -221.72266 127.97266 L -221.72266 127.5918 L -223.83594 127.5918 z M -220.93359 127.5918 L -220.93359 130.9375 L -220.00391 130.9375 C -219.35865 130.9375 -218.88283 130.8016 -218.57812 130.53125 C -218.27342 130.2609 -218.12109 129.83826 -218.12109 129.26172 C -218.12109 128.68816 -218.27296 128.2669 -218.57617 127.99805 C -218.87938 127.7277 -219.35567 127.5918 -220.00391 127.5918 L -220.93359 127.5918 z M -217.40234 127.5918 L -217.40234 130.9375 L -216.47266 130.9375 C -215.8274 130.9375 -215.35158 130.8016 -215.04688 130.53125 C -214.74217 130.2609 -214.58984 129.83826 -214.58984 129.26172 C -214.58984 128.68816 -214.74171 128.2669 -215.04492 127.99805 C -215.34813 127.7277 -215.82442 127.5918 -216.47266 127.5918 L -217.40234 127.5918 z M -213.87109 127.5918 L -213.87109 130.9375 L -213.41797 130.9375 L -213.41797 127.5918 L -213.87109 127.5918 z M -212.51758 127.5918 L -212.51758 130.9375 L -212.07812 130.9375 L -212.07812 128.13867 L -210.5957 130.9375 L -209.98633 130.9375 L -209.98633 127.5918 L -210.42578 127.5918 L -210.42578 130.39062 L -211.9082 127.5918 L -212.51758 127.5918 z M -247.09766 127.89844 C -246.76906 127.89844 -246.50955 128.02067 -246.31836 128.26562 C -246.12568 128.51058 -246.0293 128.84488 -246.0293 129.26758 C -246.0293 129.68878 -246.12568 130.02262 -246.31836 130.26758 C -246.50955 130.51253 -246.76906 130.63477 -247.09766 130.63477 C -247.42626 130.63477 -247.68669 130.51253 -247.88086 130.26758 C -248.07354 130.02262 -248.16992 129.68878 -248.16992 129.26758 C -248.16992 128.84488 -248.07354 128.51058 -247.88086 128.26562 C -247.68669 128.02067 -247.42626 127.89844 -247.09766 127.89844 z M -244.39062 127.96484 L -243.82227 127.96484 C -243.61166 127.96484 -243.44899 128.01792 -243.33398 128.12695 C -243.21897 128.23599 -243.16016 128.39165 -243.16016 128.5918 C -243.16016 128.79344 -243.21897 128.9476 -243.33398 129.05664 C -243.44899 129.16568 -243.61166 129.2207 -243.82227 129.2207 L -244.39062 129.2207 L -244.39062 127.96484 z M -240.16016 127.96484 L -239.49023 127.96484 C -239.26918 127.96484 -239.10559 128.0062 -238.99805 128.08984 C -238.88901 128.17349 -238.83398 128.29997 -238.83398 128.46875 C -238.83398 128.63902 -238.88901 128.76597 -238.99805 128.84961 C -239.10559 128.93176 -239.26918 128.97266 -239.49023 128.97266 L -240.16016 128.97266 L -240.16016 127.96484 z M -220.48047 127.96484 L -219.93359 127.96484 C -219.47206 127.96484 -219.13547 128.06823 -218.92188 128.27734 C -218.70679 128.48496 -218.59766 128.81363 -218.59766 129.26172 C -218.59766 129.7128 -218.70679 130.04284 -218.92188 130.25195 C -219.13547 130.46106 -219.47206 130.56445 -219.93359 130.56445 L -220.48047 130.56445 L -220.48047 127.96484 z M -216.94922 127.96484 L -216.40234 127.96484 C -215.94081 127.96484 -215.60422 128.06823 -215.39062 128.27734 C -215.17554 128.48496 -215.06836 128.81363 -215.06836 129.26172 C -215.06836 129.7128 -215.17554 130.04284 -215.39062 130.25195 C -215.60422 130.46106 -215.94081 130.56445 -216.40234 130.56445 L -216.94922 130.56445 L -216.94922 127.96484 z M -240.16016 129.33984 L -239.43555 129.33984 C -239.19208 129.33984 -239.01104 129.39016 -238.89453 129.49023 C -238.77653 129.58881 -238.71875 129.74206 -238.71875 129.95117 C -238.71875 130.15879 -238.77653 130.31445 -238.89453 130.41602 C -239.01104 130.51609 -239.19208 130.56445 -239.43555 130.56445 L -240.16016 130.56445 L -240.16016 129.33984 z "
              xlink:href="#text6369"
              style="font-size:4.58845854px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;opacity:0.47572817;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new;font-family:RaveIn;-inkscape-font-specification:RaveIn"
              id="path6883"
@@ -8498,15 +8103,15 @@
              transform="translate(0,0.23317791)" />
           <text
              xml:space="preserve"
-             style="font-size:4.58845854px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#7f4109;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new;font-family:RaveIn;-inkscape-font-specification:RaveIn"
+             style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:RaveIn;-inkscape-font-specification:RaveIn;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#7f4109;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:new"
              x="-254.62286"
              y="130.93718"
-             id="text6369"
-             sodipodi:linespacing="125%"><tspan
+             id="text6369"><tspan
                sodipodi:role="line"
                id="tspan6371"
                x="-254.62286"
-               y="130.93718">STOP BIKESHEDDING</tspan></text>
+               y="130.93718"
+               style="font-size:4.58845901px;line-height:1.25">STOP BIKESHEDDING</tspan></text>
           <path
              style="opacity:0.3;color:#000000;fill:none;stroke:url(#radialGradient2546);stroke-width:1;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter1290);enable-background:new"
              d="m 345.75,20 c 9.12719,8.666667 9.11896,24.833333 0,34.25"
@@ -8635,28 +8240,26 @@
              inkscape:connector-curvature="0" />
           <text
              xml:space="preserve"
-             style="font-size:105.25997162px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;opacity:0.33495148;color:#000000;fill:#729fcf;fill-opacity:1;fill-rule:nonzero;stroke:#ef2929;stroke-width:0.91537362;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new;font-family:RaveIn;-inkscape-font-specification:RaveIn"
+             style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:RaveIn;-inkscape-font-specification:RaveIn;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:0.33495148;fill:#729fcf;fill-opacity:1;fill-rule:nonzero;stroke:#ef2929;stroke-width:0.91537362;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:new"
              x="474"
              y="-8"
-             id="text1013"
-             sodipodi:linespacing="125%"><tspan
+             id="text1013"><tspan
                sodipodi:role="line"
                id="tspan1015"
                x="474"
                y="-8"
-               style="stroke-width:0.91537362">This </tspan></text>
+               style="font-size:105.25997162px;line-height:1.25;stroke-width:0.91537362">This </tspan></text>
           <text
              xml:space="preserve"
-             style="font-size:105.25997162px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;opacity:0.33495148;color:#000000;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:#ef2929;stroke-width:0.91537362;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new;font-family:RaveIn;-inkscape-font-specification:RaveIn"
+             style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:RaveIn;-inkscape-font-specification:RaveIn;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:0.33495148;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:#ef2929;stroke-width:0.91537362;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:new"
              x="434"
              y="36"
-             id="text1017"
-             sodipodi:linespacing="125%"><tspan
+             id="text1017"><tspan
                sodipodi:role="line"
                id="tspan1019"
                x="434"
                y="36"
-               style="font-size:12px;fill:#950000;fill-opacity:1;stroke:none" /></text>
+               style="font-size:12px;line-height:1.25;fill:#950000;fill-opacity:1;stroke:none"> </tspan></text>
         </g>
         <path
            transform="matrix(1.0662065,0,0,1.1260348,-1.9669225,-27.322874)"

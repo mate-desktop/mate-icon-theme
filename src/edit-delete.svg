@@ -17,7 +17,7 @@
    height="300"
    id="svg11300"
    sodipodi:version="0.32"
-   inkscape:version="0.47 r22583"
+   inkscape:version="0.92.4 (unknown)"
    sodipodi:docname="edit-delete.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.0"
@@ -888,11 +888,13 @@
     <inkscape:grid
        type="xygrid"
        id="grid5883"
-       spacingx="1px"
-       spacingy="1px"
+       spacingx="1"
+       spacingy="1"
        enabled="true"
        visible="true"
-       empspacing="4" />
+       empspacing="4"
+       originx="0"
+       originy="0" />
   </sodipodi:namedview>
   <metadata
      id="metadata4">
@@ -998,19 +1000,19 @@
          inkscape:label="256x256" />
       <text
          xml:space="preserve"
-         style="font-size:18.30070686px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="277.97076"
          y="20.286121"
          id="text3029"
-         inkscape:label="icon-name"
-         sodipodi:linespacing="125%"><tspan
+         inkscape:label="icon-name"><tspan
            sodipodi:role="line"
            id="tspan3031"
            x="277.97076"
-           y="20.286121">edit-delete</tspan></text>
+           y="20.286121"
+           style="font-size:18.30070686px;line-height:1.25">edit-delete</tspan></text>
       <text
          xml:space="preserve"
-         style="font-size:18.30070686px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="20.970737"
          y="20.286121"
          id="text3003"
@@ -1018,7 +1020,8 @@
            sodipodi:role="line"
            id="tspan3005"
            x="20.970737"
-           y="20.286121">actions</tspan></text>
+           y="20.286121"
+           style="font-size:18.30070686px;line-height:1.25">actions</tspan></text>
     </g>
     <g
        style="display:inline;enable-background:new"

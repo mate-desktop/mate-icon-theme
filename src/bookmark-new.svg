@@ -16,7 +16,7 @@
    inkscape:export-xdpi="90.000000"
    inkscape:export-ydpi="90.000000"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
-   inkscape:version="0.47 r22583"
+   inkscape:version="0.92.4 (unknown)"
    sodipodi:docname="bookmark-new.svg"
    sodipodi:version="0.32"
    style="display:inline;enable-background:new"
@@ -91,11 +91,13 @@
        empspacing="2"
        enabled="true"
        id="grid5883"
-       spacingx="0.5px"
-       spacingy="0.5px"
+       spacingx="0.5"
+       spacingy="0.5"
        type="xygrid"
        visible="true"
-       snapvisiblegridlinesonly="true" />
+       snapvisiblegridlinesonly="true"
+       originx="0"
+       originy="0" />
   </sodipodi:namedview>
   <defs
      id="defs3">
@@ -452,80 +454,6 @@
        gradientUnits="userSpaceOnUse" />
     <radialGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient6557"
-       id="radialGradient6563"
-       cx="311.46875"
-       cy="828.53125"
-       fx="311.46875"
-       fy="828.53125"
-       r="3.28125"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       id="linearGradient6557">
-      <stop
-         style="stop-color:#fce94f;stop-opacity:1;"
-         offset="0"
-         id="stop6559" />
-      <stop
-         id="stop6565"
-         offset="0.67301035"
-         style="stop-color:#fce94f;stop-opacity:1" />
-      <stop
-         style="stop-color:#fce94f;stop-opacity:0;"
-         offset="1"
-         id="stop6561" />
-    </linearGradient>
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient6620"
-       id="radialGradient6618"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.4568049,-1.0676476,1.020526,1.3927904,-978.41153,10.883447)"
-       cx="310.5553"
-       cy="818.49078"
-       fx="310.5553"
-       fy="818.49078"
-       r="5.2188725" />
-    <linearGradient
-       id="linearGradient6620">
-      <stop
-         id="stop6622"
-         offset="0"
-         style="stop-color:#ffffff;stop-opacity:1" />
-      <stop
-         style="stop-color:#ffffff;stop-opacity:1"
-         offset="0.32992947"
-         id="stop6624" />
-      <stop
-         id="stop6626"
-         offset="1"
-         style="stop-color:#fce94f;stop-opacity:1" />
-    </linearGradient>
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient6628"
-       id="radialGradient6634"
-       cx="309.36545"
-       cy="816.90698"
-       fx="309.36545"
-       fy="816.90698"
-       r="5.2188735"
-       gradientTransform="matrix(2.3368166,-1.7125851,1.5904448,2.1724707,-1714.5967,-426.00779)"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient6628">
-      <stop
-         style="stop-color:#edd400;stop-opacity:1"
-         offset="0"
-         id="stop6630" />
-      <stop
-         style="stop-color:#c4a000;stop-opacity:1"
-         offset="1"
-         id="stop6632" />
-    </linearGradient>
-    <radialGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient6557-8"
        id="radialGradient6563-9"
        cx="311.46875"
@@ -799,16 +727,6 @@
        y2="50.467327"
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(1.625,0)" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient2378"
-       id="radialGradient6804"
-       gradientUnits="userSpaceOnUse"
-       cx="38.658855"
-       cy="9.3411446"
-       fx="38.658855"
-       fy="9.3411446"
-       r="8.341651" />
     <linearGradient
        id="linearGradient2378">
       <stop
@@ -932,53 +850,6 @@
        x2="319.94974"
        y2="135.10524"
        gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       id="linearGradient3715-2-3-2-4">
-      <stop
-         style="stop-color:#f57900;stop-opacity:1"
-         offset="0"
-         id="stop3717-0-2-8-1" />
-      <stop
-         id="stop3723-4-3-5-8"
-         offset="0.73210251"
-         style="stop-color:#fedfb2;stop-opacity:1" />
-      <stop
-         style="stop-color:#fcaf3e;stop-opacity:1"
-         offset="1"
-         id="stop3719-2-6-0-2" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient3705-3-8-8-2">
-      <stop
-         style="stop-color:#fcaf3e;stop-opacity:1"
-         offset="0"
-         id="stop3707-0-1-6-8" />
-      <stop
-         style="stop-color:#ce5c00;stop-opacity:1"
-         offset="1"
-         id="stop3709-4-4-4-6" />
-    </linearGradient>
-    <linearGradient
-       y2="219.10001"
-       x2="310.5"
-       y1="230.80156"
-       x1="310.5"
-       gradientTransform="matrix(0.99999982,0,0,1.8125001,8.00006,-271.34378)"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient4515"
-       xlink:href="#linearGradient3715-2-3-2-4"
-       inkscape:collect="always" />
-    <linearGradient
-       y2="224.44022"
-       x2="310.5"
-       y1="218.01794"
-       x1="310.5"
-       gradientTransform="matrix(0.99999982,0,0,1.8125001,8.00006,-271.34378)"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient4517"
-       xlink:href="#linearGradient3705-3-8-8-2"
-       inkscape:collect="always" />
   </defs>
   <g
      id="layer6"
@@ -1029,26 +900,27 @@
     <text
        id="context"
        inkscape:label="context"
-       style="font-size:18.30070686px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
        x="20.970737"
        xml:space="preserve"
        y="21.513618"><tspan
          id="tspan2716"
          sodipodi:role="line"
          x="20.970737"
-         y="21.513618">actions</tspan></text>
+         y="21.513618"
+         style="font-size:18.30070686px;line-height:1.25">actions</tspan></text>
     <text
        id="icon-name"
        inkscape:label="icon-name"
-       sodipodi:linespacing="125%"
-       style="font-size:18.30070686px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
        x="191.97073"
        xml:space="preserve"
        y="21.513618"><tspan
          id="tspan3023"
          sodipodi:role="line"
          x="191.97073"
-         y="21.513618">bookmark-new</tspan></text>
+         y="21.513618"
+         style="font-size:18.30070686px;line-height:1.25">bookmark-new</tspan></text>
   </g>
   <g
      id="layer2"

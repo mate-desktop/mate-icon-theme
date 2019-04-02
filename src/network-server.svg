@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -16,7 +17,7 @@
    height="300"
    id="svg11300"
    sodipodi:version="0.32"
-   inkscape:version="0.46"
+   inkscape:version="0.92.4 (unknown)"
    sodipodi:docname="network-server.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.0"
@@ -25,37 +26,6 @@
      id="title10372">Available Software Updates</title>
   <defs
      id="defs3">
-    <inkscape:perspective
-       sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="0 : 150 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_z="400 : 150 : 1"
-       inkscape:persp3d-origin="200 : 100 : 1"
-       id="perspective1897" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient12508">
-      <stop
-         style="stop-color:#888a85;stop-opacity:1"
-         offset="0"
-         id="stop12510" />
-      <stop
-         style="stop-color:#2e3436;stop-opacity:1"
-         offset="1"
-         id="stop12512" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient12500">
-      <stop
-         style="stop-color:#555753;stop-opacity:1"
-         offset="0"
-         id="stop12502" />
-      <stop
-         style="stop-color:#000000;stop-opacity:1"
-         offset="1"
-         id="stop12504" />
-    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient10234">
@@ -1006,17 +976,6 @@
        y1="68.875"
        x2="181.5"
        y2="78.6875" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient14815"
-       id="radialGradient9815"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.5752656,-0.4220912,0.9841475,3.6728862,-306.72307,-508.80815)"
-       cx="154.06824"
-       cy="223.0777"
-       fx="154.06824"
-       fy="223.0777"
-       r="44" />
     <radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient14825"
@@ -6081,28 +6040,6 @@
        fx="154.06824"
        fy="223.0777"
        r="44" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient12500"
-       id="radialGradient12506"
-       cx="-32"
-       cy="220.06671"
-       fx="-32"
-       fy="220.06671"
-       r="48"
-       gradientTransform="matrix(1.7741474,0,0,4.1769921,24.772717,-677.99331)"
-       gradientUnits="userSpaceOnUse" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient12508"
-       id="radialGradient12514"
-       cx="-32"
-       cy="220.44295"
-       fx="-32"
-       fy="220.44295"
-       r="48"
-       gradientTransform="matrix(1,0,0,3.8802083,0,-616.36458)"
-       gradientUnits="userSpaceOnUse" />
     <filter
        inkscape:collect="always"
        id="filter12585">
@@ -6111,50 +6048,6 @@
          stdDeviation="2.4"
          id="feGaussianBlur12587" />
     </filter>
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient12500"
-       id="radialGradient12614"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.7741474,0,0,4.1769921,24.772717,-677.99331)"
-       cx="-32"
-       cy="220.06671"
-       fx="-32"
-       fy="220.06671"
-       r="48" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient12508"
-       id="radialGradient12638"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1,0,0,3.8802083,0,-616.36458)"
-       cx="-32"
-       cy="220.44295"
-       fx="-32"
-       fy="220.44295"
-       r="48" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient12500"
-       id="radialGradient13983"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.7741474,0,0,4.1769921,24.772717,-677.99331)"
-       cx="-32"
-       cy="220.06671"
-       fx="-32"
-       fy="220.06671"
-       r="48" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient12508"
-       id="radialGradient14007"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1,0,0,3.8802083,0,-616.36458)"
-       cx="-32"
-       cy="220.44295"
-       fx="-32"
-       fy="220.44295"
-       r="48" />
     <radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient10234"
@@ -8540,7 +8433,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="177.67787"
+     inkscape:cx="179.67787"
      inkscape:cy="243.09506"
      inkscape:current-layer="g12853"
      showgrid="false"
@@ -8564,12 +8457,14 @@
     <inkscape:grid
        type="xygrid"
        id="grid5883"
-       spacingx="0.5px"
-       spacingy="0.5px"
+       spacingx="0.5"
+       spacingy="0.5"
        enabled="false"
        visible="true"
        empspacing="2"
-       snapvisiblegridlinesonly="true" />
+       snapvisiblegridlinesonly="true"
+       originx="0"
+       originy="0" />
     <inkscape:grid
        type="xygrid"
        id="grid8013"
@@ -8686,7 +8581,7 @@
          inkscape:export-ydpi="90" />
       <text
          xml:space="preserve"
-         style="font-size:18.30070686px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="20.970737"
          y="21.513618"
          id="context"
@@ -8694,19 +8589,20 @@
            sodipodi:role="line"
            id="tspan2716"
            x="20.970737"
-           y="21.513618">places</tspan></text>
+           y="21.513618"
+           style="font-size:18.30070686px;line-height:1.25">places</tspan></text>
       <text
          inkscape:label="icon-name"
          id="text3021"
          y="21.513618"
          x="153.97073"
-         style="font-size:18.30070686px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
-         xml:space="preserve"
-         sodipodi:linespacing="125%"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
+         xml:space="preserve"><tspan
            y="21.513618"
            x="153.97073"
            id="tspan3023"
-           sodipodi:role="line">network-server</tspan></text>
+           sodipodi:role="line"
+           style="font-size:18.30070686px;line-height:1.25">network-server</tspan></text>
       <g
          id="g3266"
          transform="matrix(1,0,-0.8,0.8,71.2,17.8)" />
@@ -14879,13 +14775,12 @@
            style="opacity:1;fill:#204a87;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:new" />
         <text
            transform="scale(1.0134592,0.9867196)"
-           sodipodi:linespacing="125%"
            id="text9980"
            y="79.996422"
            x="182.29443"
-           style="font-size:5.47642326px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:url(#radialGradient9990);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial Black;-inkscape-font-specification:Arial Black"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:url(#radialGradient9990);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            xml:space="preserve"><tspan
-             style="fill:url(#radialGradient9990);fill-opacity:1"
+             style="font-size:5.47642279px;line-height:1.25;fill:url(#radialGradient9990);fill-opacity:1"
              y="79.996422"
              x="182.29443"
              id="tspan9982"

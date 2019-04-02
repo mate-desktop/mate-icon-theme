@@ -16,7 +16,7 @@
    inkscape:export-xdpi="90.000000"
    inkscape:export-ydpi="90.000000"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
-   inkscape:version="0.48.1 r9760"
+   inkscape:version="0.92.4 (unknown)"
    sodipodi:docname="input-dialpad.svg"
    sodipodi:version="0.32"
    style="display:inline;enable-background:new"
@@ -43,7 +43,7 @@
      height="300px"
      id="base"
      inkscape:current-layer="layer3"
-     inkscape:cx="209.73374"
+     inkscape:cx="211.73374"
      inkscape:cy="120.64146"
      inkscape:document-units="px"
      inkscape:grid-bbox="true"
@@ -52,10 +52,10 @@
      inkscape:showpageshadow="false"
      inkscape:snap-bbox="true"
      inkscape:snap-nodes="false"
-     inkscape:window-height="1023"
-     inkscape:window-width="1920"
+     inkscape:window-height="966"
+     inkscape:window-width="1680"
      inkscape:window-x="0"
-     inkscape:window-y="26"
+     inkscape:window-y="25"
      inkscape:zoom="1"
      objecttolerance="7"
      pagecolor="#ffffff"
@@ -68,12 +68,14 @@
     <inkscape:grid
        enabled="true"
        id="grid5883"
-       spacingx="1px"
-       spacingy="1px"
+       spacingx="1"
+       spacingy="1"
        type="xygrid"
        visible="true"
        empspacing="4"
-       snapvisiblegridlinesonly="true" />
+       snapvisiblegridlinesonly="true"
+       originx="0"
+       originy="0" />
   </sodipodi:namedview>
   <defs
      id="defs3">
@@ -1974,26 +1976,27 @@
       <text
          id="context"
          inkscape:label="context"
-         style="font-size:18.30070686px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="20.970737"
          xml:space="preserve"
          y="21.513618"><tspan
            id="tspan2716"
            sodipodi:role="line"
            x="20.970737"
-           y="21.513618">devices</tspan></text>
+           y="21.513618"
+           style="font-size:18.30070686px;line-height:1.25">devices</tspan></text>
       <text
          id="icon-name"
          inkscape:label="icon-name"
-         sodipodi:linespacing="125%"
-         style="font-size:18.30070686px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="185.47073"
          xml:space="preserve"
          y="21.513618"><tspan
            id="tspan3023"
            sodipodi:role="line"
            x="185.47073"
-           y="21.513618">input-dialpad</tspan></text>
+           y="21.513618"
+           style="font-size:18.30070686px;line-height:1.25">input-dialpad</tspan></text>
       <rect
          y="36"
          x="16"
@@ -3077,7 +3080,7 @@
            style="opacity:0.3" />
         <path
            style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;opacity:0.28806584"
-           d="m 303.48139,178.53231 3.97748,0"
+           d="m 303.48139,178.53231 h 3.97748"
            id="path16562"
            inkscape:path-effect="#path-effect16564"
            inkscape:original-d="m 303.48139,178.53231 3.97748,0"
@@ -3194,7 +3197,7 @@
            inkscape:original-d="m 303.48139,178.53231 3.97748,0"
            inkscape:path-effect="#path-effect16564"
            id="path16574"
-           d="m 303.48139,178.53231 3.97748,0"
+           d="m 303.48139,178.53231 h 3.97748"
            style="opacity:0.28806589;fill:none;stroke:#ffffff;stroke-width:1.61426377px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
       </g>
       <use

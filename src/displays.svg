@@ -17,7 +17,7 @@
    height="600"
    id="svg11300"
    sodipodi:version="0.32"
-   inkscape:version="0.48.1 r9760"
+   inkscape:version="0.92.4 (unknown)"
    sodipodi:docname="displays.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.0"
@@ -34,7 +34,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="636.37234"
+     inkscape:cx="638.37234"
      inkscape:cy="379.64345"
      inkscape:current-layer="layer20"
      showgrid="false"
@@ -42,9 +42,9 @@
      inkscape:document-units="px"
      inkscape:showpageshadow="false"
      inkscape:window-width="1516"
-     inkscape:window-height="983"
+     inkscape:window-height="963"
      inkscape:window-x="75"
-     inkscape:window-y="29"
+     inkscape:window-y="25"
      width="400px"
      height="300px"
      inkscape:snap-nodes="false"
@@ -59,21 +59,25 @@
     <inkscape:grid
        visible="true"
        enabled="true"
-       spacingy="1px"
-       spacingx="1px"
+       spacingy="1"
+       spacingx="1"
        id="grid5883"
        type="xygrid"
        empspacing="4"
-       snapvisiblegridlinesonly="true" />
+       snapvisiblegridlinesonly="true"
+       originx="0"
+       originy="0" />
     <inkscape:grid
        type="xygrid"
        id="grid9682"
        visible="true"
        enabled="false"
        empspacing="2"
-       spacingx="0.5px"
-       spacingy="0.5px"
-       snapvisiblegridlinesonly="true" />
+       spacingx="0.5"
+       spacingy="0.5"
+       snapvisiblegridlinesonly="true"
+       originx="0"
+       originy="0" />
   </sodipodi:namedview>
   <defs
      id="defs3">
@@ -7568,16 +7572,16 @@ K. Vishnoo Charan Reddy</dc:title>
          id="context"
          y="-278.58636"
          x="20.970737"
-         style="font-size:18.30070686px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          xml:space="preserve"><tspan
            y="-278.58636"
            x="20.970737"
            id="tspan2716"
-           sodipodi:role="line">devices</tspan></text>
+           sodipodi:role="line"
+           style="font-size:18.30070686px;line-height:1.25">devices</tspan></text>
       <text
-         sodipodi:linespacing="125%"
          xml:space="preserve"
-         style="font-size:18.30070686px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="191.97073"
          y="-278.58636"
          id="text3021"
@@ -7585,7 +7589,8 @@ K. Vishnoo Charan Reddy</dc:title>
            sodipodi:role="line"
            id="tspan3023"
            x="191.97073"
-           y="-278.58636">video-display</tspan></text>
+           y="-278.58636"
+           style="font-size:18.30070686px;line-height:1.25">video-display</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
@@ -8428,16 +8433,16 @@ K. Vishnoo Charan Reddy</dc:title>
          id="context-0"
          y="321.41364"
          x="20.970737"
-         style="font-size:18.30070686px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          xml:space="preserve"><tspan
            y="321.41364"
            x="20.970737"
            id="tspan2716-8"
-           sodipodi:role="line">apps</tspan></text>
+           sodipodi:role="line"
+           style="font-size:18.30070686px;line-height:1.25">apps</tspan></text>
       <text
-         sodipodi:linespacing="125%"
          xml:space="preserve"
-         style="font-size:18.30070686px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="81.970734"
          y="321.41364"
          id="text3021-2"
@@ -8445,7 +8450,8 @@ K. Vishnoo Charan Reddy</dc:title>
            sodipodi:role="line"
            id="tspan3023-3"
            x="81.970734"
-           y="321.41364">preferences-desktop-display</tspan></text>
+           y="321.41364"
+           style="font-size:18.30070686px;line-height:1.25">preferences-desktop-display</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
@@ -9253,9 +9259,9 @@ K. Vishnoo Charan Reddy</dc:title>
                id="text12948"
                y="-1204.048"
                x="1187.3527"
-               style="font-size:8.47572803px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;fill-opacity:1;stroke:none"
                xml:space="preserve"><tspan
-                 style="font-size:4.23786402px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:Courier New;-inkscape-font-specification:Courier New Bold"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23786402px;line-height:1.25;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';fill:#ffffff"
                  y="-1204.048"
                  x="1187.3527"
                  id="tspan12950"
@@ -9454,9 +9460,9 @@ K. Vishnoo Charan Reddy</dc:title>
                id="text12856"
                y="-1204.048"
                x="1187.3527"
-               style="font-size:8.47572803px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1;stroke:none"
                xml:space="preserve"><tspan
-                 style="font-size:4.23786402px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Courier New;-inkscape-font-specification:Courier New Bold"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23786402px;line-height:1.25;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold'"
                  y="-1204.048"
                  x="1187.3527"
                  id="tspan12858"
@@ -9564,16 +9570,16 @@ K. Vishnoo Charan Reddy</dc:title>
          id="text8641"
          y="-278.58636"
          x="420.97073"
-         style="font-size:18.30070686px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          xml:space="preserve"><tspan
            y="-278.58636"
            x="420.97073"
            id="tspan8643"
-           sodipodi:role="line">apps</tspan></text>
+           sodipodi:role="line"
+           style="font-size:18.30070686px;line-height:1.25">apps</tspan></text>
       <text
-         sodipodi:linespacing="125%"
          xml:space="preserve"
-         style="font-size:17.80428123px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="485.2149"
          y="-271.02945"
          id="text8645"
@@ -9582,7 +9588,8 @@ K. Vishnoo Charan Reddy</dc:title>
            sodipodi:role="line"
            id="tspan8647"
            x="485.2149"
-           y="-271.02945">preferences-desktop-screensaver</tspan></text>
+           y="-271.02945"
+           style="font-size:17.80428123px;line-height:1.25">preferences-desktop-screensaver</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
@@ -11134,16 +11141,16 @@ K. Vishnoo Charan Reddy</dc:title>
          id="text3107"
          y="21.513618"
          x="420.97052"
-         style="font-size:18.30070686px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          xml:space="preserve"><tspan
            y="21.513618"
            x="420.97052"
            id="tspan3109"
-           sodipodi:role="line">actions</tspan></text>
+           sodipodi:role="line"
+           style="font-size:18.30070686px;line-height:1.25">actions</tspan></text>
       <text
-         sodipodi:linespacing="125%"
          xml:space="preserve"
-         style="font-size:17.80428123px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="618.83917"
          y="20.93004"
          id="text3111"
@@ -11152,7 +11159,8 @@ K. Vishnoo Charan Reddy</dc:title>
            sodipodi:role="line"
            id="tspan3113"
            x="618.83917"
-           y="20.93004">system-lock-screen</tspan></text>
+           y="20.93004"
+           style="font-size:17.80428123px;line-height:1.25">system-lock-screen</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
@@ -12197,16 +12205,16 @@ K. Vishnoo Charan Reddy</dc:title>
          id="context-3"
          y="21.413637"
          x="820.97076"
-         style="font-size:18.30070686px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          xml:space="preserve"><tspan
            y="21.413637"
            x="820.97076"
            id="tspan2716-5"
-           sodipodi:role="line">apps</tspan></text>
+           sodipodi:role="line"
+           style="font-size:18.30070686px;line-height:1.25">apps</tspan></text>
       <text
-         sodipodi:linespacing="125%"
          xml:space="preserve"
-         style="font-size:18.30070686px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="991.9707"
          y="21.413637"
          id="text3021-5"
@@ -12214,7 +12222,8 @@ K. Vishnoo Charan Reddy</dc:title>
            sodipodi:role="line"
            id="tspan3023-6"
            x="991.9707"
-           y="21.413637">preferences-desktop-wallpaper</tspan></text>
+           y="21.413637"
+           style="font-size:18.30070686px;line-height:1.25">preferences-desktop-wallpaper</tspan></text>
       <rect
          inkscape:label="256x256"
          y="28"
@@ -13169,16 +13178,16 @@ K. Vishnoo Charan Reddy</dc:title>
          id="context-3-6"
          y="321.41364"
          x="820.97076"
-         style="font-size:18.30070686px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          xml:space="preserve"><tspan
            y="321.41364"
            x="820.97076"
            id="tspan2716-5-3"
-           sodipodi:role="line">apps</tspan></text>
+           sodipodi:role="line"
+           style="font-size:18.30070686px;line-height:1.25">apps</tspan></text>
       <text
-         sodipodi:linespacing="125%"
          xml:space="preserve"
-         style="font-size:18.30070686px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="991.9707"
          y="321.41364"
          id="text3021-5-5"
@@ -13186,7 +13195,8 @@ K. Vishnoo Charan Reddy</dc:title>
            sodipodi:role="line"
            id="tspan3023-6-0"
            x="991.9707"
-           y="321.41364">preferences-desktop-remote-desktop</tspan></text>
+           y="321.41364"
+           style="font-size:18.30070686px;line-height:1.25">preferences-desktop-remote-desktop</tspan></text>
       <rect
          inkscape:label="256x256"
          y="328"
