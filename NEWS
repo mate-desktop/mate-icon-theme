@@ -1,5 +1,12 @@
 ### mate-icon-theme 1.23.0
 
+  * Translations update
+  * Display the volume status with a better contrast in panels
+  * Upgrade svg source files to Inkscape 0.92.4
+  * Gen png icons from source - Mate theme
+  * Gen png icons from source. Mate: apps, categories & devices
+  * Update terminal icons for mate theme
+
 ### mate-icon-theme 1.22.0
 
   * Translations update
