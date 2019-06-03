@@ -2,7 +2,7 @@
 Name=Menta
 Comment=Menta Theme
 Inherits=mate
-Example=start-here
+Example=folder
 
 # KDE Specific Stuff
 DisplayDepth=32
