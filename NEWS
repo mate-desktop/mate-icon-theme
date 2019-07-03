@@ -1,5 +1,11 @@
 ### mate-icon-theme 1.23.1
 
+  * tx: sync with transifex
+  * add missing preferences-system-time icon
+  * Change url project's website
+  * use folder icon as example
+  * rename mate logo
+
 ### mate-icon-theme 1.23.0
 
   * Translations update
