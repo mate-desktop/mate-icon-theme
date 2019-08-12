@@ -6,6 +6,7 @@ DIST_SUBDIRS = \
 	categories \
 	devices \
 	emblems \
+	mimetypes \
 	places \
 	status \
 	$(NULL)
@@ -16,6 +17,7 @@ SUBDIRS = \
 	categories \
 	devices \
 	emblems \
+	mimetypes \
 	places \
 	status \
 	$(NULL)
