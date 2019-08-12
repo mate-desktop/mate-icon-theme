@@ -71,6 +71,7 @@ mate/16x16/apps/Makefile
 mate/16x16/categories/Makefile
 mate/16x16/devices/Makefile
 mate/16x16/emblems/Makefile
+mate/16x16/mimetypes/Makefile
 mate/16x16/places/Makefile
 mate/16x16/status/Makefile
 mate/22x22/Makefile
@@ -79,6 +80,7 @@ mate/22x22/apps/Makefile
 mate/22x22/categories/Makefile
 mate/22x22/devices/Makefile
 mate/22x22/emblems/Makefile
+mate/22x22/mimetypes/Makefile
 mate/22x22/places/Makefile
 mate/22x22/status/Makefile
 mate/24x24/Makefile
@@ -87,6 +89,7 @@ mate/24x24/apps/Makefile
 mate/24x24/categories/Makefile
 mate/24x24/devices/Makefile
 mate/24x24/emblems/Makefile
+mate/24x24/mimetypes/Makefile
 mate/24x24/places/Makefile
 mate/24x24/status/Makefile
 mate/32x32/Makefile
@@ -95,6 +98,7 @@ mate/32x32/apps/Makefile
 mate/32x32/categories/Makefile
 mate/32x32/devices/Makefile
 mate/32x32/emblems/Makefile
+mate/32x32/mimetypes/Makefile
 mate/32x32/places/Makefile
 mate/32x32/status/Makefile
 mate/48x48/Makefile
@@ -103,6 +107,7 @@ mate/48x48/apps/Makefile
 mate/48x48/categories/Makefile
 mate/48x48/devices/Makefile
 mate/48x48/emblems/Makefile
+mate/48x48/mimetypes/Makefile
 mate/48x48/places/Makefile
 mate/48x48/status/Makefile
 mate/256x256/Makefile
@@ -111,6 +116,7 @@ mate/256x256/apps/Makefile
 mate/256x256/categories/Makefile
 mate/256x256/devices/Makefile
 mate/256x256/emblems/Makefile
+mate/256x256/mimetypes/Makefile
 mate/256x256/places/Makefile
 mate/256x256/status/Makefile
 mate/scalable/Makefile
