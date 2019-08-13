@@ -22,7 +22,6 @@ png_icons = \
 	preferences-system-privacy.png \
 	preferences-system-search.png \
 	preferences-system-sharing.png \
-	preferences-system-time.png \
 	preferences-system-windows.png \
 	system-file-manager.png \
 	system-software-install.png \
