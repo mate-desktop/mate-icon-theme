@@ -8,82 +8,82 @@ png_icons = \
 
 folder-documents.png: ../../../src/folders.svg
 	@echo "  "$@
-	@inkscape -z $^ --export-area=703:142:735:174 -w=24 -h=24 -e=$@ 1> /dev/null
+	@inkscape -z $^ --export-area=702:100:726:124 -w=24 -h=24 -e=$@ 1> /dev/null
 	@mogrify -quiet -strip $@
 
 folder-download.png: ../../../src/folders.svg
 	@echo "  "$@
-	@inkscape -z $^ --export-area=703:442:735:474 -w=24 -h=24 -e=$@ 1> /dev/null
+	@inkscape -z $^ --export-area=702:400:726:424 -w=24 -h=24 -e=$@ 1> /dev/null
 	@mogrify -quiet -strip $@
 
 folder-music.png: ../../../src/folders.svg
 	@echo "  "$@
-	@inkscape -z $^ --export-area=1103:442:1135:474 -w=24 -h=24 -e=$@ 1> /dev/null
+	@inkscape -z $^ --export-area=1102:400:1126:424 -w=24 -h=24 -e=$@ 1> /dev/null
 	@mogrify -quiet -strip $@
 
 folder-pictures.png: ../../../src/folders.svg
 	@echo "  "$@
-	@inkscape -z $^ --export-area=303:142:335:174 -w=24 -h=24 -e=$@ 1> /dev/null
+	@inkscape -z $^ --export-area=302:100:326:124 -w=24 -h=24 -e=$@ 1> /dev/null
 	@mogrify -quiet -strip $@
 
 folder.png: ../../../src/folders.svg
 	@echo "  "$@
-	@inkscape -z $^ --export-area=303:1042:335:1074 -w=24 -h=24 -e=$@ 1> /dev/null
+	@inkscape -z $^ --export-area=1202:100:1226:124 -w=24 -h=24 -e=$@ 1> /dev/null
 	@mogrify -quiet -strip $@
 
 folder-publicshare.png: ../../../src/folders.svg
 	@echo "  "$@
-	@inkscape -z $^ --export-area=1503:142:1535:174 -w=24 -h=24 -e=$@ 1> /dev/null
+	@inkscape -z $^ --export-area=1502:100:1526:124 -w=24 -h=24 -e=$@ 1> /dev/null
 	@mogrify -quiet -strip $@
 
 folder-remote.png: ../../../src/folders.svg
 	@echo "  "$@
-	@inkscape -z $^ --export-area=1103:742:1135:774 -w=24 -h=24 -e=$@ 1> /dev/null
+	@inkscape -z $^ --export-area=1102:700:1126:724 -w=24 -h=24 -e=$@ 1> /dev/null
 	@mogrify -quiet -strip $@
 
 folder-saved-search.png: ../../../src/folders.svg
 	@echo "  "$@
-	@inkscape -z $^ --export-area=703:742:735:774 -w=24 -h=24 -e=$@ 1> /dev/null
+	@inkscape -z $^ --export-area=702:700:726:724 -w=24 -h=24 -e=$@ 1> /dev/null
 	@mogrify -quiet -strip $@
 
 folder-templates.png: ../../../src/folders.svg
 	@echo "  "$@
-	@inkscape -z $^ --export-area=1103:142:1135:174 -w=24 -h=24 -e=$@ 1> /dev/null
+	@inkscape -z $^ --export-area=1102:100:1126:124 -w=24 -h=24 -e=$@ 1> /dev/null
 	@mogrify -quiet -strip $@
 
 folder-videos.png: ../../../src/folders.svg
 	@echo "  "$@
-	@inkscape -z $^ --export-area=1503:442:1535:474 -w=24 -h=24 -e=$@ 1> /dev/null
+	@inkscape -z $^ --export-area=1502:400:1526:424 -w=24 -h=24 -e=$@ 1> /dev/null
 	@mogrify -quiet -strip $@
 
 network-server.png: ../../../src/network-server.svg
 	@echo "  "$@
-	@inkscape -z $^ --export-area=303:142:335:174 -w=24 -h=24 -e=$@ 1> /dev/null
+	@inkscape -z $^ --export-area=302:100:326:124 -w=24 -h=24 -e=$@ 1> /dev/null
 	@mogrify -quiet -strip $@
 
 network-workgroup.png: ../../../src/computers.svg
 	@echo "  "$@
-	@inkscape -z $^ --export-area=703:442:735:474 -w=24 -h=24 -e=$@ 1> /dev/null
+	@inkscape -z $^ --export-area=702:400:726:424 -w=24 -h=24 -e=$@ 1> /dev/null
 	@mogrify -quiet -strip $@
 
 user-bookmarks.png: ../../../src/folders.svg
 	@echo "  "$@
-	@inkscape -z $^ --export-area=1903:142:1935:174 -w=24 -h=24 -e=$@ 1> /dev/null
+	@inkscape -z $^ --export-area=1902:100:1926:124 -w=24 -h=24 -e=$@ 1> /dev/null
 	@mogrify -quiet -strip $@
 
 user-desktop.png: ../../../src/folders.svg
 	@echo "  "$@
-	@inkscape -z $^ --export-area=1903:442:1935:474 -w=24 -h=24 -e=$@ 1> /dev/null
+	@inkscape -z $^ --export-area=1902:400:1926:424 -w=24 -h=24 -e=$@ 1> /dev/null
 	@mogrify -quiet -strip $@
 
 user-home.png: ../../../src/folders.svg
 	@echo "  "$@
-	@inkscape -z $^ --export-area=303:442:335:474 -w=24 -h=24 -e=$@ 1> /dev/null
+	@inkscape -z $^ --export-area=302:400:326:424 -w=24 -h=24 -e=$@ 1> /dev/null
 	@mogrify -quiet -strip $@
 
 user-trash.png: ../../../src/trash.svg
 	@echo "  "$@
-	@inkscape -z $^ --export-area=702:142:734:174 -w=24 -h=24 -e=$@ 1> /dev/null
+	@inkscape -z $^ --export-area=702:100:726:124 -w=24 -h=24 -e=$@ 1> /dev/null
 	@mogrify -quiet -strip $@
 
 .PHONY: build-png-icons-local clean-png-icons-local
