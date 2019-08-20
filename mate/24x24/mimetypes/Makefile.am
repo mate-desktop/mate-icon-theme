@@ -17,62 +17,62 @@ png_icons = \
 
 font-x-generic.png: ../../../src/paper-sheets.svg
 	@echo "  "$@
-	@inkscape -z $^ --export-area=300:360:316:376 -w=24 -h=24 -e=$@ 1> /dev/null
+	@inkscape -z $^ --export-area=300:438:332:470 -w=24 -h=24 -e=$@ 1> /dev/null
 	@mogrify -quiet -strip $@
 
 text-html.png: ../../../src/paper-sheets.svg
 	@echo "  "$@
-	@inkscape -z $^ --export-area=300:964:316:980 -w=24 -h=24 -e=$@ 1> /dev/null
+	@inkscape -z $^ --export-area=300:1042:332:1074 -w=24 -h=24 -e=$@ 1> /dev/null
 	@mogrify -quiet -strip $@
 
 text-x-generic.png: ../../../src/paper-sheets.svg
 	@echo "  "$@
-	@inkscape -z $^ --export-area=700:964:716:980 -w=24 -h=24 -e=$@ 1> /dev/null
+	@inkscape -z $^ --export-area=700:1042:732:1074 -w=24 -h=24 -e=$@ 1> /dev/null
 	@mogrify -quiet -strip $@
 
 text-x-generic-template.png: ../../../src/paper-sheets.svg
 	@echo "  "$@
-	@inkscape -z $^ --export-area=1100:964:1116:980 -w=24 -h=24 -e=$@ 1> /dev/null
+	@inkscape -z $^ --export-area=1100:1042:1132:1074 -w=24 -h=24 -e=$@ 1> /dev/null
 	@mogrify -quiet -strip $@
 
 text-x-preview.png: ../../../src/paper-sheets.svg
 	@echo "  "$@
-	@inkscape -z $^ --export-area=1100:60:1116:76 -w=24 -h=24 -e=$@ 1> /dev/null
+	@inkscape -z $^ --export-area=1100:138:1132:170 -w=24 -h=24 -e=$@ 1> /dev/null
 	@mogrify -quiet -strip $@
 
 text-x-script.png: ../../../src/paper-sheets.svg
 	@echo "  "$@
-	@inkscape -z $^ --export-area=1500:964:1516:980 -w=24 -h=24 -e=$@ 1> /dev/null
+	@inkscape -z $^ --export-area=1500:1042:1532:1074 -w=24 -h=24 -e=$@ 1> /dev/null
 	@mogrify -quiet -strip $@
 
 x-office-document.png: ../../../src/paper-sheets.svg
 	@echo "  "$@
-	@inkscape -z $^ --export-area=1900:964:1916:980 -w=24 -h=24 -e=$@ 1> /dev/null
+	@inkscape -z $^ --export-area=1900:1042:1932:1074 -w=24 -h=24 -e=$@ 1> /dev/null
 	@mogrify -quiet -strip $@
 
 x-office-document-template.png: ../../../src/paper-sheets.svg
 	@echo "  "$@
-	@inkscape -z $^ --export-area=300:664:316:680 -w=24 -h=24 -e=$@ 1> /dev/null
+	@inkscape -z $^ --export-area=300:742:332:774 -w=24 -h=24 -e=$@ 1> /dev/null
 	@mogrify -quiet -strip $@
 
 x-office-drawing.png: ../../../src/paper-sheets.svg
 	@echo "  "$@
-	@inkscape -z $^ --export-area=700:664:716:680 -w=24 -h=24 -e=$@ 1> /dev/null
+	@inkscape -z $^ --export-area=700:742:732:774 -w=24 -h=24 -e=$@ 1> /dev/null
 	@mogrify -quiet -strip $@
 
 x-office-drawing-template.png: ../../../src/paper-sheets.svg
 	@echo "  "$@
-	@inkscape -z $^ --export-area=1100:664:1116:680 -w=24 -h=24 -e=$@ 1> /dev/null
+	@inkscape -z $^ --export-area=1100:742:1132:774 -w=24 -h=24 -e=$@ 1> /dev/null
 	@mogrify -quiet -strip $@
 
 x-office-spreadsheet.png: ../../../src/paper-sheets.svg
 	@echo "  "$@
-	@inkscape -z $^ --export-area=1500:660:1516:676 -w=24 -h=24 -e=$@ 1> /dev/null
+	@inkscape -z $^ --export-area=1500:738:1532:770 -w=24 -h=24 -e=$@ 1> /dev/null
 	@mogrify -quiet -strip $@
 
 x-office-spreadsheet-template.png: ../../../src/paper-sheets.svg
 	@echo "  "$@
-	@inkscape -z $^ --export-area=1900:660:1916:676 -w=24 -h=24 -e=$@ 1> /dev/null
+	@inkscape -z $^ --export-area=1900:738:1932:770 -w=24 -h=24 -e=$@ 1> /dev/null
 	@mogrify -quiet -strip $@
 
 .PHONY: build-png-icons-local clean-png-icons-local
