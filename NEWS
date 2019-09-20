@@ -1,3 +1,12 @@
+### mate-icon-theme 1.22.2
+
+  * Translations update
+  * Fix mate/22x22/devices/printer.png
+  * Upscale 22x22px icons to 24x24px adding 1px to the edges
+  * Gen png mimetypes icons from paper-sheets.svg - Mate theme
+  * use folder icon as example
+  * rename mate logo
+
 ### mate-icon-theme 1.22.1
 
   * Translations update
