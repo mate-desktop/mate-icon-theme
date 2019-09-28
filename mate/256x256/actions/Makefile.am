@@ -23,6 +23,7 @@ png_icons = \
 	go-next.png \
 	go-previous.png \
 	mail-message-new.png \
+	mail-send.png \
 	process-stop.png \
 	system-lock-screen.png \
 	system-log-out.png \
@@ -150,6 +151,11 @@ go-previous.png: ../../../src/navigation-icons.svg
 mail-message-new.png: ../../../src/open-envelopes.svg
 	@echo "  "$@
 	@inkscape -z $^ --export-area=20:13:276:269 -w=256 -h=256 -e=$@ 1> /dev/null
+	@mogrify -quiet -strip $@
+
+mail-send.png: ../../../src/mail-send.svg
+	@echo "  "$@
+	@inkscape -z $^ --export-area=10:10:266:266 -w=256 -h=256 -e=$@ 1> /dev/null
 	@mogrify -quiet -strip $@
 
 process-stop.png: ../../../src/navigation-icons.svg
