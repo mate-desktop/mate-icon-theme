@@ -1,6 +1,16 @@
+### mate-icon-theme 1.23.2
+
+  * Translations update
+  * Add mate/256x256/actions/mail-send.png
+  * Fix mate/22x22/devices/printer.png
+  * Upscale 22x22px icons to 24x24px adding 1px to the edges
+  * Gen png mimetypes icons from paper-sheets.svg - Mate theme
+  * preferences-system-time.png files are not generated from sources
+  * Use radial gradient (Blur 13.9%, Opacity 73.4%) for MATE logo shadow
+
 ### mate-icon-theme 1.23.1
 
-  * tx: sync with transifex
+  * Translations update
   * add missing preferences-system-time icon
   * Change url project's website
   * use folder icon as example
