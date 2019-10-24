@@ -76,7 +76,8 @@ THEME_DIRS=$(shell SIZES="$(render_sizes)"; for size in $$SIZES; do for dir in `
 		echo "" >> $@; \
 	done
 
-@INTLTOOL_THEME_RULE@
+%.theme: %.theme.in Makefile
+	$(AM_V_GEN) $(MSGFMT) --desktop --template $< -d $(top_srcdir)/po -o $@
 
 # we don't want to install mo files, all translations are already stored
 # in theme files
@@ -107,7 +108,6 @@ MAINTAINERCLEANFILES = \
 	configure \
 	depcomp \
 	install-sh \
-	intltool-*.in \
 	libtool \
 	ltmain.sh \
 	missing \

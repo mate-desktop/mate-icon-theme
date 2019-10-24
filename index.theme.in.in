@@ -1,6 +1,6 @@
 [Icon Theme]
-_Name=MATE
-_Comment=Default MATE Theme
+Name=MATE
+Comment=Default MATE Theme
 Example=folder
 
 # KDE Specific Stuff
