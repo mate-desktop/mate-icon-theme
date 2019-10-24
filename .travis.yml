@@ -50,11 +50,11 @@ requires:
   debian:
     # Useful URL: https://github.com/mate-desktop/debian-packages
     # Useful URL: https://salsa.debian.org/debian-mate-team/mate-icon-theme
+    - autopoint
     - git
     - icon-naming-utils
     - inkscape
     - imagemagick
-    - intltool
     - librsvg2-bin
     - make
     - mate-common
@@ -71,11 +71,11 @@ requires:
     - redhat-rpm-config
 
   ubuntu:
+    - autopoint
     - git
     - icon-naming-utils
     - imagemagick
     - inkscape
-    - intltool
     - librsvg2-bin
     - make
     - mate-common
