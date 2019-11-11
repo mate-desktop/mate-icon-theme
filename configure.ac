@@ -113,6 +113,12 @@ mate/48x48/emblems/Makefile
 mate/48x48/mimetypes/Makefile
 mate/48x48/places/Makefile
 mate/48x48/status/Makefile
+mate/64x64/Makefile
+mate/64x64/status/Makefile
+mate/96x96/Makefile
+mate/96x96/status/Makefile
+mate/128x128/Makefile
+mate/128x128/status/Makefile
 mate/256x256/Makefile
 mate/256x256/actions/Makefile
 mate/256x256/apps/Makefile
