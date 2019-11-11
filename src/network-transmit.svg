@@ -15,10 +15,21 @@
    sodipodi:version="0.32"
    inkscape:version="0.45"
    sodipodi:docbase="/home/dobey/Projects/gnome-icon-theme/scalable/status"
-   sodipodi:docname="network-idle.svg"
+   sodipodi:docname="network-transmit.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape">
   <defs
      id="defs3">
+    <linearGradient
+       id="linearGradient3116">
+      <stop
+         id="stop3118"
+         offset="0"
+         style="stop-color:#729fcf;stop-opacity:1" />
+      <stop
+         id="stop3120"
+         offset="1"
+         style="stop-color:#3465a4;stop-opacity:1" />
+    </linearGradient>
     <linearGradient
        id="linearGradient7670">
       <stop
@@ -669,7 +680,7 @@
        cy="32.997028"
        cx="24.006104"
        id="radialGradient5239"
-       xlink:href="#linearGradient7670"
+       xlink:href="#linearGradient3116"
        inkscape:collect="always" />
     <linearGradient
        gradientTransform="matrix(0.648248,0,0,0.644253,0.433189,-0.740991)"
@@ -1338,9 +1349,9 @@
      borderopacity="1"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="47.587693"
-     inkscape:cy="-3.0466105"
+     inkscape:zoom="5.6568542"
+     inkscape:cx="36.902717"
+     inkscape:cy="35.909253"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:grid-bbox="true"
@@ -2021,7 +2032,7 @@
            sodipodi:nodetypes="ccccc"
            id="path5373"
            d="M 4.0984042,4.0204313 L 4.0984042,15.748091 C 15.025941,14.866132 19.115514,9.1623492 28,8.5664313 L 28,4 L 4.0984042,4.0204313 z "
-           style="opacity:0.5;fill:url(#linearGradient6246);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
+           style="opacity:0.75;fill:url(#linearGradient6246);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
         <path
            sodipodi:nodetypes="cccsccscccc"
            id="path5375"
