@@ -28,6 +28,11 @@ png_icons = \
 	dialog-password.png \
 	dialog-question.png \
 	dialog-warning.png \
+	dropboxstatus-busy2.png \
+	dropboxstatus-busy.png \
+	dropboxstatus-idle.png \
+	dropboxstatus-logo.png \
+	dropboxstatus-x.png \
 	image-loading.png \
 	image-missing.png \
 	mail-attachment.png \

@@ -1,6 +1,11 @@
 NULL =
 
 png_icons = \
+	dropboxstatus-busy2.png \
+	dropboxstatus-busy.png \
+	dropboxstatus-idle.png \
+	dropboxstatus-logo.png \
+	dropboxstatus-x.png \
 	network-error.png \
 	network-idle.png \
 	network-offline.png \
