@@ -1,3 +1,16 @@
+### mate-icon-theme 1.23.3
+
+  * Translations update
+  * add status icons for mobile network connections
+  * rework volume-status icons
+  * add vpn network status icons
+  * update network status icons
+  * add network svg icons
+  * add dropbox-status icons
+  * re-generate network-wired icons from new SVGs
+  * add 2 svg sources for nm-applet
+  * migrate from intltool to gettext
+
 ### mate-icon-theme 1.23.2
 
   * Translations update
