@@ -1,7 +1,7 @@
 dnl Process this file with autoconf to produce a configure script.
 AC_PREREQ(2.53)
 
-AC_INIT([mate-icon-theme], [1.23.3], [https://mate-desktop.org])
+AC_INIT([mate-icon-theme], [1.24.0], [https://mate-desktop.org])
 AC_CONFIG_SRCDIR([index.theme.in.in])
 AM_EXTRA_RECURSIVE_TARGETS([clean-png-icons build-png-icons])
 
