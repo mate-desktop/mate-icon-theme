@@ -9,6 +9,7 @@ requires:
     - icon-naming-utils
     - imagemagick
     - inkscape
+    - intltool
     - make
     - mate-common
     - which
