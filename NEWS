@@ -1,3 +1,9 @@
+### mate-icon-theme 1.26.0
+
+  * Translations update
+  * Remove the execution bit from some png files
+  * Remove USE_MATE2_MACROS from autogen.sh (legacy)
+
 ### mate-icon-theme 1.24.0
 
   * bump version
