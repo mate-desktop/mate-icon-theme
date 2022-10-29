@@ -5,9 +5,9 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: mate-icon-theme 1.23.2\n"
+"Project-Id-Version: mate-icon-theme 1.26.0\n"
 "Report-Msgid-Bugs-To: https://mate-desktop.org\n"
-"POT-Creation-Date: 2019-11-20 17:12+0100\n"
+"POT-Creation-Date: 2022-10-29 15:26+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
