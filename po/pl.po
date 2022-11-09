@@ -8,9 +8,9 @@
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: mate-icon-theme 1.23.2\n"
+"Project-Id-Version: mate-icon-theme 1.26.0\n"
 "Report-Msgid-Bugs-To: https://mate-desktop.org\n"
-"POT-Creation-Date: 2019-11-20 17:12+0100\n"
+"POT-Creation-Date: 2022-10-29 15:26+0200\n"
 "PO-Revision-Date: 2018-03-11 18:32+0000\n"
 "Last-Translator: Przemek P <ppjg@dami.pl>, 2018\n"
 "Language-Team: Polish (https://www.transifex.com/mate/teams/13566/pl/)\n"
