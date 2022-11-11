@@ -1,3 +1,11 @@
+### mate-icon-theme 1.27.0
+
+  * tx: sync with transifex
+  * Bump AC_PREREQ to 2.59 as needed for AS_HELP_STRING
+  * configure.ac: The macro 'AC_HELP_STRING' is obsolete (#58)
+  * tx: update resource
+  * tx: migrate config file
+
 ### mate-icon-theme 1.26.0
 
   * Translations update
