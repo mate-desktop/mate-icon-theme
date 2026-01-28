@@ -19,7 +19,7 @@ localedir='$(datadir)/locale'
 AC_SUBST(localedir)
 
 # Workaround to make aclocal get the right flags
-AC_SUBST(ACLOCAL_AMFLAGS, "\${ACLOCAL_FLAGS}")
+AC_SUBST(ACLOCAL_AMFLAGS, "-I m4 \${ACLOCAL_FLAGS}")
 
 # Define the toplevel path here
 AC_SUBST(themedir, "\${datadir}/icons/mate")
