@@ -6,6 +6,7 @@ AC_CONFIG_SRCDIR([index.theme.in.in])
 AM_EXTRA_RECURSIVE_TARGETS([clean-png-icons build-png-icons])
 
 AM_INIT_AUTOMAKE([1.9 tar-ustar dist-xz no-dist-gzip foreign check-news])
+AC_CONFIG_MACRO_DIR([m4])
 
 PKG_PROG_PKG_CONFIG([0.19])
 
