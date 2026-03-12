@@ -6,6 +6,7 @@ AC_CONFIG_SRCDIR([index.theme.in.in])
 AM_EXTRA_RECURSIVE_TARGETS([clean-png-icons build-png-icons])
 
 AM_INIT_AUTOMAKE([1.9 tar-ustar dist-xz no-dist-gzip foreign check-news])
+AC_CONFIG_MACRO_DIR([m4])
 
 PKG_PROG_PKG_CONFIG([0.19])
 
@@ -19,7 +20,7 @@ localedir='$(datadir)/locale'
 AC_SUBST(localedir)
 
 # Workaround to make aclocal get the right flags
-AC_SUBST(ACLOCAL_AMFLAGS, "\${ACLOCAL_FLAGS}")
+AC_SUBST(ACLOCAL_AMFLAGS, "-I m4 \${ACLOCAL_FLAGS}")
 
 # Define the toplevel path here
 AC_SUBST(themedir, "\${datadir}/icons/mate")
