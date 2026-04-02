@@ -5,9 +5,9 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: mate-icon-theme 1.26.0\n"
+"Project-Id-Version: mate-icon-theme 1.28.0\n"
 "Report-Msgid-Bugs-To: https://mate-desktop.org\n"
-"POT-Creation-Date: 2022-10-29 15:26+0200\n"
+"POT-Creation-Date: 2019-10-31 15:20+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,10 +16,10 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: index.theme.in.in:3
+#: index.theme.in.in:2
 msgid "MATE"
 msgstr ""
 
-#: index.theme.in.in:4
+#: index.theme.in.in:3
 msgid "Default MATE Theme"
 msgstr ""
